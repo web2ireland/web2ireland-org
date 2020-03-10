@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; web services</title>
+	<atom:link href="/tag/web-services/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>it@cork Cloud Computing Event</title>
+		<link>/2009/03/itcork-cloud-computing-event/</link>
+		<comments>/2009/03/itcork-cloud-computing-event/#comments</comments>
+		<pubDate>Sat, 21 Mar 2009 11:48:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[it@cork]]></category>
+		<category><![CDATA[web services]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1077</guid>
+		<description><![CDATA[The details of the it@cork event have been announced. It is on April 20th in The Cork International Airport Hotel from 2-5pm and is titled &#8220;Moving to the Cloud &#8211; How businesses are scaling IT and saving money simultaneously&#8221;. There is a superb speaker line-up as follows: Pol Mac Aonghusa, CTO Emerging Technology Incubation Center, [...]]]></description>
+				<content:encoded><![CDATA[<p>The details of the it@cork event have been announced. It is on April 20th in The Cork International Airport Hotel from 2-5pm and is titled &#8220;Moving to the Cloud &#8211; How businesses are scaling IT and saving money simultaneously&#8221;.</p>
+<p><img class="aligncenter" title="it@cork" src="http://www.itcork.ie/contentfiles/pressreleases/60x60/at%20picture2.jpg" alt="" width="60" height="60" /></p>
+<p>There is a superb speaker line-up as follows:</p>
+<ul>
+<li>Pol Mac Aonghusa, CTO Emerging Technology Incubation Center, IBM on &#8220;Emerging Technology in the Cloud! Real Life Examples&#8221;</li>
+<li>Kevin Noonan, Independent Developer on &#8220;Castles in the Cloud: Developing with Google App Engine&#8221;</li>
+<li>Jon Mountjoy, Salesforce.com on &#8220;Cloud Computing in Practice: Fast Application Development and Delivery on Force.com&#8221;</li>
+<li>AJ McKee, Rush Hour Analytics on &#8220;Knocking on Heavens Door &#8211; The Business Reality of Doing Business in the Cloud&#8221;</li>
+<li>Simone Brunozzi, AWS Evangelist on &#8220;Amazon Web Services&#8221;</li>
+</ul>
+<p>The cost is â‚¬60 for non-members and free for members.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/itcork-cloud-computing-event/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

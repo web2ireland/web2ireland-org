@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; enterpresie ireland</title>
+	<atom:link href="/tag/enterpresie-ireland/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>10 Game/Web start-ups get â‚¬50k each from Enterprise Ireland</title>
+		<link>/2011/03/10-gameweb-start-ups-get-e50k-each-from-enterprise-ireland/</link>
+		<comments>/2011/03/10-gameweb-start-ups-get-e50k-each-from-enterprise-ireland/#comments</comments>
+		<pubDate>Fri, 25 Mar 2011 17:07:35 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[enterpresie ireland]]></category>
+		<category><![CDATA[gaming]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2068</guid>
+		<description><![CDATA[EI has announced the 10 winners of this round of the Internet &#38; Games Competitive Start Fund. Each start-up gets â‚¬50k for 10% equity stake by EI. 120 companies applied. The winners are: Tribal City Interactive &#8211; Games including iPhone/Android. Yay Alan! Decisions For Heroes &#8211; Â Emergency response team management and analytics (and winner of [...]]]></description>
+				<content:encoded><![CDATA[<p>EI has announced the 10 winners of this round of the <a href="http://www.enterprise-ireland.com/en/funding-supports/Company/HPSU-Funding/Internet-Games-Competitive-Start-Fund.html">Internet &amp; Games Competitive Start Fund</a>. Each start-up gets â‚¬50k for 10% equity stake by EI. 120 companies applied.</p>
+<p>The winners are:</p>
+<ul>
+<li><a href="http://www.tribalcity.com/">Tribal City Interactive</a> &#8211; Games including iPhone/Android. Yay Alan!</li>
+<li><a href="http://www.decisionsforheroes.com/">Decisions For Heroes</a> &#8211; Â Emergency response team management and analytics (and winner of the IQPrize). Yay Robin!</li>
+<li><a href="http://www.redwindsoftware.com/">Redwind Software</a> &#8211; Game engines for mobile trivia games</li>
+<li><a href="http://www.cellplaynetworks.com/">Cellplay Networks</a> &#8211; Social gaming</li>
+<li><a href="https://logentries.com/">Jlizard</a> &#8211; Cloud-based service for managing log data</li>
+<li><a href="http://plendi.com/">Plendi</a> &#8211; Automating receipt processing</li>
+<li><a href="http://www.scurri.com/index.php">Scurri</a> &#8211; Helps consumers to discover affordable shipping</li>
+<li><a href="http://www.calomtech.com/">Calom Technologies</a>- Â Video delivery platform based on open web standards</li>
+<li>Franklyweb &#8211; Subscription based clothing product range (URL?)</li>
+<li><a href="http://unitedwesave.ie/">UnitedWeSave</a> &#8211; Consumer web service for group buying around household bills</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/10-gameweb-start-ups-get-e50k-each-from-enterprise-ireland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; irishgovt</title>
+	<atom:link href="/tag/irishgovt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Govt to pump â‚¬500 million into Venture Funds</title>
+		<link>/2008/12/irish-govt-to-pump-e500-million-into-venture-funds/</link>
+		<comments>/2008/12/irish-govt-to-pump-e500-million-into-venture-funds/#comments</comments>
+		<pubDate>Fri, 19 Dec 2008 16:21:10 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[irishgovt]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[vc]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=942</guid>
+		<description><![CDATA[Speaking at a press conference in Dublin Castle, Taoiseach Brian Cowen, announced a range of measures to boost the economy &#8211; through a new renewal programme &#8211; around &#8220;Building Irelandâ€™s Smart Economy - A Framework for Sustainable Economic Renewal&#8221; &#8211; see press release and pdf document on report. ===================== Some interesting nuggets from the report [...]]]></description>
+				<content:encoded><![CDATA[<p>Speaking at a press conference in Dublin Castle, Taoiseach Brian Cowen, announced a range of measures to boost the economy &#8211; through a new renewal programme &#8211; around &#8220;Building Irelandâ€™s Smart Economy -<br />
+A Framework for Sustainable Economic Renewal&#8221; &#8211; see <a href="http://www.taoiseach.gov.ie/index.asp?locID=584&#038;docID=4146">press release</a> and <a href="http://193.178.1.117/attached_files/Pdf%20files/Building%20Ireland%E2%80%99s%20Smart%20Economy.pdf">pdf document</a> on report.</p>
+<p>=====================</p>
+<p>Some interesting nuggets from the report</p>
+<p>Up to â‚¬500 million will be generated to create a venture fund, known as â€˜Innovation Fund â€“ Irelandâ€™, to support early stage R&#038;D-intensive SMEs.  The capital will be divided into five venture funds of between â‚¬75-150 million; [see <a href="http://www.web2ireland.org/2008/12/17/should-government-get-involved-with-vcs/">previous post on VC funding in Ireland</a>]</p>
+<p>More favourable tax treatment of the carried interest of venture capital is being introduced at a rate of 15% for partnerships and 12.5% for companies to encourage the availability of so-called â€˜smart capitalâ€™ for investing in start-up innovative companies who will be the employers of the future; </p>
+<p>Entrepreneurship, business start-ups and employment creation will be driven by a number of highly-favourable taxation measures including exemption from corporation tax arising in the first three years of operation for business start-ups, a tax abatement scheme for restricted shares, and a refund in the case of forfeited shares, to<br />
+assist companies, including start-up companies, in retaining key employees; </p>
+<p>Venture capital investment is still relatively under-developed in Ireland. When defined as formal investment outside public capital markets, which represents total start-up, expansion and buyout investments, Ireland ranks 12th in the EU-15 in this regard; </p>
+<p>Ireland ranks 4th across the OECD and 2nd in Europe for the proportion of early stage entrepreneurs with 8.2% of adults in Ireland engaged in entrepreneurial activity in 2007 up from 7.4% in 2006; </p>
+<p>High concentration of leading high-tech multinationals many of which have facilitated a huge technological transfer from Silicon Valley to Ireland; </p>
+<p>Ireland is ranked as 7th out of 182 countries as a place to do business; the 5th easiest place to establish a business; and the 3rd cheapest location for starting a business. Enterprise Ireland has a strong system to support high-potential start-up enterprises and a growing international presence; </p>
+<p>â€˜Smart capitalâ€™ can be defined as (a) adequate levels of early stage funds for SMEs; (b) providing value-added networks to key decision-makers; and (c) experienced investment managers. European venture funds have performed relatively poorly in comparison to US funds and so it remains difficult to attract the best (Tier 1) VCs from the US. Nevertheless, it is these types of VCs that provide the best possible networks and management experience that can develop Irish-based companies.  </p>
+<p>Just as Ireland fashioned itself to become the destination of choice for multinational enterprises, the vision is to establish Ireland as The Innovation Island through: Continued substantial investment in science and technology infrastructure and research; A substantial investment in early stage venture capital to commercialise and capitalise on this investment, similar to the Israeli Yozma Fund; The attraction of experienced and top-tier venture partners (including those described as Tier 1 VCs) operating independently to manage to raise capital and focus on deal-flow creation; </p>
+<p>To attract high-quality mobile entrepreneurs to set up businesses in Ireland and to assist start-up companies to retain employees, we are providing for a tax abatement scheme for restricted shares; </p>
+<p>===========================</p>
+<p>Also check <a href="http://www.irishtimes.com/newspaper/frontpage/2008/1219/1229523105569.html">Irish Times coverage</a></p>
+<p>Now for some community feedback &#8211; please comment on this new framework&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/irish-govt-to-pump-e500-million-into-venture-funds/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

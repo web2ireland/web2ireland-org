@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; nametoolkit</title>
+	<atom:link href="/tag/nametoolkit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Domain Suggester For Your Business</title>
+		<link>/2011/06/domain-suggester-for-your-business/</link>
+		<comments>/2011/06/domain-suggester-for-your-business/#comments</comments>
+		<pubDate>Wed, 15 Jun 2011 18:49:28 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[domain search]]></category>
+		<category><![CDATA[nametoolkit]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2085</guid>
+		<description><![CDATA[We got an email from Mark Frawley of Irish start-up Parsity. They have created a very nifty site called nametoolkit.com. It takes the simple concept of checking domain name availability and adds intelligent suggestion features. As anyone who has used the GoDaddy suggester knows, this is an area that needs a lot of improvement. I [...]]]></description>
+				<content:encoded><![CDATA[<p>We got an email from Mark Frawley of Irish start-up Parsity. They have created a very nifty site called <a href="http://nametoolkit.com/">nametoolkit.com</a>. It takes the simple concept of checking domain name availability and adds intelligent suggestion features. As anyone who has used the GoDaddy suggester knows, this is an area that needs a lot of improvement.</p>
+<p>I just used it to try and come up with a domain around <a href="http://nametoolkit.com/suggest?q=facebook+killer&amp;type=&amp;hide_taken=1&amp;sort=relevance">&#8220;Facebook Killer&#8221;</a>. I like their suggestions! I think I&#8217;ll be using this site a lot in the coming months.</p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2011/06/Workspace-1_001.png"><img class="size-full wp-image-2086" title="Facebook Killer" src="http://www.web2ireland.org/wp-content/uploads/2011/06/Workspace-1_001.png" alt="" width="573" height="379" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/domain-suggester-for-your-business/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

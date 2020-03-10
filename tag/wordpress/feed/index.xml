@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; wordpress</title>
+	<atom:link href="/tag/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dublin welcome Craig Newmark, Matt Mullenweg, Ben Hammersley, Chris Horn and over 200 others</title>
+		<link>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/</link>
+		<comments>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/#comments</comments>
+		<pubDate>Thu, 14 Jan 2010 13:47:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Craigslist]]></category>
+		<category><![CDATA[DublinWebSummit]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1635</guid>
+		<description><![CDATA[The Dublin Web Summit is hosting an event at Trinity College Dublin on Thursday, February 04, 2010 from 5:30 PM &#8211; 11:30 PM &#8211; this includes a networking event Chris Newmark (founder of Craigslist) &#038; Matt Mullenweg (founder of WordPress) , who are regular keynotes at the world&#8217;s largest technology conferences, will be talking about [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://eventbrite-s3.s3.amazonaws.com/eventlogos/2117216/500978440.jpg" title="Dublin Web Summit" class="alignnone" width="266" height="200" /></p>
+<p>The <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> is hosting an event at</p>
+<p>Trinity College Dublin<br />
+on Thursday, February 04, 2010<br />
+from 5:30 PM &#8211; 11:30 PM &#8211; this includes a networking event</p>
+<blockquote><p>Chris Newmark (founder of Craigslist) &#038; Matt Mullenweg (founder of WordPress) , who are regular keynotes at the world&#8217;s largest technology conferences, will be talking about the lessons &#038; direct experiences in scaling their companies, which have had huge impacts on global commerce and communication.</p>
+<p>Chris Horn will reflect on his experience building succesful global companies from Ireland. He will also touch on the broader issue of innovation and Ireland, as well as prospects &#038; opportunities for Irish entrepreneurs over the coming decade.</p></blockquote>
+<p><a href="http://dws2.eventbrite.com/">Sign up for tickets here</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Automattic Moving to Sligo</title>
+		<link>/2008/10/automattic-moving-to-sligo/</link>
+		<comments>/2008/10/automattic-moving-to-sligo/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 23:36:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[automattic]]></category>
+		<category><![CDATA[david lenehan]]></category>
+		<category><![CDATA[infacta]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=811</guid>
+		<description><![CDATA[OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the PollDaddy acquisition has been amazing in a few short hours. Here&#8217;s just a sample: Â  Matt&#8217;s Blog Â  PollDaddy Blog Â  WordPress Blog Â  Toni Schneider&#8217;s Blog (with nice mention of Fergus) Â  Donncha from [...]]]></description>
+				<content:encoded><![CDATA[<p>OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the <a href="http://www.polldaddy.com/">PollDaddy</a> acquisition has been amazing in a few short hours. Here&#8217;s just a sample:</p>
+<p>Â </p>
+<ul>
+<li><a href="http://ma.tt/2008/10/polldaddy-goes-automattic/">Matt&#8217;s Blog</a><br />
+Â </li>
+<li><a href="http://polldaddyblog.wordpress.com/2008/10/15/automattic-acquires-polldaddy/">PollDaddy Blog</a><br />
+Â </li>
+<li><a href="http://en.blog.wordpress.com/2008/10/15/polldaddy/">WordPress Blog</a><br />
+Â </li>
+<li><a href="http://toni.org/2008/10/15/welcome-polldaddy/">Toni Schneider&#8217;s Blog</a> (with nice mention of Fergus)<br />
+Â </li>
+<li><a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha from the People&#8217;s Republic branch of Automattic</a><br />
+Â </li>
+<li><a href="http://mashable.com/2008/10/15/breaking-automattic-acquires-polldaddy/">Mashable</a><br />
+Â </li>
+<li><a href="http://www.techcrunch.com/2008/10/15/wordpress-acquires-irish-startup-polldaddy/">Techcrunch USA</a><br />
+Â </li>
+<li><a href="http://www.readwriteweb.com/archives/automattic_acquires_polldaddy.php">ReadWriteWeb</a></li>
+</ul>
+<p>Â </p>
+<p>It&#8217;s currently top story on <a href="http://www.techmeme.com/">Techmeme</a>.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg"><img class="alignnone size-full wp-image-812" title="techmeme" src="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg" alt="" width="500" height="367" /></a></p>
+<p>Lovely picture of the crew on <a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha&#8217;s blog</a>:</p>
+<p><img class="alignnone" title="Automattic Crew" src="http://en.blog.files.wordpress.com/2008/10/mcm_2583.jpg?w=600" alt="" width="600" height="477" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/automattic-moving-to-sligo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Polldaddy acquired by WordPress</title>
+		<link>/2008/10/polldaddy-acquired-by-wordpress/</link>
+		<comments>/2008/10/polldaddy-acquired-by-wordpress/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 19:55:44 +0000</pubDate>
+		<dc:creator>fergus</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[jonathanhill]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[scottrafer]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=790</guid>
+		<description><![CDATA[Congratulation to Lenny aka David Lenehan and Eoin Gallagher on Polldaddy team &#8211; and Toni, Matt and Automattic team. Polldaddy is the default online poll service for leading blogs, social networks and websites &#8211; and the acquisition by WordPress parent &#8211; Automattic &#8211; makes total sense &#8211; and the team dynamics is brilliant. Only 2 [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://polldaddy.com/Images/Common/logo.gif" alt="polldaddy" /></p>
+<p>Congratulation to Lenny aka David Lenehan and Eoin Gallagher on <a href="http://polldaddy.com/">Polldaddy</a> team &#8211; and <a href="http://toni.org/">Toni</a>, <a href="http://ma.tt/">Matt</a> and <a href="http://automattic.com/">Automattic team</a>.</p>
+<p>Polldaddy is the default <a href="http://polldaddy.com/">online poll service</a> for leading blogs, social networks and websites &#8211; and the acquisition by WordPress parent &#8211; <a href="http://automattic.com/">Automattic</a> &#8211; makes total sense &#8211; and the team dynamics is brilliant.</p>
+<p>Only 2 developers [Lenny and Eoin] on polldaddy &#8211; which was initially incubated within <a href="http://infacta.com/">Infacta</a>.</p>
+<p>It was spun out as a seperate entity late in 2007 &#8211; with angel investment provided by Infacta and Polldaddy founder, <a href="http://www.jonathanhill.ie/">Jonathan Hill</a>.</p>
+<p>Polldaddy also recruited <a href="http://rafer.tumblr.com/">Scott Rafer</a> as an advisor in 2007 &#8211; and Scott played no small part in assisting the project in getting to its current scale.</p>
+<p>The Polldaddy is great validation for Web2Ireland &#8211; especially given the level of investment, the operations, and the acquisition result.</p>
+<p>Given the recent news on <a href="http://www.web2ireland.org/2008/10/02/facebook-setup-their-international-headquarters-in-ireland/">Facebook setting up in Ireland</a> &#8211; it perhaps set a new model for the <a href="http://www.idaireland.com/">IDA</a>/EI &#8211; International operations get setup via acquisition [which is what Israel have done for years].</p>
+<p>To add more context in terms of WordPress scale &#8211; see <a href="http://www.avc.com/a_vc/2008/04/the-difference.html">this post from Fred Wilson on Facebook vs WordPress</a> &#8211; and the Polldaddy numbers will drive this further forward.</p>
+<p><img src="http://avc.blogs.com/a_vc/images/2008/04/18/fb_vs_wp.jpg" alt="facebook vs wordpress" /></p>
+<p>Disclosure: I&#8217;m a personal friend of Lenny, Jonathan and Scott</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script type="text/javascript" src="http://www.crunchbase.com/javascripts/widget.js"></script></p>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/polldaddy">PollDaddy</a></div>
+<div class="cbw_subcontent"></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script type="text/javascript" src="http://www.crunchbase.com/javascripts/widget.js"></script></p>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/automattic">Automattic</a></div>
+<div class="cbw_subcontent"></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/polldaddy-acquired-by-wordpress/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>New Design for Web2Ireland</title>
+		<link>/2008/04/new-design-for-web2ireland/</link>
+		<comments>/2008/04/new-design-for-web2ireland/#comments</comments>
+		<pubDate>Wed, 16 Apr 2008 12:20:17 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=578</guid>
+		<description><![CDATA[We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to James Gallagher who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days. James is hiimjames on Twitter, you should add him. Now if only there was someone [...]]]></description>
+				<content:encoded><![CDATA[<p>We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to <a href="http://hiimjames.com/">James Gallagher</a> who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days.</p>
+<p>James is hiimjames on <a href="http://twitter.com/hiimjames">Twitter</a>, you should add him.</p>
+<p>Now if only there was someone out there who would do us a logo <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/new-design-for-web2ireland/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

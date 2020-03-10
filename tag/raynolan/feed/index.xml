@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; raynolan</title>
+	<atom:link href="/tag/raynolan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Ray Nolan startup story &#8211; video</title>
+		<link>/2010/05/ray-nolan-startup-story-video/</link>
+		<comments>/2010/05/ray-nolan-startup-story-video/#comments</comments>
+		<pubDate>Wed, 12 May 2010 12:06:41 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[hostelworld]]></category>
+		<category><![CDATA[raynolan]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1737</guid>
+		<description><![CDATA[Ray Nolan &#8211; founder, Hostelworld acquired by Hellmann &#038; Friedman]]></description>
+				<content:encoded><![CDATA[<p><code><object width="580" height="360"><param name="movie" value="http://www.youtube.com/v/QnJXa2muNuw&#038;hl=en_US&#038;fs=1&#038;rel=0&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/QnJXa2muNuw&#038;hl=en_US&#038;fs=1&#038;rel=0&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="580" height="360"></embed></object></code></p>
+<p><a href="http://www.crunchbase.com/person/ray-nolan-2">Ray Nolan &#8211; founder,</a> <a href="http://www.web2ireland.org/2009/11/13/web-reservations-international-acquired-by-hellmann-friedman/">Hostelworld acquired by Hellmann &#038; Friedman</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/ray-nolan-startup-story-video/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

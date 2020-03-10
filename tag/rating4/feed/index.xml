@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; rating=4</title>
+	<atom:link href="/tag/rating4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Lovin&#8217; Le Web</title>
+		<link>/2008/12/lovin-le-web/</link>
+		<comments>/2008/12/lovin-le-web/#comments</comments>
+		<pubDate>Thu, 11 Dec 2008 12:02:11 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[le web]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[rating=4]]></category>
+		<category><![CDATA[review]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=910</guid>
+		<description><![CDATA[Le Web 2008 was less a technology conference and more a business one. After 4 years of excitement, energy and desire to build new things, the focus moved to excitement, energy and desire to build new sustainable businesses. The conference was merely a reflection of the global mood. 2008 was a year of consolidation needed [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.lewebparis.com/">Le Web 2008</a> was less a technology conference and more a business one. After 4 years of excitement, energy and desire to build new things, the focus moved to excitement, energy and desire to build new sustainable businesses.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08.jpg"><img class="alignnone size-medium wp-image-911" title="lewebbanner_dec08" src="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08-300x69.jpg" alt="" width="300" height="69" /></a></p>
+<p>The conference was merely a reflection of the global mood. 2008 was a year of consolidation needed after years of ideas. The year when open standards stopped being something Marc Canter talked about and were actually implemented by the big guys to help build their businesses.</p>
+<p>There is fear and trepidation everywhere but also hope and a will to knuckle-down, get customers, get revenue and then maybe, only maybe, raise funding if needed. My conversations with some VCs were no different than any other year. If you provide a great opportunity to them, they are still interested in investing.</p>
+<p>Problems with Wi-Fi, heat and food made people grumpy on day one but the second day was much better. A lot of the doom and gloom seemed to dissipate overnight. Highlights included <a href="http://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Meyer</a> from Google, French Minister for Finance <a href="http://en.wikipedia.org/wiki/Christine_Lagarde">Christine Lagarde</a> and my absolute favourite, <a href="http://tv.winelibrary.com/">Gary Vaynerchuk</a>. A lot of the Euro-mumblers and Euro-wafflers should spend time learning how these people communicate.</p>
+<p>We had few game changing apps, market disruptors or &#8220;wowsa&#8221; moments. The final three in the start-up competition reinforced the view that innovation in tech is possibly being put to one side whilst people focus on business and revenue. Two of the three start-up competition finalists (<a href="http://www.zoover.com/">Zoover</a>, <a href="http://www.webnode.com/">Webnode</a>) were me-too apps but highly successful ones. Having said that, the winner <a href="http://www.viewdle.com/">Viewdle</a>, is a pure technology play and is ripe for acquisition due to their amazing video parsing IP.</p>
+<p>The theme of lurve at Le Web was groan-worthy but actually worked. It provided the hook for everyone, a way of relating heavy technical topics to the more philosophical ones. That flow from hardcore OAuth to lightweight discussions of brand meant that everyone got something out of the two days.</p>
+<p>That mix at Le Web is what makes it very special. The mid-Atlantic, slightly French, slightly American melange works beautifully. It&#8217;s an internal tension that causes it to drift from San Francisco to Paris and back. Also, compared to any other tech conference I have attended, the high percentage of women attendees was refreshing.</p>
+<p>Like many Irish people working in Tech, I look simultaneously to mainland Europe and the US for inspiration and vision. That is why Le Web, despite all its problems, remains a cannot-miss event. As <a href="http://gapingvoid.com/">Hugh MacLeod</a> said in the last few minutes of yesterday, &#8220;I come to Le Web to be inspired&#8221;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/lovin-le-web/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

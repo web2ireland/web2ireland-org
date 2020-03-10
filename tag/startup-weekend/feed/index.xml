@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; startup weekend</title>
+	<atom:link href="/tag/startup-weekend/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dublin Startup Weekend, March 2nd &#8211; 4th in Google</title>
+		<link>/2012/02/dublin-startup-weekend-march-2nd-4th-in-google/</link>
+		<comments>/2012/02/dublin-startup-weekend-march-2nd-4th-in-google/#comments</comments>
+		<pubDate>Sat, 25 Feb 2012 18:15:09 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin startup weekend]]></category>
+		<category><![CDATA[startup weekend]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2180</guid>
+		<description><![CDATA[I heard about Dubin Startup Weekend at Twitter Teatime this week and Ma?gorzata Hrasimowicz has sent on the details. I really like the tagline of  &#8221;No Talk, All Action. Launch a Startup in 54 hours.&#8221; The idea behind the Startup Weekends is to get a broad mix of developers, designers, marketers, biz people etc to work together and turn [...]]]></description>
+				<content:encoded><![CDATA[<p>I heard about <a href="http://dublin.startupweekend.org/">Dubin Startup Weekend</a> at Twitter Teatime this week and Ma?gorzata Hrasimowicz has sent on the details.</p>
+<p style="text-align: center;"><a href="http://dublin.startupweekend.org/"><img class="aligncenter size-full wp-image-2181" title="Dublin2" src="http://www.web2ireland.org/wp-content/uploads/2012/02/Dublin2.png" alt="" width="600" height="144" /></a></p>
+<p>I really like the tagline of  &#8221;No Talk, All Action. Launch a Startup in 54 hours.&#8221;</p>
+<p>The idea behind the Startup Weekends is to get a broad mix of developers, designers, marketers, biz people etc to work together and turn ideas into a workable business in 2 days.</p>
+<p>It&#8217;s a non-profit org based in Seattle and they have had weekends like this all over the world.</p>
+<p>All the deets are over on <a href="http://dublin.startupweekend.org/">the website</a>. Head on over and register, it looks like it&#8217;ll be a fab couple of days and it&#8217;s on in the cool Google offices.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/dublin-startup-weekend-march-2nd-4th-in-google/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; gwirl</title>
+	<atom:link href="/tag/gwirl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Videos from Gateway Ireland Event</title>
+		<link>/2010/05/videos-from-gateway-ireland-event/</link>
+		<comments>/2010/05/videos-from-gateway-ireland-event/#comments</comments>
+		<pubDate>Thu, 27 May 2010 14:38:50 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[gateway ireland]]></category>
+		<category><![CDATA[gwirl]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1791</guid>
+		<description><![CDATA[In lieu of live streaming or the release of the official videos from yesterday, Darragh Doyle managed to grab some some meaty clips of the Gateway Ireland launch event. Whilst there has already been plenty of 140 character responses to the launch, we&#8217;d appreciate it if you could leave longer thoughts and comments below. John [...]]]></description>
+				<content:encoded><![CDATA[<p>In lieu of live streaming or the release of the official videos from yesterday, <a href="http://twitter.com/darraghdoyle">Darragh Doyle</a> managed to grab some some meaty clips of the <a href="http://www.gateway-ireland.com/">Gateway Ireland</a> launch event. </p>
+<p>Whilst there has already been plenty of 140 character responses to the launch, we&#8217;d appreciate it if you could leave longer thoughts and comments below.</p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12051257&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=12051257&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object>
+<p><a href="http://vimeo.com/12051257">John Kelleher, Project director introduces Gateway Ireland</a> from <a href="http://vimeo.com/darraghdoyle">darraghdoyle</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p></p>
+<p><object width="400" height="300"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12052406&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=12052406&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="300"></embed></object>
+<p><a href="http://vimeo.com/12052406">Neil Leyden, Project Manager, introducing Gateway Ireland</a> from <a href="http://vimeo.com/darraghdoyle">darraghdoyle</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/videos-from-gateway-ireland-event/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

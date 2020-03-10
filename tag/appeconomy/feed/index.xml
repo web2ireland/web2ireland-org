@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; AppEconomy</title>
+	<atom:link href="/tag/appeconomy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>App Economy in Ireland</title>
+		<link>/2010/04/app-economy-in-ireland/</link>
+		<comments>/2010/04/app-economy-in-ireland/#comments</comments>
+		<pubDate>Fri, 30 Apr 2010 11:41:15 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[AppEconomy]]></category>
+		<category><![CDATA[survey]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1717</guid>
+		<description><![CDATA[We would love to know what&#8217;s happening @ Apps within the Irish ecosystem. (iphone, android, facebook, etc &#8211; any type of app. ) Please complete this short survey, so we can profile some cool applications, companies and developers.]]></description>
+				<content:encoded><![CDATA[<p>We would love to know what&#8217;s happening @ Apps within the Irish ecosystem. (iphone, android, facebook, etc &#8211; any type of app. )</p>
+<p>Please complete this <a href="http://bit.ly/bJnHed">short survey</a>, so we can profile some cool applications, companies and developers.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/04/app-economy-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

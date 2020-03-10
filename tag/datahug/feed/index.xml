@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; datahug</title>
+	<atom:link href="/tag/datahug/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>DataHug &#8211; The Interview</title>
+		<link>/2010/11/datahug-the-interview/</link>
+		<comments>/2010/11/datahug-the-interview/#comments</comments>
+		<pubDate>Sat, 06 Nov 2010 13:11:22 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[#dws4]]></category>
+		<category><![CDATA[datahug]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[intertrade ireland]]></category>
+		<category><![CDATA[seedcorn]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1893</guid>
+		<description><![CDATA[DataHug didn&#8217;t just win at the Dublin Web Summit recently, they also nabbed the Emerging category in the Munster region for the All-Ireland Seedcorn competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final. I shot over [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.datahug.com/">DataHug</a> didn&#8217;t just win at the <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> recently, they also nabbed the Emerging category in the Munster region for the <a href="http://www.intertradeireland.com/seedcorn/">All-Ireland Seedcorn</a> competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final.</p>
+<p style="text-align: center;"><a href="http://www.datahug.com/"><img class="aligncenter" title="DataHug" src="http://datahug.com/wp-content/woo_uploads/9-DH_NoWriting_Orange_21June10_Transparent.png" alt="" width="300" height="83" /></a></p>
+<p>I shot over a few question to Ray and Connor about the company, their backgrounds and the product.</p>
+<p><strong>How long have you been around?<br />
+</strong> Since November 2009</p>
+<p><strong>Is this your first startup?<br />
+</strong> J1Summer.com was founded by Connor back in 2002.</p>
+<p><strong>What are your backgrounds<br />
+</strong><em> Ray</em>: Over 6 years global experience as a Manager working for Accenture, in architecting and delivering large scale technology business critical technology projects. Deep experience in planning, estimating and managing large geographically dispersed development teams (50+). Electronic Engineer who placed top of his class (UCD) and went on to complete a research Masters involving MIT Media Lab</p>
+<p><em>Connor</em>: Over 6 years at PA Consulting, Connor sold and delivered million dollar projects for Thomson Reuters, Pfizer, Estee Lauder, British Airways and Dubai World. Diverse experience working for global leading clients with a speciality in Knowledge Management and User-Centric design. He has a first Class honours degree from Computer Science (UCC)</p>
+<p><strong>You seem to be not just in Ireland? US too?<br />
+</strong> Connor lived in Washington DC for a number of years and I lived down in Australia. The company has a base in DC and connections in San Jose but we came home to be based here in Ireland and we plan to grow the company in Ireland initially.</p>
+<p><strong>Did we hear there was a Cork connection?<br />
+</strong> Connor is the official company langer J, with me being from Dublin. My fiancÃ©e is from Cork so I am not your typical Barryâ€™s tea knocking jackeen.</p>
+<p><strong>Any background in Webapps or coming at it from biz opportunity side?<br />
+</strong> With our technical backgrounds, we both have developed web applications in the past. We spotted the business opportunity whilst working in Consulting and lived the pain of managing relationships every day. We were then fortunate to be able to develop it ourselves and bootstrap it in the current climate.</p>
+<p><strong>Any immediate results from DWS4?<br />
+</strong> We have trial partners in the States, UK and Ireland who are providing us with alpha feedback in advance of our public beta launch. A lot of positives have been taken from that and the number wishing to sign-up for our beta trial.</p>
+<p><strong>How are you currently funded?<br />
+</strong> Bootstrapped to-date with support from Endeavour (Jerry Kennelly), EI and the iGAP programme. The Spark of Genius prize will go a long way to helping us grow at pace. We are currently actively looking to close a seed investment round.</p>
+<p><strong>Numbers of alpha testers?<br />
+</strong> We have 6 trial clients, clocking up over a million relationships through the system.</p>
+<p><strong>Beta this month?<br />
+</strong> Planned for the end of this month.</p>
+<p><strong>Anything you can share on the tech?<br />
+</strong> Cloud SaaS Solution, built on MS Azure platform. Supports IMAP, Google OAuth and Exchange Web Services connectivity</p>
+<p><strong>Pure Enterprise play or other angles you are looking at?<br />
+</strong> We are initially targeting SME business between 5 â€“ 500 employees involved in professional services or sales. We will then target the larger professional services firms.</p>
+<p><strong>Initial target geography?<br />
+</strong> Ireland, UK, US in that order.</p>
+<p><strong>One-liner on #DWS4 and F.ounders?<br />
+</strong> The Dublin Web Summit &amp; F.ounders was yet another fantastic event organised by Paddy Cosgrave to help put Ireland on the map for web technologies and start-ups. The line-up of speakers were fantastic</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/datahug-the-interview/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; masters degrees</title>
+	<atom:link href="/tag/masters-degrees/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2 Research Gigs in UCD</title>
+		<link>/2008/08/web2-research-gigs-in-ucd/</link>
+		<comments>/2008/08/web2-research-gigs-in-ucd/#comments</comments>
+		<pubDate>Fri, 15 Aug 2008 13:54:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[masters degrees]]></category>
+		<category><![CDATA[research]]></category>
+		<category><![CDATA[UCD]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=691</guid>
+		<description><![CDATA[We don&#8217;t often post about jobs or research posts on this blog but this one looks interesting: Post-Graduate Scholarships at UCD School of Information and Library Studies &#38; UCD School of Computer Science and Informatics Applications are invited for An MSc in Computer Science scholarship (2 years) An MLitt in Information Studies scholarship (2 years) [...]]]></description>
+				<content:encoded><![CDATA[<p>We don&#8217;t often post about jobs or research posts on this blog but this one looks interesting:</p>
+<blockquote><p>Post-Graduate Scholarships at UCD School of Information and Library Studies &amp; UCD School of Computer Science and Informatics</p>
+<p>Applications are invited for<br />
+An MSc in Computer Science scholarship (2 years)<br />
+An MLitt in Information Studies scholarship (2 years)</p>
+<p>To commence September 1st 2008 or as soon as possible thereafter.</p>
+<p>Project Title: Â OJAX++: A Next-Generation Collaborative Research Tool</p>
+<p>Funding Agency: Science Foundation Ireland</p>
+<p>Project Details:<br />
+The aim of the proposed research is to investigate how concepts from the Social Web can be applied to the research environment in order to facilitate dynamic collaboration and the sharing of ideas among<br />
+researchers. It will be illustrated via the creation of OJAX++, a next-generation collaborative research tool, using Web 2.0 technologies such as Web Services, Ajax and collaborative tagging.</p>
+<p>Requirements:<br />
+Honours degree (first class or 2.1) in Computer Science or related field.<br />
+Or honours degree (first class or 2.1) in another subject plus<br />
+relevant technical Â  experience (eg Web technology, JavaScript, Ajax,<br />
+Java, Ruby or Python)</p>
+<p>Stipend: â‚¬17,000 per annum plus fees.</p>
+<p>Contact: Dr Judith Wusteman, School of Information and Library Studies<br />
+(SILS)<br />
+UCD Dublin, Belfield, Dublin 4, Ireland.  judith DOT wusteman AT ucd DOT ie</p>
+<p>For further details, see<br />
+<a href="http://www.ucd.ie/wusteman/OJAX/OJAX++furtherDetails2008.doc">http://www.ucd.ie/wusteman/OJAX/OJAX++furtherDetails2008.doc</a></p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/web2-research-gigs-in-ucd/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

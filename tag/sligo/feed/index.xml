@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; sligo</title>
+	<atom:link href="/tag/sligo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Tech Start-Up Evening in Sligo</title>
+		<link>/2009/09/tech-start-up-evening-in-sligo/</link>
+		<comments>/2009/09/tech-start-up-evening-in-sligo/#comments</comments>
+		<pubDate>Sun, 06 Sep 2009 19:50:12 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[sligo]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1393</guid>
+		<description><![CDATA[Sligo is home to many up-and-coming tech startups along with the awesome PollDaddy. If you are interested in becoming part of that cluster then you should attend the free Information Evening being held at the Business Innovation Centre in IT Sligo. It&#8217;s on Monday 21st September 2009 from 6.30 p.m. â€“ 8.30 p.m. and will [...]]]></description>
+				<content:encoded><![CDATA[<p>Sligo is home to many up-and-coming tech startups along with the awesome <a href="http://www.polldaddy.com/">PollDaddy</a>. </p>
+<p>If you are interested in becoming part of that cluster then you should attend the free Information Evening being held at the Business Innovation Centre in IT Sligo. It&#8217;s on Monday 21st September 2009 from 6.30 p.m. â€“ 8.30 p.m. and will hopefully answer some of the questions you might have about forming a tech startup. </p>
+<p>Contact mary.boyle AT enterprise-ireland DOT com or + 353 (0) 71 9159700 if you wish to attend.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/tech-start-up-evening-in-sligo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

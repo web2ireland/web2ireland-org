@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; FOWA2010</title>
+	<atom:link href="/tag/fowa2010/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>FOWA Dublin 2010</title>
+		<link>/2010/05/fowa-dublin-2010/</link>
+		<comments>/2010/05/fowa-dublin-2010/#comments</comments>
+		<pubDate>Thu, 06 May 2010 11:33:24 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[FOWA2010]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1722</guid>
+		<description><![CDATA[FOWA Dublin 2010 &#8211; May 14th 2010 is coming soon We&#8217;re delighted to announce 15% discount for Web2Ireland community. book now to avoid disappointment]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.web2ireland.org/wp-content/uploads/2010/04/460x60.jpg"><img src="http://www.web2ireland.org/wp-content/uploads/2010/04/460x60.jpg" alt="FOWA Dublin" title="460x60" width="460" height="60" class="alignnone size-full wp-image-1699" /></a></p>
+<p><a href="http://futureofwebapps.com/dublin-2010/">FOWA Dublin 2010 &#8211; May 14th 2010</a> is coming soon</p>
+<p>We&#8217;re delighted to announce 15% discount for Web2Ireland community. <a href="http://www.amiando.com/e/vuduvm?discountCode=web2">book now to avoid disappointment</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/fowa-dublin-2010/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

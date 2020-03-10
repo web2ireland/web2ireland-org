@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Companies</title>
+	<atom:link href="/category/companies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>PaJR-Patient Journey Record selected for Chicago accelerator Healthbox</title>
+		<link>/2012/01/pajr-patient-journey-record-selected-for-chicago-accelerator-healthbox/</link>
+		<comments>/2012/01/pajr-patient-journey-record-selected-for-chicago-accelerator-healthbox/#comments</comments>
+		<pubDate>Wed, 11 Jan 2012 08:38:37 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2165</guid>
+		<description><![CDATA[Healthbox, the Chicago-based accelerator program for health care startups has selected 10 companies to participate in its three-month program and the line-up includes Irish PaJR (Patient Journey Record). PaJR is using Trinity College developed technology to build a cloud-based hospital re-admissions prevention platform. The software identifies at-risk patients based on health status information reported by patients and caregivers. [...]]]></description>
+				<content:encoded><![CDATA[<p><a title="http://www.healthboxaccelerator.com/" href="http://www.healthboxaccelerator.com/" target="_blank"><strong>Healthbox</strong></a>, the Chicago-based accelerator program for health care startups <a href="http://techcrunch.com/2011/12/20/healthbox-chicagos-new-health-focused-startup-accelerator-debuts-its-inaugural-batch/">has selected 10 companies</a> to participate in its three-month program and the line-up includes Irish <strong><a title="http://pajrservice.com/site/" href="http://pajrservice.com/site/" target="_blank">PaJR (Patient Journey Record)</a>.</strong></p>
+<p style="text-align: center;"><a href="http://www.healthboxaccelerator.com/"><img class="size-full wp-image-2166 aligncenter" title="healthbox-logo" src="http://www.web2ireland.org/wp-content/uploads/2012/01/healthbox-logo.png" alt="" width="288" height="54" /></a></p>
+<p><strong></strong>PaJR is using Trinity College developed technology to build a cloud-based hospital re-admissions prevention platform. The software identifies at-risk patients based on health status information reported by patients and caregivers.</p>
+<p style="text-align: center;"><a href="http://pajrservice.com/site/"><img class="size-full wp-image-2167 aligncenter" title="logo" src="http://www.web2ireland.org/wp-content/uploads/2012/01/logo.jpg" alt="" width="278" height="63" /></a></p>
+<p>The accelerator program offers each company office space and $50,000 in seed capital, in addition to access to a network of about 70 mentors that includes hospital executives, health care entrepreneurs and venture capitalists. The 10 companies will also work with the five-member Healthbox team.  Healthbox received about 200 applications from businesses across the country, in addition to eight applications from international teams.</p>
+<p>“With this backing from HealthBox we believe that Patient Journey Record can continue to keep pushing our efforts to expand in the US market. It’s a fantastic programme and will give us unprecedented access to customers and experts in the US Healthcare system. We believe that through our platform healthcare payers and providers can reduce costs associated with avoidable hospitalisations and improve care coordination within primary care and community care settings” Enda Madden, CEO Patient Journey Record</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/01/pajr-patient-journey-record-selected-for-chicago-accelerator-healthbox/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>NewsWhip is what Digg V3 should always have been</title>
+		<link>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/</link>
+		<comments>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 14:24:46 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[newswhip]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2110</guid>
+		<description><![CDATA[We all know what unmitigated disasters Digg V3 and later were. In a world of Twitter and Facebook they kept thinking it was still 2007. When V3 launched I said that it should have been built around the popular stories on Twitter since that&#8217;s what people are really interested in, rather than the closed coven [...]]]></description>
+				<content:encoded><![CDATA[<p>We all know what unmitigated disasters Digg V3 and later were. In a world of Twitter and Facebook they kept thinking it was still 2007. When V3 launched <a href="http://conoroneill.net/quick-thoughts-on-the-new-digg">I said</a> that it should have been built around the popular stories on Twitter since that&#8217;s what people are really interested in, rather than the closed coven of Digg power-users. So I was thrilled to see the recent launch of <a href="http://www.newswhip.com/">NewsWhip</a> which does exactly that.</p>
+<p>The site is an aggregation of popular news based on sharing and RTs across Twitter and Facebook. So there is no gaming, no moderation, just a smart algorithm bubbling up the hot news right now. They give a score to a news story by measuring how many Tweets, Likes, Shares, and other interactions it gets.You can filter by the location you are interested in and various categories and sub-categories.</p>
+<p><a href="http://www.newswhip.com/"><img class="size-full wp-image-2111 aligncenter" title="NewsWhip" src="http://www.web2ireland.org/wp-content/uploads/2011/10/newswhip.png" alt="" width="500" height="367" /></a></p>
+<p>At the moment the front page is showing some stories on the possible return of Arrested Development. That makes me very happy indeed.</p>
+<p>For a great snapshot of interesting news across the realtime web during the day, I think the guys have nailed it.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Supply.ie sorts out printing &#8211; cheaper, faster, easier</title>
+		<link>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/</link>
+		<comments>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 12:41:16 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[bid]]></category>
+		<category><![CDATA[printing]]></category>
+		<category><![CDATA[printing supplies]]></category>
+		<category><![CDATA[supply]]></category>
+		<category><![CDATA[supply.ie]]></category>
+		<category><![CDATA[tender]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2020</guid>
+		<description><![CDATA[I met Mike from supply.ie yesterday and was hugely impressed by this new business which only launched in December. The premise is simple: put up a spec for a printing job on the site, it automatically sends it to all the relevant suppliers they have in the system and a percentage of those quote for [...]]]></description>
+				<content:encoded><![CDATA[<p>I met Mike from <a href="http://supply.ie/">supply.ie</a> yesterday and was hugely impressed by this new business which only launched in December. The premise is simple: put up a spec for a printing job on the site, it automatically sends it to all the relevant suppliers they have in the system and a percentage of those quote for the business. You then pick the quote which makes most sense to you.</p>
+<p>Easy Peasy.</p>
+<p style="text-align: center;"><a href="http://supply.ie/"><img class="aligncenter" title="Supply.ie" src="https://supply.ie/Tenant/Buyub/Img/supplyie-logo.gif" alt="" width="177" height="61" /></a></p>
+<p>When Mike told me about some of the cost savings he has seen, I was pretty shocked. But it&#8217;s about more than that, it&#8217;s a massive time saver. We got a big print job done last year and it took huge effort ringing around, waiting for callbacks, sending the job spec etc etc. Supply.ie deals with all of that for you.</p>
+<p>The service is free during the pilot period and well worth a look.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>DataHug &#8211; The Interview</title>
+		<link>/2010/11/datahug-the-interview/</link>
+		<comments>/2010/11/datahug-the-interview/#comments</comments>
+		<pubDate>Sat, 06 Nov 2010 13:11:22 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[#dws4]]></category>
+		<category><![CDATA[datahug]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[intertrade ireland]]></category>
+		<category><![CDATA[seedcorn]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1893</guid>
+		<description><![CDATA[DataHug didn&#8217;t just win at the Dublin Web Summit recently, they also nabbed the Emerging category in the Munster region for the All-Ireland Seedcorn competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final. I shot over [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.datahug.com/">DataHug</a> didn&#8217;t just win at the <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> recently, they also nabbed the Emerging category in the Munster region for the <a href="http://www.intertradeireland.com/seedcorn/">All-Ireland Seedcorn</a> competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final.</p>
+<p style="text-align: center;"><a href="http://www.datahug.com/"><img class="aligncenter" title="DataHug" src="http://datahug.com/wp-content/woo_uploads/9-DH_NoWriting_Orange_21June10_Transparent.png" alt="" width="300" height="83" /></a></p>
+<p>I shot over a few question to Ray and Connor about the company, their backgrounds and the product.</p>
+<p><strong>How long have you been around?<br />
+</strong> Since November 2009</p>
+<p><strong>Is this your first startup?<br />
+</strong> J1Summer.com was founded by Connor back in 2002.</p>
+<p><strong>What are your backgrounds<br />
+</strong><em> Ray</em>: Over 6 years global experience as a Manager working for Accenture, in architecting and delivering large scale technology business critical technology projects. Deep experience in planning, estimating and managing large geographically dispersed development teams (50+). Electronic Engineer who placed top of his class (UCD) and went on to complete a research Masters involving MIT Media Lab</p>
+<p><em>Connor</em>: Over 6 years at PA Consulting, Connor sold and delivered million dollar projects for Thomson Reuters, Pfizer, Estee Lauder, British Airways and Dubai World. Diverse experience working for global leading clients with a speciality in Knowledge Management and User-Centric design. He has a first Class honours degree from Computer Science (UCC)</p>
+<p><strong>You seem to be not just in Ireland? US too?<br />
+</strong> Connor lived in Washington DC for a number of years and I lived down in Australia. The company has a base in DC and connections in San Jose but we came home to be based here in Ireland and we plan to grow the company in Ireland initially.</p>
+<p><strong>Did we hear there was a Cork connection?<br />
+</strong> Connor is the official company langer J, with me being from Dublin. My fiancÃ©e is from Cork so I am not your typical Barryâ€™s tea knocking jackeen.</p>
+<p><strong>Any background in Webapps or coming at it from biz opportunity side?<br />
+</strong> With our technical backgrounds, we both have developed web applications in the past. We spotted the business opportunity whilst working in Consulting and lived the pain of managing relationships every day. We were then fortunate to be able to develop it ourselves and bootstrap it in the current climate.</p>
+<p><strong>Any immediate results from DWS4?<br />
+</strong> We have trial partners in the States, UK and Ireland who are providing us with alpha feedback in advance of our public beta launch. A lot of positives have been taken from that and the number wishing to sign-up for our beta trial.</p>
+<p><strong>How are you currently funded?<br />
+</strong> Bootstrapped to-date with support from Endeavour (Jerry Kennelly), EI and the iGAP programme. The Spark of Genius prize will go a long way to helping us grow at pace. We are currently actively looking to close a seed investment round.</p>
+<p><strong>Numbers of alpha testers?<br />
+</strong> We have 6 trial clients, clocking up over a million relationships through the system.</p>
+<p><strong>Beta this month?<br />
+</strong> Planned for the end of this month.</p>
+<p><strong>Anything you can share on the tech?<br />
+</strong> Cloud SaaS Solution, built on MS Azure platform. Supports IMAP, Google OAuth and Exchange Web Services connectivity</p>
+<p><strong>Pure Enterprise play or other angles you are looking at?<br />
+</strong> We are initially targeting SME business between 5 â€“ 500 employees involved in professional services or sales. We will then target the larger professional services firms.</p>
+<p><strong>Initial target geography?<br />
+</strong> Ireland, UK, US in that order.</p>
+<p><strong>One-liner on #DWS4 and F.ounders?<br />
+</strong> The Dublin Web Summit &amp; F.ounders was yet another fantastic event organised by Paddy Cosgrave to help put Ireland on the map for web technologies and start-ups. The line-up of speakers were fantastic</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/datahug-the-interview/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Health 2.0 in Ireland</title>
+		<link>/2009/10/irish-ehealth-startups/</link>
+		<comments>/2009/10/irish-ehealth-startups/#comments</comments>
+		<pubDate>Fri, 09 Oct 2009 15:04:18 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[connectedhealth]]></category>
+		<category><![CDATA[ehealth]]></category>
+		<category><![CDATA[ehr]]></category>
+		<category><![CDATA[health20]]></category>
+		<category><![CDATA[hit]]></category>
+		<category><![CDATA[software]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1455</guid>
+		<description><![CDATA[This is a guest post by Enda Madden, CTO and co-founder of GroupNos, an on-demand Healthcare Software startup that helps clinicians and healthcare organisations improve patient care and quality of service delivery. He has previously been a software developer and enterprise architect for a number of Fortune 500 companies and has a background in Computational [...]]]></description>
+				<content:encoded><![CDATA[<p><em>This is a guest post by Enda Madden, CTO and co-founder of GroupNos, an on-demand Healthcare Software startup that helps clinicians and healthcare organisations improve patient care and quality of service delivery. He has previously been a software developer and enterprise architect for a number of Fortune 500 companies and has a background in Computational Linguistics. Enda can be followed on Twitter at @endamadden.</em></p>
+<p>eHealth, mHealth, Telemedicine, EHRâ€™, PHRâ€™, Healthcare Social Media, CCR, Personalised Medicine, Information Prescription. The proliferation of terms currently used in Healthcare Technology is a sure sign that the hype cycle is well and truly at its peak.</p>
+<p>Recent articles on mainstream analyst sites including <strong>Mashable</strong> <a href="http://mashable.com/2009/10/05/social-media-healthcare/">Smarter Healthcare: How Social Media is Revolutionizing Your Doctor Visits</a> and <strong>Vator.tv</strong> <a href="http://vator.tv/news/show/2009-09-02-what-angels-want">What Angels want</a> along with high profile early stage investors such as <a href="http://blog.softtechvc.com/">Jeff Clavier</a>, <a href="http://permanentrecord.firstround.com/">Rob Hayes </a>and <a href="http://felicis.typepad.com/">Aydin Senkut</a> talking about looking for cloud based and personalised medicine start-ups are all good indicators that this area is generating significant interest amongst investors and technology analysts.</p>
+<p>What does all this mean? Given the work of the larger companies healthcare divisions (Microsoft, Intel, Google, IBM, etc) in doing the heavy lifting in terms of agreeing on Healthcare Data Standards, Personal Healthcare Records, Interoperability and Data Governance this has paved the way for smaller start-ups focused on particular niches and with a high degree of innovation to plug into this ecosystem and build on top of the work done already.</p>
+<p>Enterprise Ireland recently facilitated a discussion between a number of Irish Health Technology companies, Patient Interest groups and State Bodies North and South to look at forming a Connected Health Group. The main focus of the discussions centred on fostering this sector within Ireland, identifying and supporting early stage companies and creating a connected health cluster of companies large and small, established and start-up in Ireland.</p>
+<p>One of the key challenges facing many eHealth startups is escaping the gravitational pull of pure Research and Development. It is very encouraging to see a new generation of Irish eHealth start-ups following a more entrepreneurial path. More and more profiles are appearing on CrunchBase (<a href="http://www.crunchbase.com/company/revahealth-com">RevaHealth</a>), taking part in Seedcorn competitions and founders engaging with other entrepreneurs at various technology and networking events throughout the country, for example SokoHealth at <a href="http://www.cmypitch.com/">CMYPitch.com</a> the other day.</p>
+<p>So where are things at in Ireland? Iâ€™ll leave a discussion on what is needed to help make Ireland a cluster for eHealth startups for another day. To begin with here is a list of some of the Irish eHealth start-ups I know of in Ireland today. Â </p>
+<p>It would be great if Web2Ireland readers could add comments about companies they know of or comment on some of those listed here. There is no doubt this is an exciting space to operate in at the moment, I hope this article serves as some sort of introduction to newcomers and acts as a means to get the rest of us operating in eHealth to continue to connect.</p>
+<p><strong>Slainte Technologies<br />
+</strong><a href="http://www.slaintetech.com/">www.slaintetech.com</a><br />
+SlainteTech is one of the most exciting companies coming out of Ireland in the Healthcare Technology Space at the moment. I think these guys could be the next <a href="http://curamsoftware.com/">Curum Software</a>. Their products are well positioned in two major growth areas within Healthcare IT. Improving efficiencies through workflow driven solutions and also in the area of integration and creating a complete patient record from multiple sources. Theyâ€™ve been making big inroads with their Claimsure product. Iâ€™m very interested in watching their other products gain traction in the market. One of the things that most impresses me with these guys is their knowledge of the US Market. In fact they seem more knowledgeable than many US Healthcare IT companies Iâ€™ve met in recent times.</p>
+<p>Chief Executive Officer: Andrew Murphy<br />
+Chief Operating Officer : Billy Diggin<br />
+Chairman : David Nash</p>
+<p>Â <strong>Neuro Synergy Games<br />
+</strong><a href="http://www.neurosynergygames.com/">www.neurosynergygames.com</a><br />
+One of the earlier stage companies listed, Neuro Synergy Games profiles users along a number of parameters and measures the patients performance along each of these. The product then creates a tailor made series of brain training exercises for the patient in order to improve their score in the particular areas where the patient exhibits deficiencies. The product is based on extensive research performed by David Doherty during his doctorate studies in Trinity College.</p>
+<p>Neuro Synergy is a great example of a startup Healthcare IT company that is following a commercial path. These guys have got alot of media coverage lately through taking part in the <a href="http://www.microsoft.com/ireland/imaginecup/final09.mspx">Imagine Cup</a>, <a href="http://southeaststories.blogspot.com/2009/07/dr-david-delany-and-dr-lorraine-boran.html">sepp enterprise awards</a>, <a href="http://iqprize.ie/">iqprize</a> and more recently<a href="http://www-05.ibm.com/ie/smarterplanet/smartcamp/index.html"> IBMs smartcamp competition</a>.</p>
+<p>Chief Executive Officer: Dr David Delany<br />
+Co-Founder: Dr Lorraine Boran</p>
+<p>Â <strong>RevaHealth<br />
+</strong><a href="http://www.revahealth.com/">www.revahealth.com</a><br />
+Reva will be well known to many Web2Ireland regulars primarily through its CEO Caelen King. RevaHealth.com provide a healthcare search engine that gathers information about health clinics in the UK and Ireland, and further afield, and display it all comparably. Iâ€™ve seen Caelen speak a couple of times, once at last years BizCamp where he talked about fundraising and another time at FOWA Â where he talked about UI design and the pain and effort it takes to get it right. This is reflected in the site where the effort has clearly paid off in making it quick and easy for patients to find the information regarding treatments and options. Consumer Healthcare whilst at an early stage is set to grow rapidly and RevaHealth are well positioned. Like Slainte Technologies RevaHealth have a very experienced management team including a Chairman who is a serial technology entrepreneur.</p>
+<p>Chief Executive Officer:Â  Caelen King<br />
+Chairman:Â  Ray Nolan<br />
+VP of Product: David Roe</p>
+<p><a href="http://twitter.com/revahealth">http://twitter.com/revahealth</a><br />
+Â <a href="http://www.crunchbase.com/company/revahealth-com">http://www.crunchbase.com/company/revahealth-com</a></p>
+<p>Â <strong>SokoHealth<br />
+</strong><a href="http://www.sokohealth.com/">www.sokohealth.com</a><br />
+Based in the Business Incubation Centre in Sligo IT SokoHealth is founded by Aidan McKenna who was a fellow participant of mine on the excellent<a href="http://www.ceim.ie/"> CEIM programme</a> based out of <a href="http://www.itsligo.ie/">Sligo IT</a>. Â Sokohealth aims to be an online marketplace for cash-paying healthcare consumers. The company will be an aggregator of US and International Healthcare providers in a wide range of specialities and will offer consumers the opportunity to search, compare prices and book procedures directly with Healthcare providers. SokoHealth aim to capitalise on the growing trends in Medical Tourism, Electronic Health Records and online/Telemedicine.Â  Here is a <a href="http://www.youtube.com/watch?v=dwqoTU0Sffo">video overview of the product </a>(<a href="http://www.mikeafford.com/">courtesy of Mike Afford Media</a>).</p>
+<p>Chief Executive Officer: Aidan McKenna</p>
+<p>http://twitter.com/sokohealth</p>
+<p><strong>PsychFusion<br />
+</strong><a href="http://www.psychfusion.com/">www.psychfusion.com</a><br />
+These guys are involved in developing a number of products that leverage technology to carry out psychology experiments in a user friendly and feasible manner. One of their key selling points is the fact that their expertise in Psychology and Technology allows them to take the design in psychological terminology from many different modalities and adapt a technology solution without an intermediary simpler abstract document.</p>
+<p>Dr Robert Whelan<br />
+Colin Lawlor<br />
+Helen Treacy</p>
+<p><a href="http://twitter.com/psychfusion">http://twitter.com/psychfusion</a><br />
+<a href="http://twitter.com/helentreacy">http://twitter.com/helentreacy</a></p>
+<p><strong>Automation Intellect<br />
+</strong><a href="http://www.automationintellect.com/">www.automationintellect.com</a><br />
+Based in Dublin and headed by Siobhan King-Hughes Automation Intellect provide integrated technology solutions to assist elderly or disabled people to remain independent and safe in their own home.<strong></strong></p>
+<p>The technology is primarily based on Wireless Sensor technologies tracking the daily activities of the patient monitoring their patterns against their normal benchmarked patterns of behaviour. This system has the potential to be invaluable to patients with long term chronic conditions such as COPD where it is key to detect early signs of deterioration in the patient before they need to be admitted to hospital and all the trauma and expense associated with that scenario.</p>
+<p>Â Chief Executive Officer: Siobhan King-Hughes</p>
+<p>Â <strong>G-Pace Ltd<br />
+</strong><a href="http://www.gpace.ie/">http://www.gpace.ie/</a><br />
+I donâ€™t know a whole amount about this company but they appear to be creating a database of individuals with pacemakers. This is the information I found from their LinkedIn profile. One of their products is a web based system to cardiac departments all around Ireland, the system connects all participating hospitals and gives them a complete management system for Pacemaker &amp; ICD patients, the system enables patients to travel to any of the connected hospitals and have all their device history easily accessible. Once a patient is registered on the Heart Rhythm Ireland system they will receive a new credit card like ID Card.</p>
+<p>Managing Director : Robert Kelly<br />
+Chairman &amp; Co-Founder: Gene Kelly</p>
+<p>Â <strong>GariVo Techologies<br />
+</strong><a href="http://www.garivo.com/">www.garivo.com</a><br />
+A graduate of the DIT Hothouse programme, GariVo has developed GariNav, an innovative solution which combines wireless computers and patient tracking in a novel application to enhance efficiency and patient safety. GariNav tracks patients going through surgery using WiFi tags which link in to an existing wireless LAN. An electronic operating list displayed on wireless computers can be updated instantly to eliminate bottlenecks.</p>
+<p>Imagine Health<br />
+Imagine Health is a start-up company in the early stages of launching a new range of products for the Health Care sector. Its Service Areas include:</p>
+<p>1. Adult &amp; Children Psychology &amp; Counselling Services</p>
+<p>2. Services to Medical Specialists &#8211; Diabetes, Cardiology</p>
+<p>3. Employee Support</p>
+<p>Chief Executive Officer: Dr. Eddie Murphy <a href="http://www.linkedin.com/in/dreddiemurphy">www.linkedin.com/in/dreddiemurphy</a></p>
+<p><strong>Shimmer Research<br />
+</strong><a href="http://www.shimmer-research.com/">www.shimmer-research.com</a><br />
+SHIMMERâ„¢ (Sensing Health with Intelligence, Modularity, Mobility and Experimental Reusability) provide a wireless sensor platform to support long-term wearable wireless sensing. The technology was developed as a spin-off venture fromÂ  in the TRIL centre . The technology has numerous applications such as for:</p>
+<ul>
+<li>Limb motion analysis of Parkinsonâ€™s Disease and stroke patients</li>
+<li>Gait Analysis</li>
+<li>Sleep Studies</li>
+<li>Cognitive Awareness</li>
+<li>Activities of Daily Living Studies</li>
+<li>Vital Signs Monitoring</li>
+<li>Chronic Disease Management</li>
+</ul>
+<p>Recently they have opened a R&amp;D centre in Cambridge, MA.</p>
+<p>I met Kieran Daly recently at an Enterprise Ireland Connected Health event and he had some forthright views on the current environment in Ireland for Healthcare Technology start-ups and what can be done at a policy level to help stimulate growth in this sector.</p>
+<p>Â <strong>GroupNos Software<br />
+</strong><a href="http://www.web2ireland.org/wp-admin/www.groupnos.com">www.groupnos.com</a><br />
+GroupNos is a startup healthcare technology company providing online software solutions that facilitate collaboration between clinicians, patients and healthcare managers to deliver consumer-driven services that promote superior patient outcomes. Its target customers are organizations and individual clinicians in the behavioural healthcare field which encompasses mental health, substance abuse and behavioural medicine services. The two core products currently in development are <strong>GroupNos Collaborate</strong> an on-demand Electronic Healthcare Record that facilitates collaboration between clinicians, patients and healthcare managers in a manner that supports superior patient outcomes. Â <strong>GroupNos Community Â </strong>is social software platform to support the development of collaborative and outcome focused clinical practices within clinical communities and provider networks. It allows for the creation of virtual supervision and support networks where clinicians can connect with and learn from each. Behind GroupNos Community front-end our analytics engine monitors and looks for patterns of behaviour exhibiting excellence in the metadata generated from members activity on the network as well as sentiment analysis regarding particular healthcare trends and topics.</p>
+<p><strong>Â </strong><strong>Research Groups<br />
+</strong>If youâ€™re thinking of starting an eHealth company or have an existing project that youâ€™re looking to collaborate on then these groups could be a good place to start along with interacting with some of the companies listed above.</p>
+<p>Clinical Translational Research and Innovation Centre, Derry<br />
+<a href="http://www.c-tric.com/">www.c-tric.com/</a></p>
+<p>Technology Resources for Independent Living. TCD and UCD<br />
+<a href="http://www.trilcentre.org/">www.trilcentre.org</a></p>
+<p>National Digital Research Centre, Dublin<br />
+<a href="http://www.ndrc.ie/">www.ndrc.ie</a></p>
+<p>Â Dundalk IT<br />
+<a href="http://www.netwellcentre.ie/">www.netwellcentre.ie</a></p>
+<p>Â Digital Enterprise Research Institute (DERI) Health Care and Life Sciences Group , Galway<br />
+<a href="http://hcls.deri.ie/">http://hcls.deri.ie/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/irish-ehealth-startups/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>IQPrize Shortlist Announced</title>
+		<link>/2009/06/iqprize-shortlist-announced/</link>
+		<comments>/2009/06/iqprize-shortlist-announced/#comments</comments>
+		<pubDate>Wed, 10 Jun 2009 20:27:56 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[iqprize]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1240</guid>
+		<description><![CDATA[The shortlist of companies for the IQPrize was announced earlier this evening. They are as follows: Decisions for Heroes getitkeepit.com myhotel.ie Octopied Our Writers Bloc Plink Neurosynergy games Pendle House More details tomorrow along with some thoughts on the high quality of the entrants.]]></description>
+				<content:encoded><![CDATA[<p>The shortlist of companies for the <a href="http://www.iqprize.ie/">IQPrize</a> was announced earlier this evening. They are as follows:</p>
+<ul>
+<li>Decisions for Heroes</li>
+<li>getitkeepit.com</li>
+<li>myhotel.ie</li>
+<li>Octopied</li>
+<li>Our Writers Bloc</li>
+<li>Plink</li>
+<li>Neurosynergy games</li>
+<li>Pendle House</li>
+</ul>
+<p>More details tomorrow along with some thoughts on the high quality of the entrants.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/iqprize-shortlist-announced/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>From Cork to China</title>
+		<link>/2008/09/from-cork-to-china/</link>
+		<comments>/2008/09/from-cork-to-china/#comments</comments>
+		<pubDate>Tue, 30 Sep 2008 08:40:04 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[liam casey]]></category>
+		<category><![CDATA[pch]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=749</guid>
+		<description><![CDATA[Nice write-up on Liam Casey on TechCrunch today. This Corkman has built an amazing supply chain manufacturing business in China over the past few years. It looks like he is the go-to guy if you need anything electronic built in serious volumes at low cost. He recently raised $21m in VC and it&#8217;ll be interesting [...]]]></description>
+				<content:encoded><![CDATA[<p>Nice write-up on Liam Casey on <a href="http://www.techcrunch.com/2008/09/29/21-million-for-mr-china/">TechCrunch</a> today. This Corkman has built an amazing supply chain manufacturing <a href="http://pchchinasolutions.com/">business</a> in China over the past few years. It looks like he is the go-to guy if you need anything electronic built in serious volumes at low cost. He recently raised $21m in VC and it&#8217;ll be interesting to see how he makes use of that.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/from-cork-to-china/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>YellIfItChanges Scratches a Common Itch</title>
+		<link>/2008/03/yellifitchanges-scratches-a-common-itch/</link>
+		<comments>/2008/03/yellifitchanges-scratches-a-common-itch/#comments</comments>
+		<pubDate>Sun, 16 Mar 2008 12:46:45 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2008/03/16/yellifitchanges-scratches-a-common-itch/</guid>
+		<description><![CDATA[Ye know when you find an app that just makes 100% sense? Not the next Flickr or Facebook, just incredibly bloody useful? YellIfItChanges is one of those apps. It lets you know if: a website is updated a website changes Google Page Rank a website receives more incoming links a website changes position on Google [...]]]></description>
+				<content:encoded><![CDATA[<p>Ye know when you find an app that just makes 100% sense? Not the next Flickr or Facebook, just incredibly bloody useful? <a href="http://yellifitchanges.com/">YellIfItChanges</a> is one of those apps. </p>
+<div><img src="http://www.yellifitchanges.com/_images/yellifitchanges_logo_wide.png" alt="YellIfItChanges" /></div>
+<p></p>
+<p>It lets you know if:</p>
+<ul>
+<li>a website is updated</li>
+<li>a website changes Google Page Rank</li>
+<li>a website receives more incoming links</li>
+<li>a website changes position on Google search engine results page (SERP)</li>
+</ul>
+<p>and it can let you know via</p>
+<ul>
+<li>email</li>
+<li>RSS Feed</li>
+<li>iCal Calendar</li>
+</ul>
+<p>Sure, lots of sites have RSS but there are still a huge number that don&#8217;t and site-RSS doesn&#8217;t provide all those other features above. I&#8217;m using it to watch when certain sites come out of closed beta, but there are tons of different ways to use it. Check it out.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/03/yellifitchanges-scratches-a-common-itch/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>The challenges &amp; recommendations for app developers</title>
+		<link>/2008/03/the-challenges-recommendations-for-app-developers/</link>
+		<comments>/2008/03/the-challenges-recommendations-for-app-developers/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 16:30:06 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Business Models]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2008/03/06/the-challenges-recommendations-for-app-developers/</guid>
+		<description><![CDATA[Application development on social networking platforms was the hot topic this week at the Graphing Social Patterns conference in San Diego. Ironically it&#8217;s like the wild wild west of a few hundred years ago &#8211; lots of prospectors in an undefined territory where the opportunity is massive. Here are the key challenges and recommendations I [...]]]></description>
+				<content:encoded><![CDATA[<p class="MsoNormal"><span>Application development on social networking platforms was the hot topic this week at the Graphing Social Patterns conference in <st1:city w:st="on"><st1:place w:st="on">San   Diego</st1:place></st1:city>. Ironically it&#8217;s like the wild wild west of a few hundred years ago &#8211; lots of prospectors in an undefined territory where the opportunity is massive. <o:p></o:p></span></p>
+<p class="MsoNormal"><span>Here are the key challenges and recommendations I collected from the speakers and conversations I had at the conference: <o:p></o:p></span></p>
+<p class="MsoNormal"><span> <o:p></o:p></span></p>
+<p class="MsoNormal"><strong><span>Challenges:</span></strong><span><o:p></o:p></span></p>
+<ul type="disc">
+<li class="MsoNormal"><span> Applications and widgets are hard      to monetize.  Traditionally brand advertising is related      to the web CONTENT (e.g. target &#8220;Grey&#8217;s Anatomy&#8221; watchers because they      <em>appear </em>to fit with the brand). Essentially the new world      of social network advertising is trying to monetize NEW types of      experiences and context-free environments. Since users can create any type of      group, profile, page etc. there is some fear over what the ads will be placed next to.<o:p></o:p></span></li>
+<li class="MsoNormal"><span>There are low barriers to entry. Anyone      and their dog (who knows a bit about PHP) can create an application on      Facebook rather quickly at very low cost. This has lead to low quality,      low utility, disposable, spammy apps but the good news is that the trend is      quickly moving towards high value, engaging, quality apps. <o:p></o:p></span></li>
+<li class="MsoNormal"><span>The metrics for measuring and analysing      applications are minimal. This is an evolving area in itself.<o:p></o:p></span></li>
+<li class="MsoNormal"><span>There are multiple APIs. OpenSocial vs.      Facebook/Bebo platform &#8211; different audiences, channels, usage patterns      etc.<o:p></o:p></span></li>
+</ul>
+<p class="MsoNormal"><strong><span>Recommendations: </span></strong><span><o:p></o:p></span></p>
+<ul type="disc">
+<li class="MsoNormal"><span> Develop apps that have utility      and meaning. Facebook is changing the rules of the platform to protect its      users and provide an experience that increases communication and improves      user engagement. <o:p></o:p></span></li>
+<li class="MsoNormal"><span>Ensure your app is: 1. Clear in its      proposition and easy to use, 2. Measurable &#8211; track growth, engagement,      advertising etc., and 3. Flexible &#8211; many crappy trials beats deep      thinking/planning (Note: I believe this was the case for the low quality      apps but the future apps require significant planning to make them of      value. The main point of this is to get it out there early to see how      users react &#8211; &#8220;perpetual beta&#8221;)<o:p></o:p></span></li>
+<li class="MsoNormal"><span>Apps have three distinct stages of development:      1. Marketing &#8211; use appropriate channels to spread your &#8220;call to      action&#8221;; 2. Growth &#8211; tune and track virality; What are the other apps      in your category doing?; 3. Engagement &#8211; increase page views and time      spent on site <o:p></o:p></span></li>
+<li class="MsoNormal"><span>The level of trust must be improved between the      users, applications, networks, and marketers.<o:p></o:p></span></li>
+<li class="MsoNormal"><span>Plan for a portable ID. The industry      trend points towards a future that allows for an ID that&#8217;s shared between      applications/networks but will be controlled by the users (e.g. permissions)<o:p></o:p></span></li>
+<li class="MsoNormal"><span>For social games the &#8220;social&#8221;      aspect is more important than the &#8220;game&#8221; &#8211; it&#8217;s better when your      friends are contacting you to &#8220;play&#8221;. You still must implement      typical aspects of gaming &#8211; level/goal progression, turns, leader-boards,      incentives/rewards: gifts, unlocking features etc. <o:p></o:p></span></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2008/03/the-challenges-recommendations-for-app-developers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Beta Testers Wanted</title>
+		<link>/2008/03/beta-testers-wanted/</link>
+		<comments>/2008/03/beta-testers-wanted/#comments</comments>
+		<pubDate>Thu, 06 Mar 2008 14:18:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2008/03/06/beta-testers-wanted/</guid>
+		<description><![CDATA[You may be familiar with the very smart YouGetItBack concept which provides a lost and found facility for things like phones, iPod etc via simple stickers and a web app. The guys are moving into their next phase of development and it&#8217;s looking very exciting indeed. They will soon be rolling out apps for mobiles [...]]]></description>
+				<content:encoded><![CDATA[<p>You may be familiar with the very smart <a href="http://www.yougetitback.com/">YouGetItBack</a> concept which provides a lost and found facility for things like phones, iPod etc via simple stickers and a web app. The guys are moving into their next phase of development and it&#8217;s looking very exciting indeed. They will soon be rolling out apps for mobiles and laptops along with associated online services.</p>
+<p>They are looking for Beta Testers for these apps. If you are interested, <a href="http://www.yougetitback.com/blog/index.php/2008/03/04/beta-software/">head on over to the blog</a> and leave a comment or mail them at the address provided.</p>
+<p>If you are looking for Beta Testers for your web app or mobile app, feel free to drop us a line and we&#8217;ll mention it here.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/03/beta-testers-wanted/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

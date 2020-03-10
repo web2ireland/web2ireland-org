@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; meetup</title>
+	<atom:link href="/tag/meetup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Mozilla Meetup in Odeon in Dublin Tomorrow</title>
+		<link>/2011/11/mozilla-meetup-in-odeon-in-dublin-tomorrow/</link>
+		<comments>/2011/11/mozilla-meetup-in-odeon-in-dublin-tomorrow/#comments</comments>
+		<pubDate>Tue, 01 Nov 2011 13:20:45 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[meetup]]></category>
+		<category><![CDATA[mozilla]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2155</guid>
+		<description><![CDATA[In a world of early adopters, one of my few claims to fame is that I started using Mozilla when it was pre-Alpha around M7, wayyyyyyy back in June 1999. I never looked back as it went through all its growing pains and then shifted sideways to Firefox. To me, Mozilla saved the Internet. As [...]]]></description>
+				<content:encoded><![CDATA[<p>In a world of early adopters, one of my few claims to fame is that I started using <a href="http://www.mozilla.org/">Mozilla</a> when it was pre-Alpha around M7, wayyyyyyy back in June 1999. I never looked back as it went through all its growing pains and then shifted sideways to Firefox.</p>
+<p><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Mozilla_M7.png" title="Mozilla M7" class="alignnone" width="480" height="360" /></p>
+<p>To me, Mozilla saved the Internet. As Netscape disappeared up its own bum post-acquisition and Microsoft applied their stranglehold, Mozilla built the future. You wouldn&#8217;t be using Firefox, Chrome or Opera today if it wasn&#8217;t for Mozilla, you&#8217;d be using Internet Explorer 6.00001.</p>
+<p>Whilst I think <a href="http://www.mozilla.org/en-US/firefox/new/">Firefox</a> has become a pig of a product (1GB RAM for 4 tabs after 24hrs? C&#8217;mon!), like the Mozilla suite that begat it, and I really don&#8217;t know what it&#8217;s doing on Android, it remains incredibly important to the open internet ecosystem. For example, there isn&#8217;t a web developer out there who doesn&#8217;t worship at the feet of Joe Hewitt for creating Firebug. And it wouldn&#8217;t exist without Firefox.</p>
+<p>Ok, so bit of a nostalgic ramble there. Back to the topic at hand. David McNamara contacted us to let you all know about a Meetup they have arranged for tomorrow Tuesday:</p>
+<blockquote><p><a href="http://www.mozilla.org/">The Mozilla Foundation</a> is trying to establish a community in Ireland to encourage grass roots support in the open web in this country.</p>
+<p>Do you want to know more about Mozilla, the organisation behind the groundbreaking Firefox browser? Do you want to become involved in the global Mozilla movement? No coding skills required, though folks with them are of course welcome. Come along and find out more. It will be an evening of presentations and discussions, with drinks and snacks provided.</p>
+<p>Time: 02 November · 18:00 &#8211; 22:00<br />
+Location: The Odeon (Upstairs), 57 Harcourt Street, Dublin</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/mozilla-meetup-in-odeon-in-dublin-tomorrow/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

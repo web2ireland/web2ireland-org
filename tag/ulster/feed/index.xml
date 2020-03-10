@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ulster</title>
+	<atom:link href="/tag/ulster/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>HeyStaks raises â‚¬1m</title>
+		<link>/2010/10/heystaks-raises-e1m/</link>
+		<comments>/2010/10/heystaks-raises-e1m/#comments</comments>
+		<pubDate>Fri, 22 Oct 2010 14:59:36 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[delicious]]></category>
+		<category><![CDATA[heystaks]]></category>
+		<category><![CDATA[ncb]]></category>
+		<category><![CDATA[stumbleupon]]></category>
+		<category><![CDATA[UCD]]></category>
+		<category><![CDATA[ulster]]></category>
+		<category><![CDATA[vc]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1866</guid>
+		<description><![CDATA[HeyStaks Technologies, the NovaUCD-based social web-search start-up company, has just announced that it has secured â‚¬1 million of equity funding from The Ulster Bank Diageo Venture Fund, which is managed byÂ NCB Ventures. HeyStaks delivers community-enhanced search results that are more personalised and relevant than conventional search engine results. More details on the NovaUCD site.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.heystaks.com/" target="_blank">HeyStaks Technologies</a>, the NovaUCD-based social web-search start-up company, has just announced that it has secured â‚¬1 million of equity funding from The Ulster Bank Diageo Venture Fund, which is managed byÂ <a href="http://www.ncb-ventures.com/" target="_blank">NCB Ventures</a>.</p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2010/10/heystaks.png"><img class="size-full wp-image-1867  aligncenter" title="heystaks" src="http://www.web2ireland.org/wp-content/uploads/2010/10/heystaks.png" alt="" width="301" height="146" /></a></p>
+<p>HeyStaks delivers community-enhanced search results that are more personalised and relevant than conventional search engine results.</p>
+<p>More details on the <a href="http://www.ucd.ie/nova/mediacentre/2010pressreleases/novanewstitle,68301,en.html">NovaUCD site</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/heystaks-raises-e1m/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

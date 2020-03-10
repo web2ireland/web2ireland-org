@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; propel</title>
+	<atom:link href="/tag/propel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>EI Propel Programme for Border Startups</title>
+		<link>/2009/04/ei-propel-programme-for-border-startups/</link>
+		<comments>/2009/04/ei-propel-programme-for-border-startups/#comments</comments>
+		<pubDate>Fri, 03 Apr 2009 16:21:14 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[border]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[genesis]]></category>
+		<category><![CDATA[propel]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1107</guid>
+		<description><![CDATA[The Propel Programme is run by Enterprise Ireland and is designed to provide entrepreneurs with the necessary business skills to establish a successful global business. (Note that URL is not loading for me at the moment) Propel will run for one year and is open to those currently located, or planning to locate, in one [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.propelprogramme.ie/">The Propel Programme</a> is run by Enterprise Ireland and is designed to provide entrepreneurs with the necessary business skills to establish a successful global business. (Note that URL is not loading for me at the moment)</p>
+<p style="text-align: center;"><img class="size-medium wp-image-1108  aligncenter" title="propel" src="http://www.web2ireland.org/wp-content/uploads/2009/04/propel-300x70.jpg" alt="propel" width="300" height="70" /></p>
+<p>Propel will run for one year and is open to those currently located, or planning to locate, in one of the six border counties of Cavan, Donegal, Leitrim, Louth, Monaghan or Sligo.</p>
+<p>They will provide:</p>
+<ul>
+<li>Financial support of up to â‚¬30,000 (was â‚¬38k until recent cutbacks)</li>
+<li>Business start-up training</li>
+<li>Specialised expertise and mentoring</li>
+<li>Access to potential investors</li>
+<li>Access to local and global contacts and networks</li>
+<li>Hot desk facilities</li>
+</ul>
+<p>I assume Propel was modelled on the huge successes of Genesis, Hothouse, M50, EAC etc rather than being created from scratch by consultants.Â If you are in Munster, applications forÂ <a href="http://www.gep.ie/">Genesis</a> are still being accepted.</p>
+<p>Final date for receipt of applications for Propel is 24 April 2009. Email startup@propelprogramme.ie or call (01) 605 9180</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/ei-propel-programme-for-border-startups/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

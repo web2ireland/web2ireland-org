@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; enterprise 2.0 conference</title>
+	<atom:link href="/tag/enterprise-20-conference/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Two Free Tickets to Enterprise 2.0 Conference</title>
+		<link>/2008/05/two-free-tickets-to-enterprise-20-conference/</link>
+		<comments>/2008/05/two-free-tickets-to-enterprise-20-conference/#comments</comments>
+		<pubDate>Tue, 13 May 2008 20:36:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[enterprise 2.0]]></category>
+		<category><![CDATA[enterprise 2.0 conference]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=609</guid>
+		<description><![CDATA[Those fab people at TechWeb Networks have come up trumps for us again and have given us two free tickets for the Enterprise 2.0 Conference in Boston from June 9th to 12th. Let&#8217;s keep this one simple. Either post your Enterprise 2.0 elevator pitch as a comment here or mail it to web2ireland DOT editor [...]]]></description>
+				<content:encoded><![CDATA[<p>Those fab people at TechWeb Networks have come up trumps for us again and have given us two free tickets for the <a href="http://www.enterprise2conf.com/">Enterprise 2.0 Conference</a> in Boston from June 9th to 12th.</p>
+<p>Let&#8217;s keep this one simple. Either post your Enterprise 2.0 elevator pitch as a comment here or mail it to web2ireland DOT editor AT gmail DOT com. The pitch can beÂ  anything from the germ of an idea to an existing revenue generating business. The two best ones get the tickets. The deadline is midnight BST on Friday 16th. We also have a discount code for anyone who still wants to attend but misses out on the free tickets. Feel free to mail us for that code from now on.</p>
+<p>Given EI&#8217;s love of all things Enterprisey, you should definitely request market research assistance from your DA if you are thinking of going.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/05/e2-08_125x125_im-attending.gif"><img class="aligncenter size-medium wp-image-610" title="Enterprise 2.0 Conference" src="http://www.web2ireland.org/wp-content/uploads/2008/05/e2-08_125x125_im-attending.gif" alt="" width="125" height="125" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/two-free-tickets-to-enterprise-20-conference/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

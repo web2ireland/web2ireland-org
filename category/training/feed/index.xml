@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Training</title>
+	<atom:link href="/category/training/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Deadline for iGAP 3 Fast Approaching</title>
+		<link>/2011/08/deadline-for-igap-3-fast-approaching/</link>
+		<comments>/2011/08/deadline-for-igap-3-fast-approaching/#comments</comments>
+		<pubDate>Wed, 31 Aug 2011 10:38:42 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Training]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[igap]]></category>
+		<category><![CDATA[incubator]]></category>
+		<category><![CDATA[Internet Growth Acceleration Programme]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2104</guid>
+		<description><![CDATA[I&#8217;ve never heard a negative word said about iGAP (TheÂ Internet Growth Acceleration Programme). If you are anÂ internetÂ start-up and you have â‚¬3,000, it may be the best investment you could make in the future of your company. The deadline is Friday 9th so get yourÂ skatesÂ on. Great post over on the EI blog with quotes from those [...]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve never heard a negative word said about <a href="http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/I-GAP.html">iGAP</a> (TheÂ Internet Growth Acceleration Programme). If you are anÂ internetÂ start-up and you have â‚¬3,000, it may be the best investment you could make in the future of your company.</p>
+<p><a href="http://www.enterprise-ireland.com/en/Funding-Supports/Company/HPSU-Funding/I-GAP.html"><img class="size-full wp-image-2105 aligncenter" title="iGAP" src="http://www.web2ireland.org/wp-content/uploads/2011/08/iGAPtopbanner_.jpg" alt="" width="382" height="62" /></a></p>
+<p>The <a href="http://www.surveymonkey.com/s/2GB66TP">deadline is Friday 9th</a> so get yourÂ skatesÂ on. <a href="http://bestconnected.enterprise-ireland.com/why-should-you-join-igap-because-these-internet-entrepreneurs-say-so/">Great post over on the EI blog</a> with quotes from those who took part in the previous two.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/deadline-for-igap-3-fast-approaching/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Irish iPhone App School Announced</title>
+		<link>/2009/06/irish-iphone-app-school-announced/</link>
+		<comments>/2009/06/irish-iphone-app-school-announced/#comments</comments>
+		<pubDate>Fri, 12 Jun 2009 08:07:49 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[app school]]></category>
+		<category><![CDATA[damien mulley]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[patrick collison]]></category>
+		<category><![CDATA[sqt training]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1250</guid>
+		<description><![CDATA[This is the sort of news I love reporting. We now have an App School in Ireland. Over the course of 5 days you can learn how to build iPhone Apps. Run by SQT Training, Patrick Collison and Damien Mulley, this will give you all the skills you get to get your App built and [...]]]></description>
+				<content:encoded><![CDATA[<p>This is the sort of news I love reporting. We now have an <a href="http://appschool.ie/">App School</a> in Ireland. Over the course of 5 days you can learn how to build iPhone Apps. Run by SQT Training, Patrick Collison and <a href="http://mulley.ie/">Damien Mulley</a>, this will give you all the skills you get to get your App built and launched. At only â‚¬1500 for the week, that&#8217;s a bargain considering how much traditional programming training courses cost. The first course is on in the Castleknock Hotel Dublin from July 20-24.</p>
+<p style="text-align: center;"><img class="aligncenter" title="iPhone" src="http://images.apple.com/iphone/home/images/hero-1-20090608.jpg" alt="" width="412" height="167" /></p>
+<p>One of the best courses I ever did was back in 2006 when Ryan Carson presented his one day workshop, &#8220;A-Z: How to Build a Web App&#8221;. Because it wasn&#8217;t just about tech but also about all the pitfalls in trying to launch an App, it enabled us to avoid many common mistakes. My sense is that App School could do the same.</p>
+<p>As I said <a href="http://twitter.com/conoro/status/2128806675">on Twitter earlier</a>, I believe that iPhone &amp; Android development could be to techie teenagers what the ZX Spectrum, C64 and BBC Micro were to my generation. I am what I am today because I got a Speccy when I was 14. I taught myself Basic, Forth and Z80 assembler. I even had games published in magazines. Imagine being 15 years old and having people download your App from the iPhone App Store or Android Market. The buzz!</p>
+<p>I want to see the next generation of people coming out of technical course in third level education with at least one mobile app and one webapp in their portfolio. The days when Java skills got you a job in a bank are over.</p>
+<p>Well done everyone involved in getting App School launched. Looking forward to seeing what the Alumni develop.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/irish-iphone-app-school-announced/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>EI Propel Programme for Border Startups</title>
+		<link>/2009/04/ei-propel-programme-for-border-startups/</link>
+		<comments>/2009/04/ei-propel-programme-for-border-startups/#comments</comments>
+		<pubDate>Fri, 03 Apr 2009 16:21:14 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[border]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[genesis]]></category>
+		<category><![CDATA[propel]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1107</guid>
+		<description><![CDATA[The Propel Programme is run by Enterprise Ireland and is designed to provide entrepreneurs with the necessary business skills to establish a successful global business. (Note that URL is not loading for me at the moment) Propel will run for one year and is open to those currently located, or planning to locate, in one [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.propelprogramme.ie/">The Propel Programme</a> is run by Enterprise Ireland and is designed to provide entrepreneurs with the necessary business skills to establish a successful global business. (Note that URL is not loading for me at the moment)</p>
+<p style="text-align: center;"><img class="size-medium wp-image-1108  aligncenter" title="propel" src="http://www.web2ireland.org/wp-content/uploads/2009/04/propel-300x70.jpg" alt="propel" width="300" height="70" /></p>
+<p>Propel will run for one year and is open to those currently located, or planning to locate, in one of the six border counties of Cavan, Donegal, Leitrim, Louth, Monaghan or Sligo.</p>
+<p>They will provide:</p>
+<ul>
+<li>Financial support of up to â‚¬30,000 (was â‚¬38k until recent cutbacks)</li>
+<li>Business start-up training</li>
+<li>Specialised expertise and mentoring</li>
+<li>Access to potential investors</li>
+<li>Access to local and global contacts and networks</li>
+<li>Hot desk facilities</li>
+</ul>
+<p>I assume Propel was modelled on the huge successes of Genesis, Hothouse, M50, EAC etc rather than being created from scratch by consultants.Â If you are in Munster, applications forÂ <a href="http://www.gep.ie/">Genesis</a> are still being accepted.</p>
+<p>Final date for receipt of applications for Propel is 24 April 2009. Email startup@propelprogramme.ie or call (01) 605 9180</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/ei-propel-programme-for-border-startups/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>New Start-up Programme Announced for West and Midlands</title>
+		<link>/2009/01/new-start-up-programme-announced-for-west-and-midlands/</link>
+		<comments>/2009/01/new-start-up-programme-announced-for-west-and-midlands/#comments</comments>
+		<pubDate>Sat, 10 Jan 2009 14:35:15 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[incubation]]></category>
+		<category><![CDATA[start-ups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=974</guid>
+		<description><![CDATA[LouderVoice is currently on the Genesis Enterprise Programme in the Rubicon Centre in CIT. I can&#8217;t recommend it highly enough. These schemes give people the opportunity to start a business with a support infrastructure around them. The advice and training alone are worth their weight in gold. Brian O&#8217;Malley from EI in Sligo contacted us [...]]]></description>
+				<content:encoded><![CDATA[<p>LouderVoice is currently on the Genesis Enterprise Programme in the Rubicon Centre in CIT. I can&#8217;t recommend it highly enough. These schemes give people the opportunity to start a business with a support infrastructure around them. The advice and training alone are worth their weight in gold.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-975" title="mwep" src="http://www.web2ireland.org/wp-content/uploads/2009/01/mwep.jpg" alt="mwep" width="166" height="242" /></p>
+<p>Brian O&#8217;Malley from EI in Sligo contacted us to tell us about the West and Midlands version of this programme:</p>
+<blockquote><p>An Open Evening will take place in the Innovation in Business Centre(IiBC) at GMIT Castlebar on Wednesday 21st Jan from 5pm â€“ 8pm outlining the 2009 Midlands &amp; West Enterprise Programme (MWEP), commencing in March 2009, for people interested in starting their own business.</p>
+<p>The one-year programme is a collaboration between GMIT and Athlone IT, and provides entrepreneurs with business skills, networks, facilities and supports necessary to navigate the business start-up process. It is delivered in GMITâ€™s campuses in Galway and Mayo, and in Athlone IT.</p>
+<p>Applications are now being accepted.</p>
+<p>Anyone interested in signing up for the course should ideally have a number of years industry experience and have the enthusiasm and drive necessary to develop and grow a successful business. The MWEP may also be of interest to expatriates who are hoping to return home to set up their own business in the West of Ireland. Participants may apply to Enterprise Ireland for CORD funding, which could provide up to 50 per cent of previous yearâ€™s gross salary.</p>
+<p>The MWEP provides participants with business acumen, office desk space, mentoring, networking, facilities, and supports necessary to help them in establishing and running their own businesses. Participants should have a business idea with growth and export potential.</p>
+<p>For further details, please contact Maria Staunton who is the business incubation manager at GMIT Castlebar on 094-9043198 or maria.staunton@gmit.ie</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/new-start-up-programme-announced-for-west-and-midlands/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pitch Training during Web2Ireland Week</title>
+		<link>/2007/08/pitch-training-during-web2ireland-week/</link>
+		<comments>/2007/08/pitch-training-during-web2ireland-week/#comments</comments>
+		<pubDate>Tue, 28 Aug 2007 19:43:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Training]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/08/28/pitch-training-during-web2ireland-week/</guid>
+		<description><![CDATA[We are genuinely thrilled that Enterprise Ireland has agreed to run a pitch training session in advance of DemoBar on Thursday September 13th. It is aimed at those doing a DemoBar presentation that evening and also as the first training session for those attending the Paddy&#8217;s Valley trip who intend pitching in Silicon Valley. The [...]]]></description>
+				<content:encoded><![CDATA[<p>We are genuinely thrilled that Enterprise Ireland has agreed to run a pitch training session in advance of DemoBar on Thursday September 13th. It is aimed at those doing a DemoBar presentation that evening and also as the first training session for those attending the Paddy&#8217;s Valley trip who intend pitching in Silicon Valley.</p>
+<p>The format has not been finalised yet, it depends to some degree on the numbers who sign up. However it will involve pitching to an expert panel and/or the other attendees in addition to guidance and training.</p>
+<p>If you have applied for DemoBar, you really shouldn&#8217;t miss this. I have taken part in similar sessions and they are absolute gold. It could be the difference between getting your idea on the map or disappearing without a trace.</p>
+<p>Sign up now for Pitch Training by emailing your details to web2ireland DOT editor AT gmail DOT com</p>
+<p>We will confirm date and time asap.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/08/pitch-training-during-web2ireland-week/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

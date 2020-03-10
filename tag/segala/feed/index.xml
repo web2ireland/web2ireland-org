@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; segala</title>
+	<atom:link href="/tag/segala/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland &#8211; whatâ€™s going on &#8211; week ending June 6th</title>
+		<link>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/</link>
+		<comments>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/#comments</comments>
+		<pubDate>Fri, 06 Jun 2008 10:55:23 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[curry2.0]]></category>
+		<category><![CDATA[downloadmusic]]></category>
+		<category><![CDATA[edenbee]]></category>
+		<category><![CDATA[exceptional]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[pixenate]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[putplace]]></category>
+		<category><![CDATA[seanmcgrath]]></category>
+		<category><![CDATA[segala]]></category>
+		<category><![CDATA[ubcam]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=620</guid>
+		<description><![CDATA[Some bits and bobs from around the Web2Ireland scene&#8230; Joe survives at UTR &#8211; and gets great coveage for PutPlace in webware Exceptional launches &#8211; Error tracking and managing for Rails folks and their apps edenbee gets coverage on Mashable &#8211; &#8220;Edenbee or Not to Be? Climate Change Social Network Steps In To Help&#8221; Firefox [...]]]></description>
+				<content:encoded><![CDATA[<p>Some bits and bobs from around the Web2Ireland scene&#8230;</p>
+<p><a href="http://joedrumgoole.com/blog/">Joe</a> survives at <a href="http://undertheradarblog.com/">UTR</a> &#8211; and gets <a href="http://www.webware.com/8301-1_109-9961008-2.html?part=rss&#038;tag=feed&#038;subj=Webware">great coveage</a> for <a href="http://www.putplace.com/">PutPlace</a> in <a href="http://www.webware.com/">webware</a></p>
+<p><a href="http://getexceptional.com/beta">Exceptional launches &#8211; Error tracking and managing for Rails folks and their apps</a></p>
+<p><a href="http://mashable.com/2008/06/05/edenbee-climate-change-social-network/">edenbee gets coverage on Mashable</a> &#8211; &#8220;Edenbee or Not to Be? Climate Change Social Network Steps In To Help&#8221;</p>
+<p><a href="http://mozillaparty.com/en-US/events/view/106">Firefox Party &#8211; Dublin &#8211; June 19th</a>. All over the world, Mozilla will be celebrating the launch of Firefox 3 in late June. Mozilla is sending over lots of prizes/swag for us to give away on the night. The Irish need to live up to the great name we have for partying. Contact Paul Walsh for sponsorship opportunity &#8211; paul AT segala.com SPONSORS BY: <a href="http://www.bt.com/">BT</a>, <a href="http://www.putplace.com/">putplace</a> (http://putplace.com)/ and <a href="http://blacknight.com/">Blacknight</a></p>
+<p><a href="http://segala.com/blog/curry-20-pitch-to-a-waiter/">Curry 2.0 dinner</a> coming up in Dublin &#8211; more details to follow.</p>
+<p>Wexford based <a href="http://www.ubcam.com/">ubcam</a> launches &#8211; looks cool&#8230;</p>
+<p><a href="http://www.polldaddy.com/">Polldaddy</a> at <a href="http://answers.polldaddy.com/">116 million +</a> votes and counting &#8211; Lenny is building quite the <a href="http://vcinme.typepad.com/vc/2008/03/its-all-about-t.html">database of value<br />
+</a></p>
+<p><a href="http://venturebeat.com/2008/06/02/survey-of-vcs-shows-which-regions-have-the-best-technology/">Investment scene/activity @ web</a> &#8211; no mention of Ireland&#8230;</p>
+<p><a href="http://seanmcgrath.blogspot.com/">Sean McGrath</a> &#8211; XML and python expert &#8211; <a href="http://seanmcgrath.blogspot.com/2008/04/fancy-web-20-startup.html">looking for some folks in Web2.0 space to work together.</a>.</p>
+<p><a href="http://www.pixenate.com/">Pixenate</a> &#8211; <a href="http://sxoop.wordpress.com/2008/05/29/photo-editor-plugin-for-movable-type/">plugins for wordpress and MT</a> &#8211; Walter is building a great business in the <a href="http://www.pixenate.com/">photo editing</a> space.</p>
+<p><a href="http://www.downloadmusic.ie/">Downloadmusic</a> &#8211; selling lots of songs via SMS &#8211; clever service with some great International plans</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

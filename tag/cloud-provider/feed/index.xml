@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cloud provider</title>
+	<atom:link href="/tag/cloud-provider/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>What Cloud Provider Do You Use?</title>
+		<link>/2011/06/what-cloud-provider-do-you-use/</link>
+		<comments>/2011/06/what-cloud-provider-do-you-use/#comments</comments>
+		<pubDate>Tue, 07 Jun 2011 16:25:32 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[cloud hosting]]></category>
+		<category><![CDATA[cloud provider]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2079</guid>
+		<description><![CDATA[There&#8217;s been an awful lot of spoof and nonsense written about the cloud in the past few months. As for theÂ hilariousÂ predictions on the number of people who will end up employed in the area in Ireland&#8230;&#8230;. But the positive reality on the ground is that more and more companies are using some form of cloud [...]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s been an awful lot of spoof and nonsense written about the cloud in the past few months. As for theÂ hilariousÂ predictions on the number of people who will end up employed in the area in Ireland&#8230;&#8230;.</p>
+<p>But the positive reality on the ground is that more and more companies are using some form of cloud hosting. Given that the Web2Ireland readership is definitely in the early adopter bracket, we wanted to get some sense of what you are all using. Is it mainly generic servers like AWS or are people moving more towards platform specific hosting like Heroku or Google AppEngine? Is anyone using Azure in anger? What about IBM? Feel free to use the poll and leave a comment.</p>
+<p>If there is enough interest, we may follow it up with a more detailed why/what/when survey.</p>
+<p>[polldaddy poll="5121095"]</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/what-cloud-provider-do-you-use/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

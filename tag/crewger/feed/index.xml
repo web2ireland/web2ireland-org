@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; crewger</title>
+	<atom:link href="/tag/crewger/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Tuesday Push &#8211; Crewger &#8211; Bringing Film Crews together</title>
+		<link>/2008/08/tuesday-push-crewger-bringing-film-crews-together/</link>
+		<comments>/2008/08/tuesday-push-crewger-bringing-film-crews-together/#comments</comments>
+		<pubDate>Tue, 26 Aug 2008 18:34:23 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[crewger]]></category>
+		<category><![CDATA[tuesdaypush]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=698</guid>
+		<description><![CDATA[Crewger is an organisation dedicated to the advancement of the Irish film community by facilitating the production, promotion and exhibition of original content by film-makers of all ages and backgrounds working in Ireland today. With all the activity @ Film Making in Ireland [The Commitments please&#8230;] &#8211; Crewger is an excellent resource for the Film [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.mulley.net/2008images/Crewger1.png" alt="Crewger" /></p>
+<p><em>Crewger is an organisation dedicated to the advancement of the Irish film community by facilitating the production, promotion and exhibition of original content by film-makers of all ages and backgrounds working in Ireland today.</em></p>
+<p>With all the activity @ Film Making in Ireland [<a href="http://www.imdb.com/title/tt0101605/">The Commitments please</a>&#8230;] &#8211; <a href="http://www.crewger.ie/">Crewger</a> is an excellent resource for the Film Industry community in Ireland. </p>
+<p>Damien has a more <a href="http://www.mulley.net/2008/08/26/tuesday-push-august-26th-2008-crewger-bringing-film-crews-together/">in-depth review</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/tuesday-push-crewger-bringing-film-crews-together/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Plink wins Android Developer Challenge</title>
+	<atom:link href="/2009/12/plink-wins-android-developer-challenge/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/12/plink-wins-android-developer-challenge/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Sebastian</title>
+		<link>/2009/12/plink-wins-android-developer-challenge/#comment-1115</link>
+		<dc:creator>Sebastian</dc:creator>
+		<pubDate>Mon, 18 Jan 2010 13:28:28 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1615#comment-1115</guid>
+		<description><![CDATA[Info about the artist, history of the painting etc. includes more than the artist&#039;s name, of course.
+
+This is useful, and at any rate a step forward. The same functionality for sculptures and alike would be the next big step: automatic 3D object recognition via two still images via stereoscopy. The next natural step is a database search robot that does object recognition through a single still image. Video clip analysis seems out of reach a few more 18 monthses.
+
+Check out Google Goggles! (if you have an Android phone.)]]></description>
+		<content:encoded><![CDATA[<p>Info about the artist, history of the painting etc. includes more than the artist&#8217;s name, of course.</p>
+<p>This is useful, and at any rate a step forward. The same functionality for sculptures and alike would be the next big step: automatic 3D object recognition via two still images via stereoscopy. The next natural step is a database search robot that does object recognition through a single still image. Video clip analysis seems out of reach a few more 18 monthses.</p>
+<p>Check out Google Goggles! (if you have an Android phone.)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Fredphoesh</title>
+		<link>/2009/12/plink-wins-android-developer-challenge/#comment-1114</link>
+		<dc:creator>Fredphoesh</dc:creator>
+		<pubDate>Tue, 15 Dec 2009 18:33:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1615#comment-1114</guid>
+		<description><![CDATA[Kinda nice, but every gallery I have been to has the name of the artist right next to the picture!
+
+sooo....]]></description>
+		<content:encoded><![CDATA[<p>Kinda nice, but every gallery I have been to has the name of the artist right next to the picture!</p>
+<p>sooo&#8230;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

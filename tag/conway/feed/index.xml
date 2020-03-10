@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Conway</title>
+	<atom:link href="/tag/conway/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The Real Time Web &#8211; Investor Perspective</title>
+		<link>/2009/06/the-real-time-web-investor-perspective/</link>
+		<comments>/2009/06/the-real-time-web-investor-perspective/#comments</comments>
+		<pubDate>Fri, 12 Jun 2009 12:51:33 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[allthingsd]]></category>
+		<category><![CDATA[building43]]></category>
+		<category><![CDATA[Conway]]></category>
+		<category><![CDATA[Fred Wilson]]></category>
+		<category><![CDATA[realtimeweb]]></category>
+		<category><![CDATA[Scoble]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1257</guid>
+		<description><![CDATA[Great Video from Robert Scoble with Fred Wilson at Union Square Ventures on his new Building43 startup Ties in with Ron Conway, godfather of Angel investing in the valley &#8211; and his new &#8220;investment theme&#8221; &#8211; persistent/real time data. As per Techcrunch piece &#8220;has a goal to invest in 40-50 companies in the next 18 [...]]]></description>
+				<content:encoded><![CDATA[<p>Great Video from <a href="http://scobleizer.com/">Robert Scoble</a> with <a href="http://www.avc.com/">Fred Wilson at Union Square Ventures</a> on his <a href="http://www.building43.com/">new Building43 startup</a></p>
+<p><embed src="http://blip.tv/play/g8sRgYinDpTqFQ%2Em4v" type="application/x-shockwave-flash" width="618" height="378" allowscriptaccess="always" allowfullscreen="true"></embed> </p>
+<p>Ties in with <a href="http://www.crunchbase.com/person/ron-conway">Ron Conway</a>, godfather of Angel investing in the valley &#8211; and his new &#8220;investment theme&#8221; &#8211; persistent/real time data. As per <a href="http://www.techcrunch.com/2009/06/03/ron-conway-to-focus-angel-investments-on-real-time-data/">Techcrunch piece</a> <em>&#8220;has a goal to invest in 40-50 companies in the next 18 months. His focus will be companies exploiting â€œreal-time data,â€ which he calls â€œthe next billion dollar market opportunity.â€ Conway is already an investor in Twitter and Facebook, two companies solidly in the real-time space.&#8221;</em></p>
+<p>Check out this <a href="http://kara.allthingsd.com/20090506/boomtowns-annual-chat-with-silicon-valley-angel-investor-ron-conway/">video with Ron on AllThingsD</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/the-real-time-web-investor-perspective/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

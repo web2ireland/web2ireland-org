@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; chrishorn</title>
+	<atom:link href="/tag/chrishorn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Angel Investing scene in Ireland</title>
+		<link>/2009/09/angel-investing-scene-in-ireland/</link>
+		<comments>/2009/09/angel-investing-scene-in-ireland/#comments</comments>
+		<pubDate>Fri, 04 Sep 2009 12:20:12 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[angelsden]]></category>
+		<category><![CDATA[chrishorn]]></category>
+		<category><![CDATA[cmypitch]]></category>
+		<category><![CDATA[paulwalsh]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1383</guid>
+		<description><![CDATA[Last year at the IWTC keynote event &#8211; the view was that all investment monies were going to commercial properties in the likes of Berlin &#8211; and where was our &#8220;Ron Conway&#8221; &#8211; who actually sold his first business to CBT &#8211; and then went onto to make hundreds of angel investments including the likes [...]]]></description>
+				<content:encoded><![CDATA[<p>Last year at the <a href="http://www.slideshare.net/fergusburns/iwtc-keynote-presentation">IWTC keynote event</a> &#8211; the view was that all investment monies were going to commercial properties in the likes of Berlin &#8211; and where was our <a href="http://www.crunchbase.com/person/ron-conway">&#8220;Ron Conway&#8221;</a> &#8211; who actually sold his first business to CBT &#8211; and then went onto to make hundreds of angel investments including the likes of Google, etc.</p>
+<p>On <a href="http://twitter.com/web2ireland/status/3662365925">twitter recently we asked</a> &#8220;Who are the top 10 Irish Angel investors ?&#8221;</p>
+<p>Response &#8211; 3 names so far. Ray Nolan, Paddy Holohan and Pat Lynch. [we welcome any more names/suggestions]</p>
+<p>Related to Angel investing in Ireland, <a href="http://cmypitch.ie/ie/businesses/cmypitch-live">cmypitch.ie is hosting an event Dublin</a> on 22nd September 2009. The &#8220;Dragons&#8221; are Pat Brazel, Brian Caulfield, Eamonn Fallon and Maurice Roche.</p>
+<p>The uber-connected <a href="http://paulfwalsh.com/blog/">Irish Opportunist, Paul Walsh</a>, has recently joined forces with <a href="http://www.angelsden.co.uk/">Angels Den</a>, and Paul will soon be announcing some exciting new initiatives for the Irish market.</p>
+<p>To cap it off, <a href="http://chrishornat.blogspot.com/">Chris Horn</a>, in today&#8217;s <a href="http://www.irishtimes.com/newspaper/innovation/2009/0904/1224253642455.html">Irish Times</a>, has an excellent piece on the Smart Economy &#8211; Strategy</p>
+<p>Quote</p>
+<p><em>In what sectors can Ireland win? Digital media, renewable energy and novel telecommunications come to mind. But whatever sector, civil servants should not guess what is going to be hot in the years ahead; rather the State agencies should follow and endorse those angels and founders who put their own money, business experience and commitment to work.<br />
+</em></p>
+<p>Any suggestions on how to grow the Angel investing scene in Ireland ? please comment&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/angel-investing-scene-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

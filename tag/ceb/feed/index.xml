@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ceb</title>
+	<atom:link href="/tag/ceb/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Important Change to CEB Funding</title>
+		<link>/2009/09/important-change-to-ceb-funding/</link>
+		<comments>/2009/09/important-change-to-ceb-funding/#comments</comments>
+		<pubDate>Tue, 29 Sep 2009 16:11:51 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[ceb]]></category>
+		<category><![CDATA[enterprise board]]></category>
+		<category><![CDATA[grants]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1432</guid>
+		<description><![CDATA[I was really pleased to just get a mail from West Cork Enterprise Board about the TÃ¡naiste&#8217;s announcement of changes in the way that CEBs can help small businesses. This could really transform the way that grants are handled around the country and finally puts an end to the silliness of people trying to capitalise [...]]]></description>
+				<content:encoded><![CDATA[<p>I was really pleased to just get a mail from <a href="http://www.wceb.ie/">West Cork Enterprise Board</a> about the TÃ¡naiste&#8217;s announcement of changes in the way that CEBs can help small businesses. This could really transform the way that grants are handled around the country and finally puts an end to the silliness of people trying to capitalise the un-capitalisable in order to get CEB support.</p>
+<blockquote><p>The TÃ¡naiste and Minister for Enterprise, Trade and Employment, Ms. Mary Coughlan, T.D., has today announced new initiatives aimed at supporting the development of new businesses and fostering an entrepreneurial culture in Ireland. New financial supports, consisting of a Priming Grant, a Business Expansion Grant and a Feasibility/Innovation Grant will replace the existing Capital, Employment and Feasibility Grants being operated by the County &amp; City Enterprise Boards (CEBs).</p>
+<p>The TÃ¡naiste announced that she has approved a significant broadening of the financial supports that the CEBs can offer their client businesses.  The effect of the move is to broaden the scope of the start up and development costs that can be assisted.  As a result of these changes, supports will now be available for all legitimate business costs directly attributable to starting a new business, or growing and developing a business, rather than being restricted to asset acquisition.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/important-change-to-ceb-funding/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Can you get a Capital Grant for a Web Back-End?</title>
+		<link>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/</link>
+		<comments>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/#comments</comments>
+		<pubDate>Fri, 15 Aug 2008 14:22:03 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[ceb]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[grant]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=693</guid>
+		<description><![CDATA[Keith Bohanna of dbTwang has a very interesting question &#8211; is it possible to get a Capital Grant from a County Enterprise Board for something intangible like the backend of a webapp? Answers on a postcard to his blog.]]></description>
+				<content:encoded><![CDATA[<p>Keith Bohanna of dbTwang has <a href="http://bohanna.typepad.com/pureplay/2008/08/anyone-get-a-ca.html">a very interesting question</a> &#8211; is it possible to get a Capital Grant from a County Enterprise Board for something intangible like the backend of a webapp?</p>
+<p>Answers on a postcard <a href="http://bohanna.typepad.com/pureplay/">to his blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

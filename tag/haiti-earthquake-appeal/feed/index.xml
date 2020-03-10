@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Haiti Earthquake Appeal</title>
+	<atom:link href="/tag/haiti-earthquake-appeal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Community Haiti Earthquake Appeal</title>
+		<link>/2010/01/web2ireland-community-haiti-earthquake-appeal/</link>
+		<comments>/2010/01/web2ireland-community-haiti-earthquake-appeal/#comments</comments>
+		<pubDate>Fri, 15 Jan 2010 15:07:14 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ammado]]></category>
+		<category><![CDATA[Haiti Earthquake Appeal]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1643</guid>
+		<description><![CDATA[Ammado are seeking donations for Haiti Earthquake Appeal Please give what you can to help relieve the suffering of those affected.]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://media.ammado.com/130229b9-6ee6-4c79-ba77-f7ae038d3e19.jpeg" title="Haiti Ammado" class="alignnone" width="174" height="96" /></p>
+<p><a href="http://www.ammado.com/">Ammado</a> are seeking donations for <a href="http://www.ammado.com/community/112111">Haiti Earthquake Appeal </a></p>
+<p>Please <strong><a href="http://www.ammado.com/community/112111">give</a></strong> what you can to help relieve the suffering of those affected.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/web2ireland-community-haiti-earthquake-appeal/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ifoods</title>
+	<atom:link href="/tag/ifoods/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>iFoods re-brands and launches Beta</title>
+		<link>/2009/01/ifoods-re-brands-and-launches-beta/</link>
+		<comments>/2009/01/ifoods-re-brands-and-launches-beta/#comments</comments>
+		<pubDate>Sun, 25 Jan 2009 09:02:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ifoods]]></category>
+		<category><![CDATA[ifoods.tv]]></category>
+		<category><![CDATA[look and taste]]></category>
+		<category><![CDATA[lookandtaste]]></category>
+		<category><![CDATA[niall harbison]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1000</guid>
+		<description><![CDATA[Niall and the crew at iFoods.tv have been working flat out for months to get the new site launched. Yesterday he announced that they are rebranding to Look and Taste and that they are going into private Beta next week. As a total foodie, I love what they are doing and I&#8217;m looking forward to [...]]]></description>
+				<content:encoded><![CDATA[<p>Niall and the crew at iFoods.tv have been working flat out for months to get the new site launched. Yesterday he announced that they are rebranding to <em><a href="http://lookandtaste.com/">Look and Taste</a></em> and that they are going into <a href="http://www.niallh.com/ifoods-revealed/">private Beta next week</a>.</p>
+<p>As a total foodie, I love what they are doing and I&#8217;m looking forward to checking out the beta.</p>
+<p><embed src="http://blip.tv/play/AeiDV43wHA" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/ifoods-re-brands-and-launches-beta/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>iFoods.tv Secures â‚¬400k Investment</title>
+		<link>/2009/01/ifoodstv-secures-e400k-investment/</link>
+		<comments>/2009/01/ifoodstv-secures-e400k-investment/#comments</comments>
+		<pubDate>Sun, 11 Jan 2009 14:40:04 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[emarketer]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[food sites]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[ifoods]]></category>
+		<category><![CDATA[recipe]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=977</guid>
+		<description><![CDATA[I love posting good news and this is just wonderful to hear. Niall Harbison and the crew at iFoods have just announced a â‚¬400k investment. It proves that great businesses with a world class team can still secure serious money. We&#8217;ve been fans of the iFoods concept since day one. They are going to be [...]]]></description>
+				<content:encoded><![CDATA[<p>I love posting good news and this is just wonderful to hear. Niall Harbison and the crew at <a href="http://www.ifoods.tv/">iFoods</a> have just <a href="http://www.niallh.com/?p=231">announced a â‚¬400k investment</a>.</p>
+<p><img class="aligncenter" title="iFoods" src="http://ifoodsmedia.lookandtaste.com/images/logo-letscook.jpg" alt="" width="306" height="154" /></p>
+<p>It proves that great businesses with a world class team can still secure serious money. We&#8217;ve been fans of the iFoods concept since day one. They are going to be serious players in the food web-site niche. <a href="http://www.emarketer.com/Article.aspx?id=1006846">eMarketer</a> did an article on this during the week.</p>
+<p><img class="aligncenter" title="eMarketer" src="http://www.emarketer.com/images/chart_gifs/099001-100000/099478.gif" alt="" width="324" height="191" /></p>
+<p>According to comScore, food sites attracted 45.6 million unique visitors in September 2008, up 10% from 2007â€”more than double the rate of total Internet growth in the US.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/ifoodstv-secures-e400k-investment/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>iFoods.tv looking for CTO</title>
+		<link>/2008/09/ifoodstv-looking-for-cto/</link>
+		<comments>/2008/09/ifoodstv-looking-for-cto/#comments</comments>
+		<pubDate>Tue, 09 Sep 2008 10:20:51 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[cto]]></category>
+		<category><![CDATA[ifoods]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[webdev]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=709</guid>
+		<description><![CDATA[The iFoods guys, who were recently on Dragon&#8217;s Den, are looking for a CTO. Job spec below. Seeking a talented and experience Web Developer (Chief Technical Officer). If you are creative, experience and eager to generate and communicate your ideas &#8211; this might be the job for you. You will play an important role and [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href=" http://ifoods.tv/web/about-us.jsp">iFoods</a> guys, who were recently on Dragon&#8217;s Den, are looking for a CTO. Job spec below.</p>
+<p><img class="alignnone" title="iFoods" src="http://ifoods.tv/web/images/logo-letscook.jpg" alt="" width="306" height="154" /></p>
+<blockquote><p>Seeking a talented and experience Web Developer (Chief Technical Officer). If you are creative, experience and eager to generate and communicate your ideas &#8211; this might be the job for you. You will play an important role and will be responsible for the website development, design clustering Tomcat/Apahe/MySQL, technical issues resolution.</p>
+<p>You would need to be proficient in computer science (BA in IT) with a minimum of 5 years experience, have a capability to generate ideas and communicate them to the company management. You would have strong analytical skills, desire to work as a team member and a potential to lead a team.</p>
+<p>Some of job tasks will include:<br />
+1. Deliver and manage each stage of the project lifecycle of web applications<br />
+2. Develop solutions using JavaScript, D/HTML, JSP, Hibernate, MySQL, AJAX, CSS (running on Redhat.Apache, Tomcat)<br />
+3. Identify and apply the newest technologies<br />
+4. Lead and supervise the team of web developers</p>
+<p>We will offer:</p>
+<p>* Challenging technical projects in a dynamic environment<br />
+* Strong compensation depending on your experience<br />
+* Central office location (Thomas street)<br />
+* Rapid career progression</p></blockquote>
+<p>Apply via <a href="https://www.irishjobs.ie/JobDesc.asp?ID=5733801&amp;MID=1875">Irishjobs.ie here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/ifoodstv-looking-for-cto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

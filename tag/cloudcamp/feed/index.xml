@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cloudcamp</title>
+	<atom:link href="/tag/cloudcamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>CloudCamp and Cloud Summit in September</title>
+		<link>/2009/08/cloudcamp-and-cloud-summit-in-september/</link>
+		<comments>/2009/08/cloudcamp-and-cloud-summit-in-september/#comments</comments>
+		<pubDate>Mon, 31 Aug 2009 19:23:20 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[cloud summit]]></category>
+		<category><![CDATA[cloudcamp]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1380</guid>
+		<description><![CDATA[Fans of cloud computing will be happy to hear that there are two events coming in the next couple of weeks. First off is CloudCamp Sept. 17th in IBM&#8217;s Innovation Centre in Dublin. It&#8217;s a proper *Camp Unconference where early adopters of Cloud Computing technologies exchange ideas. It&#8217;s a free night for all to discuss [...]]]></description>
+				<content:encoded><![CDATA[<p>Fans of cloud computing will be happy to hear that there are two events coming in the next couple of weeks.</p>
+<p>First off is <a href="http://cloudcamp.com/dublin">CloudCamp</a> Sept. 17th in IBM&#8217;s Innovation Centre in Dublin. It&#8217;s a proper *Camp Unconference where early adopters of Cloud Computing technologies exchange ideas. It&#8217;s a free night for all to discuss anything &#8220;Cloud&#8221; and is sponsored by Cisco, Microsoft, IBM, Intel, Hosting365, flexiscale, rightscale and emailcloud. Registration from 6pm and talks, discussion, food etc from 7pm-11pm.</p>
+<p>Then the <a href="http://www.cloudsummit.ie/">Cloud Computing Summit</a> is on in Croke Park from Sep 22nd-23rd. There is a big line-up of speakers and yours truly will be on an end-user panel talking about our experiences with EC2 in LouderVoice. Sponsors include IBM, Eircom, ISA and the NDRC.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/08/cloudcamp-and-cloud-summit-in-september/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

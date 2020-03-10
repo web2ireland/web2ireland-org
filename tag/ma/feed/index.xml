@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; M&amp;A</title>
+	<atom:link href="/tag/ma/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web Reservations International Acquired by Hellmann &amp; Friedman</title>
+		<link>/2009/11/web-reservations-international-acquired-by-hellmann-friedman/</link>
+		<comments>/2009/11/web-reservations-international-acquired-by-hellmann-friedman/#comments</comments>
+		<pubDate>Fri, 13 Nov 2009 12:48:30 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[hostelworld]]></category>
+		<category><![CDATA[M&A]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[webresint]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1567</guid>
+		<description><![CDATA[Web Reservations International (WRI), owner of the Hostelworld.com and boo.com has today announced its acquisition by affiliates of private equity investment firm, Hellman and Friedman LLC. Last month, we reported a â‚¬275m price tag for WRI. Congratulations to the team, and to founders Ray Nolan &#038; Tom Kennedy, as well as early Angel investors Paddy [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.webresint.com/">Web Reservations International (WRI)</a>, owner of the <a href="http://www.hostelworld.com/">Hostelworld.com</a> and <a href="http://www.boo.com/">boo.com</a> has <a href="http://www.webresint.com/pressrelease.php?PressID=658&#038;Type=Coverage">today announced its acquisition</a> by affiliates of private equity investment firm, <a href="http://www.hf.com/">Hellman and Friedman LLC</a>.</p>
+<p>Last month, we reported <a href="http://www.web2ireland.org/2009/10/26/web-reservations-international-up-for-sale-275m-price-tag/">a â‚¬275m price tag for WRI</a>.</p>
+<p>Congratulations to the team, and to founders <a href="http://www.crunchbase.com/person/ray-nolan-2">Ray Nolan</a> &#038; Tom Kennedy, as well as early Angel investors <a href="http://www.crunchbase.com/person/paddy-holahan">Paddy Holohan</a> and Paul McGuinness</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/web-reservations-international-acquired-by-hellmann-friedman/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

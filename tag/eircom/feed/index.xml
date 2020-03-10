@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; eircom</title>
+	<atom:link href="/tag/eircom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Eircom Web Innovation Fund Winners</title>
+		<link>/2009/08/eircom-web-innovation-fund-winners/</link>
+		<comments>/2009/08/eircom-web-innovation-fund-winners/#comments</comments>
+		<pubDate>Wed, 12 Aug 2009 12:15:38 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[beeherd]]></category>
+		<category><![CDATA[diaryplan]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[getitkeepit]]></category>
+		<category><![CDATA[siliconrepublic]]></category>
+		<category><![CDATA[societymail]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1340</guid>
+		<description><![CDATA[Eircom have annouced the winners of their Web Innovation Fund The four winners are Diaryplan SocietyMail Getitkeepit Beeherd Marie has more details at SiliconRepublic]]></description>
+				<content:encoded><![CDATA[<p>Eircom have annouced the winners of their Web Innovation Fund</p>
+<p><img src="http://home.eircom.net//Images/portal/labs/creative_poster_orangelogo_roundedcorners.jpg" alt="eircome" /></p>
+<p>The four winners are</p>
+<p><a href="http://www.diaryplan.com/">Diaryplan</a><br />
+<a href="http://www.SocietyMail.com/">SocietyMail</a><br />
+<a href="http://www.getitkeepit.com/">Getitkeepit</a><br />
+<a href="http://www.beeherd.net/">Beeherd</a></p>
+<p><img src="http://siliconrepublic.com/fs/img/news/200908/378x/eircom-innovation-fund.jpg" alt="Eircom Web Innovation Winners 2009" /></p>
+<p>Marie has more <a href="http://siliconrepublic.com/news/article/13598/randd/social-web-dominates-eircom-innovation-fund">details at SiliconRepublic</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/08/eircom-web-innovation-fund-winners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>eircom innovation fund 2009 &#8211; reminder to community</title>
+		<link>/2009/04/eircom-innovation-fund-2009-reminder-to-community/</link>
+		<comments>/2009/04/eircom-innovation-fund-2009-reminder-to-community/#comments</comments>
+		<pubDate>Thu, 23 Apr 2009 16:00:52 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[mulley]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1147</guid>
+		<description><![CDATA[We blogged on before onEircom Innovation Fund &#8211; but Quick reminder on eircom innovation fund 2009 &#8211; Get your idea in before April 30th [tip to Damien] Full details on the eircom Labs page. Areas to consider for a pitch: * Content (e.g. video, short films, animations, UGC) * Movies and TV (e.g. programme recommendations, [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://home.eircom.net//Images/portal/labs/creative_poster_orangelogo_roundedcorners.jpg" alt="eircom" /></p>
+<p>We blogged on before on<a href="http://www.web2ireland.org/2009/03/24/second-eircom-web-innovation-fund/">Eircom Innovation Fund</a> &#8211; but Quick reminder on eircom innovation fund 2009 &#8211; Get your idea in before April 30th [tip to <a href="http://www.mulley.net/2009/04/22/eircom-innovation-fund-2009-get-your-idea-in-before-april-30th/">Damien</a>]</p>
+<p>Full details on the <a href="http://www.eircom.net/labs/competition/">eircom Labs page</a>.</p>
+<p>Areas to consider for a pitch:</p>
+<p>    * Content (e.g. video, short films, animations, UGC)<br />
+    * Movies and TV (e.g. programme recommendations, listings application, information aggregation, content search, fan communities, recommender systems, discovery tools e.g. data visualisations))<br />
+    * Games (e.g. Flash games, game communities, platforms, multiplayer games, persistent worlds, avatar-based social networks, game creation tools, ratings, reviews, gambling)<br />
+    * News (e.g. personalised news gathering, news aggregation, news submission tools, communities of interest, domain-specific news services)<br />
+    * Music (e.g. Internet radio, streaming / OD services, search / recommendations / personalisation, community tools)<br />
+    * Sport (e.g. communities, results aggregation, fan communities, results prediction, betting, games)<br />
+    * Widgets (e.g. any widget(s) based on the above or additional categories)</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/eircom-innovation-fund-2009-reminder-to-community/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Eircom web innovation fund winners &#8211; HeyStaks, Locle, Playza, TouristR</title>
+		<link>/2008/07/eircom-web-innovation-fund-winners-heystaks-locle-playza-touristr/</link>
+		<comments>/2008/07/eircom-web-innovation-fund-winners-heystaks-locle-playza-touristr/#comments</comments>
+		<pubDate>Mon, 14 Jul 2008 10:41:06 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[heystaks]]></category>
+		<category><![CDATA[locle]]></category>
+		<category><![CDATA[mulley]]></category>
+		<category><![CDATA[playza]]></category>
+		<category><![CDATA[touristr]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=642</guid>
+		<description><![CDATA[Damien Mulley has the details on the Winners of the Eircom Web Innovation Fund [previous coverage here] HeyStaks Locle Playza TouristR From Press release The four chosen companies are: 1. HeyStaks &#8211; HeyStaks is a new approach to Web search that helps searchers to share their search experiences with friends, colleagues, and other searchers. HeyStaks [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.mulley.net/">Damien Mulley</a> has the <a href="http://www.mulley.net/2008/07/14/eircom-web-innovation-fund-winners-heystaks-locle-playza-touristr/">details on the Winners of the Eircom Web Innovation Fund</a> [<a href="http://www.web2ireland.org/2008/06/30/eircom-web-innovation-fund/">previous coverage here</a>]</p>
+<p><img src="http://home.eircom.net/Images//minisite/WebInnovation/web_innov_hdr01.gif" alt="Eircom" /></p>
+<p><a href="http://www.heystaks.com/">HeyStaks</a><br />
+<a href="http://www.locle.com/">Locle</a><br />
+<a href="http://www.playza.com/">Playza</a><br />
+<a href="http://www.touristr.com/">TouristR</a></p>
+<p>From Press release</p>
+<p>   <em> The four chosen companies are:</p>
+<p>    1. HeyStaks &#8211; HeyStaks is a new approach to Web search that helps searchers to share their search experiences with friends, colleagues, and other searchers. HeyStaks is a browser plugin that works with Google and provides users with the ability to create so-called â€œsearch staksâ€ as a way to organise and share their Google searches. For example, a group of friends planning a holiday abroad might create a â€œHoliday 2008â€ search stak. As they individually search for travel, accommodation and entertainment options, their selections will be shared with each other during future searches as specially highlighted search results. In this way all of the friends can see what results have been found to be useful during earlier searches, which may help them during their own searches for that perfect holiday package.</p>
+<p>    Research shows that HeyStaks can help searchers find information more quickly and in turn allow users to create and share many different types of search staks to reflect different topics of interest. In this way search staks can provide users with access to a form of Web search that is powered by their favourite search engine but customised for a particular topic of interest, based on their own search experiences or the search experiences of others.</p>
+<p>    The HeyStaks technology has been developed by Prof. Barry Smythâ€™s research group in University College Dublin and is the first spin-out of the new CLARITY research centre, a â‚¬16m Science Foundation Ireland research centre combining researchers from University College Dublin, Dublin City University, and the Tyndal National Institute.</p>
+<p>    2. Locle &#8211; Locle is a social mapping application for mobile phones that combines information from your mobile handset address book with social networks such as Bebo, Facebook and MySpace to create mapping services that show users where their friends are. Locle is an enhanced mobile web experience that facilitates â€œhereâ€™s where I am, and hereâ€™s where my friends areâ€ for social networks and groups.</p>
+<p>    Locle is a combination of a web service and downloadable mobile phone software. When the Locle mobile client is activated, it identifies the userâ€™s location and presents the location of â€œfriendsâ€ who also use the application. Friends can be both contacts from your mobile phone address book or contacts from your social networks. As well as letting you know where your â€œfriendsâ€ are, Locle can also keep you up to date on relevant information to your location such as local events, news, weather and provide details on local restaurants, cinemas and ATM machines etc.<br />
+    Locle is a Business Expansion Scheme qualified investment.</p>
+<p>    3. Playza &#8211; With most popular online games focused squarely at the adult gaming market, Playza is a new social gaming proposition for â€œDigital Nativesâ€ â€“ our 12 to 24 year olds who have grown up in a digital media environment where mobile phones, social networking, multiplayer online gaming, and music downloading have always been the norm.</p>
+<p>    Playza is made up of a series of connected mini games in which players complete tasks and earn points. Online game players are encouraged to bring their gaming colleagues to Playza and social networkers can invite their online friends to join. The main objective of the game is to form and control player groups. By getting new members into their group, players will increase their standing and capabilities within the games. Playza users can also create their own page to host their game account and mini games. Within their page, users can create their own game groups, receive feedback and messages and post the game to their other sites or blogs such as MySpace or Facebook.</p>
+<p>    Playza combines the addictive nature of online gaming with the community features of a social networking portal.</p>
+<p>    4. TouristR &#8211; TouristR is an integrated full-service trip-planning advisor, which cuts out the online information overload and minimises planning problems. It not only helps the traveller to plan a more complex travel itinerary &#8211; such as a trip with multiple destinations on a fixed budget and timeline â€“ but it also draws on content submitted by a community of users which will help the traveller to decide on a destination by getting a sense of the type of experience available at their chosen destination.</p>
+<p>    A new breed of unique Web 2.0 travel service, TouristR will feature stories, adventures and photographs of destinations submitted by users as well as aid the traveller who needs to factor in multiple elements to their trip such as budgetary, geographical, temporal and other personal preferences and restrictions. </em></p>
+<p>You can learn more about the <a href="http://home.eircom.net/minisite/WebInnovationFund/">Eircom Innovation Fund here</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/eircom-web-innovation-fund-winners-heystaks-locle-playza-touristr/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Eircom Web Innovation Fund</title>
+		<link>/2008/06/eircom-web-innovation-fund/</link>
+		<comments>/2008/06/eircom-web-innovation-fund/#comments</comments>
+		<pubDate>Mon, 30 Jun 2008 16:19:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[innovation fund]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=634</guid>
+		<description><![CDATA[Great initiative from Eircom on their Web Innovation Fund No sign of white smoke from Eircom HQ on official winners.. but Web2Ireland community feel free to let us know who&#8217;s the bookies favourites. [leave comments]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://home.eircom.net/Images//minisite/WebInnovation/web_innov_hdr01.gif" alt="eircome" /></p>
+<p>Great initiative from <a href="http://home.eircom.net/">Eircom</a> on their <a href="http://home.eircom.net/minisite/WebInnovationFund/">Web Innovation Fund</a></p>
+<p>No sign of white smoke from Eircom HQ on official winners.. but Web2Ireland community feel free to let us know who&#8217;s the bookies favourites. [leave comments]</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/eircom-web-innovation-fund/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>IGOPeople to launch in October 2008</title>
+		<link>/2008/05/igopeople-to-launch-in-october-2008/</link>
+		<comments>/2008/05/igopeople-to-launch-in-october-2008/#comments</comments>
+		<pubDate>Fri, 23 May 2008 10:32:39 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[igopeople]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=613</guid>
+		<description><![CDATA[IGOPeople &#8211; which is led by Campbell Scott, the former Eircom director of consumer solutions &#8211; is ramping up for launch. The online service will connect consumers and brands &#8211; through the use of social technology &#8211; helping brands communicate better with consumers &#8211; and facilitating consumers helping consumers. The SBPost has some coverage on [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.igopeople.com/images/igopeople_logo_large.png" alt="iGoPeople" /></p>
+<p><a href="http://www.igopeople.com/">IGOPeople</a> &#8211; which is led by Campbell Scott, the former <a href="http://www.eircom.net/">Eircom</a> director of consumer solutions &#8211; is ramping up for launch. </p>
+<p>The online service will connect consumers and brands &#8211; through the use of social technology &#8211; helping brands communicate better with consumers &#8211; and facilitating consumers helping consumers.</p>
+<p>The SBPost has some <a href="http://www.sbpost.ie/post/pages/p/story.aspx-qqqt=TECHNOLOGY-qqqm=nav-qqqid=32718-qqqx=1.asp">coverage on funding plans</a></p>
+<p>From website<br />
+<em><a href="http://www.igopeople.com/">IGOpeople</a> provides individuals, groups and organisations with a new way to find, connect, share, communicate and to conduct business. Whether you need to work with one person or with many, IGOpeople is the place for you to get things done.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/igopeople-to-launch-in-october-2008/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

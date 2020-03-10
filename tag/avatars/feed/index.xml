@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; avatars</title>
+	<atom:link href="/tag/avatars/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Pixenate and Twitter in a tree, k..i..s..s</title>
+		<link>/2009/01/pixenate-and-twitter-in-a-tree-kiss/</link>
+		<comments>/2009/01/pixenate-and-twitter-in-a-tree-kiss/#comments</comments>
+		<pubDate>Wed, 07 Jan 2009 08:12:39 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[avatars]]></category>
+		<category><![CDATA[hosted ohoto editing]]></category>
+		<category><![CDATA[photo editing]]></category>
+		<category><![CDATA[pixenate]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=968</guid>
+		<description><![CDATA[Walter Higgins has just released the latest version ofÂ Pixenate ~ the online photo editor. This version has a new Transparency tool which makes it easy to create cut-outs from your photos and images. Smaller web publishers can use the Pixenate hosted service which starts at â‚¬29 Euro per month. Despite Walter&#8217;s constant grumping about Twitter [...]]]></description>
+				<content:encoded><![CDATA[<p>Walter Higgins has <a href="http://sxoop.wordpress.com/2009/01/05/pixenate-version-134-released/">just released</a> the latest version ofÂ <a href="http://pixenate.com/productinfo/">Pixenate ~ the online photo editor</a>. This version has a new Transparency tool which makes it easy to create cut-outs from your photos and images.</p>
+<p><img class="aligncenter" title="Pixenate" src="http://pixenate.com/pixenate/images/logo2007-215x60a.gif" alt="" width="215" height="60" /></p>
+<p>Smaller web publishers can use the Pixenate hosted service which <a href="http://pixenate.com/purchase/ondemand.html">starts at â‚¬29 Euro per month</a>.</p>
+<p>Despite <a href="http://twitter.com/walter/statuses/919125113">Walter&#8217;s</a> constant grumping about Twitter <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> , they also had more than 800 twits use Pixenate toÂ <a href="http://walterhiggins.net/projects/twixenate/index.pl">make festive twitter avatars</a>Â in the run up to Christmas.</p>
+<p>It looks like 2009 is going to be another top year for the Pixenate crew.</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/product/pixenate">Pixenate</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/product/pixenate.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/product/twitter">Twitter</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/product/twitter.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/pixenate-and-twitter-in-a-tree-kiss/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

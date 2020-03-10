@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; application</title>
+	<atom:link href="/tag/application/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Help applying to Seedcamp continued</title>
+		<link>/2008/07/help-applying-to-seedcamp-continued/</link>
+		<comments>/2008/07/help-applying-to-seedcamp-continued/#comments</comments>
+		<pubDate>Thu, 31 Jul 2008 22:25:52 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[application]]></category>
+		<category><![CDATA[oriel house]]></category>
+		<category><![CDATA[seedcamp]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=676</guid>
+		<description><![CDATA[In a previous post Conor wrote about applying for Seedcamp.Â  From the poll it seems a good number of people would like a little help filling out the application form (including myself) and some are available to lend a hand from their own experience of applying last year. A room has been arranged in Oriel [...]]]></description>
+				<content:encoded><![CDATA[<p>In a previous post Conor wrote about <a href="http://www.web2ireland.org/2008/07/23/want-to-help-or-need-help-applying-to-seedcamp/">applying for Seedcamp</a>.Â  From the poll it seems a good number of people would like a little help filling out the application form (including myself) and some are available to lend a hand from their own experience of applying last year.</p>
+<p>A room has been arranged in Oriel House Hotel in Ballincollig, Cork for Thursday August 7th starting at around 9am.</p>
+<p>It will be quite informal, the aim it to get practical advise from each other on answering some of the questions on the form to highlight your business or idea as best as possible.</p>
+<p>I&#8217;ll have print outs of the questions with me on the day. Anyone who&#8217;d like the them before hand, heres a link to the the <a href="http://seedcamp.com/Seedcamp-app_and_guidelines_2008.pdf">Seedcamp application PDF</a>.</p>
+<p>Some <a href="http://www.ewritecork.com/blog/2008/07/oriel-house-booked-for-seedcorn-application-brainstorming/">further information about the Oriel house location</a> over on my own blog.</p>
+<p>See you there!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/help-applying-to-seedcamp-continued/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

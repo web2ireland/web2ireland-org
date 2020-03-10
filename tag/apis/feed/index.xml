@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; apis</title>
+	<atom:link href="/tag/apis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>OpenData Challenge &#8211; Time to flex those developer muscles</title>
+		<link>/2011/06/opendata-challenge-time-to-flex-those-developer-muscles/</link>
+		<comments>/2011/06/opendata-challenge-time-to-flex-those-developer-muscles/#comments</comments>
+		<pubDate>Thu, 16 Jun 2011 12:05:36 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[opengov]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2088</guid>
+		<description><![CDATA[And do something useful for the community/country. NDRC&#8217;s Inventorium is running Irelandâ€™s First Open Data 18 Hour Challenge. NDRC, Crane St, Digital Hub, Dublin 8 Monday 4 July &#8211; Starts: 12.00, Finishes: 21.00 Tuesday 5 July &#8211; Starts: 09.00, Finishes: 21.00 Register Here I absolutely love seeing this happen. Looking forward to seeing some great [...]]]></description>
+				<content:encoded><![CDATA[<p>And do something useful for the community/country.</p>
+<p><a href="http://www.inventorium.org/">NDRC&#8217;s Inventorium</a> is running Irelandâ€™s First Open Data 18 Hour Challenge.</p>
+<p>NDRC, Crane St, Digital Hub, Dublin 8<br />
+Monday 4 July &#8211; Starts: 12.00, Finishes: 21.00<br />
+Tuesday 5 July &#8211; Starts: 09.00, Finishes: 21.00</p>
+<p><a href="http://www.inventorium.org/events">Register Here</a></p>
+<p>I absolutely love seeing this happen. Looking forward to seeing some great apps.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/opendata-challenge-time-to-flex-those-developer-muscles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RTE News on API Wars &amp; Facebook Garage</title>
+		<link>/2009/03/rte-news-on-api-wars-facebook-garage/</link>
+		<comments>/2009/03/rte-news-on-api-wars-facebook-garage/#comments</comments>
+		<pubDate>Sat, 07 Mar 2009 16:32:36 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[rte]]></category>
+		<category><![CDATA[rte news]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1054</guid>
+		<description><![CDATA[Lots more posts coming about Thursdays events. Suffice to say it blew away everyone&#8217;s expectations. 150+ people spent the afternoon learning and networking. Thanks again to all the speakers. Here is RTE&#8217;s coverage of it (full news episode on RTE site here):]]></description>
+				<content:encoded><![CDATA[<p>Lots more posts coming about Thursdays events. Suffice to say it blew away everyone&#8217;s expectations. 150+ people spent the afternoon learning and networking. Thanks again to all the speakers. Here is RTE&#8217;s coverage of it (full news episode <a href="http://www.rte.ie/news/2009/0305/newsontwo_av.html">on RTE site here</a>):</p>
+<p><embed src="http://blip.tv/play/AfHQTYGyBw" type="application/x-shockwave-flash" width="352" height="318" allowscriptaccess="always" allowfullscreen="true"></embed> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/rte-news-on-api-wars-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Show and Tell at API Wars and Facebook Garage</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/</link>
+		<comments>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comments</comments>
+		<pubDate>Mon, 02 Mar 2009 19:13:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[facebook garage]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042</guid>
+		<description><![CDATA[The sign-ups for both API Wars and Facebook Garage have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â  But it turns out [...]]]></description>
+				<content:encoded><![CDATA[<p>The sign-ups for both <a href="http://www.eventbrite.com/event/293675391">API Wars</a> and <a href="http://www.facebook.com/event.php?eid=53311687551&amp;ref=mf">Facebook Garage</a> have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â </p>
+<p>But it turns out that many of you are being far too coy. Events like these, which at heart are Unconferences or Unevents, rely on those attending to be more than passive listeners.</p>
+<p>That&#8217;s why we&#8217;re putting the call out. <strong><em>If you want to talk on any topic relevant to either session, let us know</em></strong>. You don&#8217;t need slides, heck you don&#8217;t need notes, just have something interesting to say. Got an app with an API? Wanna tell people about it? Let us know. Got an app that mashes-up a bunch of APIs? Let us know. Integrated Facebook Connect or built an FB App? Let us know.</p>
+<p>web2ireland DOT editor AT gmail DOT com</p>
+<p>Operators are standing by, come on down.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

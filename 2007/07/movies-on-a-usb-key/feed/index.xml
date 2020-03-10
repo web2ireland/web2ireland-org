@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Movies on a USB Key</title>
+	<atom:link href="/2007/07/movies-on-a-usb-key/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/07/movies-on-a-usb-key/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2007/07/movies-on-a-usb-key/#comment-412</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Tue, 17 Jul 2007 18:15:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/07/17/movies-on-a-usb-key/#comment-412</guid>
+		<description><![CDATA[Their CEO gave a great presentation at the IBM Innovation Centre Launch. Deeply negative about trying to grow and finance a business in Ireland but lots of interesting lessons. The partnership with IBM seems to have worked very well for them.]]></description>
+		<content:encoded><![CDATA[<p>Their CEO gave a great presentation at the IBM Innovation Centre Launch. Deeply negative about trying to grow and finance a business in Ireland but lots of interesting lessons. The partnership with IBM seems to have worked very well for them.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; irishdev</title>
+	<atom:link href="/tag/irishdev/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Thucydides &#8211; Web Testing for Devs &#8211; Event this Thursday March 1st</title>
+		<link>/2012/02/thucydides-web-testing-for-devs-event-this-thursday-march-1st/</link>
+		<comments>/2012/02/thucydides-web-testing-for-devs-event-this-thursday-march-1st/#comments</comments>
+		<pubDate>Sun, 26 Feb 2012 13:56:13 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[irishdev]]></category>
+		<category><![CDATA[testing]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2184</guid>
+		<description><![CDATA[The Irish Software Developer Network (ISDN &#8211; love it!) is running an event this Thursday all about automated web testing. In this talk, John Ferguson Smart will look at the advantages of using Selenium 2/WebDriver for your web tests, and see what Thucydides brings to the party. It kicks off at 6.30pm at the TCube, [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://irishdev.com/">Irish Software Developer Network</a> (ISDN &#8211; love it!) is running an event this Thursday all about automated web testing.</p>
+<p>In this talk, John Ferguson Smart will look at the advantages of using <a href="http://seleniumhq.org/">Selenium 2</a>/WebDriver for your web tests, and see what <a href="http://www.wakaleo.com/resources/thucydides-automated-testing-library">Thucydides</a> brings to the party.</p>
+<p>It kicks off at 6.30pm at the TCube, 32-34 Castle St, Dublin. Free beer and pizza too.</p>
+<p>All the details and info about the live stream <a href="http://irishdev.com/Home/Events/614-Thucydides--Web-Testing-for-Devs.html">over on IrishDev</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/thucydides-web-testing-for-devs-event-this-thursday-march-1st/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

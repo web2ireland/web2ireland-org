@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; emmett kilduff</title>
+	<atom:link href="/tag/emmett-kilduff/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>cmypitch launches in Ireland</title>
+		<link>/2009/06/cmypitch-launches-in-ireland/</link>
+		<comments>/2009/06/cmypitch-launches-in-ireland/#comments</comments>
+		<pubDate>Mon, 29 Jun 2009 13:36:02 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cmypitch]]></category>
+		<category><![CDATA[emmett kilduff]]></category>
+		<category><![CDATA[microsoft ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1284</guid>
+		<description><![CDATA[cmypitch, founded by Irishman, Emmett Kilduff, has just launched in Ireland &#8220;It will connect entrepreneurs with investors. cmypitch.ie provides businesses with the unique opportunity to upload their own video pitch onto the secure platform, for a registered network of investors to watch and inform their investment decisions. In addition, entrepreneurs can learn how to become [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://cmypitch.ie/ie">cmypitch</a>, founded by Irishman, <a href="http://www.linkedin.com/in/urlurl">Emmett  Kilduff</a>, has just launched in Ireland</p>
+<p><em>&#8220;It will connect entrepreneurs with investors. cmypitch.ie provides businesses with the unique opportunity to upload their own video pitch onto the secure platform, for a registered network of investors to watch and inform their investment decisions. In addition, entrepreneurs can learn how to become &#8220;investor ready&#8221; by watching video tips from the best Irish (e.g. Eddie Jordan, Ray Nolan) and international (e.g. Doug Richard, James Caan) entrepreneurs and by downloading the best &#8216;how to&#8217; guides.</p>
+<p>For investors, cmypitch.ie has the potential to open up all of Ireland&#8217;s best investment opportunities and makes identifying the most attractive deals more efficient. Investors can save valuable time, allowing them to not only assess the business opportunity but also the people behind the proposition. Pitches can be filtered by size, sector and rating &#8211; all key considerations for investors. Investors can also receive email alerts when a new pitch is added that matches their preferred criteria.&#8221;</em></p>
+<p>cmypitch.ie will also hold regular offline pitching events called &#8220;cmypitch Live&#8221;, where entrepreneurs get the unique opportunity to pitch to a room full of investors. Events like these will offer entrepreneurs the opportunity to complement their video pitch with more traditional face-to-face pitching and networking. </p>
+<p>cmypitch.ie has been endorsed by some very successful Irish entrepreneurs: Eddie Jordan (F1), Philip Lynch (IAWS, One51), Patrick Brazel (former Chairman of Irish Software Association), James Morris (Windmill Lane, TV3) and Tony Kilduff (Kindle).</p>
+<p>cmypitch.ie has already signed several partners: Bank of Scotland (Ireland), Deloitte, The Irish Times, Microsoft and William Fry.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/cmypitch-launches-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

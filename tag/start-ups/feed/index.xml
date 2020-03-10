@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; start-ups</title>
+	<atom:link href="/tag/start-ups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Looking for a Mentor or Potential Investor?</title>
+		<link>/2009/01/looking-for-a-mentor-or-potential-investor/</link>
+		<comments>/2009/01/looking-for-a-mentor-or-potential-investor/#comments</comments>
+		<pubDate>Wed, 28 Jan 2009 10:01:39 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[hpsu]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[mentor]]></category>
+		<category><![CDATA[start-ups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1007</guid>
+		<description><![CDATA[Mary Boyle in Enterprise Ireland in Sligo has contacted us to let everyone know that a very experienced person from the Irish tech sector is looking to mentor and potentially invest in high potential startups. If this is of interest to you, then put together a one-page overview of your biz and send it toÂ Mary [...]]]></description>
+				<content:encoded><![CDATA[<p>Mary Boyle in Enterprise Ireland in Sligo has contacted us to let everyone know that a very experienced person from the Irish tech sector is looking to mentor and potentially invest in high potential startups.</p>
+<p>If this is of interest to you, then put together a one-page overview of your biz and send it toÂ Mary DOT Boyle AT enterprise-ireland DOT com along with all your contact details.</p>
+<p>UPDATE: The person in questionÂ is going through all the proposals he has been sent. He is delighted with the level of interest &amp; the potential in the companies. He doesnâ€™t want any more submssions until he evaluates the ones he has. Â He will get back directly to companies he is interested in talking to.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/looking-for-a-mentor-or-potential-investor/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>New Start-up Programme Announced for West and Midlands</title>
+		<link>/2009/01/new-start-up-programme-announced-for-west-and-midlands/</link>
+		<comments>/2009/01/new-start-up-programme-announced-for-west-and-midlands/#comments</comments>
+		<pubDate>Sat, 10 Jan 2009 14:35:15 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Training]]></category>
+		<category><![CDATA[enterprise]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[incubation]]></category>
+		<category><![CDATA[start-ups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=974</guid>
+		<description><![CDATA[LouderVoice is currently on the Genesis Enterprise Programme in the Rubicon Centre in CIT. I can&#8217;t recommend it highly enough. These schemes give people the opportunity to start a business with a support infrastructure around them. The advice and training alone are worth their weight in gold. Brian O&#8217;Malley from EI in Sligo contacted us [...]]]></description>
+				<content:encoded><![CDATA[<p>LouderVoice is currently on the Genesis Enterprise Programme in the Rubicon Centre in CIT. I can&#8217;t recommend it highly enough. These schemes give people the opportunity to start a business with a support infrastructure around them. The advice and training alone are worth their weight in gold.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-975" title="mwep" src="http://www.web2ireland.org/wp-content/uploads/2009/01/mwep.jpg" alt="mwep" width="166" height="242" /></p>
+<p>Brian O&#8217;Malley from EI in Sligo contacted us to tell us about the West and Midlands version of this programme:</p>
+<blockquote><p>An Open Evening will take place in the Innovation in Business Centre(IiBC) at GMIT Castlebar on Wednesday 21st Jan from 5pm â€“ 8pm outlining the 2009 Midlands &amp; West Enterprise Programme (MWEP), commencing in March 2009, for people interested in starting their own business.</p>
+<p>The one-year programme is a collaboration between GMIT and Athlone IT, and provides entrepreneurs with business skills, networks, facilities and supports necessary to navigate the business start-up process. It is delivered in GMITâ€™s campuses in Galway and Mayo, and in Athlone IT.</p>
+<p>Applications are now being accepted.</p>
+<p>Anyone interested in signing up for the course should ideally have a number of years industry experience and have the enthusiasm and drive necessary to develop and grow a successful business. The MWEP may also be of interest to expatriates who are hoping to return home to set up their own business in the West of Ireland. Participants may apply to Enterprise Ireland for CORD funding, which could provide up to 50 per cent of previous yearâ€™s gross salary.</p>
+<p>The MWEP provides participants with business acumen, office desk space, mentoring, networking, facilities, and supports necessary to help them in establishing and running their own businesses. Participants should have a business idea with growth and export potential.</p>
+<p>For further details, please contact Maria Staunton who is the business incubation manager at GMIT Castlebar on 094-9043198 or maria.staunton@gmit.ie</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/new-start-up-programme-announced-for-west-and-midlands/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

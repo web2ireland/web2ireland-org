@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; leitrim</title>
+	<atom:link href="/tag/leitrim/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The Tuesday Push is DownloadMusic.ie</title>
+		<link>/2008/09/the-tuesday-push-is-downloadmusicie/</link>
+		<comments>/2008/09/the-tuesday-push-is-downloadmusicie/#comments</comments>
+		<pubDate>Tue, 23 Sep 2008 08:09:51 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[downloadmusic]]></category>
+		<category><![CDATA[johnny beirne]]></category>
+		<category><![CDATA[leitrim]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=730</guid>
+		<description><![CDATA[There are apps/sites I like and apps/sites I love. DownloadMusic is in the latter category. One of those businesses that just nails the elevator pitch. As soon as you hear how it works, you get it.Â  Johnny Beirne is the guy behind it and he has built something of perfect simplicity. Buy independent Irish music [...]]]></description>
+				<content:encoded><![CDATA[<p>There are apps/sites I like and apps/sites I love. <a href="http://www.downloadmusic.ie/">DownloadMusic</a> is in the latter category. One of those businesses that just nails the elevator pitch. As soon as you hear how it works, you get it.Â </p>
+<p>Johnny Beirne is the guy behind it and he has built something of perfect simplicity. Buy independent Irish music using SMS shortcodes. That&#8217;s it. I&#8217;ve used it, I&#8217;m in a permanent state of envy over how well it works.</p>
+<p><a title="downloadmusic by conor" href="http://pix.ie/conor/685091"><img src="http://photos4.pix.ie/A1/2B/A12B4B123DBA4ADF965619B0355100A3-500.jpg" alt="downloadmusic" width="500" height="341" /></a></p>
+<p>From such a simple system, he has added value in so many places. The downloads now count in the Irish charts and have had a material effect on them on many occasions. The knock-on effect for small Irish bands is just enormous.</p>
+<p>Because it is SMS based, bands can literally shout out short-codes on stage. Offline and online are now seamless! Not only that, but the site has been expanded to include band merchandise too.Â </p>
+<p>The recent launch of a USB key featuring 15 of the best Indie tracks from DownloadMusic is another bit of marketing brilliance.</p>
+<p><a href="http://www.downloadmusic.ie/">Head on over</a>, play a few clips and try it out. If you like it, why not blog about it too?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/the-tuesday-push-is-downloadmusicie/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

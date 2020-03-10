@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; lbs</title>
+	<atom:link href="/tag/lbs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Buzzing Mobile Grapevine</title>
+		<link>/2008/04/buzzing-mobile-grapevine/</link>
+		<comments>/2008/04/buzzing-mobile-grapevine/#comments</comments>
+		<pubDate>Sun, 13 Apr 2008 19:38:48 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[lbs]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[social]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=575</guid>
+		<description><![CDATA[I predicted that 2008 would be the year of mobile and it seems to be coming true in a big way. I&#8217;ve been hearing some very exciting things about not just one but two mobile apps in the social space being cooked up in Ireland! Both are still under tight wraps but I believe they [...]]]></description>
+				<content:encoded><![CDATA[<p>I predicted that 2008 would be the year of mobile and it seems to be coming true in a big way. I&#8217;ve been hearing some very exciting things about not just one but two mobile apps in the social space being cooked up in Ireland!</p>
+<p>Both are still under tight wraps but I believe they are getting lots of attention from the investment community. Could we finally be seeing some of that â‚¬170m being put to good use?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/buzzing-mobile-grapevine/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

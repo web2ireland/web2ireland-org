@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Profile &#8211; Glowday [see them at DemoBar]</title>
+	<atom:link href="/2007/09/profile-glowday-see-them-at-demobar/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/09/profile-glowday-see-them-at-demobar/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Daniel Becker</title>
+		<link>/2007/09/profile-glowday-see-them-at-demobar/#comment-472</link>
+		<dc:creator>Daniel Becker</dc:creator>
+		<pubDate>Fri, 14 Sep 2007 14:20:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/09/10/profile-glowday-see-them-at-demobar/#comment-472</guid>
+		<description><![CDATA[Photos of DemoBar.
+http://devblog.glowday.com/2007/09/glowday-launch-demobar.html
+Daniel]]></description>
+		<content:encoded><![CDATA[<p>Photos of DemoBar.<br />
+<a href="http://devblog.glowday.com/2007/09/glowday-launch-demobar.html" rel="nofollow">http://devblog.glowday.com/2007/09/glowday-launch-demobar.html</a><br />
+Daniel</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

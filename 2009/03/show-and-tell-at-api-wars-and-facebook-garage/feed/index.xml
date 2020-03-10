@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Show and Tell at API Wars and Facebook Garage</title>
+	<atom:link href="/2009/03/show-and-tell-at-api-wars-and-facebook-garage/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comment-913</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Tue, 03 Mar 2009 12:09:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042#comment-913</guid>
+		<description><![CDATA[Thanks Colm, the local developer interest in Facebook seems to have had another big boost with Connect. The opening up of the Live Feed has a lot of people excited too. Looking forward to Thursday.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Colm, the local developer interest in Facebook seems to have had another big boost with Connect. The opening up of the Live Feed has a lot of people excited too. Looking forward to Thursday.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Colm Long</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comment-912</link>
+		<dc:creator>Colm Long</dc:creator>
+		<pubDate>Tue, 03 Mar 2009 12:00:09 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042#comment-912</guid>
+		<description><![CDATA[Great to see signups going so well and the event getting so much interest. The facebook team is really looking forward to it. Big thanks to John Kennedy at silicon republic for the coverage.]]></description>
+		<content:encoded><![CDATA[<p>Great to see signups going so well and the event getting so much interest. The facebook team is really looking forward to it. Big thanks to John Kennedy at silicon republic for the coverage.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: rock glen hotel</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comment-911</link>
+		<dc:creator>rock glen hotel</dc:creator>
+		<pubDate>Tue, 03 Mar 2009 11:54:26 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042#comment-911</guid>
+		<description><![CDATA[yup itzz workin...]]></description>
+		<content:encoded><![CDATA[<p>yup itzz workin&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comment-910</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Tue, 03 Mar 2009 08:39:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042#comment-910</guid>
+		<description><![CDATA[Your comments here will now (optionally) be posted to your Facebook Profile.]]></description>
+		<content:encoded><![CDATA[<p>Your comments here will now (optionally) be posted to your Facebook Profile.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comment-909</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Tue, 03 Mar 2009 08:30:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042#comment-909</guid>
+		<description><![CDATA[Nice piece on Facebook Ireland in &lt;a href=&quot;http://www.siliconrepublic.com/news/article/12403/facebook-keen-to-work-with-savvy-developers&quot; rel=&quot;nofollow&quot;&gt;Silicon Republic&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>Nice piece on Facebook Ireland in <a href="http://www.siliconrepublic.com/news/article/12403/facebook-keen-to-work-with-savvy-developers" rel="nofollow">Silicon Republic</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

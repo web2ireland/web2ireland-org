@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; INM</title>
+	<atom:link href="/tag/inm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Independent News &amp; Media &#8211; going web2.0</title>
+		<link>/2008/04/independent-news-media-going-web20/</link>
+		<comments>/2008/04/independent-news-media-going-web20/#comments</comments>
+		<pubDate>Tue, 29 Apr 2008 21:21:13 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[INM]]></category>
+		<category><![CDATA[truphone]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=589</guid>
+		<description><![CDATA[The Sir Tony O&#8217;Reilly controlled Independent News &#038; Media PLC [INM] recently invested in Truphone. This investment is a very positive sign for the Web2Ireland community &#8211; as INM &#8211; are very active in the online sector [they have over 100 online services/sites already]. INM could perhaps look at what the Burda Media group do [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://en.wikipedia.org/wiki/Tony_O%27Reilly">Sir Tony O&#8217;Reilly</a> controlled <a href="http://www.inmplc.com/">Independent News &#038; Media PLC</a> [INM]  <a href="http://www.techcrunch.com/2008/04/17/cheap-calls-truphone-raises-165-million-in-series-b/">recently invested</a> in <a href="http://www.truphone.com/">Truphone</a>.</p>
+<p>This investment is a very positive sign for the Web2Ireland community &#8211; as INM &#8211; are very active in the online sector [they have over 100 online services/sites already]. </p>
+<p>INM could perhaps look at what the <a href="http://www.hubert-burda-media.com/">Burda Media </a> group do in Germany &#8211; stimulating the German internet startup sector with investments, and hosting the world renowned <a href="http://www.hubert-burda-media.com/press/press_releases/dld_presents_the_new_picture_of_the_world__3666">DLD Conference</a>.</p>
+<p>Will be interesting to watch out in 2008 for future investments from INM</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/independent-news-media-going-web20/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

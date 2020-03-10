@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; eicom</title>
+	<atom:link href="/tag/eicom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Second Eircom Web Innovation Fund</title>
+		<link>/2009/03/second-eircom-web-innovation-fund/</link>
+		<comments>/2009/03/second-eircom-web-innovation-fund/#comments</comments>
+		<pubDate>Tue, 24 Mar 2009 10:02:03 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[eicom]]></category>
+		<category><![CDATA[eircom fund]]></category>
+		<category><![CDATA[mentoring]]></category>
+		<category><![CDATA[seed capital]]></category>
+		<category><![CDATA[startups]]></category>
+		<category><![CDATA[support]]></category>
+		<category><![CDATA[web innovation fund]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1090</guid>
+		<description><![CDATA[Last year&#8217;s Eircom Fund got a lot of buzz and it was fantastic to see Locle, Touristr, Heystaks and Playza win. They have spent the year busy building their apps with financial and other supports from Eircom. This year&#8217;s Web Innovation fund has been announced and once again they are looking for fantastic web ideas [...]]]></description>
+				<content:encoded><![CDATA[<p>Last year&#8217;s Eircom Fund got a lot of buzz and it was fantastic to see Locle, Touristr, Heystaks and Playza win. They have spent the year busy building their apps with financial and other supports from Eircom.</p>
+<p style="text-align: center;"><img class="aligncenter" title="Eircom Web Innovation Fund" src="http://home.eircom.net//Images/portal/labs/creative_poster_orangelogo_roundedcorners.jpg" alt="" width="415" height="297" /></p>
+<p>This year&#8217;s <a href="http://labs.eircom.net/">Web Innovation fund</a> has been announced and once again they are looking for fantastic web ideas that they can help nuture and promote on the eircom.net site. Each of the 4 winners will get â‚¬16k upfront prize money to start with followed by a year of mentoring and support.</p>
+<p>Your idea should be in one of the following areas:</p>
+<ul>
+<li>Content (e.g. video, short films, animations, UGC)</li>
+<li>Movies and TV (e.g. programme recommendations, listings application, information aggregation, content search, fan communities, recommender systems, discovery tools e.g. data visualisations))</li>
+<li>Games (e.g. Flash games, game communities, platforms, multiplayer games, persistent worlds, avatar-based social networks, game creation tools, ratings, reviews, gambling)</li>
+<li>News (e.g. personalised news gathering, news aggregation, news submission tools, communities of interest, domain-specific news services)</li>
+<li>Music (e.g. Internet radio, streaming / OD services, search / recommendations / personalisation, community tools)</li>
+<li>Sport (e.g. communities, results aggregation, fan communities, results prediction, betting, games)</li>
+<li>Widgets (e.g. any widget(s) based on the above or additional categories)</li>
+</ul>
+<p>Closing Date for applications is April 30th and they have a <a href="http://www.facebook.com/home.php/#/group.php?gid=6220969138">Facebook Group</a> here.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/second-eircom-web-innovation-fund/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

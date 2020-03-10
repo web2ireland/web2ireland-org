@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; zapa</title>
+	<atom:link href="/tag/zapa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Delta backs another Payzone Alumni</title>
+		<link>/2009/07/delta-backs-another-payzone-alumni/</link>
+		<comments>/2009/07/delta-backs-another-payzone-alumni/#comments</comments>
+		<pubDate>Wed, 15 Jul 2009 13:48:00 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[delta]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[NFC]]></category>
+		<category><![CDATA[zapa]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1324</guid>
+		<description><![CDATA[SiliconRepublic reports on the latest startup to come from the Payzone Alumni, Zapa Technology. Zapa has also raised â‚¬2.5m from Delta Partners, which follows on from Delta&#8217;s investment in the MBO of Payzone, Branded Payment Solutions. The founder of Zapa, John Nagle, has experience of rolling out mobile payment services in stores around Ireland and [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://siliconrepublic.com/news/article/13349/comms/delta-invests-2-5m-in-near-field-communication-venture/">SiliconRepublic reports</a> on the latest startup to come from the <a href="http://www.payzone.co.uk/">Payzone</a> Alumni, <a href="http://www.zapatechnology.com/">Zapa Technology</a>.</p>
+<p>Zapa has also raised â‚¬2.5m from <a href="http://delta.ie/">Delta Partners</a>, which follows on from Delta&#8217;s investment in the <a href="http://www.web2ireland.org/2009/04/30/irish-vc-backs-early-stage-technology-company/">MBO of Payzone, Branded Payment Solutions.</a></p>
+<p>The founder of Zapa, <a href="http://www.irishtimes.com/newspaper/finance/2009/0710/1224250386216.html">John Nagle,</a> has experience of rolling out mobile payment services in stores around Ireland and the UK with Payzone, so it will be interesting to see if the NFC based approach will replace existing in-store payment options.</p>
+<p>The article describes this new service as</p>
+<p><em>Near Field Communication is a technology that will feature on every mobile handset in the world within a few years, and will transform these devices into virtual credit and debit cards. One enterprising start-up is ready to pounce on the opportunity.</p>
+<p>Zapa Technology will soon launch a pioneering customer loyalty technology across Europe that will take advantage of the Near Field Communications (NFC) opportunity.</p>
+<p>The company has just received the backing of veteran Irish venture capital (VC) company Delta Partners, which is putting â‚¬2.5m-worth of investment into the company.</p>
+<p>NFC is a short-range, high-frequency, wireless communications technology that enables the exchange of data between devices over about 10 centimetres (four inches) apart. The technology could enable the growth in the market for contactless credit cards and other forms of identification and transaction.</p>
+<p>Zapa is the first company in Europe to deploy NFC technology in a scaled environment via the ZapaTag.</em></p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/zapa">Zapa</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/company/zapa.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2009/07/delta-backs-another-payzone-alumni/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

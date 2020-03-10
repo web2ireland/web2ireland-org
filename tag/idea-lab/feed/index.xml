@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; idea lab</title>
+	<atom:link href="/tag/idea-lab/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Hack The City &#8211; Idea Lab Open Call &#8211; Go on, do it.</title>
+		<link>/2012/04/hack-the-city-idea-lab-open-call-go-on-do-it/</link>
+		<comments>/2012/04/hack-the-city-idea-lab-open-call-go-on-do-it/#comments</comments>
+		<pubDate>Sun, 15 Apr 2012 12:20:56 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[hack the city]]></category>
+		<category><![CDATA[idea lab]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2204</guid>
+		<description><![CDATA[I somehow missed this completely until one of the Science Gallery people sent it on. In a nutshell, from their site: As part of Science Gallery’s HACK THE CITY exhibition and festival we will be running a 10-day IDEA LAB between 14-23 June 2012 in partnership with Dublin City Council and IBM. The HACK THE [...]]]></description>
+				<content:encoded><![CDATA[<p>I somehow missed this completely until one of the Science Gallery people sent it on. In a nutshell, from their site:</p>
+<blockquote><p>As part of Science Gallery’s HACK THE CITY exhibition and festival we will be running a 10-day <a href="http://www.sciencegallery.com/idea-lab-open-call">IDEA LAB</a> between 14-23 June 2012 in partnership with Dublin City Council and IBM. The HACK THE CITY: IDEA LAB will focus on rapidly developing products and services that address current and future city needs.</p></blockquote>
+<p><img class="aligncenter  wp-image-2205" title="SG_Logo" src="http://www.web2ireland.org/wp-content/uploads/2012/04/SG_Logo.jpg" alt="" width="448" height="336" /></p>
+<p>I&#8217;m an enormous fan of the Hack The City concept. It pushes every single one of my buttons. Again, they express it better than I ever could:</p>
+<p style="text-align: center;">
+<blockquote><p>HACK THE CITY is Science Gallery’s 2012 flagship exhibition and festival. The goal of the programme is to rethink our cities from the ground up through the spirit and philosophy of the hacker ethos &#8211; to bend, mash-up, tweak and cannibalise our city systems, to create possibilities, illustrate visionary thinking and demonstrate real-world examples for sustainable urban futures. HACK THE CITY draws on Dublin city’s history of innovation by transforming the city itself into a nimble “playground” and live urban hack lab.</p>
+<p>The exhibition and programme focuses on hacking for good. Through the modification and repurposing of existing resources, our aim is to explore alternatives, which purposefully challenge existing hierarchies and consider tools for public good and social wellbeing.</p></blockquote>
+<p>This isn&#8217;t just for developers, it&#8217;s for designers, hackers, artists, activists and anyone with an interest in improving their city.</p>
+<p>They are specifically looking for solutions that address the following:</p>
+<ol>
+<li>Dereliction</li>
+<li>Crowd Sourcing Public Data</li>
+<li>Safety and Wellbeing</li>
+<li>Open Data Transport Services</li>
+</ol>
+<p>Ideally they want small teams of 2-3 people with a mixed skill set to apply but it is really open to anyone with the ideas and the skills to implement those ideas in an incubation environment.</p>
+<p>Travel to Dublin and accommodation during the Idea Lab will be provided. Teams will be hosted in Dublin and provided with a team stipend of max €1500 to work on their ideas. This stipend will cover fees; day-to-day living expenses and core materials needed while developing the idea in Dublin.</p>
+<p>You have until Tuesday 8th May 2012 to <a href="http://www.sciencegallery.com/idea-lab-open-call-form">get your proposal in</a>.</p>
+<p>Lots more info <a href="http://www.sciencegallery.com/idea-lab-open-call">over on their site</a>.</p>
+<p>I think this is a phenomenal opportunity, so please get your thinking caps on and <a href="http://www.sciencegallery.com/idea-lab-open-call-form">submit proposals</a>.</p>
+<p>I don&#8217;t know if there is any lower age limit but most Secondary School students will be on summer holidays at that stage. I can imagine some very edgy ideas coming out of that age group.</p>
+<p>Do it.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/04/hack-the-city-idea-lab-open-call-go-on-do-it/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

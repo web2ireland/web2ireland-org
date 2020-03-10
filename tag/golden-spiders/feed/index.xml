@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; golden spiders</title>
+	<atom:link href="/tag/golden-spiders/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Internet Hero &#8211; Colm Lyon</title>
+		<link>/2009/11/irish-internet-hero-colm-lyon/</link>
+		<comments>/2009/11/irish-internet-hero-colm-lyon/#comments</comments>
+		<pubDate>Fri, 27 Nov 2009 09:59:21 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[colmlyon]]></category>
+		<category><![CDATA[golden spiders]]></category>
+		<category><![CDATA[realex payments]]></category>
+		<category><![CDATA[UCD]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1598</guid>
+		<description><![CDATA[At the recent Eircom Golden Spiders Awards, Realex Payments founder and CEO Colm Lyon was named as 2009 Internet Hero. Recognition is long overdue as Colm has built Realex into a leader in the payments sector, whilst also spending four years as director and chairman of the Irish Internet Associationand founding the Internet Growth Alliance [...]]]></description>
+				<content:encoded><![CDATA[<p>At the recent E<a href="http://www.goldenspiders.ie/index.php">ircom Golden Spiders Awards</a>, <a href="http://www.realexpayments.com/">Realex Payments</a> founder and CEO <a href="http://twitter.com/colmlyon">Colm Lyon</a> was named as 2009 Internet Hero.</p>
+<p><img alt="" src="http://www.realexpayments.com/images/stories/golden_spider_sml.jpg" title="Colm Lyon" class="alignnone" width="200" height="155" /></p>
+<p>Recognition is long overdue as Colm has built <a href="http://www.web2ireland.org/2009/10/27/realex-payments-scaling-up-for-global-expansion/">Realex into a leader in the payments sector</a>, whilst also spending four years as <a href="http://iia.ie/">director and chairman of the Irish Internet Association</a>and <a href="http://alliance.ie/">founding the Internet Growth Alliance</a> in 2009.</p>
+<p>In a recent <a href="http://www.siliconrepublic.com/news/article/14444/start-ups/ireland-needs-to-fund-more-web-start-ups">Silicon Republic interview</a>, Colm outlined his vision for</p>
+<blockquote><p>He believes it is vital that Ireland realises the internet is a sure route to overseas markets, which must be exploited by increasing the number of start-ups.</p>
+<p>â€œWe need to have more and more successful Irish internet businesses. One route I recommend would be to have Enterprise Ireland set up a group focused on accelerating internet start-ups, with a fund of â‚¬2 million per annum that would put â‚¬50,000 into 40 start-up companies to increase the number of companies being supported, rather than just putting money into existing businesses.â€</p>
+<p>In conclusion, Lyon admits to feeling humbled at being recognised as an Internet Hero. â€œI value it a lot, to be honoured by my peers.â€</p></blockquote>
+<p>Also check out this recent video from the recent <a href="http://www.ucd.ie/growingireland/index.html">UCD event &#8211; BEYOND BORDERS &#8211; GOING INTERNATIONAL WITH YOUR BUSINESS</a></p>
+<p><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/LVBySStHmWc&#038;hl=en_US&#038;fs=1&#038;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LVBySStHmWc&#038;hl=en_US&#038;fs=1&#038;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/irish-internet-hero-colm-lyon/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

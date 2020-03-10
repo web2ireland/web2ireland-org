@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; usability</title>
+	<atom:link href="/tag/usability/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>World Usability Day Event in Dublin</title>
+		<link>/2008/11/world-usability-day-event-in-dublin/</link>
+		<comments>/2008/11/world-usability-day-event-in-dublin/#comments</comments>
+		<pubDate>Sun, 09 Nov 2008 11:19:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[iqcontent]]></category>
+		<category><![CDATA[usability]]></category>
+		<category><![CDATA[world usability day]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=850</guid>
+		<description><![CDATA[It&#8217;s World Usability Day on Thursday 13th November. The guys in IQContent have put together a cracking event in the Dandelion Cafe Bar on Stephen&#8217;s Green to support this. The idea is that they are going to spend the day getting ordinary people to weigh in on the countryâ€™s most essential transport websites, including: Â  [...]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s <a href="http://www.worldusabilityday.org/">World Usability Day</a> on Thursday 13th November. The guys in <a href="http://www.iqcontent.com/">IQContent</a> have <a href="http://www.worldusabilityday.org/the-great-iq-user-test">put together a cracking event</a> in the Dandelion Cafe Bar on Stephen&#8217;s Green to support this.</p>
+<p><img class="alignnone" title="World Usability Day" src="http://www.worldusabilityday.org/sites/wud.dev.oho.com/themes/wud/images/logo.gif" alt="" width="395" height="89" /></p>
+<p>The idea is that they are going to spend the day getting ordinary people to weigh in on the countryâ€™s most essential transport websites, including:</p>
+<p>Â </p>
+<ul>
+<li>Dublin Bus</li>
+<li>Irish Rail</li>
+<li>Luas</li>
+<li>Aer Lingus</li>
+<li>Ryanair</li>
+<li>Bus Eireann</li>
+</ul>
+<p>Â </p>
+<p>They want to get as many real people to give independent, honest feedback on these websites in one day.</p>
+<p>All details over on their site.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/world-usability-day-event-in-dublin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

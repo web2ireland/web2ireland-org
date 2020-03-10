@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Pixenate and Twitter in a tree, k..i..s..s</title>
+	<atom:link href="/2009/01/pixenate-and-twitter-in-a-tree-kiss/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/01/pixenate-and-twitter-in-a-tree-kiss/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Calvin Jones</title>
+		<link>/2009/01/pixenate-and-twitter-in-a-tree-kiss/#comment-866</link>
+		<dc:creator>Calvin Jones</dc:creator>
+		<pubDate>Fri, 09 Jan 2009 17:45:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=968#comment-866</guid>
+		<description><![CDATA[Guess that means Walter has 800+ twitter account usernames and passwords... including mine. Lucky he&#039;s such a fine upstanding member of online society.
+
+While Pixenate is of course squeeky clean in this regard, I can&#039;t help wondering how long it&#039;s going to be before some unscrupulous but &quot;cool&quot; third party web app does steal twitter identities.
+
+Or is there some technical wizardry in the twitter API that keeps our details secure?]]></description>
+		<content:encoded><![CDATA[<p>Guess that means Walter has 800+ twitter account usernames and passwords&#8230; including mine. Lucky he&#8217;s such a fine upstanding member of online society.</p>
+<p>While Pixenate is of course squeeky clean in this regard, I can&#8217;t help wondering how long it&#8217;s going to be before some unscrupulous but &#8220;cool&#8221; third party web app does steal twitter identities.</p>
+<p>Or is there some technical wizardry in the twitter API that keeps our details secure?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

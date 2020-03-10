@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; constructive capitalism</title>
+	<atom:link href="/tag/constructive-capitalism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Tuesday Push &#8211; Decisions For Heroes (D4H)</title>
+		<link>/2009/05/tuesday-push-decisions-for-heroes-d4h/</link>
+		<comments>/2009/05/tuesday-push-decisions-for-heroes-d4h/#comments</comments>
+		<pubDate>Tue, 19 May 2009 18:58:50 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[constructive capitalism]]></category>
+		<category><![CDATA[d4h]]></category>
+		<category><![CDATA[decisions for heroes]]></category>
+		<category><![CDATA[robin blandford]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1198</guid>
+		<description><![CDATA[I&#8217;ve been reading a lot of Umair Haque recently and with every article, I immediately think of Decisions For Heroes, just launched by Robin Blandford. D4H is a site/system/service for Rescue Teams. Its aim to is help those who risk their lives carrying out rescues by providing tools and information to do their job better. [...]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: left;">I&#8217;ve been reading a lot of <a href="http://blogs.harvardbusiness.org/haque/2009/01/davos_discussing_a_depression.html">Umair Haque</a> recently and with every article, I immediately think of <a href="http://www.decisionsforheroes.com/">Decisions For Heroes</a>, just launched by Robin Blandford.</p>
+<p style="text-align: left;"><a href="http://www.decisionsforheroes.com/"><img class="size-full wp-image-1199 alignnone" title="d4h" src="http://www.web2ireland.org/wp-content/uploads/2009/05/d4h.jpg" alt="d4h" width="475" height="238" /></a></p>
+<p>D4H is a site/system/service for Rescue Teams. Its aim to is help those who risk their lives carrying out rescues by providing tools and information to do their job better.</p>
+<p>As the <a href="http://blogs.harvardbusiness.org/haque/2009/05/zombieconomy_watch.html">Zombieconomy</a> collapses around us, it will be valuable, useful and powerful tools that come from <a href="http://blogs.harvardbusiness.org/haque/2009/03/ideals.html">ideals</a> which will power the recovery.</p>
+<p>Go check out the <a href="http://www.decisionsforheroes.com/">D4H site</a> and take part in the <a href="http://www.tuesdaypush.com/2009/05/15/decisions-for-heroes-is-the-next-tuesday-push/">Tuesday Push</a> to get the word out about this utterly inspirational service that embodies Constructive Capitalism.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/05/tuesday-push-decisions-for-heroes-d4h/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; time tracking</title>
+	<atom:link href="/tag/time-tracking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>This week&#8217;s Tuesday Push is 1time</title>
+		<link>/2008/07/this-weeks-tuesday-push-is-1time/</link>
+		<comments>/2008/07/this-weeks-tuesday-push-is-1time/#comments</comments>
+		<pubDate>Tue, 15 Jul 2008 07:47:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[1time]]></category>
+		<category><![CDATA[expense tracking]]></category>
+		<category><![CDATA[time tracking]]></category>
+		<category><![CDATA[tuesday push]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=644</guid>
+		<description><![CDATA[The second Tuesday Push is 1time. Like PutPlace before it, this is not some piece of fluff that tells you how many people in Sheboygan Wisconsin are tweeting about shower curtain rings. It&#8217;s an incredibly useful tool for time and expense tracking both for internal business use and service providers like freelancers. Sign-up for the [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.mulley.net/2008/07/15/the-tuesday-push-july-15th-2008-1time/">second Tuesday Push</a> is <a href="http://1timetracking.com/">1time</a>. Like PutPlace before it, this is not some piece of fluff that tells you how many people in Sheboygan Wisconsin are tweeting about shower curtain rings. It&#8217;s an incredibly useful tool for time and expense tracking both for internal business use and service providers like freelancers.</p>
+<p><img class="aligncenter" src="http://1timetracking.com/images/screenshot-skew.gif" alt="" /></p>
+<p><a href="http://1timetracking.com/">Sign-up for the free trial</a> and write your review of them today.</p>
+<p>Check back here for the round-up of all the reviews in a few days.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/this-weeks-tuesday-push-is-1time/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

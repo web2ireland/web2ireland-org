@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; mwc2011</title>
+	<atom:link href="/tag/mwc2011/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Shhmooze one of the 20 finalists at the Mobile Premier Awards</title>
+		<link>/2011/02/shhmooze-one-of-the-20-finalists-at-the-mobile-premier-awards/</link>
+		<comments>/2011/02/shhmooze-one-of-the-20-finalists-at-the-mobile-premier-awards/#comments</comments>
+		<pubDate>Wed, 02 Feb 2011 16:37:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[mwc2011]]></category>
+		<category><![CDATA[shhmooze]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2012</guid>
+		<description><![CDATA[Belfast-based tech start-up Shhmooze, founded just in April 2010, has been selected as one of the 20 finalists at the Mobile Premier Awards for the Mobile World Congress. Shhmooze is a free location-based app that lets you use your smartphone to check into a conference or business event and broadcast your presence to other attendees. [...]]]></description>
+				<content:encoded><![CDATA[<p>Belfast-based tech start-up <a href="http://shhmooze.com/">Shhmooze</a>, founded just in April 2010, has been selected as one of the 20 finalists at the Mobile Premier Awards for the Mobile World Congress.</p>
+<p style="text-align: center;"><a href="http://www.shhmooze.com/"><img class="size-full wp-image-2013  aligncenter" title="Shhmooze" src="http://www.web2ireland.org/wp-content/uploads/2011/02/shhmooze.png" alt="" width="450" height="242" /></a></p>
+<p>Shhmooze is a free location-based app that lets you use your smartphone to check into a conference or business event and broadcast your presence to other attendees. It is currently available on iPhone, iPod Touch and iPad and is coming soon to Android (hurry!) and Blackberry.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/shhmooze-one-of-the-20-finalists-at-the-mobile-premier-awards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

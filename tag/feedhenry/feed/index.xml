@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; feedhenry</title>
+	<atom:link href="/tag/feedhenry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>FeedHenry + Cloud Foundry = Mobile Apps with VMware Cloud Power</title>
+		<link>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/</link>
+		<comments>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/#comments</comments>
+		<pubDate>Tue, 06 Mar 2012 14:10:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloud foundry]]></category>
+		<category><![CDATA[emc]]></category>
+		<category><![CDATA[feedhenry]]></category>
+		<category><![CDATA[hybrid apps]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2190</guid>
+		<description><![CDATA[FeedHenry has just announced a new platform in partnership with VMware&#8217;s Cloud Foundry and it&#8217;s pretty awesome. If you aren&#8217;t familiar with FeedHenry, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a [...]]]></description>
+				<content:encoded><![CDATA[<p>FeedHenry has <a href="https://mobilecf.feedhenry.com/">just announced a new platform</a> in partnership with VMware&#8217;s <a href="http://cloudfoundry.com/">Cloud Foundry</a> and it&#8217;s pretty awesome.</p>
+<p>If you aren&#8217;t familiar with <a href="http://feedhenry.com/">FeedHenry</a>, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a Server-Side API which allows you to move complex integrations and code onto their sever infrastructure which delivers just the data the App needs. You end up with faster more responsive Apps which can wire into anything on the web, no matter how complex or legacy.</p>
+<p>Up until now that Server bit was FeedHenry&#8217;s own. Originally based on Rhino, they now offer Node.js. So you can build all of the server side in JavaScript.</p>
+<p>The addition of Cloud Foundry is a huge win for the Waterford-based company. Now you build your Apps as usual but deploy the server part to the extremely impressive Cloud Foundry infrastructure. It makes use of Cloud Foundry&#8217;s Node.js support and you can deploy with the FHC command line or in the browser-based Studio GUI.</p>
+<p style="text-align: center;"><a href="https://mobilecf.feedhenry.com/"><img class="aligncenter  wp-image-2191" title="fh" src="http://www.web2ireland.org/wp-content/uploads/2012/03/fh.png" alt="" width="619" height="357" /></a></p>
+<p>I&#8217;ve been a big fan of FeedHenry for a long time and also a fan of Cloud Foundry since it launched. It&#8217;s like your two favourite people getting engaged. Now to find the time to build something using both!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kernel Capital Mobilizes â‚¬500k for FeedHenry</title>
+		<link>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/</link>
+		<comments>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/#comments</comments>
+		<pubDate>Thu, 09 Jun 2011 12:00:05 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cross-platform]]></category>
+		<category><![CDATA[feedhenry]]></category>
+		<category><![CDATA[kernel capital]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[spin-out]]></category>
+		<category><![CDATA[tssg]]></category>
+		<category><![CDATA[wit]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2083</guid>
+		<description><![CDATA[Kernel Capital has just announced that they have invested â‚¬500k in Waterford-based FeedHenry, a spin-out from the TSSG group in Waterford Institute of Technology. FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are: the fact that you don&#8217;t need N SDKs to build [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.kernelcapital.ie/">Kernel Capital</a> has just announced that they have invested â‚¬500k in Waterford-based <a href="http://www.feedhenry.com/">FeedHenry</a>, a spin-out from the TSSG group in Waterford Institute of Technology.</p>
+<p>FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are:</p>
+<ul>
+<li>the fact that you don&#8217;t need N SDKs to build for N platforms because they do the build for you in the cloud</li>
+<li>and they have a powerful server-side JavaScript component to reduce the load on the client and to enable you to access things like SQL DBs, enterprise web services etc</li>
+</ul>
+<p>If you are building a web-app and you don&#8217;t have a strong story in at least Android and iPhone, stop now and figure it out before you proceed any further. In fact, maybe you should be building for mobile first?</p>
+<p>Web developers who know their way around JS should have a look at FeedHenry. Your existing skill-set is all you need to build an app. They have a free <a href="http://developer.feedhenry.com/">Developer tier</a> and you can build for up to 8 mobile platforms.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web2Ireland &#8211; whatâ€™s going on &#8211; week ending June 13th</title>
+		<link>/2008/06/web2ireland-whats-going-on-week-ending-june-13th/</link>
+		<comments>/2008/06/web2ireland-whats-going-on-week-ending-june-13th/#comments</comments>
+		<pubDate>Fri, 13 Jun 2008 21:48:13 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[benmosse]]></category>
+		<category><![CDATA[decisionsforheros]]></category>
+		<category><![CDATA[dial2do]]></category>
+		<category><![CDATA[dublin]]></category>
+		<category><![CDATA[enterpriseireland]]></category>
+		<category><![CDATA[feedhenry]]></category>
+		<category><![CDATA[finetuna]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[force]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[irishvc]]></category>
+		<category><![CDATA[jajah]]></category>
+		<category><![CDATA[joedrumgoole]]></category>
+		<category><![CDATA[launchsiliconvalley]]></category>
+		<category><![CDATA[nextweb]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[skydeck]]></category>
+		<category><![CDATA[spoiltchild]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[ticket-text]]></category>
+		<category><![CDATA[tomraftery]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wwdc]]></category>
+		<category><![CDATA[ycombinator]]></category>
+		<category><![CDATA[zignals]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=626</guid>
+		<description><![CDATA[Folks seem to like these posts &#8211; so here&#8217;s some bits and bobs from around the Web2Ireland sceneâ€¦ Web2Ireland branding to improve with new logo &#8211; Thanks to all submissions and votes &#8211; the Web2Ireland community voted to an entry from Spoiltchild. Dial2Do announce deal with Jajah Irish and the iPhone Zignals launches Irish connection [...]]]></description>
+				<content:encoded><![CDATA[<p>Folks seem to like these posts &#8211; so here&#8217;s some bits and bobs from around the Web2Ireland sceneâ€¦</p>
+<p>Web2Ireland branding to improve with new logo &#8211; <a href="http://www.web2ireland.org/2008/05/05/vote-on-your-favourite-logo-for-web2ireland/">Thanks to all submissions and votes</a> &#8211; <a href="http://www.web2ireland.org/2008/06/13/and-the-winner-is/">the Web2Ireland community voted to an entry from Spoiltchild</a>.</p>
+<p><a href="http://www.dial2do.com/">Dial2Do</a> <a href="http://blog.dial2do.com/2008/06/10/dial2do-voice-activates-jajah/">announce deal</a> with <a href="http://www.jajah.com/">Jajah</a><br />
+<a href="http://www.web2ireland.org/2008/06/11/irish-man-on-stage-for-apple-developer-conference/"><br />
+Irish and the iPhone</a></p>
+<p><a href="http://www.zignals.com/">Zignals</a> <a href="http://www.web2ireland.org/2008/06/11/zignals-irish-based-web20-styled-stock-trading-site-launches/">launches</a></p>
+<p><a href="http://www.web2ireland.org/2008/06/11/skydeck-figures-out-your-real-social-network/">Irish connection</a> at <a href="http://www.skydeck.com/">Skydeck</a></p>
+<p><a href="http://www.salesforce.com/">Salesforce</a> mashup/developer/platform event in Dublin &#8211; <a href="http://tour.force.com/city?city=55">Tour De Force &#8211; June 30th</a></p>
+<p><a href="http://www.dial2do.com/">Dial2Do</a> and <a href="http://www.feedhenry.com/">Feedhenry</a> at <a href="http://launchsiliconvalley.org/presentingc.html">Launch Silicon Valley 2008</a> &#8211; <a href="http://blog.dial2do.com/2008/06/12/dial2do-wins-hands-free-at-svase-launch-silicon-valley-2008/">Dial2Do win award</a></p>
+<p><a href="http://www.finetuna.com/">Finetuna</a> launches &#8211; <a href="http://thenextweb.org/2008/06/10/finetuna-discuss-a-design-into-detail-without-any-hassle/">coverage on Nextweb</a> &#8211; another great service from Alan and his team at <a href="http://www.spoiltchild.com/">SpoiltChild</a></p>
+<p>Joe is on a roll &#8211; <a href="http://joedrumgoole.com/blog/2008/06/06/30-million-available-for-hpsus-shurely-shome-mishtake/">30million awaiting an Irish YCombinator</a> &#8211; and <a href="http://joedrumgoole.com/blog/2008/06/12/irelands-digital-future/">Ireland&#8217;s Digital Future</a></p>
+<p>Mike Butcher of <a href="http://uk.techcrunch.com/">Techcrunch</a> coming to Dublin &#8211; event on June 26th &#8211; <a href="http://www.amiando.com/CrunchLudd">signup here</a></p>
+<p><a href="http://www.bytesurgery.com/blog/">Robin Blandford</a> startup <a href="http://www.decisionsforheroes.com/tour.php">Decisionforheroses taking shape</a></p>
+<p>Best wishes to <a href="http://www.tomrafteryit.net/">Tom Raftery</a> and family &#8211; as they move to Spain &#8211; from all his friends at web2Ireland. Keep in touch Tom.</p>
+<p><a href="http://www.siliconrepublic.com/news/news.nv?storyid=single11260">Irish VC&#8217;s to replace Irish banks</a> &#8211; <a href="http://www.siliconrepublic.com/news/news.nv?storyid=single11151">no widget companies or .com companies need apply</a></p>
+<p><a href="https://www.ticket-text.com/">Ticket-Text</a> &#8211; interesting Irish company &#8211; <em>&#8220;ticket text is a new low cost ticketing agent that delivers tickets via text messages (SMS) and print-at-home e-tickets. Simply bring your SMS or print-at-home e-ticket to the venue, scan your ticket and youâ€™re in!&#8221;</em> &#8211; <a href="http://theponderingprimate.blogspot.com/2007/07/rtanair-selects-ticket-text-for-mobile.html">Ryanair is a customer.</a></p>
+<p><a href="http://mozillaparty.com/en-US/events/view/106#c521"><br />
+Firefox Party reminder &#8211; June 19th &#8211; in Dublin</a></p>
+<p>Bonus links&#8230;<br />
+Good article on <a href="http://andrewchen.typepad.com/andrew_chens_blog/2008/04/your-ad-support.html">&#8220;Your ad-supported Web 2.0 site is actually a B2B enterprise in disguise&#8221;<br />
+</a></p>
+<p>dont forget &#8211; we&#8217;re on <a href="http://twitter.com/">twitter </a>- <a href="http://twitter.com/web2ireland">http://twitter.com/web2ireland</a> &#8211; Target is 500 followers by end of July&#8230;. </p>
+<p>send on any news tips to us at web2ireland.editor AT gmail.com</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/web2ireland-whats-going-on-week-ending-june-13th/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

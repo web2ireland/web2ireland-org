@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; azure</title>
+	<atom:link href="/tag/azure/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Windows Azure launch in Ireland</title>
+		<link>/2010/01/windows-azure-launch-in-ireland/</link>
+		<comments>/2010/01/windows-azure-launch-in-ireland/#comments</comments>
+		<pubDate>Wed, 20 Jan 2010 10:51:59 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[azure]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1647</guid>
+		<description><![CDATA[The Microsoft Developer Platform Group are holding an informal, celebratory, evening marking the commercial launch of Windows Azure. At the event, you will briefly hear from Microsoft on what the Azure Services Platform is about and why it is relevant to market. The evening will start and end with some drinks and snacks for attendees. [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="https://mseventsww.microsoft.com/BannerImages/e4f533f0-3858-4ad4-9cb6-4ef0499944d7.jpg" title="Windows Azure" class="alignnone" width="244" height="74" /></p>
+<p><a href="http://www.microsoft.com/en/ie/default.aspx">The Microsoft Developer Platform Group</a> are holding an informal, celebratory, evening marking the commercial launch of Windows Azure. </p>
+<p>At the event, you will briefly hear from Microsoft on what the Azure Services Platform is about and why it is relevant to market. </p>
+<p>The evening will start and end with some drinks and snacks for attendees.</p>
+<p><strong>Date: 28th January, 2010</strong></p>
+<p>Where: The Westbury Hotel, Grafton Street, Dublin 2.</p>
+<p>Time: 18:30 (18:00 Welcome time) â€“ 19.45 (21:00 allowing for afters)</p>
+<p><a href="http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032438116&#038;Culture=en-IE">Register here</a></p>
+<p>Agenda</p>
+<p>18:00-18:30 CanapÃ©s and Drinks on Arrival<br />
+18:30-19:00 Welcome and Introduction to Azure<br />
+19:00-19:15 Break<br />
+19:15-19.45 Customer Speakers: â€˜Developing Apps, and Going Live, on the Cloudâ€™<br />
+19:45-21:00 Networking and Refreshments</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/windows-azure-launch-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Azure Services Platform Developer Challenge</title>
+		<link>/2009/06/the-azure-services-platform-developer-challenge/</link>
+		<comments>/2009/06/the-azure-services-platform-developer-challenge/#comments</comments>
+		<pubDate>Tue, 09 Jun 2009 10:39:05 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[azure]]></category>
+		<category><![CDATA[bizspark]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1227</guid>
+		<description><![CDATA[Ronan Geraghty who works for the BizSpark team in Ireland tweeted about the new CloudApp() developer challenge for both U.S. and International .NET &#038; PHP developers creating cloud applications or services (hereafter &#8220;application&#8221;) on the Azureâ„¢ Services Platform. Both U.S. and International winners will be featured on azure.com. Signup here]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.microsoft.com/azure/images/cloudapp.gif" alt="Azure Challenge" /></p>
+<p><a href="http://blogs.msdn.com/ronang">Ronan Geraghty</a> who works for the BizSpark team in Ireland <a href="http://twitter.com/ronangeraghty/status/2041204226">tweeted</a> about the new <a href="http://www.newcloudapp.com/">CloudApp() developer </a>challenge for both U.S. and International .NET &#038; PHP developers creating cloud applications or services (hereafter &#8220;application&#8221;) on the <a href="http://www.microsoft.com/azure/default.mspx">Azureâ„¢ Services Platform. </a></p>
+<p>Both U.S. and International winners will be featured on azure.com.</p>
+<p><a href="http://www.newcloudapp.com/register.aspx">Signup here</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/the-azure-services-platform-developer-challenge/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

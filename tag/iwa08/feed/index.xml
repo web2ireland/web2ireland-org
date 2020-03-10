@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; iwa08</title>
+	<atom:link href="/tag/iwa08/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Web Awards Winners</title>
+		<link>/2008/10/irish-web-awards-winners/</link>
+		<comments>/2008/10/irish-web-awards-winners/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 14:39:17 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[irish web awards]]></category>
+		<category><![CDATA[iwa08]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=801</guid>
+		<description><![CDATA[The IWA08 was an enormous success for Damien Mulley. Already looking forward to next year. The winners were: Best Online Publication &#8211; sponsored by Red Cardinal Irish Times Best Radio Website &#8211; sponsored by IGOPeople Phantom FM Best Podcaster &#8211; sponsored by Irish Mortgage Brokers Playlist Mix Best Videocaster &#8211; sponsored by eType Ireland RTE [...]]]></description>
+				<content:encoded><![CDATA[<p>The IWA08 was an enormous success for Damien Mulley. Already looking forward to next year. The <a href="http://awards.ie/webawards/2008/10/and-the-amazing-winners-are-for-2008">winners were</a>:</p>
+<ul>
+<li>Best Online Publication &#8211; sponsored by Red Cardinal
+<ul>
+<li>Irish Times</li>
+</ul>
+</li>
+<li>Best Radio Website &#8211; sponsored by IGOPeople
+<ul>
+<li>Phantom FM</li>
+</ul>
+</li>
+<li>Best Podcaster &#8211; sponsored by Irish Mortgage Brokers
+<ul>
+<li>Playlist Mix</li>
+</ul>
+</li>
+<li>Best Videocaster &#8211; sponsored by eType Ireland
+<ul>
+<li>RTE</li>
+</ul>
+</li>
+<li>Best Sports Site &#8211; sponsored by Spinnakerpro.com
+<ul>
+<li>munsterfans.com</li>
+</ul>
+</li>
+<li>Best Music Site &#8211; sponsored by UMusic.ie
+<ul>
+<li>State Magazine</li>
+</ul>
+</li>
+<li>Best Entertainment Website &#8211; sponsored by Sensorpro.net
+<ul>
+<li>Entertainment.ie</li>
+</ul>
+</li>
+<li>Best Technology Site &#8211; sponsored by BH Consulting
+<ul>
+<li>Silicon Republic</li>
+</ul>
+</li>
+<li>Best New Web Application/Service &#8211; sponsored by InterTradeIrelandâ€™s SeedCorn
+<ul>
+<li>Poll Daddy</li>
+</ul>
+</li>
+<li>Most Innovative Website &#8211; sponsored by iQ content
+<ul>
+<li>Pixenate</li>
+</ul>
+</li>
+<li>Best Discussion forum &#8211; sponsored by Brand Ignite
+<ul>
+<li>Boards.ie</li>
+</ul>
+</li>
+<li>Best Government Website &#8211; sponsored by Interactive Return
+<ul>
+<li>Aras Kids</li>
+</ul>
+</li>
+<li>Best Council Website &#8211; sponsored by Peter Donegan Landscaping Ltd
+<ul>
+<li>Dublin.ie</li>
+</ul>
+</li>
+<li>Best Third Level Website &#8211; sponsored by the Irish Computer Society
+<ul>
+<li>Access NUI Maynooth</li>
+</ul>
+</li>
+<li>Best Education website -
+<ul>
+<li>FIS Book Club</li>
+</ul>
+</li>
+<li>Best eCommerce / Services Website &#8211; sponsored by Cybercom
+<ul>
+<li>Spicendipity</li>
+</ul>
+</li>
+<li>An SuÃ­omh Gaeilge is Fear &#8211; sponsored by Edgecast Media
+<ul>
+<li>Focal.ie</li>
+</ul>
+</li>
+<li>Best Practice &#8211; sponsored by Lightbox
+<ul>
+<li>Pix.ie</li>
+</ul>
+</li>
+<li>Most Beautiful Website in Ireland &#8211; sponsored by Beaut.ie
+<ul>
+<li>Twitterfone</li>
+</ul>
+</li>
+<li>Most Useful Website in Ireland &#8211; sponsored by DoneDeal.ie
+<ul>
+<li>Irish Times</li>
+</ul>
+</li>
+<li>Most Accessible Website &#8211; sponsored by iQ content
+<ul>
+<li>Kanchi</li>
+</ul>
+</li>
+<li>Grand PrixÂ Best Website &#8211; sponsored by Moviestar.ie
+<ul>
+<li>Boards.ie</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/irish-web-awards-winners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; drupal</title>
+	<atom:link href="/tag/drupal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Drupal Conference on Saturday</title>
+		<link>/2008/11/drupal-conference-on-saturday/</link>
+		<comments>/2008/11/drupal-conference-on-saturday/#comments</comments>
+		<pubDate>Thu, 13 Nov 2008 13:05:42 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[drupal]]></category>
+		<category><![CDATA[drupal ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=864</guid>
+		<description><![CDATA[Stella Power just let us know that Drupal Ireland is organising a day long conference on the open source Drupal CMS.Â It&#8217;s taking place this Saturday (15th November) in DIT, Kevin St,Â Dublin 2 and will run from 9:30am to 4:30pm. Â Registration is free but please sign up hereÂ so they can gauge numbers. In case you&#8217;re not [...]]]></description>
+				<content:encoded><![CDATA[<p>Stella Power just let us know that Drupal Ireland is organising a day long conference on the open source Drupal CMS.Â It&#8217;s taking place this Saturday (15th November) in DIT, Kevin St,Â Dublin 2 and will run from 9:30am to 4:30pm. Â Registration is free but <a href="http://www.drupalireland.com/">please sign up here</a>Â so they can gauge numbers.</p>
+<p>In case you&#8217;re not already aware, Drupal is a powerful open sourceÂ content management system which allows users to easily publish, manageÂ and share a wide variety of content on the internet. Â There is a great<br />
+demand for people who know this software and demand is growing.</p>
+<p><a href="http://www.drupal.org/">Drupal</a>&#8216;s many features and add-ons allow it to be used for a varietyÂ of website needs; including for marketing, internal communications,Â informational websites, and for social networking purposes.</p>
+<p>The event is being organised by the Drupal Ireland user group, whichÂ is a volunteer membership group. Â The group is comprised of developersÂ who use Drupal everyday; who contribute to Drupal core, Â documentationÂ and maintain popular modules. Â If you&#8217;re interested in attending, more information on the sessionsÂ and the schedule can be found atÂ <a href="http://groups.drupal.org/node/15895" target="_blank">http://groups.drupal.org/node/15895</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/drupal-conference-on-saturday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

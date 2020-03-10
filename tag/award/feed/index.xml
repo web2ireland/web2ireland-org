@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; award</title>
+	<atom:link href="/tag/award/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Decisions for Heroes wins the IQPrize</title>
+		<link>/2009/07/decisions-for-heroes-wins-the-iqprize/</link>
+		<comments>/2009/07/decisions-for-heroes-wins-the-iqprize/#comments</comments>
+		<pubDate>Sat, 11 Jul 2009 12:05:31 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[award]]></category>
+		<category><![CDATA[bootstrap]]></category>
+		<category><![CDATA[iqprize]]></category>
+		<category><![CDATA[mentoring]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1305</guid>
+		<description><![CDATA[We&#8217;re a little slow with the news but it&#8217;s still worth mentioning and giving some extra background. Robin Blandford of D4H won the â‚¬10k IQPrize last Wednesday and Plink won the audience award of â‚¬1k for their elevator pitch. As one of the judges I can honestly say it was both a privilege and a [...]]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;re a little slow with the news but it&#8217;s still worth mentioning and giving some extra background. Robin Blandford of <a href="http://www.decisionsforheroes.com/">D4H</a> won the â‚¬10k <a href="http://www.iqprize.ie/">IQPrize</a> last Wednesday and <a href="http://www.plinksearch.net/">Plink</a> won the audience award of â‚¬1k for their elevator pitch.</p>
+<p style="text-align: center;"><a href="http://www.iqprize.ie/"><img class="aligncenter" title="Decisions for Heroes" src="http://iqprize.ie/wp-content/uploads/2009/07/d4h-sml.jpg" alt="" width="500" height="333" /></a></p>
+<p>As one of the judges I can honestly say it was both a privilege and a joy to listen to all 8 pitches on Wednesday. Making the final decision was very very difficult due to the quality of all of them.</p>
+<p>If you are an investor, I recommend you study <a href="http://iqprize.ie/">each of the 8</a> very closely. It is our belief that several of them will have massive exits in the next 1-2 years. All of the others will have very successful businesses and I look forward to being a customer.</p>
+<p>The most important aspect of the IQPrize which seems to be impossible to get across to those in power was that it was entirely bottom-up with no cherry-picking or high-potential-labelling or expert-selection or jobs-for-the-boys or who-you-know or what-you-have-done-in-the-past.</p>
+<p>Anyone could enter. Anyone.</p>
+<p>And because of that we saw the depth of the entrepreneurial spirit in Ireland and the eagerness and hunger to build great businesses as the Zombieconomy collapses around us.</p>
+<p>The other critical thing we saw was that many of the applicants had amazing ideas or technology but didn&#8217;t have the business background needed to make it a huge success. Incubation programmes like Genesis and Hothouse are critical here but perhaps many of those who benefited from the the boom of the past few years might like to give something back? They could offer to do more than mentoring and actually come on board with some of these businesses and help them go global. CEOs and VPs of Sales in particular could help enormously.</p>
+<p>In 249 biz plans there were maybe 5 lunatics. I hope at least one of those proves to be a visionary and we just didn&#8217;t see it.</p>
+<p>If you didn&#8217;t make the final 8 this year, tighten up your biz plan and have another go when the next event like this appears. There will be some feedback later in the summer from the judges overall on what worked for us and what didn&#8217;t in terms of biz plan. It was interesting that despite our wildly diverse backgrounds, we usually agreed on those points. Hopefully that will help everyone who applied to build a newer better kick-ass plan.</p>
+<p>Well done to D4H, well done to Plink and well done everyone who applied.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/07/decisions-for-heroes-wins-the-iqprize/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

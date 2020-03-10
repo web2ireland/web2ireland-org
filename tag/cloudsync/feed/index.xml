@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cloudsync</title>
+	<atom:link href="/tag/cloudsync/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Echodio to present at SXSW</title>
+		<link>/2009/02/echodio-to-present-at-sxsw/</link>
+		<comments>/2009/02/echodio-to-present-at-sxsw/#comments</comments>
+		<pubDate>Sat, 14 Feb 2009 21:20:08 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloudsync]]></category>
+		<category><![CDATA[echodio]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[ycombinator]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1031</guid>
+		<description><![CDATA[A quick bit of background&#8230; A few months ago, Niall Smart contacted us in relation to his new startup &#8211; and we did a post where he was looking for a co-founder for his stealth startup &#8211; Cloudsync Niall hooked up with Vinny Glennon and Cormac Driver &#8211; and these guys were accepted to the [...]]]></description>
+				<content:encoded><![CDATA[<p>A quick bit of background&#8230;</p>
+<p><img src="http://media.linkedin.com/mpr/mpr/shrink_80_80/p/3/000/015/06a/25aed86.jpg" alt="Niall Smart" /><br />
+A few months ago, <a href="http://www.linkedin.com/in/niallsmart">Niall Smart</a> contacted us in relation to his new startup &#8211; and <a href="http://www.web2ireland.org/2008/11/07/new-web2ireland-startup-co-founder-wanted/">we did a post where he was looking</a> for a co-founder for his stealth startup &#8211; Cloudsync</p>
+<p>Niall hooked up with <a href="http://www.linkedin.com/pub/2/488/178">Vinny Glennon</a> and <a href="http://www.linkedin.com/pub/11/67a/b09">Cormac Driver</a> &#8211; and these guys were accepted to the world famous <a href="http://ycombinator.com/">Y Combinator</a> in San Francisco.</p>
+<p><img src="http://ycombinator.com/images/yc500.gif" alt="ycombinator" /></p>
+<p>Cloudsync is now known as <a href="http://www.echodio.com/">Echodio</a> &#8211; and Niall pinged us over the weekend to let us know that they&#8217;ve been shortlisted by the <a href="http://sxsw.com/interactive/accelerator/finalists">SXSW music+film+interactive festival</a> to present at SXSW Accelerator, their showcase for technology startups.  </p>
+<p>One of four finalists in the music category &#8211; picked from over 200 applications.</p>
+<p>Best of luck to the lads &#8211; keep the Irish flag flying&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/echodio-to-present-at-sxsw/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>New Web2Ireland startup &#8211; co-founder wanted&#8230;</title>
+		<link>/2008/11/new-web2ireland-startup-co-founder-wanted/</link>
+		<comments>/2008/11/new-web2ireland-startup-co-founder-wanted/#comments</comments>
+		<pubDate>Fri, 07 Nov 2008 11:35:56 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloudsync]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=846</guid>
+		<description><![CDATA[Hopefully this will be the first post on this meme&#8230; Niall Smart contacted us in relation to his new startup &#8211; and he is seeking a technical co-founder to join the team. Person Wanted If you&#8217;re a talented developer, interested in working at the junction of digital music and cloud computing, and ready to play [...]]]></description>
+				<content:encoded><![CDATA[<p>Hopefully this will be the first post on this meme&#8230; </p>
+<p>Niall Smart contacted us in relation to his new startup &#8211; and he is seeking a technical co-founder to join the team.  </p>
+<p><strong>Person Wanted</strong><br />
+If you&#8217;re a talented developer, interested in working at the junction of digital music and cloud computing, and ready to play a key role in an early stage startup, then this is a fantastic opportunity:</p>
+<p>    * Are you technically adept?  Our technology stack includes Ruby and AWS, but your track record is much more important than an exact skills portfolio.</p>
+<p>    * Do you understand the importance of the User Experience?  This is a niche product for discerning consumers, and UX is a critical success factor.  You&#8217;re ready to play the game of inches.</p>
+<p>    * Have you an entrepreneurial streak?  The right person will be enthusiastic, motivated, innovative and strategic, and comfortable with a degree of risk and uncertainty.   Essential traits &#8211;  along with a sense of adventure and fun.</p>
+<p>================</p>
+<p>To learn more, contact Niall Smart (niall AT cloudsync.fm) &#8211; and include a brief bio with your email.</p>
+<p><strong>Update:</strong><br />
+- Potential investment is currently under discussion with a small number of high calibre investors.<br />
+- Based on investment &#8211; willingness to re-locate to Silicon Valley for 3 months</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/new-web2ireland-startup-co-founder-wanted/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

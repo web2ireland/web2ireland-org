@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Mobile2.0</title>
+	<atom:link href="/category/mobile/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Mayo News</title>
+		<link>/2007/10/mayo-news/</link>
+		<comments>/2007/10/mayo-news/#comments</comments>
+		<pubDate>Tue, 02 Oct 2007 16:14:41 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/10/02/mayo-news/</guid>
+		<description><![CDATA[A friend of mine in London met some people selling Viagra over the â€˜net last week. Last year they claim to have made Â£750,000 clear profit with a team of three people, and all through deft manipulation of their meta-data to get them up the Google rankings. And there we all are worrying about business [...]]]></description>
+				<content:encoded><![CDATA[<p>A friend of mine in London met some people selling Viagra over the â€˜net last week. Last year they claim to have made Â£750,000 clear profit with a team of three people, and all through deft manipulation of their meta-data to get them up the Google rankings. And there we all are worrying about business models. When I hear stories like this, I do wonder whether I am making my business life more complicated than it needs to be, but in the spirit of openness, hereâ€™s what weâ€™re doing so you can judge for yourself:</p>
+<p><strong>Whatever happened to <a href="http://www.tablane.com/">Tablane</a>?</strong> Some of you may remember the browser we released a couple of years ago and our aspiration to make Internet research more productive. It&#8217;s still the only browser with a five star user rating on <a href="http://www.download.com/Tablane-Browser-with-TClipper/3000-2356_4-10659847.html?tag=lst-0-1">Download.com</a>, but, weâ€™ve taken in just â‚¬100 in revenue from our TClipper tool and decided to go in a different direction. <strong>We are now collaborating with the <a href="http://www.deri.org/">Digital Enterprise Research Institute</a> of NUI Galway</strong> using some of their semantic smarts <strong>to build a new type of document search platform</strong>. Itâ€™s all very buggy and alpha at the moment, but itâ€™s interesting. Hats off to the <a href="http://www.bmwassembly.ie/">Border Midlands and West Assembly </a>for helping to fund this through their voucher scheme.</p>
+<p><strong><a href="http://www.intimemedia.com/">InTimeMedia</a>, our mobile technology business</strong>, has been doing steady work for the BBC and is looking for investment and new customers. We got <a href="http://www.enterprise-ireland.com/ResearchInnovate/R+and+D+Collaboration/Innovation+Partnerships.htm">Innovation Partnership</a> funding with Enterprise Ireland back in April which was handy. <strong>Weâ€™ve created an excellent framework for application development and can literally script new applications in minutes, plus our ability to synchronise apps with broadcast programmes has big wow factor.</strong> But the broadcasting industry in the UK has been in a flap over dodgy phone-ins, and corporate restructuring which slowed things. It looks like weâ€™re coming out of that now, and weâ€™ve started approaching the Irish market too, so fingers crossed.</p>
+<p><strong>Meanwhile, have you been to <a href="http://www.foretal.com/">Foretal.com</a>? </strong>This exciting venture has had its technology developed in Ireland, funded by angels, but licensed its IP to an operational company in Malta. Why? Because Malta has the best on-line gaming regulatory framework, and boy, is it rigorous. <strong>Foretal &#8212; a portal, foretelling the future &#8212; is a social site for people with an interest in the future. You can make predictions, and vote on the predictions of others. You can do this for free or for cash.</strong> We opened it up after two years of development last week. Your registrations and comments would be much appreciated. Itâ€™s very exciting, and potentially a customer for the platform weâ€™re developing with DERI. <a href="http://www.foretal.com/">Check it out</a>.</p>
+<p>Lastly, weâ€™ve just completed a left field project for <a href="http://www.somersethouse.org.uk/">Somerset House</a> in London in conjunction with two artists Langlands and Bell. Itâ€™s called <strong><a href="http://www.somersethouse.org.uk/visual_arts/superactive_i2i_by_langlands__bell/default.asp">Superactivei2i</a> and involves a 3D model of the courtyard of Somerset House, links to flash movies, avatars, chat features and â€˜see what I seeâ€™ functionality whereby someone can control what someone else is seeing in their browser.</strong> We used Westport based <a href="http://www.amt3d.com/">AMT3D</a> to laser scan the courtyard and build the model, while Norwegian company <a href="http://www.myvr-software.com/">myVR</a> supplied the cutting edge 3D streaming technology. Best to use IE7.0 with pop-ups turned on for best effect (and doesnâ€™t work on the Mac yet). </p>
+<p>Probably be easier to sell Viagra wouldn&#8217;t it!?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/10/mayo-news/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>MoMoDublin &#8211; Mobile Monday Dublin</title>
+		<link>/2007/06/momodublin-mobile-monday-dublin/</link>
+		<comments>/2007/06/momodublin-mobile-monday-dublin/#comments</comments>
+		<pubDate>Mon, 18 Jun 2007 11:49:27 +0000</pubDate>
+		<dc:creator>fergus</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/06/18/momodublin-mobile-monday-dublin/</guid>
+		<description><![CDATA[MoMoDublin Mobile Monday Dublin is on tonight &#8211; looks like a great event. The venue for the evening is Market Bar on Fade Street (http://www.marketbar.ie/), the sponsors for the evening are ChangingWorlds and it kicks off at at 6.30pm]]></description>
+				<content:encoded><![CDATA[<p><a href="http://momodub.com/">MoMoDublin</a><br />
+Mobile Monday Dublin is on tonight &#8211; looks like a great event.</p>
+<p>The venue for the evening is Market Bar on Fade Street (http://www.marketbar.ie/), the sponsors for the evening are <a href="http://www.changingworlds.com/">ChangingWorlds</a> and it kicks off at at 6.30pm</p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/06/momodublin-mobile-monday-dublin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Galway Business Angel Network Session</title>
+		<link>/2007/06/galway-business-angel-network-session/</link>
+		<comments>/2007/06/galway-business-angel-network-session/#comments</comments>
+		<pubDate>Wed, 06 Jun 2007 11:27:06 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/06/06/galway-business-angel-network-session/</guid>
+		<description><![CDATA[The Halo Business Angel Partnership is holding an information evening on private equity investment at Galway Technology Centre on Tuesday 19th June starting at 6.30pm. The Halo Business Angel Partnership is a joint initiative between Enterprise Ireland, InterTrade Ireland and the Irish Business and Innovation Centres. It was established to match private investors with good [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.businessangels.ie/">Halo Business Angel Partnership </a>is holding an information evening on private equity investment at <a href="http://www.gtc.ie/">Galway Technology Centre</a> on Tuesday 19th June starting at 6.30pm.</p>
+<p>The <a href="http://www.businessangels.ie/"> Halo Business Angel Partnership </a>is a joint initiative between Enterprise Ireland, InterTrade Ireland and the Irish Business and Innovation Centres.  It was established to match private investors with good quality early stage businesses, the emphasis being on technology oriented businesses with good export led growth potential.</p>
+<p>Speaking with the West region co-ordinator Gerry Mackey today, he was very optimistic about the role of private equity in funding early stage companies.  He stated that private equity is &#8220;the hot topic in international investment circles&#8221; and that &#8220;with uncertainty in other investment areas such as property, investment in high potential start-ups offers successful business people with excellent opportunities to diversify their portfolios.&#8221;  He is hoping to attract potential investors as well as entrepreneurs.</p>
+<p>Gerry certainly knows his stuff.  He spent many years as a commercial banker in the west of Ireland and was involved in providing services to many companies which are now very successful in the traditional sectors.  The format for the evening combines talks around the fundamentals of private equity investment with refreshments and the opportunity to schmooze.</p>
+<p>For more information or indeed to book your place you can call Gerry on (091) 730850 or mail him at gmackeyATwestbicDOTie </p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/06/galway-business-angel-network-session/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>BarCamp Dublin?</title>
+		<link>/2007/01/barcamp-dublin/</link>
+		<comments>/2007/01/barcamp-dublin/#comments</comments>
+		<pubDate>Tue, 30 Jan 2007 23:10:10 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=246</guid>
+		<description><![CDATA[Is anyone aware of a BarCamp Dublin being organised? If not, I intend to do one in the near future. &#8212;- Update: 31/1/07 Just found out that Elly and Joe are organising it. Elly has just asked me to help which is cool as I want to do more of this stuff in Dublin &#8211; [...]]]></description>
+				<content:encoded><![CDATA[<p>Is anyone aware of a <strong><a href="http://www.barcampdublin.com/">BarCamp Dublin</a></strong> being organised? If not, I intend to do one in the near future.</p>
+<p>&#8212;-<br />
+Update: 31/1/07</p>
+<p>Just found out that <strong><a href="http://blog.ellybabes.com/">Elly </a></strong> and <strong><a href="http://putplace.com/">Joe </a></strong>are organising it. Elly has just asked <strong><a href="http://segala.com/blog">me </a></strong>to help which is cool as I want to do more of this stuff in Dublin &#8211; where the networking scene should be â€˜happeningâ€™!</p>
+<p>Thanks for the pointer <strong><a href="http://bohanna.typepad.com/">Keithstrong><br />
+</a></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/01/barcamp-dublin/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Vodafone to launch open source community portal called Betavine</title>
+		<link>/2007/01/244/</link>
+		<comments>/2007/01/244/#comments</comments>
+		<pubDate>Fri, 26 Jan 2007 18:12:25 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Phones]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=244</guid>
+		<description><![CDATA[â€œUpdate 29/1/07 The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, will have a section dedicated to open source. Nothing has changed since I wrote my original post [...]]]></description>
+				<content:encoded><![CDATA[<p>â€œUpdate 29/1/07</p>
+<p>The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, <strong>will </strong>have a section dedicated to open source. Nothing has changed since I wrote my original post and its entire contents remain true.</p>
+<p>I would like to apologise if Iâ€™ve caused some confusion.<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+Vodafone is looking to stimulate the development of new applications in the mobile and internet industry through a new community portal. And I&#8217;m lucky enough to be the first to tell people <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>The Portal called <strong><a href="http://flickr.com/photos/paulatsegala/370014144/">Betavine</a></strong>, has been scheduled for a *soft* launch on <strong>January 31st 2006</strong> and Iâ€™ve agreed to help seed interest within the community.</p>
+<p>Iâ€™ve just posted this on my blog but thought it was worth posting here in case we have some new mobile applications amongst us. </p>
+<p>I was lucky enough to take part in a workshop alongside Andy Tiller from Shozu, Hakon Martinsen of <strong><a href="http://www.m-spatial.com/">m-spatial</a></strong> and <strong><a href="http://www.tomhume.org/">Tom Hume</a></strong>, from Future Platforms to help Vodafone put together their requirements. It was interesting to see how they had put most of it together already, demonstrating their understanding of the open source community.</p>
+<p>If you want to take a sneak preview and take part in a field trial between now and the 31st (possibly longer), then <strong><a href="http://segala.com/blog/contact/">get in touch</a></strong> and Iâ€™ll give you login details.</p>
+<p>If you own a mobile application this is a great way to get <strong>free feedback</strong> and <strong>exposure</strong>.</p>
+<p><strong>About the Betavine portal</strong></p>
+<p>Itâ€™s a research and development space run by Vodafone Group R&#038;D. It aims to encourage collaboration in the area of mobile and internet communications.</p>
+<p><strong>As a user you can: </strong><br />
+â€¢	Download and test applications<br />
+â€¢	Comment and contribute on the forums and blogs</p>
+<p><strong>As a developer you can</strong><br />
+â€¢	Create your own projects and host applications<br />
+â€¢	Blog about your projects<br />
+â€¢	Interact with your users and the Betavine community</p>
+<p>On the Betavine Portal, interaction between developers and testers provides a testing ground for the latest concepts and technologies. New technologies are tested in real-world conditions, key technologies are identified and winning concepts come to the fore.</p>
+<p>Itâ€™s an open community that self-regulates. You are free to register and contribute to discussion threads and create or comment on blog entries. As a developer you can create a project space to upload your application, showcase your work and engage the Betavine testing community.</p>
+<p>For students itâ€™s a chance to be involved in developing mobile applications through internships, â€˜externshipsâ€™ and competitions. Winning projects will be featured on the student page, and taken further through collaboration with the Betavine community.</p>
+<p>Like featured projects and applications, the Betavine Web site itself is in continual beta testing by its users. Suggest new Web site features and discuss in the forum thread. Betavineâ€™s developers take their lead from the Web site community.</p>
+<p>To participate in a beta trial before itâ€™s made public on January 31st 2007, <strong><a href="http://segala.com/blog/contact/">get in touch with me</a></strong>.</p>
+<p>This is a great opportunity to be one of the first to have an application on the portal. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/01/244/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Some opinions are more equal than others</title>
+		<link>/2006/12/techcrunch-turns-on-moderation/</link>
+		<comments>/2006/12/techcrunch-turns-on-moderation/#comments</comments>
+		<pubDate>Wed, 13 Dec 2006 18:32:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=214</guid>
+		<description><![CDATA[Mike Arrington redefines the meaning of &#8220;moderation&#8221; and &#8220;freedom of speech&#8221; to the blogshere. Earlier I reported that Sam Sethi had been fired by Mike Arrington, the creator of TechCrunch. In another stab into the heart of the blogshere, Arrington deletes Sam&#8217;s last post on TechCrunch UKIRL and turns on moderation. I suppose this gives [...]]]></description>
+				<content:encoded><![CDATA[<p>Mike Arrington redefines the meaning of &#8220;moderation&#8221; and &#8220;freedom of speech&#8221; to the blogshere.</p>
+<p>Earlier I reported that <a href="http://samsethi.typepad.com/">Sam Sethi</a> had been fired by <strong><a href="http://www.techcrunch.com/about-techcrunch/">Mike Arrington</a></strong>, the creator of <a href="http://www.techcrunch.com/">TechCrunch</a>. In another stab into the heart of the blogshere, Arrington deletes Sam&#8217;s last post on TechCrunch UKIRL and <strong>turns on moderation</strong>. I suppose this <strong>gives &#8216;Arrington&#8217; the right to filter whatever comments </strong><strong>he </strong>thinks are more equal than others. </p>
+<p><strong><a href="http://en.wikipedia.org/wiki/Animal_Farm"><strong>I guess some comments are </strong><strong><a href="http://en.wikipedia.org/wiki/Animal_Farm">more equal than others</a></strong>, Mike?</a></strong></p>
+<p>&#8212;-</p>
+<p>Sorry, I forgot to mention in my original post &#8211; the article that Arrington deleted was from Sam explaining how they had a disagreement and he would no longer be working for TechCrunch. It was extremely diplomatic considering he had been told that he no longer had the right to vote.</p>
+<p><a href="http://en.wikipedia.org/wiki/Animal_Farm">http://en.wikipedia.org/wiki/Animal_Farm</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/12/techcrunch-turns-on-moderation/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>TechCrunch UKIRL is FIRED by Mike Arrington!</title>
+		<link>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/</link>
+		<comments>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/#comments</comments>
+		<pubDate>Wed, 13 Dec 2006 18:02:20 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Phones]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=213</guid>
+		<description><![CDATA[TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly. In a WORLD EXCLUSIVE, I can reveal that TechCrunch UKIRL has been fired for using its right to speak. Sam Sethi was fired by Mike Arrington after he refused to remove the article about how Loic LeMeurâ€™s screwed up Le Web 3 with [...]]]></description>
+				<content:encoded><![CDATA[<p>TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly.</p>
+<p><strong>In a WORLD EXCLUSIVE, I can reveal that <a href="http://uk.techcrunch.com/">TechCrunch UKIRL</a> has been fired for using its right to speak. </strong></p>
+<p><a href="http://www.vecosys.com/">Sam Sethi </a>was fired by <strong><a href="http://techcrunch.com/about-techcrunch/">Mike Arrington</a> </strong>after he refused to remove the article about <strong><a href="http://uk.techcrunch.com/2006/12/11/le-web3-the-good-bad-and-ugly/">how Loic LeMeurâ€™s screwed up Le Web 3 with his political ambitions.</a></strong></p>
+<p>Looks like Arrington is now <strong>TOO BIG for his boots</strong>. I certainly wonâ€™t be subscribing to his blog if heâ€™s more interested in keeping people happy for the sake of $$$. </p>
+<p>Mike Arrington has now <a href="http://wendy.seltzer.org/blog/archives/2004/06/index.html">done a Tim Oâ€™Reily </a>on it. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+		<item>
+		<title>Are You Interested in Standards?</title>
+		<link>/2006/11/anyone-interested-in-standards/</link>
+		<comments>/2006/11/anyone-interested-in-standards/#comments</comments>
+		<pubDate>Fri, 17 Nov 2006 01:41:52 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=199</guid>
+		<description><![CDATA[Ok, this isnâ€™t strictly Web 2.0 related, but Iâ€™m pretty confident that some of you will be interested â€“ pls accept my apology if youâ€™re not. If youâ€™re interested in helping to evangelise standards through an official channel Iâ€™d like to hear from you. Rotan Hanrahan from mobileaware has managed to get backing from Enterprise [...]]]></description>
+				<content:encoded><![CDATA[<p>Ok, this isnâ€™t strictly Web 2.0 related, but Iâ€™m pretty confident that some of you will be interested  â€“ pls accept my apology if youâ€™re not.</p>
+<p>If youâ€™re interested in helping to evangelise standards through an official channel Iâ€™d like to hear from you. <a href="http://www.mobileaware.com/about/hanrahan.jsp">Rotan Hanrahan</a> from mobileaware has managed to get backing from Enterprise Ireland to stimulate awareness and adoption of standards in Ireland. He has asked me to help test the water so please get in touch if you want to be involved. </p>
+<p><strong><a href="http://www.upassoc.org/">Usability Professional Association</a> coming to Ireland</strong><br />
+Iâ€™m also setting up the Usability Professional Association â€“ Iâ€™m looking for more companies to help get this off the ground. Do you fancy becoming a â€˜founding memberâ€™? Please get in touch.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/11/anyone-interested-in-standards/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>web-2-Mobile Biz plan competition</title>
+		<link>/2006/11/web-2-mobile-biz-plan-competition/</link>
+		<comments>/2006/11/web-2-mobile-biz-plan-competition/#comments</comments>
+		<pubDate>Wed, 01 Nov 2006 14:12:13 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=189</guid>
+		<description><![CDATA[Redherring, Nokia, Finnode are sponsoring the event&#8230;. Check out the details here Entry form is here and entry deadline is Dec 10th, 2006]]></description>
+				<content:encoded><![CDATA[<p>Redherring, Nokia, Finnode are sponsoring the event&#8230;.</p>
+<p>Check out the details <a href="http://www.makeweb2mobile.org/">here</a></p>
+<p>Entry form is <a href="http://www.makeweb2mobile.org/docs/entryform.doc">here</a> and entry deadline is Dec 10th, 2006</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/11/web-2-mobile-biz-plan-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Irish mobile gaming company acquired</title>
+		<link>/2006/09/irish-mobile-gaming-company-acquired/</link>
+		<comments>/2006/09/irish-mobile-gaming-company-acquired/#comments</comments>
+		<pubDate>Fri, 01 Sep 2006 14:03:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=163</guid>
+		<description><![CDATA[More Mobile2.0 &#8211; Mike Butcher (who also writes for the Irish Times) has thedetails]]></description>
+				<content:encoded><![CDATA[<p>More Mobile2.0 &#8211; Mike Butcher (who also writes for the Irish Times) has the<a href="http://tbites.com/tbites/2006/08/31/chinese-media-giant-buys-irish-upstart-mobile-gamer">details </a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/09/irish-mobile-gaming-company-acquired/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

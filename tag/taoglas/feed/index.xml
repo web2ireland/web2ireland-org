@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; taoglas</title>
+	<atom:link href="/tag/taoglas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish mobile companies at CTIA</title>
+		<link>/2009/10/irish-mobile-companies-at-ctia/</link>
+		<comments>/2009/10/irish-mobile-companies-at-ctia/#comments</comments>
+		<pubDate>Mon, 12 Oct 2009 11:18:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ctia]]></category>
+		<category><![CDATA[dial2do]]></category>
+		<category><![CDATA[enterpriseireland]]></category>
+		<category><![CDATA[newbay]]></category>
+		<category><![CDATA[taoglas]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1482</guid>
+		<description><![CDATA[13 Enterprise Ireland supported companies recently attended CTIA Wireless event in the US Companies attending Accuris Altobridge BitRabbit Dial2Do dotMobi MobileAware NewBay Openet Tango Taoglas VistaTec Zamano Some Highlights Dial2Do nominated for Mobile Excellence Awards NewBay, the leader in digital lifestyle solutions for carriers, announced that over 10 million subscribers are now using its award-winning [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://americas.enterprise-ireland.com/blog/fall-ctia-2009/">13 Enterprise Ireland supported companies</a> recently attended <a href="http://www.ctiawireless.com/">CTIA Wireless event in the US</a></p>
+<p><strong>Companies attending</strong></p>
+<p><a href="http://accuris-networks.com/">Accuris</a><br />
+<a href="http://www.altobridge.com/">Altobridge</a><br />
+<a href="http://www.bitrabbit.net/">BitRabbit</a><br />
+<a href="http://www.dial2do.com/">Dial2Do</a><br />
+<a href="http://www.mtld.mobi/">dotMobi</a><br />
+<a href="http://www.mobileaware.com/">MobileAware</a><br />
+<a href="http://www.newbay.com/">NewBay</a><br />
+<a href="http://www.openet.com/">Openet</a><br />
+<a href="http://www.tango.ie/">Tango</a><br />
+<a href="http://www.taoglas.com/">Taoglas</a><br />
+<a href="http://www.vistatec.ie/">VistaTec</a><br />
+<a href="http://www.redcircle.com/">Zamano</a></p>
+<p><strong>Some Highlights</strong></p>
+<p><a href="http://www.dial2do.com/">Dial2Do</a> <a href="http://twitter.com/dial2do/statuses/4693546119">nominated</a> for <a href="http://www.mobilexawards.com/">Mobile Excellence Awards<br />
+</a><br />
+<a href="http://www.newbay.com/">NewBay</a>, the leader in digital lifestyle solutions for carriers, announced t<a href="http://newbay.com/news.php?y=2009&#038;story=pr091008">hat over 10 million subscribers are now using its award-winning LifeCache Social Networking solution</a> and also announced <a href="http://newbay.com/news.php?y=2009&#038;story=pr091007">LifeCache Smart Address Book (SAB) 2.0</a>, a converged, telco-grade social address book offering for carriers. LifeCache SAB is a white-label address book that syncs, merges and updates contacts and dynamic content from multiple sources and stores the data securely in the cloud</p>
+<p><a href="http://www.taoglas.com/">Taoglas</a> has announced the <a href="http://taoglas.com/news/29/">first LTE and WiMax antennas for telematics, mobile, telemedical and security markets</a>.  The antennas will benefit M2M manufacturers developing LTE and WiMax prototypes for new fourth generation networks</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/irish-mobile-companies-at-ctia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

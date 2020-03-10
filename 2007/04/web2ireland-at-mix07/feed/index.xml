@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Web2Ireland at MIX07</title>
+	<atom:link href="/2007/04/web2ireland-at-mix07/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/04/web2ireland-at-mix07/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2007/04/web2ireland-at-mix07/#comment-382</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Mon, 30 Apr 2007 07:36:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/04/29/web2ireland-at-mix07/#comment-382</guid>
+		<description><![CDATA[Keep those tweets comin lads. Any official Mix Tweet or spliced feed?]]></description>
+		<content:encoded><![CDATA[<p>Keep those tweets comin lads. Any official Mix Tweet or spliced feed?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

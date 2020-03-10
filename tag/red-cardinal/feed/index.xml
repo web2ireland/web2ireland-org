@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; red cardinal</title>
+	<atom:link href="/tag/red-cardinal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Free Conversion Rate Optimization worth â‚¬15k from Red Cardinal</title>
+		<link>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/</link>
+		<comments>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/#comments</comments>
+		<pubDate>Wed, 08 Apr 2009 15:32:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[conversion rate optimization]]></category>
+		<category><![CDATA[cro]]></category>
+		<category><![CDATA[red cardinal]]></category>
+		<category><![CDATA[seo]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1111</guid>
+		<description><![CDATA[Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer. Quite simply: 5 websites will each receive a free Conversion Rate Optimisation campaign worth â‚¬3,000; Red Cardinal will cover the costs of design and development, and pay all fees for a professional MVT software suite; Each campaign will be used as [...]]]></description>
+				<content:encoded><![CDATA[<p>Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer.</p>
+<p style="text-align: center;"><a href="http://www.redcardinal.ie/"><img class="aligncenter" title="Red Cardinal SEO" src="http://www.redcardinal.ie/images/SEO-Ireland-Logo.png" alt="" width="371" height="163" /></a></p>
+<p>Quite simply:</p>
+<ul>
+<li>5 websites will each receive a free Conversion Rate Optimisation campaign worth â‚¬3,000;</li>
+<li>Red Cardinal will cover the costs of design and development, and pay all fees for a professional MVT software suite;</li>
+<li>Each campaign will be used as a case-study for a new venture Red Cardinal is launching;</li>
+<li>The offer is open to all Irish websites.</li>
+</ul>
+<p>All details<a href="http://www.redcardinal.ie/conversion-optimisation/06-04-2009/e15k-conversion-rate-optimisation-free-no-questions-asked/"> over on his blog</a>.</p>
+<p>He also has <a href="http://www.redcardinal.ie/conversion-optimisation/07-04-2009/conversion-rate-optimisation-testing-introduction/">a follow-up post here</a> if you want to know more about Conversion Rate Optimization.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; emc</title>
+	<atom:link href="/tag/emc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>FeedHenry + Cloud Foundry = Mobile Apps with VMware Cloud Power</title>
+		<link>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/</link>
+		<comments>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/#comments</comments>
+		<pubDate>Tue, 06 Mar 2012 14:10:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloud foundry]]></category>
+		<category><![CDATA[emc]]></category>
+		<category><![CDATA[feedhenry]]></category>
+		<category><![CDATA[hybrid apps]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2190</guid>
+		<description><![CDATA[FeedHenry has just announced a new platform in partnership with VMware&#8217;s Cloud Foundry and it&#8217;s pretty awesome. If you aren&#8217;t familiar with FeedHenry, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a [...]]]></description>
+				<content:encoded><![CDATA[<p>FeedHenry has <a href="https://mobilecf.feedhenry.com/">just announced a new platform</a> in partnership with VMware&#8217;s <a href="http://cloudfoundry.com/">Cloud Foundry</a> and it&#8217;s pretty awesome.</p>
+<p>If you aren&#8217;t familiar with <a href="http://feedhenry.com/">FeedHenry</a>, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a Server-Side API which allows you to move complex integrations and code onto their sever infrastructure which delivers just the data the App needs. You end up with faster more responsive Apps which can wire into anything on the web, no matter how complex or legacy.</p>
+<p>Up until now that Server bit was FeedHenry&#8217;s own. Originally based on Rhino, they now offer Node.js. So you can build all of the server side in JavaScript.</p>
+<p>The addition of Cloud Foundry is a huge win for the Waterford-based company. Now you build your Apps as usual but deploy the server part to the extremely impressive Cloud Foundry infrastructure. It makes use of Cloud Foundry&#8217;s Node.js support and you can deploy with the FHC command line or in the browser-based Studio GUI.</p>
+<p style="text-align: center;"><a href="https://mobilecf.feedhenry.com/"><img class="aligncenter  wp-image-2191" title="fh" src="http://www.web2ireland.org/wp-content/uploads/2012/03/fh.png" alt="" width="619" height="357" /></a></p>
+<p>I&#8217;ve been a big fan of FeedHenry for a long time and also a fan of Cloud Foundry since it launched. It&#8217;s like your two favourite people getting engaged. Now to find the time to build something using both!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; jason devitt</title>
+	<atom:link href="/tag/jason-devitt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Skydeck figures out your real social network</title>
+		<link>/2008/06/skydeck-figures-out-your-real-social-network/</link>
+		<comments>/2008/06/skydeck-figures-out-your-real-social-network/#comments</comments>
+		<pubDate>Wed, 11 Jun 2008 10:27:08 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[jason devitt]]></category>
+		<category><![CDATA[skydeck]]></category>
+		<category><![CDATA[vindigo]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=622</guid>
+		<description><![CDATA[I&#8217;ve been thrilled to see all the coverage of Skydeck recently. Their CEO is Jason Devitt who did Elec Eng in UCD just after me and who I could tell would do well even back then. I think at one point he was doing a Masters in Engineering and a Law Degree at the same [...]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been thrilled to see all the coverage of <a href="http://www.skydeck.com/">Skydeck</a> recently. Their CEO is Jason Devitt who did Elec Eng in UCD just after me and who I could tell would do well even back then. I think at one point he was doing a Masters in Engineering and a Law Degree at the same time!</p>
+<p><img class="aligncenter" src="http://skydeck.com/css/images/free.png" alt="Skydeck" /></p>
+<p>He showed amazing vision in building Vindigo in the late 90&#8242;s and I made use of their Palm Pilot City Guides many times. It&#8217;s only now that the technology has caught up with some of the things they were trying to do back then.</p>
+<p><a href="http://www.readwriteweb.com/archives/jason_devitt_interview_skydeck.php">Read Write Web has a great piece</a> on him and what he is now trying to build with Skydeck. They are creating something very interesting indeed off the back of your mobile-phone bill and address book.Think intelligent mobile social network.</p>
+<p>Just to get some sense of the guy, you have to watch <a href="http://www.youtube.com/skydeckvideo">this YouTube video</a>, seriously!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/skydeck-figures-out-your-real-social-network/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

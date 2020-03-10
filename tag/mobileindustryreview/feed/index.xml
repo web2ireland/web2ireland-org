@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; mobileindustryreview</title>
+	<atom:link href="/tag/mobileindustryreview/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Locle &#8211; Brilliantly simple LBS social networking</title>
+		<link>/2009/06/locle-brilliantly-simple-lbs-social-networking/</link>
+		<comments>/2009/06/locle-brilliantly-simple-lbs-social-networking/#comments</comments>
+		<pubDate>Thu, 18 Jun 2009 14:43:21 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[locle]]></category>
+		<category><![CDATA[mobileindustryreview]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1262</guid>
+		<description><![CDATA[The Mobile Industry Review has a review on Locle &#8220;Iâ€™m particularly impressed that roughly 70% of available European mobile handsets are capable of using Locle at the moment. Since it doesnâ€™t strictly rely on GPS â€” falling back to Cell-ID for most handsets â€” it means that, theoretically, if you were wanting to deploy a [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.mobileindustryreview.com/2009/06/irish_startup_locle_brilliantly_simple_lbs_social_networking_.html">Mobile Industry Review</a> has a review on <a href="http://www.locle.com/">Locle</a></p>
+<p><img src="http://www.ewan.net/media/screenshots/ZZ1EA308E2.jpg" alt="locle" /></p>
+<p><i>&#8220;Iâ€™m particularly impressed that roughly 70% of available European mobile handsets are capable of using Locle at the moment. Since it doesnâ€™t strictly rely on GPS â€” falling back to Cell-ID for most handsets â€” it means that, theoretically, if you were wanting to deploy a location based social networking service in, say, India (for example), the first thing you should do is call up Pieter at Locle and do a deal with them.&#8221;</i></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/locle-brilliantly-simple-lbs-social-networking/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

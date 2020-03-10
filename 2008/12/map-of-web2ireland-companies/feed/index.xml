@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Map of Web2Ireland Companies</title>
+	<atom:link href="/2008/12/map-of-web2ireland-companies/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/12/map-of-web2ireland-companies/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: YannR</title>
+		<link>/2008/12/map-of-web2ireland-companies/#comment-840</link>
+		<dc:creator>YannR</dc:creator>
+		<pubDate>Tue, 02 Dec 2008 21:22:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=897#comment-840</guid>
+		<description><![CDATA[The Mapeed team has developed CrunchVision as a mashup of the CrunchBase database (via APIs) + Google Maps + plugin Mapeed
+
+Feel free to use it for the promotion of the high dynamism of Irish startups (just compare with nearby countries) !
+
+Just a note : CrunchVision is not edited by CrunchBase but directly by Mapeed :-)
+
+Yann
+Mapeed]]></description>
+		<content:encoded><![CDATA[<p>The Mapeed team has developed CrunchVision as a mashup of the CrunchBase database (via APIs) + Google Maps + plugin Mapeed</p>
+<p>Feel free to use it for the promotion of the high dynamism of Irish startups (just compare with nearby countries) !</p>
+<p>Just a note : CrunchVision is not edited by CrunchBase but directly by Mapeed <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>Yann<br />
+Mapeed</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

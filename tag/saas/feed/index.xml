@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; saas</title>
+	<atom:link href="/tag/saas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Scratch an itch with bookmeetingroom</title>
+		<link>/2008/08/scratch-an-itch-with-bookmeetingroom/</link>
+		<comments>/2008/08/scratch-an-itch-with-bookmeetingroom/#comments</comments>
+		<pubDate>Sun, 31 Aug 2008 14:31:37 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[bookmeetingroom]]></category>
+		<category><![CDATA[saas]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=701</guid>
+		<description><![CDATA[I&#8217;ve worked in a few large orgs and one of the most annoying things to deal with was room booking. Heck, in one large enterprise it seemed to be the main job of multiple admin people. So bookmeetingroom.com is something that appeals to me greatly. A nice simple SaaS that fills a need. It was [...]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve worked in a few large orgs and one of the most annoying things to deal with was room booking. Heck, in one large enterprise it seemed to be the main job of multiple admin people. So <a href="http:/bookmeetingroom.com/">bookmeetingroom.com</a> is something that appeals to me greatly.</p>
+<p><a title="bookmeetingroom by conor" href="http://pix.ie/conor/658585"><img src="http://photos2.pix.ie/7D/C1/7DC1E29BD8104C448EE0F8177B51E501-500.jpg" alt="bookmeetingroom" width="500" height="390" /></a></p>
+<p>A nice simple SaaS that fills a need. It was developed by Active Online in Dublin. I think they have a winner on their hands.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/scratch-an-itch-with-bookmeetingroom/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

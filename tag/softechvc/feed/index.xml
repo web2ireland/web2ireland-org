@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; softechvc</title>
+	<atom:link href="/tag/softechvc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>LeWeb &#8211; 10 great takeaways</title>
+		<link>/2008/12/leweb-10-great-takeaways/</link>
+		<comments>/2008/12/leweb-10-great-takeaways/#comments</comments>
+		<pubDate>Tue, 16 Dec 2008 17:21:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[avc]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[ida]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[maxroam]]></category>
+		<category><![CDATA[nooked]]></category>
+		<category><![CDATA[softechvc]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=924</guid>
+		<description><![CDATA[I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways Meeting Irish in attendance Very low Irish presence &#8211; Pat Phelan from Maxroam, Conor O&#8217;Neill from Loudervoice [who also covered event for ReadwriteWeb] - Brian Bastible and colleagues from IDA Connecting with People Lots of great folks attending [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08-300x69.jpg" alt="leweb" /></p>
+<p>I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways</p>
+<p><strong>Meeting Irish in attendance</strong><br />
+Very low Irish presence &#8211; <a href="http://www.maxroam.com/">Pat Phelan from Maxroam</a>, Conor O&#8217;Neill  from Loudervoice [who also <a href="http://www.web2ireland.org/2008/12/11/lovin-le-web/">covered event</a> for <a href="http://www.readwriteweb.com/archives/le_web_2008.php">ReadwriteWeb</a>]<br />
+- <a href="http://www.linkedin.com/pub/5/40b/aa8">Brian Bastible</a> and colleagues from <a href="http://www.idaireland.com/">IDA</a></p>
+<p><strong>Connecting with People</strong><br />
+Lots of great folks attending from the US, UK, Germany, France and Spain.</p>
+<p><strong>Old School is best school</strong><br />
+Got to meet and chat with <a href="http://www.accmanpro.com/2008/12/11/leweb-le-wrap/">Dennis</a>, <a href="http://blogs.law.harvard.edu/doc/">Doc</a> and <a href="http://twitter.com/jobsworth">JP</a>. </p>
+<p><strong>Glimpse of future</strong><br />
+<a href="http://developers.facebook.com/news.php?blog=1&#038;story=176">Dave Morin</a> &#8211; <a href="http://developers.facebook.com/connect.php">facebook connect</a>, <a href="http://www.ustream.tv/recorded/962491">Marissa Mayer &#8211; Google</a>, and <a href="http://twitter.com/susanwu">Susan Wu</a> &#8211; <a href="http://www.ustream.tv/recorded/930724">Virtual Goods</a></p>
+<p><strong>Startups &#8211; no Irish&#8230; come on !!</strong><br />
+<a href="http://www.lewebparis.com/startup.html">Startup Competition </a> &#8211; some interesting startups &#8211; and very <a href="http://www.lewebparis.com/2008/12/leweb08-startup-winners.html">worthy  winner</a> &#8211; some Web2Ireland companies would have done well at this event&#8230;.</p>
+<p><strong>Failure &#8211; true stories</strong><br />
+<a href="http://lundxy.com/">Morten Lund</a> was <a href="http://patphelan.net/morten-lund-the-best-of-le-web/">one highlight of the event &#8211; off the cuff</a> &#8211; very honest in his story.</p>
+<p><strong>Funding is hard in Europe</strong><br />
+Lots of VCs in attendance [none from Ireland] &#8211; and the VC panel was interesting &#8211; <a href="http://www.ustream.tv/recorded/933026">see video</a>. Key themes &#8211; build products that VCs will use [Fred Wilson, Martin Varsasky, Jeff Clavier] &#8211; and they don&#8217;t really believe <a href="http://ouriel.typepad.com/myblog/2008/12/can-governments.html">Govt intervention @ funding</a> is key [more on that later] &#8211; and <a href="http://www.unionsquareventures.com/2008/11/boxee.html">NO doesnt mean NO</a>.</p>
+<p><strong>Go Big or Go Home</strong><br />
+Lots of usual talk @ <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">valley versus Europe</a> and can we build a big European web company. </p>
+<p><strong>Annual LeWeb bitch fight</strong><br />
+<a href="http://www.loiclemeur.com/english/2008/12/should-michael.html">Great fun</a> from <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">the sideline</a></p>
+<p><strong>Next Year</strong><br />
+Rumour has it that the <a href="http://kara.allthingsd.com/20070726/kara-and-walt-visit-the-irish-countryside-and-pretend-were-lords-of-the-manor/">International D Conference</a> will happen in Dublin next year</p>
+<p>And no doubt LeWeb 09 will be another enjoyable event.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/leweb-10-great-takeaways/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

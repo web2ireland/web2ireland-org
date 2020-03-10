@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; developers</title>
+	<atom:link href="/tag/developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Show and Tell at API Wars and Facebook Garage</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/</link>
+		<comments>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comments</comments>
+		<pubDate>Mon, 02 Mar 2009 19:13:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[facebook garage]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042</guid>
+		<description><![CDATA[The sign-ups for both API Wars and Facebook Garage have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â  But it turns out [...]]]></description>
+				<content:encoded><![CDATA[<p>The sign-ups for both <a href="http://www.eventbrite.com/event/293675391">API Wars</a> and <a href="http://www.facebook.com/event.php?eid=53311687551&amp;ref=mf">Facebook Garage</a> have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â </p>
+<p>But it turns out that many of you are being far too coy. Events like these, which at heart are Unconferences or Unevents, rely on those attending to be more than passive listeners.</p>
+<p>That&#8217;s why we&#8217;re putting the call out. <strong><em>If you want to talk on any topic relevant to either session, let us know</em></strong>. You don&#8217;t need slides, heck you don&#8217;t need notes, just have something interesting to say. Got an app with an API? Wanna tell people about it? Let us know. Got an app that mashes-up a bunch of APIs? Let us know. Integrated Facebook Connect or built an FB App? Let us know.</p>
+<p>web2ireland DOT editor AT gmail DOT com</p>
+<p>Operators are standing by, come on down.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Garage comes to Dublin</title>
+		<link>/2009/02/facebook-garage-comes-to-dublin/</link>
+		<comments>/2009/02/facebook-garage-comes-to-dublin/#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 20:21:48 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[dublin]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1034</guid>
+		<description><![CDATA[Facebook in Ireland is exploding in popularity; 400k+ users at last count. But it&#8217;s not just the number of punters that is growing, so too is the development community. We are genuinely excited therefore to announce Ireland&#8217;s first Facebook Developer Garage, brought to you by Web2Ireland on march 5th in the Digital Exchange in Dublin. [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.facebook.com/">Facebook</a> in Ireland is exploding in popularity; 400k+ users at last count. But it&#8217;s not just the number of punters that is growing, so too is the development community.</p>
+<p>We are genuinely excited therefore to announce Ireland&#8217;s first <a href="http://www.facebook.com/event.php?eid=53311687551&amp;ref=nf">Facebook Developer Garage</a>, brought to you by Web2Ireland on march 5th in the Digital Exchange in Dublin.</p>
+<p><img class="aligncenter size-full wp-image-1035" title="n53311687551_803" src="http://www.web2ireland.org/wp-content/uploads/2009/02/n53311687551_803.jpg" alt="n53311687551_803" width="200" height="302" /></p>
+<p>The Garages are just like they sound â€“ a place to explore, get gritty, tinker, experiment, and test out ideas for Facebook Platform.Â Â We also want to use it asÂ an opportunity for the Irish FB developer community to network and learn from each other. See the <a href="http://www.facebookgarage.co.uk/">London site</a> to get an idea of what they are all about.</p>
+<p>If you are interested in presenting what you are working on in Facebook or giving a demo, just email web2ireland.editor@gmail.com</p>
+<p>Please <a href="http://www.facebook.com/event.php?eid=53311687551&amp;ref=nf">RSVP on Facebook</a> if you are attending in any capacity. This is a completely free event and we are very appreciative of the support being provided by Facebook themselves.</p>
+<p><span style="text-decoration: underline;">We will have some further very exciting news about the Garage in the next two weeks.</span></p>
+<p>And if that&#8217;s not enough for you,Â Web2Ireland is also hosting a mini-workshop on API Wars and Opportunities before the Garage. See the next blog post!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/facebook-garage-comes-to-dublin/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

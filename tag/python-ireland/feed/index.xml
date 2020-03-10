@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; python ireland</title>
+	<atom:link href="/tag/python-ireland/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Cloud Events are just like the 46A Bus</title>
+		<link>/2009/03/cloud-events-are-just-like-the-46a-bus/</link>
+		<comments>/2009/03/cloud-events-are-just-like-the-46a-bus/#comments</comments>
+		<pubDate>Mon, 09 Mar 2009 13:56:30 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[python ireland]]></category>
+		<category><![CDATA[ruby ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1050</guid>
+		<description><![CDATA[You don&#8217;t have one for ages and then three come along together We&#8217;ve just had API Wars and Facebook Garage. it@cork will soon be announcing a Cloud Event for April 20th and in between the two, the combined forces of Python Ireland and Ruby Ireland are having their event. It will take place on Wednesday, [...]]]></description>
+				<content:encoded><![CDATA[<p>You don&#8217;t have one for ages and then three come along together <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' />  We&#8217;ve just had API Wars and Facebook Garage. it@cork will soon be announcing a Cloud Event for April 20th and in between the two, the combined forces of Python Ireland and Ruby Ireland are having their event.</p>
+<p>It will take place on Wednesday, March 11th, in /The Vaults/ in Dublin at 7pm. Event <a href="http://wiki.python.ie/moin.cgi/PythonMeetup/March2009">details here</a>.</p>
+<p>The lineup is:</p>
+<ul>
+<li>Cloudware for Python and Ruby (This talk will focus on the offerings from Google and Amazon.) &#8211; Kevin Noonan</li>
+<li>Developing LongURLPlease.com on Google App Engine &#8211; Darragh Curran</li>
+<li>Converting a Python library (XLWT) to Ruby (Surpass) &#8211; Ana Nelson</li>
+<li>Lightning Talks (If they have time)</li>
+</ul>
+<p>They don&#8217;t have sponsorship yet and would appreciate it for the food.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/cloud-events-are-just-like-the-46a-bus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

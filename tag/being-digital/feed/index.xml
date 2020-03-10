@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; being-digital</title>
+	<atom:link href="/tag/being-digital/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Demo Slots at Being-Digital</title>
+		<link>/2008/05/demo-slots-at-being-digital/</link>
+		<comments>/2008/05/demo-slots-at-being-digital/#comments</comments>
+		<pubDate>Sun, 25 May 2008 08:18:27 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[being-digital]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[mashup]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=614</guid>
+		<description><![CDATA[The Being-Digital conference is on in London on June 10th. They are looking for 30 start-ups to present to a audience of 250 VC&#8217;s, entrepreneurs, Angel Investors, CEOs of the internet businesses and Internet media/press. There will be 7 core discussion themes in the main auditorium &#8211; Search, Advertising, Identity, Social, Location, Retail and Content [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.being-digital.com/">Being-Digital</a> conference is on in London on June 10th. They are looking for 30 start-ups to present to a audience of 250 VC&#8217;s, entrepreneurs,  Angel Investors, CEOs of the internet businesses and Internet media/press.</p>
+<p>There will be 7 core discussion themes in the main auditorium &#8211; Search, Advertising, Identity, Social, Location, Retail and Content &#8211; and a dedicated &#8216;Demo room&#8217; in which the 30 selected companies will demo their services and products to delegates throughout the day.</p>
+<p>Demo Tickets are normally Â£895 but they are offering them for Â£500 which includes:</p>
+<ul>
+<li>1 stand in the Demo room &#8211; this will be a dedicated to you all day</li>
+<li>1 x full delegate ticket (for the main auditorium)</li>
+<li>1 x demo room ticket (for a second person to attend)</li>
+<li>1 x 1 minute pitch to audience of 200+ on the main stage following the speaker/panel session most relevant to your company (eg: social, search, advertising etc.)</li>
+<li>Your 1min pitch will be filmed and the video will be on their website, along with your details</li>
+<li>Evening networking reception</li>
+<li>There is also a competition running for best one minute demo pitch as voted for by delegates on the day &#8211; prize includes hardware, software and consultancy time</li>
+</ul>
+<p>Whilst Â£500 may seem like a lot, it looks like reasonable value to me compared to lots of other conferences. It is also highly targetted rather than just being a general &#8220;web conf&#8221;. And with DEMOÂ  costing $18000&#8230;&#8230;</p>
+<p>And I&#8217;ve just realised that PutPlace are already signed-up!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/demo-slots-at-being-digital/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

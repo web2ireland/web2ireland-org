@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; pathpacific</title>
+	<atom:link href="/tag/pathpacific/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>First video from Facebook Garage 2</title>
+		<link>/2009/07/first-video-from-facebook-garage-2/</link>
+		<comments>/2009/07/first-video-from-facebook-garage-2/#comments</comments>
+		<pubDate>Sun, 26 Jul 2009 18:34:48 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[gigmonkey]]></category>
+		<category><![CDATA[pathpacific]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1334</guid>
+		<description><![CDATA[When Michael Clyne of PathPacific.com offered to record the second Irish Facebook Garage, we had no idea what to expect. It certainly wasn&#8217;t this. Facebook Live Music Mashup App &#8211; Gig Monkey (Mobile Phone, Last FM, Bebo, Amazon, iLike, Facebook) &#8211; Facebook Garage Ireland from Path Pacific on Vimeo. Wow, amazing work on the GigMonkey [...]]]></description>
+				<content:encoded><![CDATA[<p>When Michael Clyne of <a href="http://pathpacific.com/">PathPacific.com</a> offered to record the second Irish Facebook Garage, we had no idea what to expect. It certainly wasn&#8217;t this.</p>
+<p><object width="400" height="230"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5675891&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5675891&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="230"></embed></object>
+<p><a href="http://vimeo.com/5675891">Facebook Live Music Mashup App &#8211; Gig Monkey (Mobile Phone, Last FM, Bebo, Amazon, iLike, Facebook) &#8211; Facebook Garage Ireland</a> from <a href="http://vimeo.com/user2058028">Path Pacific</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p>Wow, amazing work on the GigMonkey talk Michael. We can&#8217;t wait to see the other segments!</p>
+<p>p.s. We&#8217;re just turned on the <a href="http://www.disqus.com/">Disqus</a> commenting system here. It is much more powerful than the built-in WordPress one, particularly when it comes to showing the distributed conversation on sites like Twitter about your posts. Let us know if you have any problems with it. It syncs with the built-in system so if there are any issues, we can just turn it off.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/07/first-video-from-facebook-garage-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

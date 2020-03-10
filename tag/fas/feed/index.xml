@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; FAS</title>
+	<atom:link href="/tag/fas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Traineeship programme for the digital media industry</title>
+		<link>/2009/08/traineeship-programme-for-the-digital-media-industry/</link>
+		<comments>/2009/08/traineeship-programme-for-the-digital-media-industry/#comments</comments>
+		<pubDate>Tue, 18 Aug 2009 14:42:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[DMF]]></category>
+		<category><![CDATA[FAS]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1351</guid>
+		<description><![CDATA[Interesting initiative from FAS and DMF FAS and the Digital Media Forum are planning to pilot a Traineeship programme for the digital media industry in the autumn. The Traineeship will be piloted in Dublin with 20 FÃS participants and 20 companies as agreed with the Digital Media Forum. The Digital Media Forum recently hosted a [...]]]></description>
+				<content:encoded><![CDATA[<p>Interesting initiative from <a href="http://fas.ie/en/">FAS</a> and <a href="http://www.digitalmediaforum.net/">DMF</a></p>
+<p>FAS and the Digital Media Forum are planning to pilot a Traineeship programme for the digital media industry in the autumn.  The Traineeship will be piloted in Dublin with 20 FÃS participants and 20 companies as agreed with the Digital Media Forum.  </p>
+<p>The Digital Media Forum recently hosted a meeting of interested companies and FÃS made a presentation outlining the key components of the proposed programme.  The target audience for the Traineeship is unemployed personnel who hold 3rd level qualifications in a range of disciplines such as: business management; law; human resources; marketing; sales; software development, have a minimum of 3 years post graduate experience and are in receipt of a Social Welfare payment.  The purpose of the Traineeship is to up-skill participants with digital literacy and broad management skills which combined with their professional qualifications and experience will enable them to work with digital media companies.  On completion of a 4 week training period in a FAS Training Centre, each course participant will be placed with a participating company for a period of 16 weeks structured work practice, during which time they will complete a company specific assignment as defined by the Company. The assignment should be outlined in the attached form. </p>
+<p>If your company is located in Dublin and you wish to participate in the pilot you are invited to complete the attached information form and return it to FÃS before the 28th August 2009.  All applications received will be forwarded to the Digital Media Forum.  Companies will be selected on the basis of the first 20 companies to return the completed form. Therefore, only completed forms sent electronically can be accepted as this will provide a record of date of receipt.</p>
+<p>The application needs to be returned  to Colin Flaherty at colin.flaherty@fas.ie on or before Friday, 28 August 2009.  Participants will be chosen on a â€œfirst come, first serveâ€ basis.</p>
+<p>To download the Application Form: http://www.scribd.com/doc/18750091/Digital-Media-Traineeship</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/08/traineeship-programme-for-the-digital-media-industry/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

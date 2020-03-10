@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; wit</title>
+	<atom:link href="/tag/wit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Kernel Capital Mobilizes â‚¬500k for FeedHenry</title>
+		<link>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/</link>
+		<comments>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/#comments</comments>
+		<pubDate>Thu, 09 Jun 2011 12:00:05 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cross-platform]]></category>
+		<category><![CDATA[feedhenry]]></category>
+		<category><![CDATA[kernel capital]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[spin-out]]></category>
+		<category><![CDATA[tssg]]></category>
+		<category><![CDATA[wit]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2083</guid>
+		<description><![CDATA[Kernel Capital has just announced that they have invested â‚¬500k in Waterford-based FeedHenry, a spin-out from the TSSG group in Waterford Institute of Technology. FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are: the fact that you don&#8217;t need N SDKs to build [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.kernelcapital.ie/">Kernel Capital</a> has just announced that they have invested â‚¬500k in Waterford-based <a href="http://www.feedhenry.com/">FeedHenry</a>, a spin-out from the TSSG group in Waterford Institute of Technology.</p>
+<p>FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are:</p>
+<ul>
+<li>the fact that you don&#8217;t need N SDKs to build for N platforms because they do the build for you in the cloud</li>
+<li>and they have a powerful server-side JavaScript component to reduce the load on the client and to enable you to access things like SQL DBs, enterprise web services etc</li>
+</ul>
+<p>If you are building a web-app and you don&#8217;t have a strong story in at least Android and iPhone, stop now and figure it out before you proceed any further. In fact, maybe you should be building for mobile first?</p>
+<p>Web developers who know their way around JS should have a look at FeedHenry. Your existing skill-set is all you need to build an app. They have a free <a href="http://developer.feedhenry.com/">Developer tier</a> and you can build for up to 8 mobile platforms.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/kernel-capital-mobilizes-e500k-for-feedhenry/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

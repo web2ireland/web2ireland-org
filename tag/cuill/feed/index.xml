@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cuill</title>
+	<atom:link href="/tag/cuill/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Cuill the Irish connection</title>
+		<link>/2008/04/cuill-the-irish-connection/</link>
+		<comments>/2008/04/cuill-the-irish-connection/#comments</comments>
+		<pubDate>Thu, 17 Apr 2008 10:12:06 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cuill]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=583</guid>
+		<description><![CDATA[Irish Indo has a piece on Cuill &#8211; founded by Louth man Tom Costello. Also check recent Techcrunch coverage on Cuill and their $25m funding round.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.independent.ie/">Irish Indo</a> has a <a href="http://www.independent.ie/business/irish/irish-internet-startup-touted-as-serious-threat-to-google-1349066.html"> piece</a> on <a href="http://www.cuill.com/">Cuill</a> &#8211; founded by Louth man Tom Costello. </p>
+<p><img src="http://cuill.com/images/logo.gif" alt="cuill" /></p>
+<p>Also check recent <a href="http://www.techcrunch.com/2008/04/15/cuill-secures-25m-for-next-generation-search/">Techcrunch coverage </a>on Cuill and their $25m funding round.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/cuill-the-irish-connection/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

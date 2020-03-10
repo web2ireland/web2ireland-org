@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; networking</title>
+	<atom:link href="/tag/networking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>IGOpeople IGOes Live</title>
+		<link>/2008/12/igopeople-igoes-live/</link>
+		<comments>/2008/12/igopeople-igoes-live/#comments</comments>
+		<pubDate>Wed, 17 Dec 2008 00:09:57 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[feedback]]></category>
+		<category><![CDATA[igopeople]]></category>
+		<category><![CDATA[networking]]></category>
+		<category><![CDATA[social networks]]></category>
+		<category><![CDATA[user interaction]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=936</guid>
+		<description><![CDATA[I was thrilled to hear from Campbell Scott that IGOpeople is in public beta starting today. They&#8217;ve been in stealth mode for a long time and we&#8217;ve all been looking forward to seeing it in action. Campbell describes it as: a Network for the Real World that brings people together to Find, Connect and Converse, [...]]]></description>
+				<content:encoded><![CDATA[<p>I was thrilled to hear from Campbell Scott that <a href="http://www.IGOpeople.com/">IGOpeople</a> is in public beta starting today. They&#8217;ve been in stealth mode for a long time and we&#8217;ve all been looking forward to seeing it in action.</p>
+<p><img class="alignnone size-full wp-image-937" title="igo" src="http://www.web2ireland.org/wp-content/uploads/2008/12/igo.jpg" alt="igo" width="614" height="418" /><br />
+Campbell describes it as:</p>
+<blockquote><p>a Network for the Real World that brings people together to Find, Connect and Converse, with their friends and with the businesses and organisations they deal with.</p></blockquote>
+<p>Sounding like a very useful mix of Social Networking, discussion boards, <a href="http://getsatisfaction.com/">GetSatisfaction</a> and <a href="http://uservoice.com/">UserVoice</a>, it looks like a great way for companies to see what people have to say about them.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/igopeople-igoes-live/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Le Web Discounts</title>
+		<link>/2008/11/le-web-discounts/</link>
+		<comments>/2008/11/le-web-discounts/#comments</comments>
+		<pubDate>Sat, 22 Nov 2008 14:24:01 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[le web. le web paris]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[networking]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=875</guid>
+		<description><![CDATA[I still rate Le Web 2007 as my conference highlight last year. A fantastic mix of people in a superb venue, I headed home full of excitement and ideas. It&#8217;s looking like 2008 will be just as good and the lovely organisers have given us a discount for Web2Ireland readers. Just enter the code &#8220;BLOGDISCOUNT&#8221; [...]]]></description>
+				<content:encoded><![CDATA[<p>I still rate Le Web 2007 as my conference highlight last year. A fantastic mix of people in a superb venue, I headed home full of excitement and ideas.</p>
+<p>It&#8217;s looking like <a href="http://www.lewebparis.com/">2008</a> will be just as good and the lovely organisers have given us a discount for Web2Ireland readers. Just enter the code &#8220;BLOGDISCOUNT&#8221; on <a href="http://www.amiando.com/leweb08.html?discountCode=BLOGDISCOUNT">the registration page</a> to get 20% off the list price.</p>
+<p><a href="http://www.amiando.com/leweb08.html?discountCode=BLOGDISCOUNT"><img title="Registerleweb20disc" src="http://www.leweb3.com/photos/uncategorized/2008/10/27/registerleweb20disc.jpg" border="0" alt="Registerleweb20disc" /></a></p>
+<p>If you are trying to figure out your conference-attending budget for the next 12 months, I genuinely think Le Web should be a priority for you. Every major player in tech, media and finance across Europe and a lot of the US will be there.</p>
+<p>It&#8217;s the type of conference where you can walk up to anyone, famous or not, and they&#8217;ll be happy to talk to you. You don&#8217;t have to send them your biz plan a month in advance and hope you are short-listed to get an audience with them. The networking opportunities are superb and the talks of very high quality.</p>
+<p>I only wish there were more flights from Cork.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/le-web-discounts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

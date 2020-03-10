@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; android</title>
+	<atom:link href="/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Plink wins Android Developer Challenge</title>
+		<link>/2009/12/plink-wins-android-developer-challenge/</link>
+		<comments>/2009/12/plink-wins-android-developer-challenge/#comments</comments>
+		<pubDate>Thu, 10 Dec 2009 10:26:35 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ADC]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Plink]]></category>
+		<category><![CDATA[PlinkART]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1615</guid>
+		<description><![CDATA[Congratulations to Plink, who recently won the best reference app in the Android Developer Challenge for their PlinkArt application, and a prize of $100,000! The Plink Art app is a visual search engine for art â€“ take a picture of a painting and the system recognises it and returns the history of the painting, info [...]]]></description>
+				<content:encoded><![CDATA[<p>Congratulations to <a href="http://www.plinkart.com/blog/?p=39">Plink, who recently won</a> the <a href="http://android-developers.blogspot.com/2009/11/announcing-winners-of-adc-2.html">best reference app in the Android Developer Challenge</a> for their <a href="http://www.plinkart.com/apps.html">PlinkArt application</a>, and a prize of $100,000!</p>
+<p>The Plink Art app is a visual search engine for art â€“ take a picture of a painting and the system recognises it and returns the history of the painting, info about the artist, etc. Right now it recognises tens of thousands of famous paintings.<br />
+<img alt="" src="http://www.plinkart.com/images/plink_blog_image.png" title="plinkart" class="alignnone" width="311" height="382" /></p>
+<p><a href="http://www.web2ireland.org/2009/11/10/irish-startup-plink-an-android-developer-challenge-finalist/">We recently profiled PlinkArt on Web2Ireland.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/12/plink-wins-android-developer-challenge/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Irish startup, Plink, an Android Developer Challenge Finalist</title>
+		<link>/2009/11/irish-startup-plink-an-android-developer-challenge-finalist/</link>
+		<comments>/2009/11/irish-startup-plink-an-android-developer-challenge-finalist/#comments</comments>
+		<pubDate>Tue, 10 Nov 2009 16:44:03 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Plink]]></category>
+		<category><![CDATA[PlinkART]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1561</guid>
+		<description><![CDATA[Plink are a small Irish start-up developing image-driven search engines (you take a picture of something, and we recognise the object in the picture). Their app PlinkArt just made the finals of Google&#8217;s Android Developer Challenge The Plink Art app is a visual search engine for art &#8211; take a picture of a painting and [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.plinkart.com/img/plinkart-logo.gif" class="alignnone" width="468" height="90" /></p>
+<p><a href="http://www.plinkart.com/">Plink</a> are a small Irish start-up developing image-driven search engines (you take a picture of something, and we recognise the object in the picture). </p>
+<p>Their app PlinkArt just made the finals of <a href=" http://code.google.com/android/adc/">Google&#8217;s Android</a> <a href="http://code.google.com/android/adc/adc2_top200.html">Developer</a> <a href="http://android-developers.blogspot.com/2009/11/adc-2-round-2-voting-open.html">Challenge</a></p>
+<p><a href="http://www.plinkart.com/screenshots.html">The Plink Art app is a visual search engine for art</a> &#8211; take a picture of a painting and our system recognises it and returns the history of the painting, info about the artist, etc. Right now it recognises tens of thousands of famous paintings. We&#8217;re working on building it into a next-generation museum tour guide.</p>
+<p>The overall winner of the Google contest is determined by public vote. Anyone with an Android phone can download the &#8220;Android Developer Challenge 2&#8243; app (<a href="http://chart.apis.google.com/chart?cht=qr&#038;chs=230x230&#038;chl=http%3A%2F%2Fmarket.android.com%2Fsearch%3Fq%3Dpname%3Acom.google.android.challenge">just scan this barcode</a> to get the app) to test out and rank the entries. </p>
+<p>Maybe with last week&#8217;s launch of the first Irish Android handset (<a href="http://www.meteor.ie/about/news/2009/221009/">HTC Hero from Meteor</a>), we could get some home-team support for Plink App. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/irish-startup-plink-an-android-developer-challenge-finalist/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Loudervoice launches Android Application</title>
+		<link>/2009/05/loudervoice-launches-android-application/</link>
+		<comments>/2009/05/loudervoice-launches-android-application/#comments</comments>
+		<pubDate>Wed, 27 May 2009 17:16:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[marino]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1205</guid>
+		<description><![CDATA[Last weekend LouderVoice announced that it has launched its first private beta application for the Google Android platform. ReadWriteWeb have some great coverage &#8220;It is the first Irish Android application and one of the very first reviewing applications on the platform. The application is &#8220;all about writing and finding reviews when you are out and [...]]]></description>
+				<content:encoded><![CDATA[<p>Last weekend <a href="http://www.loudervoice.com/">LouderVoice</a> announced that it has launched its first private beta application for the <a href="http://www.android.com/">Google Android platform</a>. </p>
+<p><img src="http://www.readwriteweb.com/lv_android_01.png" alt="loudervoice" /></p>
+<p><a href="http://www.readwriteweb.com/archives/loudervoice_releases_android_application.php">ReadWriteWeb</a> have some great coverage</p>
+<p><em>&#8220;It is the first Irish Android application and one of the very first reviewing applications on the platform. The application is &#8220;all about writing and finding reviews when you are out and about with your Android phone&#8221;. It is live now in countries where Android is available.</p>
+<p>lv_android_01.pngIn addition to finding reviews written on the company&#8217;s Website and Android, you can also browse or search reviews from its partners and clients. That includes reviews of many of Roomex&#8217;s 20,000 hotels, Puddleducks outdoor gear, Klipsch audio products and Bubble Brothers wines.&#8221;</em></p>
+<p><a href="http://cgarvey.ie/blog/archive/2009/05/22/lightning-review-of-loudervoice-for-android/">Cathal Garvey has an excellent video</a> overview</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/8bbav2VwnvI&#038;color1=0x3a3a3a&#038;color2=0x999999&#038;hl=en&#038;feature=player_embedded&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/8bbav2VwnvI&#038;color1=0x3a3a3a&#038;color2=0x999999&#038;hl=en&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><a href="http://blog.loudervoice.com/2009/05/23/loudervoice-reviews-for-google-android/">As per the Loudervoice blog</a>, Loudervoice worked with Irish development partners &#8211; <a href="http://www.marinosoftware.com/">Marino Software in Dublin</a> and <a href="http://www.linkedin.com/pub/bartosz-ptaszynski/3/556/594">Yazzgoth in Cork</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/05/loudervoice-launches-android-application/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; net visionary</title>
+	<atom:link href="/tag/net-visionary/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>IIA Award Winners</title>
+		<link>/2008/10/iia-award-winners/</link>
+		<comments>/2008/10/iia-award-winners/#comments</comments>
+		<pubDate>Fri, 31 Oct 2008 10:08:53 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[awards]]></category>
+		<category><![CDATA[iia]]></category>
+		<category><![CDATA[net visionary]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=830</guid>
+		<description><![CDATA[Fantastic set of winners at last night&#8217;s IIA Net Visionary Awards. Well done to all. They were (in reverse order): Overall Net Visionary: Pat Phelan of MaxRoam Web developer excellence: Jennifer O&#8217;Brien of Webtools Software Web design excellence: Karen Hanratty of www.pixeldesign.ie Social Contribution: Niall Devine of MyCharity.ie Mobile Internet Innovation: Johnny Beirne of Downloadmusic.ie [...]]]></description>
+				<content:encoded><![CDATA[<p>Fantastic set of winners at last night&#8217;s <a href="http://www.netvisionary.ie/">IIA Net Visionary Awards</a>. Well done to all.</p>
+<p><img class="alignnone" title="Netviz" src="http://iia.ie/filestore/images/homepage-hero/netvis07.jpg" alt="" width="466" height="127" /></p>
+<p>They were (in reverse order):</p>
+<ul>
+<li>Overall Net Visionary: Pat Phelan of MaxRoam</li>
+<li>Web developer excellence: Jennifer O&#8217;Brien of Webtools Software</li>
+<li>Web design excellence: Karen Hanratty of www.pixeldesign.ie</li>
+<li>Social Contribution: Niall Devine of MyCharity.ie</li>
+<li>Mobile Internet Innovation: Johnny Beirne of Downloadmusic.ie</li>
+<li>Journalist Award: Marie Boran of Silicon Republic</li>
+<li>Internet Marketer: Michele Neylon of Blacknight Solutions</li>
+<li>Internet Entrepreneur: Derek Quinn of MyAddress.ie</li>
+<li>Innovation: Niall Devine from MyCharity.ie</li>
+<li>Educational Contribution: Paul Whelan for Lichens.ie</li>
+<li>eGovt: Cathy Clarke for www.itsyourmoney.ie</li>
+<li>Best Use of Social Media: Marcus Mac Innes for Pix.ie</li>
+<li>Best Online Trader Ireland: Brian Fallon www.daft.ieÂ </li>
+<li>Best Online Financial Service: Martin O&#8217;Leary, RaboDirect</li>
+<li>Online Exporter: Lulu O&#8217;Sullivan www.4giftsdirect.com</li>
+<li>Best Online business use of Irish: Niall O&#8217;Driscoll, vStream www.vstream.ie</li>
+<li>Best Business Podcaster: Alex Gibson for www.thepersuaders.com</li>
+<li>Best Business Blogger: Michele Neylon</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/iia-award-winners/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

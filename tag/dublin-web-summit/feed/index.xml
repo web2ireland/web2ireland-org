@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; dublin web summit</title>
+	<atom:link href="/tag/dublin-web-summit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Follow all the Dublin Web Summit #DWS7 Tweets here on Web2Ireland</title>
+		<link>/2011/10/follow-all-the-dublin-web-summit-dws7-tweets-here-on-web2ireland/</link>
+		<comments>/2011/10/follow-all-the-dublin-web-summit-dws7-tweets-here-on-web2ireland/#comments</comments>
+		<pubDate>Wed, 26 Oct 2011 13:26:42 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[dws11]]></category>
+		<category><![CDATA[dws7]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2142</guid>
+		<description><![CDATA[As we announced over on the HushVine Blog, we have created an Android Twitter tracking app for DWS7. But for those of you who want the big screen experience, we&#8217;re thrilled to make it available here too. It auto-updates every minute, is tracking lots more than a hashtag and you can tweet from it too.]]></description>
+				<content:encoded><![CDATA[<p>As we announced over on the <a href="http://blog.hushvine.com/">HushVine Blog</a>, we have created an <a href="https://market.android.com/details?id=com.feedhenry.fhaGg4WxVjNy5U21VpR6YtIKmn">Android Twitter tracking app</a> for DWS7. But for those of you who want the big screen experience, we&#8217;re thrilled to make it available here too. It auto-updates every minute, is tracking lots more than a hashtag and you can tweet from it too.</p>
+<p><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script><br />
+<script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=HB2PZ5xt10kLez3y1xgFw&#038;v=1"></script><br />
+<script type="text/javascript" src="http://cdn.hushvine.com/9dbdf764-2b6f-47c6-a941-d361882e403f/0000001/js/hushvine-widget-min.js"></script></p>
+<link rel="stylesheet" type="text/css" href="http://cdn.hushvine.com/9dbdf764-2b6f-47c6-a941-d361882e403f/0000001/css/hushvine-widget.css" />
+<div id="hvtweet"></div>
+<div id="hvticker"></div>
+<p><script type="text/javascript">$(document).ready(function(){$('#hvtweet').jHushVine({apiServer: "api.hushvine.com", apiKey: "9dbdf764-2b6f-47c6-a941-d361882e403f", widgetKey: "0000001", showTweetBox: true, showTweetFeed: false});});</script><script type="text/javascript">$(document).ready(function(){$('#hvticker').jHushVine({apiServer: "api.hushvine.com", apiKey: "9dbdf764-2b6f-47c6-a941-d361882e403f", widgetKey: "0000001", showTweetFeed: true, showTweetBox: false,});});</script></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/follow-all-the-dublin-web-summit-dws7-tweets-here-on-web2ireland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get Your Start-Up in Front of Everyone at Dublin Web Summit</title>
+		<link>/2011/08/get-your-start-up-in-front-of-everyone-at-dublin-web-summit/</link>
+		<comments>/2011/08/get-your-start-up-in-front-of-everyone-at-dublin-web-summit/#comments</comments>
+		<pubDate>Tue, 23 Aug 2011 12:59:16 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2094</guid>
+		<description><![CDATA[This really is top news from Dublin Web Summit and Enterprise Ireland. 25 start-ups will be able to exhibit at the #DWS Startup Zone for only â‚¬550 each! That&#8217;s down from â‚¬4,470 list. What are you waiting for? Do it.]]></description>
+				<content:encoded><![CDATA[<p>This really is top news from <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> and <a href="http://www.enterprise-ireland.com/en/">Enterprise Ireland</a>.</p>
+<p>25 start-ups will be able to exhibit at the #DWS Startup Zone for only â‚¬550 each! That&#8217;s down from â‚¬4,470 list.</p>
+<p>What are you waiting for? <a href="http://www.dublinwebsummit.com/index.php/why-attend/startupzone">Do it</a>.</p>
+<p style="text-align: center;"><a href="http://www.dublinwebsummit.com/index.php/why-attend/startupzone"><img class="size-full wp-image-2095 aligncenter" title="Logo-g" src="http://www.web2ireland.org/wp-content/uploads/2011/08/Logo-g.png" alt="" width="392" height="322" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/get-your-start-up-in-front-of-everyone-at-dublin-web-summit/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dublin Web Summit Start-up Competition &#8211; â‚¬40k &#8211; Nice.</title>
+		<link>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/</link>
+		<comments>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/#comments</comments>
+		<pubDate>Thu, 02 Jun 2011 12:08:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[dws11]]></category>
+		<category><![CDATA[esb]]></category>
+		<category><![CDATA[prize]]></category>
+		<category><![CDATA[spark of genius]]></category>
+		<category><![CDATA[startup competition]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2076</guid>
+		<description><![CDATA[Who doesn&#8217;t remember last year&#8217;s Spark of Genius Competition won by Data Hug which resulted in major publicity for the guys. We&#8217;re all looking forward to it coming out of private beta. Well DWS is at it again, this time with ESB Electric Ireland, and they have a â‚¬40k prize fund of cash and services. [...]]]></description>
+				<content:encoded><![CDATA[<p>Who doesn&#8217;t remember last year&#8217;s Spark of Genius Competition won by <a href="http://datahug.com/">Data Hug</a> which resulted in major publicity for the guys. We&#8217;re all looking forward to it coming out of private beta.</p>
+<p>Well <a href="http://www.dublinwebsummit.com/">DWS</a> is at it again, this time with ESB Electric Ireland, and they have a â‚¬40k prize fund of cash and services.</p>
+<p><img class="aligncenter" title="Spark of Genius" src="http://farm4.static.flickr.com/3489/5789929548_da1795735f_d.jpg" alt="" width="500" height="369" /></p>
+<p>2011 judges include Brian Caulfield of DFJ, Shay Garvey of Delta and Mark Roden of Ezetop. Shortlisted companies will pitch at the Dublin Web Summit on October 27th.</p>
+<p>Applications will open from June 10th and we&#8217;ll let you know here when they do.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Next #DWS Dublin Web Summit on March 8th</title>
+		<link>/2011/02/next-dws-dublin-web-summit-on-march-8th/</link>
+		<comments>/2011/02/next-dws-dublin-web-summit-on-march-8th/#comments</comments>
+		<pubDate>Mon, 21 Feb 2011 19:30:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2048</guid>
+		<description><![CDATA[The Dublin Web Summit events just go from strength to strength. The next one is coming soon on March 8th in Trinity College. Some of the seriously impressive speakers they have lined up include: Stefan Glaenzer, Founder of Last.fm Ben Parr, Editor of Mashable Dan Cobley, Google&#8217;s Director of European Marketing Terry Clune, Founder of [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.dublinwebsummit.com/">Dublin Web Summit events</a> just go from strength to strength. The next one is coming soon on March 8th in Trinity College.</p>
+<p style="text-align: center;"><a href="http://www.dublinwebsummit.com/"><img class="aligncenter" title="Dublin Web Summit" src="http://www.dublinwebsummit.com/images/logo.gif" alt="" width="425" height="60" /></a></p>
+<p>Some of the seriously impressive speakers they have lined up include:</p>
+<ul>
+<li>Stefan Glaenzer, Founder of Last.fm</li>
+<li>Ben Parr, Editor of Mashable</li>
+<li>Dan Cobley, Google&#8217;s Director of European Marketing</li>
+<li>Terry Clune, Founder of Taxback.com</li>
+<li>Jerry Kennelly, Founder of Stockbyte</li>
+<li>John Hearne, Founder of Curam Software</li>
+<li>James Whelton, Hacker of iPod Nano</li>
+</ul>
+<p>In addition to the main event there is also a <a href="http://www.dublinwebsummit.com/pages/new-streams">Startup Bootcamp</a> during the day and networking drinks afterwards.</p>
+<p>Discounted tickets are available to DWS for startups / students and developers. Contact Alex@dublinwebsummit.com for details</p>
+<p>Don&#8217;t forget there is a Pub Summit this Thursday night in The Odeon. Sign-up is on <a href="http://www.eventbrite.com/event/1291503923/efblike">Eventbrite</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/next-dws-dublin-web-summit-on-march-8th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>DataHug &#8211; The Interview</title>
+		<link>/2010/11/datahug-the-interview/</link>
+		<comments>/2010/11/datahug-the-interview/#comments</comments>
+		<pubDate>Sat, 06 Nov 2010 13:11:22 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[#dws4]]></category>
+		<category><![CDATA[datahug]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[intertrade ireland]]></category>
+		<category><![CDATA[seedcorn]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1893</guid>
+		<description><![CDATA[DataHug didn&#8217;t just win at the Dublin Web Summit recently, they also nabbed the Emerging category in the Munster region for the All-Ireland Seedcorn competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final. I shot over [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.datahug.com/">DataHug</a> didn&#8217;t just win at the <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> recently, they also nabbed the Emerging category in the Munster region for the <a href="http://www.intertradeireland.com/seedcorn/">All-Ireland Seedcorn</a> competition this week. This is one of the biggest start-up competitions on the island and I think we can expect great things from the guys in the final.</p>
+<p style="text-align: center;"><a href="http://www.datahug.com/"><img class="aligncenter" title="DataHug" src="http://datahug.com/wp-content/woo_uploads/9-DH_NoWriting_Orange_21June10_Transparent.png" alt="" width="300" height="83" /></a></p>
+<p>I shot over a few question to Ray and Connor about the company, their backgrounds and the product.</p>
+<p><strong>How long have you been around?<br />
+</strong> Since November 2009</p>
+<p><strong>Is this your first startup?<br />
+</strong> J1Summer.com was founded by Connor back in 2002.</p>
+<p><strong>What are your backgrounds<br />
+</strong><em> Ray</em>: Over 6 years global experience as a Manager working for Accenture, in architecting and delivering large scale technology business critical technology projects. Deep experience in planning, estimating and managing large geographically dispersed development teams (50+). Electronic Engineer who placed top of his class (UCD) and went on to complete a research Masters involving MIT Media Lab</p>
+<p><em>Connor</em>: Over 6 years at PA Consulting, Connor sold and delivered million dollar projects for Thomson Reuters, Pfizer, Estee Lauder, British Airways and Dubai World. Diverse experience working for global leading clients with a speciality in Knowledge Management and User-Centric design. He has a first Class honours degree from Computer Science (UCC)</p>
+<p><strong>You seem to be not just in Ireland? US too?<br />
+</strong> Connor lived in Washington DC for a number of years and I lived down in Australia. The company has a base in DC and connections in San Jose but we came home to be based here in Ireland and we plan to grow the company in Ireland initially.</p>
+<p><strong>Did we hear there was a Cork connection?<br />
+</strong> Connor is the official company langer J, with me being from Dublin. My fiancÃ©e is from Cork so I am not your typical Barryâ€™s tea knocking jackeen.</p>
+<p><strong>Any background in Webapps or coming at it from biz opportunity side?<br />
+</strong> With our technical backgrounds, we both have developed web applications in the past. We spotted the business opportunity whilst working in Consulting and lived the pain of managing relationships every day. We were then fortunate to be able to develop it ourselves and bootstrap it in the current climate.</p>
+<p><strong>Any immediate results from DWS4?<br />
+</strong> We have trial partners in the States, UK and Ireland who are providing us with alpha feedback in advance of our public beta launch. A lot of positives have been taken from that and the number wishing to sign-up for our beta trial.</p>
+<p><strong>How are you currently funded?<br />
+</strong> Bootstrapped to-date with support from Endeavour (Jerry Kennelly), EI and the iGAP programme. The Spark of Genius prize will go a long way to helping us grow at pace. We are currently actively looking to close a seed investment round.</p>
+<p><strong>Numbers of alpha testers?<br />
+</strong> We have 6 trial clients, clocking up over a million relationships through the system.</p>
+<p><strong>Beta this month?<br />
+</strong> Planned for the end of this month.</p>
+<p><strong>Anything you can share on the tech?<br />
+</strong> Cloud SaaS Solution, built on MS Azure platform. Supports IMAP, Google OAuth and Exchange Web Services connectivity</p>
+<p><strong>Pure Enterprise play or other angles you are looking at?<br />
+</strong> We are initially targeting SME business between 5 â€“ 500 employees involved in professional services or sales. We will then target the larger professional services firms.</p>
+<p><strong>Initial target geography?<br />
+</strong> Ireland, UK, US in that order.</p>
+<p><strong>One-liner on #DWS4 and F.ounders?<br />
+</strong> The Dublin Web Summit &amp; F.ounders was yet another fantastic event organised by Paddy Cosgrave to help put Ireland on the map for web technologies and start-ups. The line-up of speakers were fantastic</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/datahug-the-interview/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dublin Web Summit &#8211; More Please</title>
+		<link>/2010/10/dublin-web-summit-more-please/</link>
+		<comments>/2010/10/dublin-web-summit-more-please/#comments</comments>
+		<pubDate>Sun, 31 Oct 2010 11:51:31 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[#dws4]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[event]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1881</guid>
+		<description><![CDATA[Friday was my first Dublin Web Summit and it far exceeded my expectations in every way. Paddy Cosgrove pulled off a jaw-droppingly impressive feat over the three days and I can&#8217;t congratulate him enough. I won&#8217;t go into enormous detail on the Summit, I really wanted to highlight a few key takeaways and offer one [...]]]></description>
+				<content:encoded><![CDATA[<p>Friday was my first <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> and it far exceeded my expectations in every way. Paddy Cosgrove pulled off a jaw-droppingly impressive feat over the three days and I can&#8217;t congratulate him enough.</p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2010/10/dws_logo.gif"><img class="size-full wp-image-1882  aligncenter" title="dws_logo" src="http://www.web2ireland.org/wp-content/uploads/2010/10/dws_logo.gif" alt="" width="425" height="60" /></a></p>
+<p>I won&#8217;t go into enormous detail on the Summit, I really wanted to highlight a few key takeaways and offer one strong criticism.</p>
+<p>The quality of the speakers that I saw was pretty amazing. The Irish were just as impressive as their US and UK counterparts and the strong sense of community was palpable everywhere. I think we have struggled to create a tech <em>community </em>here and it has been quite fractured and cliquish. Paddy has managed to overcome this and get everyone together, talking, networking and buzzing.</p>
+<p>I loved the focus a lot of speakers put on failure. The response to failure in Ireland still remains very much &#8220;oh him, he&#8217;s just a chancer, his last business went bust&#8221;. These words usually coming out of the mouths of people who has never taken a risk in their lives. So it was a joy to see everyone from Jonathan Siegel to Jeff Clavier to Niklas Zennstrom talk about failing and failing again and getting up and falling down and trying again. That message more than any has to be broadcast and baked into the DNA of this country. There are no get-rich-quick schemes, there is just hard work and perseveranceÂ and doing your best to help others in the same boat as you.</p>
+<p>Like everyone else in the room, I absolutely loved the gaming panel on Friday. It wasn&#8217;t just the humour and smart-arsery, it was the acknowledgement, finally, that gaming is a massive success story for Ireland. Why we have had such a problem admitting this I don&#8217;t know. Perhaps Plants vs Zombies doesn&#8217;t impress Government departments as much as Microsoft Office. Whatever it is, the ideas presented for growing this sector made absolute sense to me.</p>
+<p>And now for the criticism. I have a huge problem with the Playas vs Plebs thing that happened with the two separate conferences. In all the years I&#8217;ve been to tech conferences I&#8217;ve never encountered anything like it. I still don&#8217;t understand why it was necessary. Marissa Meyer doesn&#8217;t skip TechCrunch Disrupt because some nobody can walk up to her and have a chat. Jack Dorsey doesn&#8217;t skip Le Web because a Paddy can go up to him to shoot the breeze. So why a separate invite-only conference in Ireland? Were they afraid the players wouldn&#8217;t come unless it was &#8220;exclusive&#8221;? As for the &#8220;Davos for Geeks&#8221; line, c&#8217;mon, get real. Bitter much, of course I am <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>A merged single summit could easily be another Le Web. The reason I go to that conference every year is because it is &#8220;flat&#8221;. From pre-launch startups to billionaires, journalists and bloggers, all of them mixing, chatting and networking. Every cup of coffee an opportunity. Of course there are private dinners and private parties but the daytime is for everyone. We need more events like this in Europe and I think Dublin Web Summit could be one of the best. But it has to be one summit.</p>
+<p>Two more very positive notes:</p>
+<p>First, big props to <a href="http://www.atomico.com/">Atomico</a>. Those guys spent the entire day meeting startups and listening to their pitches. I popped up to say hello and they were deeply apologetic. The booklet we all received made it look like you could drop in unannounced. In fact it had to be pre-booked. But rather than send us all packing, they are doing follow-ups with anyone who didn&#8217;t get a face to face meeting. My kinda guys!</p>
+<p>Finally, congrats to <a href="http://www.datahug.com/">DataHug</a>. I didn&#8217;t see their pitch but even a second-hand description of what they do was enough to tell me they are on to a winner. If it works well, they will be snapped up in less than 24 months.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/dublin-web-summit-more-please/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

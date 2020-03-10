@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: IGOpeople IGOes Live</title>
+	<atom:link href="/2008/12/igopeople-igoes-live/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/12/igopeople-igoes-live/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2008/12/igopeople-igoes-live/#comment-850</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Wed, 07 Jan 2009 11:30:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=936#comment-850</guid>
+		<description><![CDATA[Final test of comment posting to Facebook.]]></description>
+		<content:encoded><![CDATA[<p>Final test of comment posting to Facebook.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Campbell Scott</title>
+		<link>/2008/12/igopeople-igoes-live/#comment-849</link>
+		<dc:creator>Campbell Scott</dc:creator>
+		<pubDate>Thu, 18 Dec 2008 07:38:21 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=936#comment-849</guid>
+		<description><![CDATA[Thanks for that Conor. We&#039;re delighted with take-up on day one, so thanks for helping us get the message out.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for that Conor. We&#8217;re delighted with take-up on day one, so thanks for helping us get the message out.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

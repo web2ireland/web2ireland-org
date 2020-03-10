@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; launch</title>
+	<atom:link href="/tag/launch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Jobsket launches</title>
+		<link>/2009/03/jobsket-launches/</link>
+		<comments>/2009/03/jobsket-launches/#comments</comments>
+		<pubDate>Sat, 21 Mar 2009 12:24:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cv]]></category>
+		<category><![CDATA[jobsket]]></category>
+		<category><![CDATA[launch]]></category>
+		<category><![CDATA[resume]]></category>
+		<category><![CDATA[webapp]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1080</guid>
+		<description><![CDATA[Martin Perez contacted us this week about a new site called Jobsket.ie in which he is involved. It&#8217;s an online service to host and value CVs/resumes. The first half of it is that you upload a CV and they render it with a Flash viewer so you can send the URL to anyone without requring [...]]]></description>
+				<content:encoded><![CDATA[<p>Martin Perez contacted us this week about a new site called <a href="http://www.jobsket.ie/">Jobsket.ie</a> in which he is involved. It&#8217;s an online service to host and value CVs/resumes.</p>
+<p style="text-align: center;"><img class="aligncenter" title="JobSket" src="https://www.jobsket.ie/images/logo.gif" alt="" width="281" height="74" /></p>
+<p>The first half of it is that you upload a CV and they render it with a Flash viewer so you can send the URL to anyone without requring any desktop tool. You can also embed a widget with a thumbnail of your CV on your blog or website.</p>
+<p>The twist is that they also value the CVs. Their application connects to several job sources and extracts information about salaries on the jobs market. They combine that information with the information available in people&#8217;s CVs so that they can give an estimate of the market-value of any given CV. This also enables them to extract trends on the jobs market such as &#8220;does a Java programmerÂ earn more than a Python programmer?&#8221;.</p>
+<p>They are in Beta invite-mode at the moment and you can add your email address over on the site if you&#8217;d like to try it out.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/jobsket-launches/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

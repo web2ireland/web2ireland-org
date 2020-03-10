@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; google app engine</title>
+	<atom:link href="/tag/google-app-engine/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>API Wars and Opportunities</title>
+		<link>/2009/02/api-wars-and-opportunities/</link>
+		<comments>/2009/02/api-wars-and-opportunities/#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 20:42:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[google app engine]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1037</guid>
+		<description><![CDATA[As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th. This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is [...]]]></description>
+				<content:encoded><![CDATA[<p>As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th.</p>
+<p>This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is an opportunity for the Web2Ireland community to meet and discuss</p>
+<ul>
+<li>using APIs for business development</li>
+<li>building mashups/widgets/etc</li>
+<li>apps on mobile platforms &#8211; iPhone, Android, nokia, etc</li>
+<li>using enterprise 2.0 platforms &#8211; force.com, IBM, etc</li>
+<li>developer infrastructure &#8211; Amazon, Google App Engine</li>
+</ul>
+<p>If you are attending in any capacity,Â <a href="http://web2irelandapiwars.eventbrite.com/">please sign-up here</a>.</p>
+<div><strong>If you are interested inÂ </strong><strong>speaking or demoing, Â just email web2ireland.editor @ gmail.com</strong></div>
+<p>By signing up for Web2Ireland API Wars you are automatically included in attendee list for Developer Garage &#8211; check here forÂ <a href="http://www.facebook.com/event.php?eid=53311687551">more information on Facebook Garage</a></p>
+<p>And then some social drinks for all involved&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/api-wars-and-opportunities/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

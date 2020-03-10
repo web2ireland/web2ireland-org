@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ely</title>
+	<atom:link href="/tag/ely/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>(More Than) Full House for Web2Ireland DemoBar</title>
+		<link>/2010/11/more-than-full-house-for-web2ireland-demobar/</link>
+		<comments>/2010/11/more-than-full-house-for-web2ireland-demobar/#comments</comments>
+		<pubDate>Sun, 21 Nov 2010 12:30:47 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[demobar]]></category>
+		<category><![CDATA[ely]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[guardian tech weekly]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1902</guid>
+		<description><![CDATA[I recommend that everyone who is signed up for Tuesday&#8217;s DemoBar stop eating now. It&#8217;s gonna be jammed! The interest level has been incredible. The following fab startups will be demoing on the night: Gruupy Digital Mines OnePageCRM DataHug Tunepresto LocalSocial Feedhenry Plendi Haunted Planet See you all on Tuesday from 6:30 PM â€“ 9:30 [...]]]></description>
+				<content:encoded><![CDATA[<p>I recommend that everyone who is signed up for Tuesday&#8217;s DemoBar stop eating now. It&#8217;s gonna be jammed! The interest level has been incredible. The following fab startups will be demoing on the night:</p>
+<ul>
+<li><a href="http://www.gruupy.com/">Gruupy</a></li>
+<li><a href="http://www.digitalmines.com/">Digital Mines</a></li>
+<li><a href="http://www.onepagecrm.com/">OnePageCRM</a></li>
+<li><a href="http://www.datahug.com/">DataHug</a></li>
+<li><a href="http://www.tunepresto.com/">Tunepresto</a></li>
+<li><a href="http://www.rococosoft.com/products/localsocial.php">LocalSocial</a></li>
+<li><a href="http://www.feedhenry.com/">Feedhenry</a></li>
+<li><a href="http://www.plendihq.com/">Plendi</a></li>
+<li><a href="http://www.hauntedplanet.com/">Haunted Planet</a></li>
+</ul>
+<p style="text-align: center;"><img class="aligncenter" src="http://static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" alt="" width="344" height="52" /></p>
+<p>See you all on Tuesday from 6:30 PM â€“ 9:30 PM at the Ely Gastro Pub, Dublin. Don&#8217;t forget thatÂ theÂ <a href="http://www.guardian.co.uk/technology">Guardian Tech Weekly team</a> will be there too.</p>
+<p>Thanks again toÂ <a href="http://www.enterprise-ireland.com/en/">Enterprise Ireland</a> who will be sponsoring the evening.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/more-than-full-house-for-web2ireland-demobar/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

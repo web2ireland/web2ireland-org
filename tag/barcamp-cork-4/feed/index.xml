@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; barcamp cork 4</title>
+	<atom:link href="/tag/barcamp-cork-4/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>BarCamp Cork IV On November 20th</title>
+		<link>/2010/11/barcamp-cork-iv-on-november-20th/</link>
+		<comments>/2010/11/barcamp-cork-iv-on-november-20th/#comments</comments>
+		<pubDate>Wed, 10 Nov 2010 20:12:28 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[barcamp]]></category>
+		<category><![CDATA[barcamp cork]]></category>
+		<category><![CDATA[barcamp cork 4]]></category>
+		<category><![CDATA[unconference]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1895</guid>
+		<description><![CDATA[We all know that Cork makes the finest BarCamps of them all Now it&#8217;s time for BarCamp Cork IV, in 3D. Or, actually, in Webworks, the site of the first and second BCCs. If you love technology and startups and want to share, talk or learn, come on down. It&#8217;s free and no-one will try [...]]]></description>
+				<content:encoded><![CDATA[<p>We all know that Cork makes the finest BarCamps of them all <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' />  Now it&#8217;s time for <a href="http://www.barcampcork.com/">BarCamp Cork IV</a>, in 3D. Or, actually, in Webworks, the site of the first and second BCCs.</p>
+<div id="attachment_1896" class="wp-caption aligncenter" style="width: 310px"><a href="http://www.barcampcork.com/"><img class="size-medium wp-image-1896" title="BarCamp Cork IV" src="http://www.web2ireland.org/wp-content/uploads/2010/11/barcamp-300x75.png" alt="" width="300" height="75" /></a><p class="wp-caption-text">November 20th</p></div>
+<p>If you love technology and startups and want to share, talk or learn, come on down. It&#8217;s free and no-one will try to sell you anything.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/barcamp-cork-iv-on-november-20th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

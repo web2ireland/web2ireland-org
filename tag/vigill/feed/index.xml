@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Vigill</title>
+	<atom:link href="/tag/vigill/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Vigill. Next generation customer relationship management.</title>
+		<link>/2011/10/vigill-next-generation-customer-relationship-management/</link>
+		<comments>/2011/10/vigill-next-generation-customer-relationship-management/#comments</comments>
+		<pubDate>Fri, 28 Oct 2011 09:02:09 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Vigill]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2148</guid>
+		<description><![CDATA[With two very smart founders at the helm, Barry Nolan and Oisin Hurley, Vigill is a new startup that could disrupt customer relationship management in the mobile world. Vigill allows enterprise systems and humans to converse and self-serve in mobile applications. Vigill is a cloud platform that enables companies to connect, interact and self-service their [...]]]></description>
+				<content:encoded><![CDATA[<p>With two very smart founders at the helm, <a href="http://ie.linkedin.com/in/barrynolan">Barry Nolan</a> and <a href="http://ie.linkedin.com/in/oisinhurley">Oisin Hurley</a>, <a href="http://www.vigill.com/">Vigill</a> is a new startup that could disrupt <a href="http://www.vigill.com/">customer relationship management</a> in the mobile world.</p>
+<p>Vigill allows enterprise systems and humans to converse and self-serve in mobile applications. <a href="http://www.vigill.com/">Vigill</a> is a cloud platform that enables companies to connect, interact and self-service their customers through their mobile applications.  At its core Vigill’s proposition involves presenting concise, time sensitive information, allowing the user to respond and/or perform a task quickly, efficiently and conveniently &#8211; leveraging the power of smartphones (alerting, authenticating, interacting, locating, and interacting).</p>
+<p><img alt="" src="http://www.vigill.com/Vigill/Overview_files/droppedImage_6.jpg" title="Vigill Demo" class="alignnone" width="200" height="197" /></p>
+<p>To crack the market, Vigill will make it easy for developers to white-label integrate ‘conversation engines’ into their mobile apps &#8211; similar to the likes of Twilio or UrbanAirship.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/vigill-next-generation-customer-relationship-management/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

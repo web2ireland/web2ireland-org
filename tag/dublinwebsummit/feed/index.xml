@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; DublinWebSummit</title>
+	<atom:link href="/tag/dublinwebsummit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dublin Web Summit October 29 2010 &#8211; Top Speakers, Great Networking</title>
+		<link>/2010/10/dublin-web-summit-october-29-2010-top-speakers-great-networking/</link>
+		<comments>/2010/10/dublin-web-summit-october-29-2010-top-speakers-great-networking/#comments</comments>
+		<pubDate>Mon, 18 Oct 2010 10:51:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[500startups]]></category>
+		<category><![CDATA[DublinWebSummit]]></category>
+		<category><![CDATA[SofttechVC]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1846</guid>
+		<description><![CDATA[Paddy has pulled together a great line up of speakers, including old Web2Ireland friends Dave McClure, Jeff Clavier and others. Last of the Early Bird Tickets on sale with a few opportunities to sponsor at event by calling David on +353 1 4429284]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://evbdn.eventbrite.com/s3-s3/eventlogos/2117216/575727015.png" class="alignnone" width="450" height="118" /></p>
+<p><a href="http://twitter.com/paddycosgrave">Paddy</a> has pulled together a <a href="http://www.dublinwebsummit.com/events/speakers">great line up of speakers</a>, including old Web2Ireland friends <a href="http://500startups.com/">Dave McClure</a>, <a href="http://www.softtechvc.com/">Jeff Clavier</a> and others.</p>
+<p>Last of the <a href="http://www.dublinwebsummit.com/pages/book">Early Bird Tickets on sale</a> with a few opportunities to sponsor at event by calling David on +353 1 4429284</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/dublin-web-summit-october-29-2010-top-speakers-great-networking/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Dublin welcome Craig Newmark, Matt Mullenweg, Ben Hammersley, Chris Horn and over 200 others</title>
+		<link>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/</link>
+		<comments>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/#comments</comments>
+		<pubDate>Thu, 14 Jan 2010 13:47:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Craigslist]]></category>
+		<category><![CDATA[DublinWebSummit]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1635</guid>
+		<description><![CDATA[The Dublin Web Summit is hosting an event at Trinity College Dublin on Thursday, February 04, 2010 from 5:30 PM &#8211; 11:30 PM &#8211; this includes a networking event Chris Newmark (founder of Craigslist) &#038; Matt Mullenweg (founder of WordPress) , who are regular keynotes at the world&#8217;s largest technology conferences, will be talking about [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://eventbrite-s3.s3.amazonaws.com/eventlogos/2117216/500978440.jpg" title="Dublin Web Summit" class="alignnone" width="266" height="200" /></p>
+<p>The <a href="http://www.dublinwebsummit.com/">Dublin Web Summit</a> is hosting an event at</p>
+<p>Trinity College Dublin<br />
+on Thursday, February 04, 2010<br />
+from 5:30 PM &#8211; 11:30 PM &#8211; this includes a networking event</p>
+<blockquote><p>Chris Newmark (founder of Craigslist) &#038; Matt Mullenweg (founder of WordPress) , who are regular keynotes at the world&#8217;s largest technology conferences, will be talking about the lessons &#038; direct experiences in scaling their companies, which have had huge impacts on global commerce and communication.</p>
+<p>Chris Horn will reflect on his experience building succesful global companies from Ireland. He will also touch on the broader issue of innovation and Ireland, as well as prospects &#038; opportunities for Irish entrepreneurs over the coming decade.</p></blockquote>
+<p><a href="http://dws2.eventbrite.com/">Sign up for tickets here</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/dublin-welcome-craig-newmark-matt-mullenweg-ben-hammersley-chris-horn-and-over-200-others/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

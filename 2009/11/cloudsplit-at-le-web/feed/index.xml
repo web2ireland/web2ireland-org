@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Cloudsplit at Le Web</title>
+	<atom:link href="/2009/11/cloudsplit-at-le-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/11/cloudsplit-at-le-web/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Eoghan McCabe</title>
+		<link>/2009/11/cloudsplit-at-le-web/#comment-1105</link>
+		<dc:creator>Eoghan McCabe</dc:creator>
+		<pubDate>Thu, 05 Nov 2009 17:21:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2009/11/04/cloudsplit-at-le-web/#comment-1105</guid>
+		<description><![CDATA[Great news!]]></description>
+		<content:encoded><![CDATA[<p>Great news!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

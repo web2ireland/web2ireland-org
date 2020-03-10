@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; roam4free</title>
+	<atom:link href="/tag/roam4free/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Wowsa! MAXroam saves customers $1m</title>
+		<link>/2008/05/wowsa-maxroam-saves-customers-1m/</link>
+		<comments>/2008/05/wowsa-maxroam-saves-customers-1m/#comments</comments>
+		<pubDate>Fri, 30 May 2008 06:34:10 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cubic telecom]]></category>
+		<category><![CDATA[maxroam]]></category>
+		<category><![CDATA[pat phelan]]></category>
+		<category><![CDATA[roam4free]]></category>
+		<category><![CDATA[tc40]]></category>
+		<category><![CDATA[tc50]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=617</guid>
+		<description><![CDATA[Just saw over on Pat Phelan&#8217;s blog that MAXroam has saved their customers over a million dollars in roaming charges since they launched. That&#8217;s one hell of an achievement in nine months. I still remember them blowing everyone away at TC40. They so should have won the grand prize there even if the billionaire Marc [...]]]></description>
+				<content:encoded><![CDATA[<p>Just saw over on <a href="http://patphelan.net/maxroam-saves-its-customers-a-million-dollars/">Pat Phelan&#8217;s blog</a> that MAXroam has saved their customers over a million dollars in roaming charges since they launched. That&#8217;s one hell of an achievement in nine months.</p>
+<p>I still remember them blowing everyone away at TC40. They so should have won the grand prize there even if the billionaire Marc Andreessen didn&#8217;t understand why anyone would want to save money on roaming mobile charges <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>Now if only Pat could do something about roaming data, I&#8217;d be forced to marry him.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/wowsa-maxroam-saves-customers-1m/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

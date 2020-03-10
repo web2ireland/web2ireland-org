@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; dojo</title>
+	<atom:link href="/tag/dojo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>First Cork Coder Dojo Session</title>
+		<link>/2011/07/first-cork-coder-dojo-session/</link>
+		<comments>/2011/07/first-cork-coder-dojo-session/#comments</comments>
+		<pubDate>Sun, 17 Jul 2011 12:37:28 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[cork dojo]]></category>
+		<category><![CDATA[dojo]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2092</guid>
+		<description><![CDATA[The first Coder Dojo is opening on theÂ Saturday 23rd of July at the National Software Centre, Mahon, Cork. Registration is fromÂ 11am to 12pm and the session will run from 1pm to 5pm. They will be looking at the basics of coding in HTML and CSS and then having an open coding session. It&#8217;s open to [...]]]></description>
+				<content:encoded><![CDATA[<p>The first Coder Dojo is opening on theÂ Saturday 23rd of July at the<a href="http://codrcamp.com/?page_id=20"> National Software Centre</a>, Mahon, Cork. Registration is fromÂ 11am to 12pm and the session will run from 1pm to 5pm.</p>
+<p>They will be looking at the basics of coding in HTML and CSS and then having an open coding session.</p>
+<p>It&#8217;s open to all ages and all levels of experience, justÂ <a href="http://codrcamp.com/?page_id=13">register here online</a> .</p>
+<p>Head on over <a href="http://codrcamp.com/?p=26">to their blog</a> for more info.</p>
+<p>Note that they are also looking for volunteers and spaces in Galway and Limerick as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/first-cork-coder-dojo-session/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

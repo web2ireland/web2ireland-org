@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ewrite lite</title>
+	<atom:link href="/tag/ewrite-lite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The Tuesday Push is eWrite Lite</title>
+		<link>/2008/09/the-tuesday-push-is-ewrite-lite/</link>
+		<comments>/2008/09/the-tuesday-push-is-ewrite-lite/#comments</comments>
+		<pubDate>Tue, 09 Sep 2008 17:51:30 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[ewrite]]></category>
+		<category><![CDATA[ewrite lite]]></category>
+		<category><![CDATA[gordon murray]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=711</guid>
+		<description><![CDATA[This week&#8217;s Push is Cork-based eWrite Lite, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite [...]]]></description>
+				<content:encoded><![CDATA[<p>This <a href="http://www.mulley.net/2008/09/09/tuesday-push-9th-september-2008-ewrite-lite/">week&#8217;s Push</a> is Cork-based <a href="http://www.ewritecork.com/">eWrite Lite</a>, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite is perfect for those many small companies out there who are paying through the nose to get simple sites developed and maintained.</p>
+<p><img class="alignnone" title="eWrite Lite" src="http://www.ewritecork.com/media/ewrite_lite_and_messenger.jpg" alt="" width="600" height="420" /></p>
+<p>Check it out and blog about your impressions of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/the-tuesday-push-is-ewrite-lite/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; future of web apps</title>
+	<atom:link href="/tag/future-of-web-apps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>20 More Tickets for FOWA</title>
+		<link>/2009/03/20-more-tickets-for-fowa/</link>
+		<comments>/2009/03/20-more-tickets-for-fowa/#comments</comments>
+		<pubDate>Wed, 04 Mar 2009 18:25:08 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[FOWA]]></category>
+		<category><![CDATA[FOWADublin]]></category>
+		<category><![CDATA[future of web apps]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1048</guid>
+		<description><![CDATA[FOWA Dublin has sold out but Ryan Carson and the gang have decided to squeeze in another 20 people. This is going to be a stonkingly-good day and one not to miss. Head on over to the site and book your seat if you haven&#8217;t already.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://events.carsonified.com/fowa/2009/dublin">FOWA Dublin</a> has sold out but Ryan Carson and the gang have decided to squeeze in another 20 people.</p>
+<p><img class="aligncenter" title="FOWA Dublin" src="http://events.carsonified.com/images/0000/0343/event_badge_02_dublin.jpg" alt="" width="224" height="119" /></p>
+<p>This is going to be a stonkingly-good day and one not to miss. Head on over to <a href="http://events.carsonified.com/fowa/2009/dublin">the site</a> and book your seat if you haven&#8217;t already.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/20-more-tickets-for-fowa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

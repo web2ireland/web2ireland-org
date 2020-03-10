@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; friendfeed</title>
+	<atom:link href="/tag/friendfeed/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Follow us on Twitter</title>
+		<link>/2008/04/follow-us-on-twitter/</link>
+		<comments>/2008/04/follow-us-on-twitter/#comments</comments>
+		<pubDate>Wed, 16 Apr 2008 14:30:40 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[friendfeed]]></category>
+		<category><![CDATA[jaiku]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=581</guid>
+		<description><![CDATA[We&#8217;ve been posting the blog updates to Twitter for months but completely forget to mention it here. If you want all the latest Web2Ireland news directly into your Twitter feed, then you just have to add @web2ireland as a friend. You can alternatively get the updates via Jaiku, Friendfeed or Facebook]]></description>
+				<content:encoded><![CDATA[<p>We&#8217;ve been posting the blog updates to Twitter for months but completely forget to mention it here. If you want all the latest Web2Ireland news directly into your Twitter feed, then you just have to add <a href="http://twitter.com/web2ireland">@web2ireland</a> as a friend.</p>
+<p>You can alternatively get the updates via <a href="http://web2ireland.jaiku.com/">Jaiku</a>, <a href="http://friendfeed.com/web2ireland">Friendfeed</a> or <a href="http://www.facebook.com/group.php?gid=5281389481">Facebook</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/follow-us-on-twitter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

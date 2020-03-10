@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Phones</title>
+	<atom:link href="/category/mobile/phones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Vodafone to launch open source community portal called Betavine</title>
+		<link>/2007/01/244/</link>
+		<comments>/2007/01/244/#comments</comments>
+		<pubDate>Fri, 26 Jan 2007 18:12:25 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Phones]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=244</guid>
+		<description><![CDATA[â€œUpdate 29/1/07 The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, will have a section dedicated to open source. Nothing has changed since I wrote my original post [...]]]></description>
+				<content:encoded><![CDATA[<p>â€œUpdate 29/1/07</p>
+<p>The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, <strong>will </strong>have a section dedicated to open source. Nothing has changed since I wrote my original post and its entire contents remain true.</p>
+<p>I would like to apologise if Iâ€™ve caused some confusion.<br />
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+Vodafone is looking to stimulate the development of new applications in the mobile and internet industry through a new community portal. And I&#8217;m lucky enough to be the first to tell people <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>The Portal called <strong><a href="http://flickr.com/photos/paulatsegala/370014144/">Betavine</a></strong>, has been scheduled for a *soft* launch on <strong>January 31st 2006</strong> and Iâ€™ve agreed to help seed interest within the community.</p>
+<p>Iâ€™ve just posted this on my blog but thought it was worth posting here in case we have some new mobile applications amongst us. </p>
+<p>I was lucky enough to take part in a workshop alongside Andy Tiller from Shozu, Hakon Martinsen of <strong><a href="http://www.m-spatial.com/">m-spatial</a></strong> and <strong><a href="http://www.tomhume.org/">Tom Hume</a></strong>, from Future Platforms to help Vodafone put together their requirements. It was interesting to see how they had put most of it together already, demonstrating their understanding of the open source community.</p>
+<p>If you want to take a sneak preview and take part in a field trial between now and the 31st (possibly longer), then <strong><a href="http://segala.com/blog/contact/">get in touch</a></strong> and Iâ€™ll give you login details.</p>
+<p>If you own a mobile application this is a great way to get <strong>free feedback</strong> and <strong>exposure</strong>.</p>
+<p><strong>About the Betavine portal</strong></p>
+<p>Itâ€™s a research and development space run by Vodafone Group R&#038;D. It aims to encourage collaboration in the area of mobile and internet communications.</p>
+<p><strong>As a user you can: </strong><br />
+â€¢	Download and test applications<br />
+â€¢	Comment and contribute on the forums and blogs</p>
+<p><strong>As a developer you can</strong><br />
+â€¢	Create your own projects and host applications<br />
+â€¢	Blog about your projects<br />
+â€¢	Interact with your users and the Betavine community</p>
+<p>On the Betavine Portal, interaction between developers and testers provides a testing ground for the latest concepts and technologies. New technologies are tested in real-world conditions, key technologies are identified and winning concepts come to the fore.</p>
+<p>Itâ€™s an open community that self-regulates. You are free to register and contribute to discussion threads and create or comment on blog entries. As a developer you can create a project space to upload your application, showcase your work and engage the Betavine testing community.</p>
+<p>For students itâ€™s a chance to be involved in developing mobile applications through internships, â€˜externshipsâ€™ and competitions. Winning projects will be featured on the student page, and taken further through collaboration with the Betavine community.</p>
+<p>Like featured projects and applications, the Betavine Web site itself is in continual beta testing by its users. Suggest new Web site features and discuss in the forum thread. Betavineâ€™s developers take their lead from the Web site community.</p>
+<p>To participate in a beta trial before itâ€™s made public on January 31st 2007, <strong><a href="http://segala.com/blog/contact/">get in touch with me</a></strong>.</p>
+<p>This is a great opportunity to be one of the first to have an application on the portal. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/01/244/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>TechCrunch UKIRL is FIRED by Mike Arrington!</title>
+		<link>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/</link>
+		<comments>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/#comments</comments>
+		<pubDate>Wed, 13 Dec 2006 18:02:20 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Phones]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=213</guid>
+		<description><![CDATA[TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly. In a WORLD EXCLUSIVE, I can reveal that TechCrunch UKIRL has been fired for using its right to speak. Sam Sethi was fired by Mike Arrington after he refused to remove the article about how Loic LeMeurâ€™s screwed up Le Web 3 with [...]]]></description>
+				<content:encoded><![CDATA[<p>TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly.</p>
+<p><strong>In a WORLD EXCLUSIVE, I can reveal that <a href="http://uk.techcrunch.com/">TechCrunch UKIRL</a> has been fired for using its right to speak. </strong></p>
+<p><a href="http://www.vecosys.com/">Sam Sethi </a>was fired by <strong><a href="http://techcrunch.com/about-techcrunch/">Mike Arrington</a> </strong>after he refused to remove the article about <strong><a href="http://uk.techcrunch.com/2006/12/11/le-web3-the-good-bad-and-ugly/">how Loic LeMeurâ€™s screwed up Le Web 3 with his political ambitions.</a></strong></p>
+<p>Looks like Arrington is now <strong>TOO BIG for his boots</strong>. I certainly wonâ€™t be subscribing to his blog if heâ€™s more interested in keeping people happy for the sake of $$$. </p>
+<p>Mike Arrington has now <a href="http://wendy.seltzer.org/blog/archives/2004/06/index.html">done a Tim Oâ€™Reily </a>on it. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/12/techcrunch-ukirl-is-fired-by-mike-arrington/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+		<item>
+		<title>Mobile Web 2.0 &#8211; what are the options?</title>
+		<link>/2006/07/mobile-web-20-what-are-the-options/</link>
+		<comments>/2006/07/mobile-web-20-what-are-the-options/#comments</comments>
+		<pubDate>Mon, 31 Jul 2006 09:58:35 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[Phones]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=120</guid>
+		<description><![CDATA[Paul Browne gives some excellent advice regarding the various options for mobile development and what considerations to make in terms of supporting Web 2.0 (AJAX) on mobile devices - &#8230; the Opera Browser supports Ajax on phones , but not all phones use Opera. The best way of approaching this is to build your application [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.firstpartners.net/blog/technology/java/2006/07/27/what-is-java-me-and-do-i-need-it/">Paul Browne</a> gives some excellent advice regarding the various options for mobile development and what considerations to make in terms of supporting Web 2.0 (AJAX) on mobile devices -</p>
+<blockquote><p>&#8230; the Opera Browser supports Ajax on phones , but not all phones use Opera. The best way of approaching this is to build your application using one of the Ajax frameworks. The framework handles the differences between Ajax / non-Ajax enabled browsers and renders the web page accordingly. Non-Ajax users donâ€™t get as slick an application , but they do get an application that they can use. Iâ€™ve a  good summary of Ajax Frameworks here not forgetting the Google Web Toolkit. The other advantage is that as Google and others upgrade their frameworks , you get the benefit of the new features. This Article is a fairly good introduction to the area of Ajax on mobile phones.</p></blockquote>
+<p>Click through to <a href="http://www.firstpartners.net/blog/technology/java/2006/07/27/what-is-java-me-and-do-i-need-it/">Paul&#8217;s post</a> to follow the links to those articles.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/07/mobile-web-20-what-are-the-options/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

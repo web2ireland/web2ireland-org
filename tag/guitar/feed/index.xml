@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; guitar</title>
+	<atom:link href="/tag/guitar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>dbTwang Closes Angel Round</title>
+		<link>/2008/12/dbtwang-closes-angel-round/</link>
+		<comments>/2008/12/dbtwang-closes-angel-round/#comments</comments>
+		<pubDate>Sat, 20 Dec 2008 15:07:11 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[dbtwang]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[guitar]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=945</guid>
+		<description><![CDATA[Whilst the funding environment is very very tough right now, we are still seeing glimmers of light in the gloom. The latest is dbTwang, a site for guitar owners, which closed its Angel round yesterday. Keith Bohanna and co-founder Fintan Blake-Kelly worked for many months with new director Gerry McQuaid (ex-O2) to raise the funds. [...]]]></description>
+				<content:encoded><![CDATA[<p>Whilst the funding environment is very very tough right now, we are still seeing glimmers of light in the gloom. </p>
+<p>The latest is <a href="http://www.dbtwangblog.com/">dbTwang</a>, a site for guitar owners, which <a href="http://bohanna.typepad.com/pureplay/2008/12/dbtwang-angel-round-closed-today.html">closed its Angel round</a> yesterday. Keith Bohanna and co-founder Fintan Blake-Kelly worked for many months with new director Gerry McQuaid (ex-O2) to raise the funds.</p>
+<p>They are using <a href="http://www.contrast.ie/">Contrast</a> for the design of dbTwang and <a href="http://www.lunarlogicpolska.com/">Lunar Logic</a> in Krakow for the development, aiming for early closed beta around the 3rd week of February.</p>
+<p>If you have any good news on the funding front, drop a line to web2ireland DOT editor AT gmail DOT com</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/dbtwang-closes-angel-round/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

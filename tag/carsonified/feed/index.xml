@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; carsonified</title>
+	<atom:link href="/tag/carsonified/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>FOWA Dublin 2010 Startup Pass</title>
+		<link>/2010/04/fowa-dublin-2010-startup-pass/</link>
+		<comments>/2010/04/fowa-dublin-2010-startup-pass/#comments</comments>
+		<pubDate>Thu, 15 Apr 2010 08:49:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[carsonified]]></category>
+		<category><![CDATA[FOWA]]></category>
+		<category><![CDATA[FOWADublin]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1698</guid>
+		<description><![CDATA[Carsonified have just announced a StartUp Pass for FOWA Dublin 2010 &#8211; May 14th 2010 The Startup Pass includes 3 tickets for the price of 2 &#8211; All 3 tickets must be booked at the same time Free FOWA Dublin micro sponsorship (worth â‚¬100) Your link + 140 characters, emailed to all attendees one week [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.web2ireland.org/wp-content/uploads/2010/04/460x60.jpg"><img src="http://www.web2ireland.org/wp-content/uploads/2010/04/460x60.jpg" alt="FOWA Dublin" title="460x60" width="460" height="60" class="alignnone size-full wp-image-1699" /></a><br />
+<a href="http://carsonified.com/">Carsonified</a> have just announced a StartUp Pass for <a href="http://futureofwebapps.com/dublin-2010/">FOWA Dublin 2010 &#8211; May 14th 2010</a></p>
+<p><strong>The Startup Pass includes</strong><br />
+3 tickets for the price of 2 &#8211; All 3 tickets must be booked at the same time<br />
+Free FOWA Dublin micro sponsorship (worth â‚¬100)<br />
+Your link + 140 characters, emailed to all attendees one week before the conference<br />
+Automatic entry into the Start Up Pitch panel<br />
+5 lucky winners will get to pitch their web app to the panel of speakers and audience<br />
+Your company name and url displayed throughout the breaks on the main screen<br />
+A great way to get your web app known and talked about</p>
+<p>There are only 20 packages available &#8211; <a href="http://www.amiando.com/e/vuduvm">book now to avoid disappointment</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/04/fowa-dublin-2010-startup-pass/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>FOWA Dublin 2009 &#8211; Site live, Tickets on Sale</title>
+		<link>/2008/11/fowa-dublin-2009-site-live-tickets-on-sale/</link>
+		<comments>/2008/11/fowa-dublin-2009-site-live-tickets-on-sale/#comments</comments>
+		<pubDate>Thu, 13 Nov 2008 17:53:12 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[carsonified]]></category>
+		<category><![CDATA[FOWA]]></category>
+		<category><![CDATA[FOWADublin]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=868</guid>
+		<description><![CDATA[Check out the Future Of Web Apps &#8211; Dublin 2009 website and our previous coverage on the event.]]></description>
+				<content:encoded><![CDATA[<p><img src="http://events.carsonified.com/images/0000/0343/event_badge_02_dublin.jpg" alt="FOWA Dublin 2009" /></p>
+<p>Check out the <a href="http://events.carsonified.com/fowa/2009/dublin">Future Of Web Apps &#8211; Dublin 2009 website</a> and our <a href="http://www.web2ireland.org/2008/11/12/fowa-dublin-2009/">previous coverage</a> on the event.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/fowa-dublin-2009-site-live-tickets-on-sale/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

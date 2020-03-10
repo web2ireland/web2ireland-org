@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; api wars</title>
+	<atom:link href="/tag/api-wars/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>RTE News on API Wars &amp; Facebook Garage</title>
+		<link>/2009/03/rte-news-on-api-wars-facebook-garage/</link>
+		<comments>/2009/03/rte-news-on-api-wars-facebook-garage/#comments</comments>
+		<pubDate>Sat, 07 Mar 2009 16:32:36 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[rte]]></category>
+		<category><![CDATA[rte news]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1054</guid>
+		<description><![CDATA[Lots more posts coming about Thursdays events. Suffice to say it blew away everyone&#8217;s expectations. 150+ people spent the afternoon learning and networking. Thanks again to all the speakers. Here is RTE&#8217;s coverage of it (full news episode on RTE site here):]]></description>
+				<content:encoded><![CDATA[<p>Lots more posts coming about Thursdays events. Suffice to say it blew away everyone&#8217;s expectations. 150+ people spent the afternoon learning and networking. Thanks again to all the speakers. Here is RTE&#8217;s coverage of it (full news episode <a href="http://www.rte.ie/news/2009/0305/newsontwo_av.html">on RTE site here</a>):</p>
+<p><embed src="http://blip.tv/play/AfHQTYGyBw" type="application/x-shockwave-flash" width="352" height="318" allowscriptaccess="always" allowfullscreen="true"></embed> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/rte-news-on-api-wars-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Tags for Wars and Garage</title>
+		<link>/2009/03/tags-for-wars-and-garage/</link>
+		<comments>/2009/03/tags-for-wars-and-garage/#comments</comments>
+		<pubDate>Wed, 04 Mar 2009 16:20:11 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[hashtags]]></category>
+		<category><![CDATA[tags]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1045</guid>
+		<description><![CDATA[To enable everyone to track what&#8217;s happening at API Wars and Facebook Garage, we recommend using the &#8220;web2ire&#8221; tag on any platform that supports them including hashtags (#web2ire) on Twitter. This means you can track the conversation on Twitter in real-time here, blogposts on Technorati, pictures on Flickr and even more pictures on Pix.ie.]]></description>
+				<content:encoded><![CDATA[<p>To enable everyone to track what&#8217;s happening at API Wars and Facebook Garage, we recommend using the &#8220;web2ire&#8221; tag on any platform that supports them including hashtags (#web2ire) on Twitter.</p>
+<p>This means you can track the conversation on Twitter <a href="http://search.twitter.com/search?q=%23web2ire">in real-time here</a>, blogposts <a href="http://search.technorati.com/web2ire?authority=&amp;language=">on Technorati</a>, pictures <a href="http://flickr.com/photos/tags/web2ire/">on Flickr</a> and even more pictures on <a href="http://pix.ie/explore/tag/web2ire">Pix.ie</a>.</p>
+<p><img class="aligncenter size-full wp-image-1046" title="web2iretag" src="http://www.web2ireland.org/wp-content/uploads/2009/03/web2iretag.jpg" alt="web2iretag" width="629" height="253" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/tags-for-wars-and-garage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Show and Tell at API Wars and Facebook Garage</title>
+		<link>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/</link>
+		<comments>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/#comments</comments>
+		<pubDate>Mon, 02 Mar 2009 19:13:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[apis]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[facebook garage]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1042</guid>
+		<description><![CDATA[The sign-ups for both API Wars and Facebook Garage have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â  But it turns out [...]]]></description>
+				<content:encoded><![CDATA[<p>The sign-ups for both <a href="http://www.eventbrite.com/event/293675391">API Wars</a> and <a href="http://www.facebook.com/event.php?eid=53311687551&amp;ref=mf">Facebook Garage</a> have really exceeded anything we expected. Looking like 100+ will show up for both. There might be a babycham or two afterwards. Did I mention that the Garage is sponsored by Intel? The first Garage ever that they have sponsored. Nice eh?Â </p>
+<p>But it turns out that many of you are being far too coy. Events like these, which at heart are Unconferences or Unevents, rely on those attending to be more than passive listeners.</p>
+<p>That&#8217;s why we&#8217;re putting the call out. <strong><em>If you want to talk on any topic relevant to either session, let us know</em></strong>. You don&#8217;t need slides, heck you don&#8217;t need notes, just have something interesting to say. Got an app with an API? Wanna tell people about it? Let us know. Got an app that mashes-up a bunch of APIs? Let us know. Integrated Facebook Connect or built an FB App? Let us know.</p>
+<p>web2ireland DOT editor AT gmail DOT com</p>
+<p>Operators are standing by, come on down.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/show-and-tell-at-api-wars-and-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>API Wars and Opportunities</title>
+		<link>/2009/02/api-wars-and-opportunities/</link>
+		<comments>/2009/02/api-wars-and-opportunities/#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 20:42:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[google app engine]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1037</guid>
+		<description><![CDATA[As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th. This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is [...]]]></description>
+				<content:encoded><![CDATA[<p>As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th.</p>
+<p>This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is an opportunity for the Web2Ireland community to meet and discuss</p>
+<ul>
+<li>using APIs for business development</li>
+<li>building mashups/widgets/etc</li>
+<li>apps on mobile platforms &#8211; iPhone, Android, nokia, etc</li>
+<li>using enterprise 2.0 platforms &#8211; force.com, IBM, etc</li>
+<li>developer infrastructure &#8211; Amazon, Google App Engine</li>
+</ul>
+<p>If you are attending in any capacity,Â <a href="http://web2irelandapiwars.eventbrite.com/">please sign-up here</a>.</p>
+<div><strong>If you are interested inÂ </strong><strong>speaking or demoing, Â just email web2ireland.editor @ gmail.com</strong></div>
+<p>By signing up for Web2Ireland API Wars you are automatically included in attendee list for Developer Garage &#8211; check here forÂ <a href="http://www.facebook.com/event.php?eid=53311687551">more information on Facebook Garage</a></p>
+<p>And then some social drinks for all involved&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/api-wars-and-opportunities/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

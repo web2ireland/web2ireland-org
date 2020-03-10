@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; undertheradar</title>
+	<atom:link href="/tag/undertheradar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>PutPlace for Under the Radar event</title>
+		<link>/2008/05/putplace-for-under-the-radar-event/</link>
+		<comments>/2008/05/putplace-for-under-the-radar-event/#comments</comments>
+		<pubDate>Thu, 01 May 2008 10:12:32 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[dealmakermedia]]></category>
+		<category><![CDATA[putplace]]></category>
+		<category><![CDATA[undertheradar]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=591</guid>
+		<description><![CDATA[PutPlace has been selected for the Under The Radar event in June over in Mountain View. Check the Under the Radar Blog and PutPlace blog for more details Pixenate presented in 2006 &#8211; and it helped Walter gain lots of valuable attention We had the pleasure of meeting the Debbie Landa, founder of DealMaker Media, [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.putplace.com/">PutPlace</a> has been selected for the <a href="http://undertheradarblog.com/">Under The Radar event</a> in June over in Mountain View.</p>
+<p>Check the <a href="http://www.undertheradarblog.com/wp_blog.html?fb_2042860_anch=4013581">Under the Radar  Blog</a> and PutPlace blog <a href="http://blog.putplace.com/2008/04/30/putplace-selected-to-present-at-under-the-radar/">for more details</a></p>
+<p><a href="http://www.pixenate.com/">Pixenate</a> <a href="http://sxoop.wordpress.com/2006/06/19/sxoop-at-under-the-radar/">presented in 2006</a> &#8211; and it helped Walter gain lots of valuable attention</p>
+<p>We had the pleasure of meeting the <a href="http://www.dealmakermedia.com/team.html">Debbie Landa</a>, founder of <a href="http://www.dealmakermedia.com/">DealMaker Media</a>, who organize the Under the Radar event series, last week at the <a href="http://upcoming.yahoo.com/event/473824/">Web2Ireland Drinks reception</a> in San Francisco. </p>
+<p>Hopefully we will see more Web2Ireland companies present at Under the Radar events.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/putplace-for-under-the-radar-event/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

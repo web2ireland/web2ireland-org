@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; python</title>
+	<atom:link href="/tag/python/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>PyCon Ireland on this Saturday and Sunday</title>
+		<link>/2011/10/pycon-ireland-on-this-saturday-and-sunday/</link>
+		<comments>/2011/10/pycon-ireland-on-this-saturday-and-sunday/#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 11:45:05 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[10gen]]></category>
+		<category><![CDATA[mongodb]]></category>
+		<category><![CDATA[pycon]]></category>
+		<category><![CDATA[python]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2108</guid>
+		<description><![CDATA[I just heard about the PyCon Ireland conference that is on next weekend in the Radisson Blu, Golden Lane, Dublin. Looks like a great line-up of speakers on all things Python. I&#8217;m particularly interested in the &#8220;Introduction to MongoDB and PyMongo&#8221; by Brendan McAdams of 10gen. In case you hadn&#8217;t heard, 10gen is also opening [...]]]></description>
+				<content:encoded><![CDATA[<p>I just heard about the <a href="http://python.ie/pycon/2011/">PyCon</a> Ireland conference that is on next weekend in the Radisson Blu, Golden Lane, Dublin. Looks like a great line-up of speakers on all things Python. I&#8217;m particularly interested in the <a href="http://python.ie/pycon/2011/talks/introduction-mongodb-pymongo/">&#8220;Introduction to MongoDB and PyMongo</a>&#8221; by Brendan McAdams of <a href="http://www.10gen.com/">10gen</a>.</p>
+<p>In case you hadn&#8217;t heard, 10gen is also opening an office in Dublin next month. Time to make Dublin the NoSQL capital of Europe? <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/pycon-ireland-on-this-saturday-and-sunday/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

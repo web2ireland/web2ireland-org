@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Rick Segal and Shel Israel to visit Ireland</title>
+	<atom:link href="/2006/08/rick-segal-and-shel-israel-to-visit-ireland/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/08/rick-segal-and-shel-israel-to-visit-ireland/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: John Ward</title>
+		<link>/2006/08/rick-segal-and-shel-israel-to-visit-ireland/#comment-102</link>
+		<dc:creator>John Ward</dc:creator>
+		<pubDate>Tue, 15 Aug 2006 08:04:15 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=133#comment-102</guid>
+		<description><![CDATA[Hi,
+I contacted Mary yesterday to attend this event.
+
+Unfortunately Rick &amp; Shel have to postpone their trip. The rescheduled date is not yet known.
+
+John]]></description>
+		<content:encoded><![CDATA[<p>Hi,<br />
+I contacted Mary yesterday to attend this event.</p>
+<p>Unfortunately Rick &amp; Shel have to postpone their trip. The rescheduled date is not yet known.</p>
+<p>John</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

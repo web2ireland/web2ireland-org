@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; jemimakiss</title>
+	<atom:link href="/tag/jemimakiss/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Startup DemoBar &amp; Guardian Tech Weekly in Dublin</title>
+		<link>/2010/10/web2ireland-startup-demobar-guardian-tech-weekly-in-dublin/</link>
+		<comments>/2010/10/web2ireland-startup-demobar-guardian-tech-weekly-in-dublin/#comments</comments>
+		<pubDate>Thu, 21 Oct 2010 16:05:18 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[demobar]]></category>
+		<category><![CDATA[Guardian]]></category>
+		<category><![CDATA[jemimakiss]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1858</guid>
+		<description><![CDATA[We are hosting the second Web2Ireland Startup DemoBar, which brings together entrepreneurs, techies &#038; investors dedicated to showcasing, educating and helping the next generation of internet startups. Signup Here for event on Tuesday, November 23, 2010 from 6:30 PM &#8211; 9:30 PM (GMT) at the Ely Gastro Pub, Dublin. For the November event, we&#8217;re also [...]]]></description>
+				<content:encoded><![CDATA[<p>We are hosting the second <a href="http://web2irelandstartupdemo2.eventbrite.com/">Web2Ireland Startup DemoBar</a>, which brings together entrepreneurs, techies &#038; investors dedicated to showcasing, educating and helping the next generation of internet startups. <a href="http://web2irelandstartupdemo2.eventbrite.com/">Signup Here</a> for event on Tuesday, November 23, 2010 from 6:30 PM &#8211; 9:30 PM (GMT) at the Ely Gastro Pub, Dublin.</p>
+<p>For the November event, we&#8217;re also delighted to have the <a href="http://www.guardian.co.uk/technology">Guardian Tech Weekly team</a> in Dublin. </p>
+<p><img alt="" src="http://static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" class="alignnone" width="344" height="52" /></p>
+<p>They have been to Edinburgh, Manchester, Newcastle and Bristol &#8211; and now they are bringing the <a href="http://www.guardian.co.uk/technology">Guardian&#8217;s Tech Weekly</a> podcast to glorious Dublin. </p>
+<p>They want to meet techies, gamers, developers and entrepreneurs of all shapes and sizes. They want to hear all your ideas and your thoughts about the local scene &#8211; the rising stars and ones to watch, as well as the problems holding the tech community back. </p>
+<p><a href="http://twitter.com/#!/jemimakiss">Jemima Kiss</a>, <a href="http://twitter.com/#!/charlesarthur">Charles Arthur</a> and <a href="http://twitter.com/#!/scott_cawley">Scott Cawley</a> from <a href="http://twitter.com/#!/@guardiantech">Guardian Tech Weekly podcast</a> will be attending.</p>
+<p>Thanks to <a href="http://www.enterprise-ireland.com/en/">Enterprise Ireland</a> who will be sponsoring the evening</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/web2ireland-startup-demobar-guardian-tech-weekly-in-dublin/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

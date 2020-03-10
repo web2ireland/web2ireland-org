@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; hacker cup</title>
+	<atom:link href="/tag/hacker-cup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Facebook Hacker Cup</title>
+		<link>/2010/12/facebook-hacker-cup/</link>
+		<comments>/2010/12/facebook-hacker-cup/#comments</comments>
+		<pubDate>Mon, 20 Dec 2010 11:55:59 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[hacker cup]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1966</guid>
+		<description><![CDATA[It&#8217;s a Worldwide Programming Competition kicking-off today. $5,000 cash and all the glory to the winner. Do it.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a Worldwide Programming Competition kicking-off today. $5,000 cash and all the glory to the winner. <a href="http://www.facebook.com/note.php?note_id=467531498919&amp;id=9445547199">Do it</a>.</p>
+<p style="text-align: center;"><a href="http://www.facebook.com/hackercup?v=app_10442206389"><img class="size-medium wp-image-1967  aligncenter" title="148221_170540262978170_133954286636768_393849_6585705_n" src="http://www.web2ireland.org/wp-content/uploads/2010/12/148221_170540262978170_133954286636768_393849_6585705_n-225x300.jpg" alt="" width="225" height="300" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/facebook-hacker-cup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

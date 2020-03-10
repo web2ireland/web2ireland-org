@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; handsfree</title>
+	<atom:link href="/tag/handsfree/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dial2Do Handsfree solutions make headlines at CES</title>
+		<link>/2010/01/dial2do-handsfree-solutions-make-headlines-at-ces/</link>
+		<comments>/2010/01/dial2do-handsfree-solutions-make-headlines-at-ces/#comments</comments>
+		<pubDate>Fri, 15 Jan 2010 10:02:03 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[bluetrek]]></category>
+		<category><![CDATA[ces]]></category>
+		<category><![CDATA[dial2do]]></category>
+		<category><![CDATA[handsfree]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1639</guid>
+		<description><![CDATA[Dial2Do, the Handsfree Assistant service that lets you get things done while you drive, recently attended the CES show in Las Vegas Some highlights - partnership with Enustech for a hands-free car kit called the driveâ€™n&#8217;talk - partnership with Bluetrek - Media Coverage Barron&#8217;s, Fox News and lots of others]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.dial2do.com/">Dial2Do</a>, the <a href="http://www.dial2do.com/">Handsfree</a> Assistant service that lets you get things done while you drive, recently attended the CES show in Las Vegas</p>
+<p><img alt="" src="http://dial2do.files.wordpress.com/2010/01/standjan2010.jpg?w=500&#038;h=373" title="Dial2Do" class="alignnone" width="500" height="373" /></p>
+<p>Some highlights<br />
+- partnership with <a href="http://www.enustech.com/">Enustech</a> for a hands-free car kit called the <a href="http://driventalks.dial2do.com/">driveâ€™n&#8217;talk</a><br />
+- partnership with <a href="http://www.bluetrek.com/">Bluetrek</a><br />
+- Media Coverage<br />
+<a href="http://blogs.barrons.com/techtraderdaily/2010/01/06/ces-some-first-impressions/">Barron&#8217;s</a>, <a href="http://liveshots.blogs.foxnews.com/2010/01/11/stupid-criminal-wraps-ces/?test=latestnews">Fox News</a> and lots of others</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/dial2do-handsfree-solutions-make-headlines-at-ces/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

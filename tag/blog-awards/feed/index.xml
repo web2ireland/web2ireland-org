@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; blog awards</title>
+	<atom:link href="/tag/blog-awards/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland a finalist in the Irish Blog Awards</title>
+		<link>/2010/03/web2ireland-a-finalist-in-the-irish-blog-awards/</link>
+		<comments>/2010/03/web2ireland-a-finalist-in-the-irish-blog-awards/#comments</comments>
+		<pubDate>Wed, 24 Mar 2010 11:31:06 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blog awards]]></category>
+		<category><![CDATA[iba10]]></category>
+		<category><![CDATA[irish blog awards]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1687</guid>
+		<description><![CDATA[Apologies for the lateness of this post but we&#8217;ve been too busy grinning from ear to ear since the finalists were announced for the Irish Blog Awards. We&#8217;re in the Best Technology Blog/Blogger category along with these fantastic bloggers: The Gaming Liberty Pat Phelan Matt Johnston Sinead Cochrane Fergus Burns started this blog for the [...]]]></description>
+				<content:encoded><![CDATA[<p>Apologies for the lateness of this post but we&#8217;ve been too busy grinning from ear to ear since the <a href="http://awards.ie/blogawards/2010/03/19/2010-irish-blog-awards-finalists/">finalists were announced for the Irish Blog Awards</a>. We&#8217;re in the Best Technology Blog/Blogger category along with these fantastic bloggers:</p>
+<ul>
+<li><a href="http://thegamingliberty.com/">The Gaming Liberty</a></li>
+<li><a href="http://patphelan.net/">Pat Phelan</a></li>
+<li><a href="http://cimota.com/blog">Matt Johnston</a></li>
+<li><a href="http://sineadcochrane.com/">Sinead Cochrane</a></li>
+</ul>
+<p>Fergus Burns started this blog for the Irish Web Community way back on the 17th September 2005. I did my first post on 31st July 2006 and we&#8217;ve had posts from tons of people since then, including James Corbett, Walter Higgins, Joe Drumgoole, Sean O&#8217;Sullivan and David Lenihan.</p>
+<p>This is the 872nd post here since 2005 and we hope the blog has been of use to all of you in the web biz whether in Ireland or elsewhere.</p>
+<p>As always, this is a blog by the community for the community, so if you&#8217;d like to be a contributor, give us a shout on web2ireland.editor@gmail.com</p>
+<p>Looking forward to Saturday night in Galway!</p>
+<p style="text-align: center;"><a href="http://www.awards.ie/"><img class="size-full wp-image-1688  aligncenter" title="iba10-blue-white" src="http://www.web2ireland.org/wp-content/uploads/2010/03/iba10-blue-white.jpg" alt="" width="200" height="136" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/web2ireland-a-finalist-in-the-irish-blog-awards/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

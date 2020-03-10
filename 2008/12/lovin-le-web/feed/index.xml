@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Lovin&#8217; Le Web</title>
+	<atom:link href="/2008/12/lovin-le-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/12/lovin-le-web/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Le Web Thoughts &#124; Argolon</title>
+		<link>/2008/12/lovin-le-web/#comment-843</link>
+		<dc:creator>Le Web Thoughts &#124; Argolon</dc:creator>
+		<pubDate>Sat, 13 Dec 2008 10:26:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=910#comment-843</guid>
+		<description><![CDATA[[...] Web2Ireland post covers the general business mood and how it may affect Irish [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Web2Ireland post covers the general business mood and how it may affect Irish [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Red Links 12/12/08 : Alexia Golez</title>
+		<link>/2008/12/lovin-le-web/#comment-842</link>
+		<dc:creator>Red Links 12/12/08 : Alexia Golez</dc:creator>
+		<pubDate>Fri, 12 Dec 2008 05:31:48 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=910#comment-842</guid>
+		<description><![CDATA[[...] has some cool Le Web photos and videos over at his gaff. Not to be outdone, Conor has a nice review of the conference as [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] has some cool Le Web photos and videos over at his gaff. Not to be outdone, Conor has a nice review of the conference as [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

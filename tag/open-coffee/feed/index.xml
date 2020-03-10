@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; open coffee</title>
+	<atom:link href="/tag/open-coffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>A Cork Open Coffee on Friday the 19th of December</title>
+		<link>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/</link>
+		<comments>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/#comments</comments>
+		<pubDate>Sun, 07 Dec 2008 16:56:55 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[cork]]></category>
+		<category><![CDATA[december]]></category>
+		<category><![CDATA[open coffee]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=903</guid>
+		<description><![CDATA[Last week was the last Open Coffee for Cork for the year. It was assumed that people wouldn&#8217;t be free to attend a last Open Coffee on the 19th. This is a poll to see if anyone would be interested in attending. It could be a demo slot for someone if they would like to [...]]]></description>
+				<content:encoded><![CDATA[<p>Last week was the last Open Coffee for Cork for the year. It was assumed that people wouldn&#8217;t be free to attend a last Open Coffee on the 19th. This is a poll to see if anyone would be interested in attending. It could be a demo slot for someone if they would like to show off a new or existing app or it could be a social one in Luigi malones.</p>
+<p> <a href="http://answers.polldaddy.com/poll/1175210/">Will you attend an Open Coffee in Cork on Friday morning, the 19th of December?</a>  <br /> <span style="9px;"> (<a href="http://www.polldaddy.com/">  polls</a>)</span></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

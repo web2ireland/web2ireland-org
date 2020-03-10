@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ida ireland</title>
+	<atom:link href="/tag/ida-ireland/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland &#8211; what&#8217;s going on..</title>
+		<link>/2008/05/web2ireland-whats-going-on/</link>
+		<comments>/2008/05/web2ireland-whats-going-on/#comments</comments>
+		<pubDate>Thu, 29 May 2008 22:28:04 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[allthingsd]]></category>
+		<category><![CDATA[bytesurgery]]></category>
+		<category><![CDATA[ida ireland]]></category>
+		<category><![CDATA[marccanter]]></category>
+		<category><![CDATA[revahealth]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=616</guid>
+		<description><![CDATA[Taking a leaf out our good friend, Marc Canter&#8217;s style of blogging Some bits from @ the globe Social media on the up &#8211; lots of stats from the Universal McCannâ€™s report on third wave of global research into social media. It shows the majority of users are producing content and there is an ongoing [...]]]></description>
+				<content:encoded><![CDATA[<p>Taking a leaf out our good friend, <a href="http://blog.broadbandmechanics.com/2008/05/end-of-may-08-blogging">Marc Canter&#8217;s style of blogging</a></p>
+<p>Some bits from @ the globe</p>
+<p><strong>Social media on the up</strong> &#8211; lots of stats from the Universal McCannâ€™s report on <a href="http://www.universalmccann.com/Assets/wave_3_20080403093750.pdf">third wave of global research</a> into social media. It shows the majority of users are producing content and there is an ongoing shift towards participation &#8211; with lots of stats for folks.</p>
+<p><a href="http://www.siliconrepublic.com/news/news.nv?storyid=single11151">Bubble 2.0 from Silicon Republic</a> &#8211; with pearls of wisdom from the IVCA &#8211; <em>The local venture capital (VC) community in Ireland is still cautious, though it has raised â‚¬750m to invest in the next wave of technology firms, having invested â‚¬1bn over the past decade. â€œMost of our investments would be in software firms that can grow to scale, not in dot.com companies or because someone has a nice widget,â€ says Regina Breheny, director general of the Irish Venture Capital Association. â€œFunding in Irish companies is at its highest now since 2001, but much of these are follow-on investments in existing companies. There is still a lot of work to be done in raising money to seed new start-ups. Venture capitalists are currently raising money but itâ€™s debatable how much of these funds will go into new plays in the next five years.â€</em></p>
+<p><strong><a href="http://www.morganstanley.com/institutional/techresearch/pdfs/InternetTrends031808.pdf">Morgan Stanley report on Internet</a></strong> &#8211; with <a href="http://www.techcrunch.com/2008/04/28/morgan-stanleys-march-internet-trends-report-social/">coverage on Techcrunch</a> &#8211; contains a nice reference to Lenny at Polldaddy</p>
+<p><strong><a href="http://d6.allthingsd.com/">D Conference</a></strong> &#8211; sponsored by the <a href="http://www.idaireland.com/">IDA</a> &#8211; contains some great videos from this executive level conf in US</p>
+<p><a href="http://www.revahealth.com/about/careers/index.html">Health 2.0 startup Revahealth</a> &#8211; is looking for staff &#8211; check careers page.</p>
+<p><a href="http://www.bytesurgery.com/blog">Robin Blandford</a> has left the <a href="http://www.bytesurgery.com/blog/2008/05/23/the-next-chapter/">comforts of corporate world</a> to do his own startup &#8211; no doubt it will be a big winner..</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/web2ireland-whats-going-on/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

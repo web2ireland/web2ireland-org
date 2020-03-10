@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Company Profile: mySay.com</title>
+	<atom:link href="/2006/08/company-profile-mysaycom/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/08/company-profile-mysaycom/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Liam mc Donnell</title>
+		<link>/2006/08/company-profile-mysaycom/#comment-107</link>
+		<dc:creator>Liam mc Donnell</dc:creator>
+		<pubDate>Fri, 26 Jan 2007 21:54:14 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=158#comment-107</guid>
+		<description><![CDATA[Dave
+
+Check this new demo service out at www.mysay.com. It will allow you to set the team up as one single group and then simply make one voice message which will be sent to every player individually.
+
+They, in turn, can respond to you by voice/mail and all for free !
+
+cheers
+
+Liam]]></description>
+		<content:encoded><![CDATA[<p>Dave</p>
+<p>Check this new demo service out at <a href="http://www.mysay.com/" rel="nofollow">http://www.mysay.com/</a>. It will allow you to set the team up as one single group and then simply make one voice message which will be sent to every player individually.</p>
+<p>They, in turn, can respond to you by voice/mail and all for free !</p>
+<p>cheers</p>
+<p>Liam</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

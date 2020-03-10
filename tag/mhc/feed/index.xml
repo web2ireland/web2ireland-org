@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; mhc</title>
+	<atom:link href="/tag/mhc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Business Breakfast @ Semantic Web</title>
+		<link>/2009/11/business-breakfast-semantic-web/</link>
+		<comments>/2009/11/business-breakfast-semantic-web/#comments</comments>
+		<pubDate>Tue, 17 Nov 2009 15:57:31 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[deri]]></category>
+		<category><![CDATA[mhc]]></category>
+		<category><![CDATA[semantic]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1571</guid>
+		<description><![CDATA[A business breakfast hosted by Mason Hayes+Curran, in association with the Irish Software Association and the Digital Enterprise Research Institute (DERI), about the legal challenges and commercial possibilities of the Semantic Web, the next evolution of the World Wide Web on Wednesday 25th November between 8.00 â€“ 9.45am. This is a must attend event for [...]]]></description>
+				<content:encoded><![CDATA[<p>A business breakfast hosted by <a href="http://mhc.ie/">Mason Hayes+Curran</a>, in association with the <a href="http://www.software.ie/">Irish Software Association</a> and the <a href="http://www.deri.ie/">Digital Enterprise Research Institute (DERI)</a>, about the legal challenges and commercial possibilities of the Semantic Web, the next evolution of the World Wide Web on Wednesday 25th November between 8.00 â€“ 9.45am.   This is a must attend event for anyone in the technology sector as well as those in business and the public sector who use the Internet to interface with their clients and the customers they serve.</p>
+<p>Having maintained its position as a world leader in attracting foreign direct investment from the world&#8217;s leading technology companies, Ireland must now position itself as a strategic leader in researching and developing new technologies with leading technology companies.  Through the work of the Digital Enterprise Research Institute (DERI) at NUIG, Ireland has become a central player in developing the protocols and technologies which will play a central role in the development of what are now know as semantic technologies.</p>
+<p>Further information about the event <a href="http://www.mhc.ie/news-+-events/events/491/">can be found here  </a></p>
+<p><strong>What:</strong>                  Business breakfast on the legal challenges and commercial possibilities of the Semantic Web</p>
+<p><strong>Where:</strong>                Mason Hayes+Curran, South Bank House, Barrow Street, Dublin 4</p>
+<p><strong>When:</strong>                 Wednesday 25th November 8.00 â€“ 9.45am</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/business-breakfast-semantic-web/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

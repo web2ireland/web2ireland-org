@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Mark Cummins</title>
+	<atom:link href="/tag/mark-cummins/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Startup, Plink acquired by Google</title>
+		<link>/2010/04/irish-startup-plink-acquired-by-google/</link>
+		<comments>/2010/04/irish-startup-plink-acquired-by-google/#comments</comments>
+		<pubDate>Tue, 13 Apr 2010 18:35:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[iqprize]]></category>
+		<category><![CDATA[Mark Cummins]]></category>
+		<category><![CDATA[Plink]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1693</guid>
+		<description><![CDATA[Congratulations to Irish startup Plink who were recently acquired by Google. We&#8217;ve covered Plink in the past, and well done to the founder team of Mark Cummins and James Philbin, who are both Phd Candidates at Oxford University. Despite some other media coverage, Plink is very much Irish (registered company in Ireland), and is a [...]]]></description>
+				<content:encoded><![CDATA[<p>Congratulations to Irish startup <a href="http://www.plinkart.com/">Plink</a> who were <a href="http://www.plinkart.com/blog/?p=77">recently acquired</a> by <a href="http://www.google.com/">Google</a>.</p>
+<p><img alt="" src="http://www.plinkart.com/images/demo1.jpg" title="Plink" class="alignnone" width="531" height="245" /></p>
+<p>We&#8217;ve covered<a href="http://www.web2ireland.org/tag/plink/"> Plink in the past,</a> and well done to the founder team of Mark Cummins and James Philbin, who are both Phd Candidates at Oxford University.</p>
+<p><a href="http://www.guardian.co.uk/technology/pda/2010/apr/12/google-buys-uk-startup-plink">Despite some other media coverage</a>, Plink is very much Irish (<a href="http://www.solocheck.ie/FreeIrishCompanyReport?companyNumber=476079&#038;companyName=PLINK+SEARCH+LIMITED">registered company in Ireland</a>), and is a <a href="http://www.iqcontent.com/about/news/iq-prize-finalists-announced">past finalist in IQPrize</a>. <a href="http://taint.org/2003/12/10/185721a.html">Colin Farrell has suffered from same confusion as Plink <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </a></p>
+<p>Hopefully its the first of many acquisitions by Google in Ireland/Europe.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/04/irish-startup-plink-acquired-by-google/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

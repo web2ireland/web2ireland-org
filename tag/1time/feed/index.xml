@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; 1time</title>
+	<atom:link href="/tag/1time/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland &#8211; whatâ€™s going on &#8211; week ending July 18th, 2008</title>
+		<link>/2008/07/web2ireland-whats-going-on-week-ending-july-18th-2008/</link>
+		<comments>/2008/07/web2ireland-whats-going-on-week-ending-july-18th-2008/#comments</comments>
+		<pubDate>Tue, 22 Jul 2008 13:55:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[1time]]></category>
+		<category><![CDATA[barcamp]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[ietf]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[racecaller]]></category>
+		<category><![CDATA[roomex]]></category>
+		<category><![CDATA[seedcamp]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[ycombinator]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=658</guid>
+		<description><![CDATA[Apologies &#8211; post is a little late.send on any news tips to us at web2ireland.editor AT gmail.com This weekâ€™s Tuesday Push is 1time &#8211; see list of coverage IETF Meeting in Dublin Three Weeks left to apply to SeedCamp Barcamps &#8211; Cork Startup Ideas &#8211; from Paul Graham Building your webapp in the cloud Other [...]]]></description>
+				<content:encoded><![CDATA[<p>Apologies &#8211; post is a little late.send on any news tips to us at web2ireland.editor AT gmail.com</p>
+<p><a href="http://www.web2ireland.org/2008/07/15/this-weeks-tuesday-push-is-1time/"><br />
+This weekâ€™s Tuesday Push is 1time</a> &#8211; see <a href="http://www.web2ireland.org/2008/07/17/1time-coverage/">list of coverage</a><br />
+<a href="http://www.web2ireland.org/2008/07/15/ietf-meeting-in-dublin/">IETF Meeting in Dublin</a><br />
+<a href="http://www.web2ireland.org/2008/07/18/three-weeks-left-to-apply-to-seedcamp/">Three Weeks left to apply to SeedCamp</a><br />
+<a href="http://www.web2ireland.org/2008/07/18/barcamp-cork-ii/">Barcamps &#8211; Cork</a><br />
+<a href="http://www.web2ireland.org/2008/07/20/startup-ideas-from-paul-graham/">Startup Ideas &#8211; from Paul Graham</a><br />
+<a href="http://www.web2ireland.org/2008/07/21/building-your-webapp-in-the-cloud/">Building your webapp in the cloud</a></p>
+<p>Other bits of news<br />
+<a href="http://www.techcrunch.com/2008/07/15/muzu-tv-turns-artists-into-ad-men/">Muzu.tv on techcrunch</a><br />
+<a href="http://antidis.com/demos/trains/select.html">iPhone app for Irish Rail</a><br />
+<a href="http://racecaller.com/">Social network for horse betting</a><br />
+<a href="http://siliconrepublic.com/news/article/10981/business/online-hotel-player-books-19-000-rooms">Roomex hitting big targets</a></p>
+<p>Follow us &#8211; Weâ€™re on twitter &#8211; http://twitter.com/web2ireland</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/web2ireland-whats-going-on-week-ending-july-18th-2008/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>1Time Coverage</title>
+		<link>/2008/07/1time-coverage/</link>
+		<comments>/2008/07/1time-coverage/#comments</comments>
+		<pubDate>Thu, 17 Jul 2008 18:45:49 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[1time]]></category>
+		<category><![CDATA[tuesday push]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=646</guid>
+		<description><![CDATA[The Tuesday Push on 1TIme started over Chez Mulley and spread like wildfire. Here are the reviews and posts that we&#8217;ve seen so far. Pop in a comment if we&#8217;ve missed yours. So far only 5 companies have signed up for the push. There are some harsh words I could use here but I&#8217;ll simply [...]]]></description>
+				<content:encoded><![CDATA[<p>The Tuesday Push on 1TIme started over <a href="http://www.mulley.net/2008/07/15/the-tuesday-push-july-15th-2008-1time/">Chez Mulley</a> and spread like wildfire. Here are the reviews and posts that we&#8217;ve seen so far. Pop in a comment if we&#8217;ve missed yours.</p>
+<p>So far only 5 companies have signed up for the push. There are some harsh words I could use here but I&#8217;ll simply ask the question; why wouldn&#8217;t you like coverage of your app and some honest feedback?</p>
+<ul>
+<li><a href="http://bohanna.typepad.com/pureplay/2008/07/tuesday-push--.html">Pureplay, Keith Bohanna</a></li>
+<li><a href="http://www.davidkelly.ie/blog/2008/07/15/1time-timetracking-another-tuesday-push/">David Kelly</a></li>
+<li><a href="http://www.bytesurgery.com/blog/2008/07/15/pushing-1time-to-push-ireland/">Robin Blandford</a></li>
+<li><a href="http://www.spoiltchild.com/pinstripe/article/losing-money-time-and-again">Spoiltchild, Alan O&#8217;Rourke</a></li>
+<li><a href="http://www.iarfhlaith.com/2008/07/15/1time-a-time-tracking-web-application/">Iarfhlaith Kelly</a></li>
+<li><a href="http://www.niall-larkin.com/blog/2008/07/15/1timein-45-seconds/">Clunky Flow, Niall Larkin</a></li>
+<li><a href="http://www.leitrimbusinessnetwork.com/2008/07/15/1time-a-web-based-time-and-expense-tracking-application/">Leitrim Business Network, Johnny Beirne</a></li>
+<li><a href="http://michael.flanagan.ie/blog/index.php/20/1timenet-web-hosted-time-tracking/">Michael Flanagan</a></li>
+<li><a href="http://golez.net/2008/07/15/track-your-project-with-1time/">Alexia Golez</a></li>
+<li><a href="http://eirepreneur.blogs.com/eirepreneur/2008/07/shove-tuesday-s.html">Eirepreneur, James Corbett</a></li>
+<li><a href="http://joedrumgoole.com/blog/2008/07/15/the-tuesday-push-1time-time-tracking/">Copacetic, Joe Drumgoole</a></li>
+</ul>
+<p>Updated:</p>
+<ul>
+<li><a href="http://patphelan.net/is-your-company-leaking-money/">Pat Phelan</a></li>
+<li><a href="http://www.ewritecork.com/blog/2008/07/tuesday-push-1time-by-derek-organ/">eWrite, Gordon Murray</a></li>
+<li><a href="http://blog.peelmeagrape.net/2008/7/15/tuesday-push-1time-time-tracking">Darragh Curran</a></li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/1time-coverage/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>This week&#8217;s Tuesday Push is 1time</title>
+		<link>/2008/07/this-weeks-tuesday-push-is-1time/</link>
+		<comments>/2008/07/this-weeks-tuesday-push-is-1time/#comments</comments>
+		<pubDate>Tue, 15 Jul 2008 07:47:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[1time]]></category>
+		<category><![CDATA[expense tracking]]></category>
+		<category><![CDATA[time tracking]]></category>
+		<category><![CDATA[tuesday push]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=644</guid>
+		<description><![CDATA[The second Tuesday Push is 1time. Like PutPlace before it, this is not some piece of fluff that tells you how many people in Sheboygan Wisconsin are tweeting about shower curtain rings. It&#8217;s an incredibly useful tool for time and expense tracking both for internal business use and service providers like freelancers. Sign-up for the [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.mulley.net/2008/07/15/the-tuesday-push-july-15th-2008-1time/">second Tuesday Push</a> is <a href="http://1timetracking.com/">1time</a>. Like PutPlace before it, this is not some piece of fluff that tells you how many people in Sheboygan Wisconsin are tweeting about shower curtain rings. It&#8217;s an incredibly useful tool for time and expense tracking both for internal business use and service providers like freelancers.</p>
+<p><img class="aligncenter" src="http://1timetracking.com/images/screenshot-skew.gif" alt="" /></p>
+<p><a href="http://1timetracking.com/">Sign-up for the free trial</a> and write your review of them today.</p>
+<p>Check back here for the round-up of all the reviews in a few days.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/this-weeks-tuesday-push-is-1time/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Ireland&#8217;s Companies Registration Office (CRO) launches #opendata API</title>
+	<atom:link href="/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Ireland’s Companies Registration Office (CRO) launches #opendata API - Irish Business Online &#124; Irish Business Online</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1291</link>
+		<dc:creator>Ireland’s Companies Registration Office (CRO) launches #opendata API - Irish Business Online &#124; Irish Business Online</dc:creator>
+		<pubDate>Wed, 14 Mar 2012 12:52:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1291</guid>
+		<description><![CDATA[[...] Web 2 Ireland » Blog Archive » Ireland’s Companies Registration Office (CRO) launches #opendata ....   This entry was posted in Business, Ireland, Technology. Bookmark the permalink. Post a comment or leave a trackback: Trackback URL.    &#171; 8 tips on creating video for your business [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Web 2 Ireland » Blog Archive » Ireland’s Companies Registration Office (CRO) launches #opendata &#8230;.   This entry was posted in Business, Ireland, Technology. Bookmark the permalink. Post a comment or leave a trackback: Trackback URL.    &laquo; 8 tips on creating video for your business [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1290</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Mon, 27 Feb 2012 10:00:54 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1290</guid>
+		<description><![CDATA[Thanks Shane. Fixed.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Shane. Fixed.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Shane O'Grady</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1289</link>
+		<dc:creator>Shane O'Grady</dc:creator>
+		<pubDate>Mon, 27 Feb 2012 09:58:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1289</guid>
+		<description><![CDATA[The sign up links should point to the HTTPS version, since it&#039;s not available over HTTP
+i.e. https://services.cro.ie]]>/</description>
+		<content:encoded><![CDATA[<p>The sign up links should point to the HTTPS version, since it&#8217;s not available over HTTP<br />
+i.e. <a href="https://services.cro.ie/" rel="nofollow">https://services.cro.ie/</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1288</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Mon, 27 Feb 2012 09:55:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1288</guid>
+		<description><![CDATA[Hi Mark, Donal C told me about Irish Formations at Twitter Teatime. I&#039;m really pleased to see the CRO API being used live.]]></description>
+		<content:encoded><![CDATA[<p>Hi Mark, Donal C told me about Irish Formations at Twitter Teatime. I&#8217;m really pleased to see the CRO API being used live.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mark Hegarty</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1287</link>
+		<dc:creator>Mark Hegarty</dc:creator>
+		<pubDate>Mon, 27 Feb 2012 09:51:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1287</guid>
+		<description><![CDATA[Hi Conor,
+
+I believe that we are the first to get this working live. You can see it on our website http://www.irishformations.ie/ I have to say that the CRO were fantastic, and they used us as a test bed for the pilot release of the API.
+
+Irish Formations is a Company Formations agency based in the Atrium Business Centre, in Blackpool Cork City. We form Limited Companies as an outsource facility for Solicitors and Accountants, and we process Company Formations direct through our website for anyone in the need of Limited Liability for their business.
+
+We got frustrated setting up the business last year that this facility was not in place, and I thought that there was no reason why this should not be available. I made contact with the CRO and after a few calls they told me that they love the idea and are actually working on it. After much discussion, and information passed forwards and backwards, we started to prepare for the arrival of this facility on the site. It only went live last week, but it is working well, and we are delighted to be offering it as a free service to anyone who wants to use it to check the availability of a limited company name, or just to check a company number.]]></description>
+		<content:encoded><![CDATA[<p>Hi Conor,</p>
+<p>I believe that we are the first to get this working live. You can see it on our website <a href="http://www.irishformations.ie/" rel="nofollow">http://www.irishformations.ie/</a> I have to say that the CRO were fantastic, and they used us as a test bed for the pilot release of the API.</p>
+<p>Irish Formations is a Company Formations agency based in the Atrium Business Centre, in Blackpool Cork City. We form Limited Companies as an outsource facility for Solicitors and Accountants, and we process Company Formations direct through our website for anyone in the need of Limited Liability for their business.</p>
+<p>We got frustrated setting up the business last year that this facility was not in place, and I thought that there was no reason why this should not be available. I made contact with the CRO and after a few calls they told me that they love the idea and are actually working on it. After much discussion, and information passed forwards and backwards, we started to prepare for the arrival of this facility on the site. It only went live last week, but it is working well, and we are delighted to be offering it as a free service to anyone who wants to use it to check the availability of a limited company name, or just to check a company number.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: (16:48 26-02-2012) Noticias m&#225;s populares de #opendata en las ultimas 24 horas &#124; Tuits de Software Libre</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1286</link>
+		<dc:creator>(16:48 26-02-2012) Noticias m&#225;s populares de #opendata en las ultimas 24 horas &#124; Tuits de Software Libre</dc:creator>
+		<pubDate>Sun, 26 Feb 2012 16:00:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1286</guid>
+		<description><![CDATA[[...] (12) Web 2 Ireland &#187; Blog Archive &#187; Ireland&#8217;s Companies Registration Office (CRO) launc... [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] (12) Web 2 Ireland &raquo; Blog Archive &raquo; Ireland&#8217;s Companies Registration Office (CRO) launc&#8230; [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: (12:46 26-02-2012) Noticias m&#225;s populares de #opendata en las ultimas 24 horas &#124; Tuits de Software Libre</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comment-1285</link>
+		<dc:creator>(12:46 26-02-2012) Noticias m&#225;s populares de #opendata en las ultimas 24 horas &#124; Tuits de Software Libre</dc:creator>
+		<pubDate>Sun, 26 Feb 2012 11:47:07 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174#comment-1285</guid>
+		<description><![CDATA[[...] (11) Web 2 Ireland &#187; Blog Archive &#187; Ireland&#8217;s Companies Registration Office (CRO) launc... [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] (11) Web 2 Ireland &raquo; Blog Archive &raquo; Ireland&#8217;s Companies Registration Office (CRO) launc&#8230; [...]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

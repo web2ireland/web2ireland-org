@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; api</title>
+	<atom:link href="/tag/api/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Ireland&#8217;s Companies Registration Office (CRO) launches #opendata API</title>
+		<link>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/</link>
+		<comments>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/#comments</comments>
+		<pubDate>Sat, 25 Feb 2012 16:49:49 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[cro]]></category>
+		<category><![CDATA[ireland. government]]></category>
+		<category><![CDATA[opendata]]></category>
+		<category><![CDATA[public sector]]></category>
+		<category><![CDATA[resful]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174</guid>
+		<description><![CDATA[I was thrilled to get an email from Colm Ahern in Enterprise Registry Solutions telling me that the CRO now has an API which was just launched last week. This is the first time the CRO has done anything like this and I&#8217;m hugely impressed on many different levels. I&#8217;ve been banging on about the lack of [...]]]></description>
+				<content:encoded><![CDATA[<p>I was thrilled to get an email from Colm Ahern in Enterprise Registry Solutions telling me that the <a href="http://www.cro.ie/">CRO</a> now has an API which was just launched last week. This is the first time the CRO has done anything like this and I&#8217;m hugely impressed on many different levels.</p>
+<p>I&#8217;ve been banging on about the lack of Government Open Data for years and built a few small things but nothing needle-shifting. Whilst we&#8217;ve had lots of bandwagon jumpers in the past 12 months yakking about it, the CRO has gone and done the hard work. The team in there deserves both publicity and congratulations for their efforts.</p>
+<p>The API itself is a straightforward familiar RESTful one and currently provides all of the free data that the normal CRO site gives you. Pay-for data is not there yet. You need an API key to access the API and they provide some good examples in PHP, Python etc so that even the most inexperienced programmer can make use of it. Data is returned in XML or JSON.</p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2012/02/ryanair2.png"><img class="aligncenter size-full wp-image-2175" title="ryanair2" src="http://www.web2ireland.org/wp-content/uploads/2012/02/ryanair2.png" alt="" width="578" height="240" /></a></p>
+<p>You do <a href="https://services.cro.ie/">have to register</a> and there is a postal component to that. Yeah yeah, I know, but I also totally understand where they are coming from on this. Remember, they have never done anything like this as an organisation. Technically there is nothing stopping them giving out keys to anyone who registers online but they have to provide confidence at every management level that the system will scale, won&#8217;t be abused or won&#8217;t have bots slurping down the entire DB 24&#215;7 etc.  I am sure that once they see how it is being used, the sign-up process will be relaxed.</p>
+<p>I&#8217;ve played a tiny bit with it this afternoon and it was a doddle to use. The sample PHP code has everything you need. I&#8217;m already thinking about the kinds of mashups that might be possible with the data, particularly around location and general data mining. Some ETL into Google Fusion Tables might be fun. Hmm, I wonder what type of useful Twitter feeds you could create?</p>
+<p>They are looking for feedback from developers on the API. Please <a href="https://services.cro.ie/">sign up</a>, kick the tyres, build some code and let them know what you think.</p>
+<p>I fervently hope this will open the floodgates for Irish #opendata. It shows how any system, no matter what the technology, can be wrapped in a simple RESTful API and made available to the public. I hope everyone working in IT in the public sector and Government sees what the guys in the CRO have done and thinks &#8220;hell yeah, let&#8217;s do it&#8221;.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/irelands-companies-registration-office-cro-launches-opendata-api/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>The Ireland API</title>
+		<link>/2011/01/the-ireland-api/</link>
+		<comments>/2011/01/the-ireland-api/#comments</comments>
+		<pubDate>Mon, 17 Jan 2011 18:43:01 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[govapi]]></category>
+		<category><![CDATA[open api]]></category>
+		<category><![CDATA[open data]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1990</guid>
+		<description><![CDATA[As anyone who has followed my writing over the years on various blogs knows, I have a particular bee in my bonnet about Government APIs and freeing all public sector data. Unless there is some absolute secrecy requirement on that data, it should be made available to the Irish people, to do with what they [...]]]></description>
+				<content:encoded><![CDATA[<p>As anyone who has followed my writing over the years on various blogs knows, I have a particular bee in my bonnet about <a href="http://www.web2ireland.org/2009/09/06/government-2-0-in-ireland/">Government APIs</a> and freeing all public sector data. Unless there is some absolute secrecy requirement on that data, it should be made available to the Irish people, to do with what they will.</p>
+<p>But I have lost lots of hair and gained lots of pounds waiting for it to happen here. I watch in despair as the UK and US race ahead and we sit here without even a bloody working postcode system. Just look at <a href="http://data.gov.uk/">data.gov.uk</a> in the UK or <a href="http://codeforamerica.org/">CodeForAmerica</a> in the US.</p>
+<p>So do we just sit and wait or do private sector companies and tech communities take the lead and show the Public Sector how it&#8217;s done? Do we lead by example rather than just brow-beating?</p>
+<p>We&#8217;ve already seen it happen, most notably with <a href="http://www.kildarestreet.com/">KildareStreet</a> but also with <a href="http://www.myloc8ion.com/">Loc8 postcodes</a>. People and businesses sick of waiting, solve the problems themselves by taking whatever poor public data there is already and doing something useful with it and on top of it.</p>
+<p>There has also been a recent community initiative with <a href="http://opendata.ie/">opendata.ie</a> to collect together available datasets but it doesn&#8217;t seem to have gained much momentum.</p>
+<p>So where else can we leverage exisiting datasets and groupings to benefit the country and those elsewhere who care deeply about Ireland?</p>
+<p>I think we should look again at the idea <a href="http://www.web2ireland.org/2010/03/02/gateway-ireland/#comment-243103">I mentioned way back</a> around the diaspora and genealogy. At the moment we have:</p>
+<ul>
+<li>Irish/UK/US historical census data</li>
+<li>National Library records</li>
+<li>Church records</li>
+<li>Geni data</li>
+<li>Ellis Island data</li>
+<li>Mormon Data</li>
+<li>Family Tree DNA Testing</li>
+<li>Facebook</li>
+<li> Twitter</li>
+<li> The living Irish Diaspora and their knowledge of their families</li>
+<li>Ordnance Survey Map data</li>
+<li>OpenStreetMap Data</li>
+<li>Phonebook data</li>
+<li>Irish emigrant groups around the world</li>
+<li>Irish-Americans working in thousands of tech companies</li>
+</ul>
+<p>Would it be possible to build an API around this data, starting simply and iterating out? Enabling people to search and mashup by names, dates, locations and Y chromosome? Think of the platforms that such a thing would enable? Now wire that into the social graph!</p>
+<p>If there was one co-ordinating organisation concerned with building the relationships needed to get this data and providing the APIs but letting people build any app they want, wouldn&#8217;t that be incredibly powerful?</p>
+<p>Such an org could co-ordinate with churches to have parishioners transcribe all of records that are still in paper form. They would have the clout to get access to currently-non-public government data. They could then help Government departments and state/semi-state bodies build good APIs on their data.</p>
+<p>They could also co-ordinate with all the emigrant groupings in UK, USA and elsewhere to fill in missing holes in records. Colleges could get involved. What about all the Alumni data?</p>
+<p>One or two simple but powerful example apps could be built to show what&#8217;s possible.</p>
+<p>Thoughts?</p>
+<p>Quick Poll:</p>
+<p>[polldaddy poll="4403590"]</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/the-ireland-api/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>API Wars and Opportunities</title>
+		<link>/2009/02/api-wars-and-opportunities/</link>
+		<comments>/2009/02/api-wars-and-opportunities/#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 20:42:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[google app engine]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1037</guid>
+		<description><![CDATA[As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th. This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is [...]]]></description>
+				<content:encoded><![CDATA[<p>As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th.</p>
+<p>This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is an opportunity for the Web2Ireland community to meet and discuss</p>
+<ul>
+<li>using APIs for business development</li>
+<li>building mashups/widgets/etc</li>
+<li>apps on mobile platforms &#8211; iPhone, Android, nokia, etc</li>
+<li>using enterprise 2.0 platforms &#8211; force.com, IBM, etc</li>
+<li>developer infrastructure &#8211; Amazon, Google App Engine</li>
+</ul>
+<p>If you are attending in any capacity,Â <a href="http://web2irelandapiwars.eventbrite.com/">please sign-up here</a>.</p>
+<div><strong>If you are interested inÂ </strong><strong>speaking or demoing, Â just email web2ireland.editor @ gmail.com</strong></div>
+<p>By signing up for Web2Ireland API Wars you are automatically included in attendee list for Developer Garage &#8211; check here forÂ <a href="http://www.facebook.com/event.php?eid=53311687551">more information on Facebook Garage</a></p>
+<p>And then some social drinks for all involved&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/api-wars-and-opportunities/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

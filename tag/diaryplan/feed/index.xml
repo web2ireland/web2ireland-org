@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; diaryplan</title>
+	<atom:link href="/tag/diaryplan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Eircom Web Innovation Fund Winners</title>
+		<link>/2009/08/eircom-web-innovation-fund-winners/</link>
+		<comments>/2009/08/eircom-web-innovation-fund-winners/#comments</comments>
+		<pubDate>Wed, 12 Aug 2009 12:15:38 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[beeherd]]></category>
+		<category><![CDATA[diaryplan]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[getitkeepit]]></category>
+		<category><![CDATA[siliconrepublic]]></category>
+		<category><![CDATA[societymail]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1340</guid>
+		<description><![CDATA[Eircom have annouced the winners of their Web Innovation Fund The four winners are Diaryplan SocietyMail Getitkeepit Beeherd Marie has more details at SiliconRepublic]]></description>
+				<content:encoded><![CDATA[<p>Eircom have annouced the winners of their Web Innovation Fund</p>
+<p><img src="http://home.eircom.net//Images/portal/labs/creative_poster_orangelogo_roundedcorners.jpg" alt="eircome" /></p>
+<p>The four winners are</p>
+<p><a href="http://www.diaryplan.com/">Diaryplan</a><br />
+<a href="http://www.SocietyMail.com/">SocietyMail</a><br />
+<a href="http://www.getitkeepit.com/">Getitkeepit</a><br />
+<a href="http://www.beeherd.net/">Beeherd</a></p>
+<p><img src="http://siliconrepublic.com/fs/img/news/200908/378x/eircom-innovation-fund.jpg" alt="Eircom Web Innovation Winners 2009" /></p>
+<p>Marie has more <a href="http://siliconrepublic.com/news/article/13598/randd/social-web-dominates-eircom-innovation-fund">details at SiliconRepublic</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/08/eircom-web-innovation-fund-winners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

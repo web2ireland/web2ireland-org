@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; colm long</title>
+	<atom:link href="/tag/colm-long/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Colm Long talk at Facebook Garage</title>
+		<link>/2009/08/colm-long-talk-at-facebook-garage/</link>
+		<comments>/2009/08/colm-long-talk-at-facebook-garage/#comments</comments>
+		<pubDate>Wed, 05 Aug 2009 16:19:31 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[colm long]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1338</guid>
+		<description><![CDATA[Another superb video by Michael Clyne, this time of Colm Long&#8217;s talk. The Facebook stats for Ireland are staggering. Hot Facebook.com Money Making Applications plus U2, XBOX, DS, WII and Facebook Advertising Options presented by Colm Long from Path Pacific on Vimeo.]]></description>
+				<content:encoded><![CDATA[<p>Another superb video by <a href="http://pathpacific.com/">Michael Clyne</a>, this time of Colm Long&#8217;s talk. The Facebook stats for Ireland are staggering.</p>
+<p><object width="400" height="230"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=5931379&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=5931379&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="230"></embed></object>
+<p><a href="http://vimeo.com/5931379">Hot Facebook.com Money Making Applications plus U2, XBOX, DS, WII and Facebook Advertising Options presented by Colm Long</a> from <a href="http://vimeo.com/user2058028">Path Pacific</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/08/colm-long-talk-at-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

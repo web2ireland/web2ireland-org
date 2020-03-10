@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; sunday business show</title>
+	<atom:link href="/tag/sunday-business-show/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Thinking of starting a business?</title>
+		<link>/2008/07/thinking-of-starting-a-business/</link>
+		<comments>/2008/07/thinking-of-starting-a-business/#comments</comments>
+		<pubDate>Tue, 29 Jul 2008 14:37:20 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[sunday business show]]></category>
+		<category><![CDATA[todayfm]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=670</guid>
+		<description><![CDATA[Conall O&#8217;Morain from the Sunday Business Show on TodayFM left a comment on the Argolon blog to let me know about their edition this Sunday. It&#8217;s all about &#8220;Starting Your Own Business&#8221;. As Conall said: We will have advice from Enterprise Ireland, the CEBs and one of the countryâ€™s wisest business advisers with us as [...]]]></description>
+				<content:encoded><![CDATA[<p>Conall O&#8217;Morain from the <a href="http://www.todayfm.com/sectional.asp?id=1316">Sunday Business Show</a> on TodayFM <a href="http://www.argolon.com/2008/07/24/west-cork-enterprise-board-support/#comment-73046">left a comment</a> on the Argolon blog to let me know about their edition this Sunday. It&#8217;s all about &#8220;Starting Your Own Business&#8221;. As Conall said:</p>
+<blockquote><p>We will have advice from Enterprise Ireland, the CEBs and one of the countryâ€™s wisest business advisers with us as well.</p></blockquote>
+<p>If you are thinking about the leap, maybe this will be the trigger to do something about it? 10.30am this Sunday and <a href="http://www.todayfm.com/article.asp?id=15131">streamed live here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/thinking-of-starting-a-business/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

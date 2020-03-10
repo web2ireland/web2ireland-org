@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Facebook is on Fire</title>
+	<atom:link href="/2007/08/facebook-is-on-fire/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/08/facebook-is-on-fire/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: benmosse</title>
+		<link>/2007/08/facebook-is-on-fire/#comment-451</link>
+		<dc:creator>benmosse</dc:creator>
+		<pubDate>Wed, 05 Sep 2007 17:30:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/08/21/facebook-is-on-fire/#comment-451</guid>
+		<description><![CDATA[http://online.wsj.com/public/article/SB118886348147516379.html?mod=dist_smartbrief]]></description>
+		<content:encoded><![CDATA[<p><a href="http://online.wsj.com/public/article/SB118886348147516379.html?mod=dist_smartbrief" rel="nofollow">http://online.wsj.com/public/article/SB118886348147516379.html?mod=dist_smartbrief</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robin Blandford</title>
+		<link>/2007/08/facebook-is-on-fire/#comment-450</link>
+		<dc:creator>Robin Blandford</dc:creator>
+		<pubDate>Tue, 21 Aug 2007 13:20:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/2007/08/21/facebook-is-on-fire/#comment-450</guid>
+		<description><![CDATA[&#039;sexy&#039;... I like that :-)]]></description>
+		<content:encoded><![CDATA[<p>&#8216;sexy&#8217;&#8230; I like that <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

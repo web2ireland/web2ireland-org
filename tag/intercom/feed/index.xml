@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Intercom</title>
+	<atom:link href="/tag/intercom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Intercom. CRM for SaaS business</title>
+		<link>/2011/10/intercom-crm-for-saas-business/</link>
+		<comments>/2011/10/intercom-crm-for-saas-business/#comments</comments>
+		<pubDate>Fri, 14 Oct 2011 08:39:56 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[AndrewChen]]></category>
+		<category><![CDATA[exceptional]]></category>
+		<category><![CDATA[Intercom]]></category>
+		<category><![CDATA[leanstartup]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2127</guid>
+		<description><![CDATA[The team better known as Contrast in Ireland, have a potential killer-app on their hands. Intercom is a next-gen CRM for SaaS businesses, who find it hard to connect with their customers, resulting in abandoned trials, low upgrades, churn. Intercom lets them: 1. identify users they need to reach out to, 2. research those users [...]]]></description>
+				<content:encoded><![CDATA[<p>The team better known as <a href="http://contrast.ie/">Contrast</a> in Ireland, have a potential killer-app on their hands.</p>
+<p><img alt="" src="https://s3.amazonaws.com/screenshots.angel.co/b1/17609/21c3836212a39f0f77c2d05582fe7bc1-original.jpg" title="Intercom" class="alignnone" width="500" height="300" /></p>
+<p><em><a href="http://intercom.io/">Intercom</a>  is a next-gen CRM for SaaS businesses, who find it hard to connect with their customers, resulting in abandoned trials, low upgrades, churn.</p>
+<p>Intercom lets them:</p>
+<p>1. identify users they need to reach out to,<br />
+2. research those users (social plus account info),<br />
+3. contact them (in-app or e-mail, automatically or manually),<br />
+4. track the relationship over time.</em></p>
+<p>It&#8217;s really clever, as I&#8217;ve seen it used on a new startup, where its allowing them to track users, and ultimately i think it will enable companies to model the business like <a href="http://andrewchenblog.com/2009/01/19/how-to-create-a-profitable-freemium-startup-spreadsheet-model-included/">what Andrew Chen did in this Freemium Business Model xls</a>.</p>
+<p>It looks like the team have HQ&#8217;d this venture out of San Francisco. They are based in a building managed by <a href="http://uk.linkedin.com/in/jsiegel">Jonathan Siegel</a> who recently moved back to the US from Ireland. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/intercom-crm-for-saas-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

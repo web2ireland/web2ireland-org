@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; affiliate</title>
+	<atom:link href="/tag/affiliate/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Skimlinks makes the life of an Affiliate hassle-free</title>
+		<link>/2008/12/skimlinks-makes-the-life-of-an-affiliate-hassle-free/</link>
+		<comments>/2008/12/skimlinks-makes-the-life-of-an-affiliate-hassle-free/#comments</comments>
+		<pubDate>Fri, 12 Dec 2008 17:17:35 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Web2.0 News]]></category>
+		<category><![CDATA[affiliate]]></category>
+		<category><![CDATA[skimbit]]></category>
+		<category><![CDATA[skimlinks]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=919</guid>
+		<description><![CDATA[Ciaran Rooney, CTO of Skimbit, has just announced the launch of Skimlinks which makes being an Affiliate far easier than heretofore. The idea is that Publishers sign up for Skimlinks, and once approved, have access to thousands of merchants across 11 affiliate networks internationally. They just have to add one line of code to their [...]]]></description>
+				<content:encoded><![CDATA[<p>Ciaran Rooney, CTO of <a href="http://skimbit.com/">Skimbit</a>, has just announced the launch of <a href="http://skimlinks.com/">Skimlinks</a> which makes being an Affiliate far easier than heretofore.</p>
+<p><img class="alignnone size-medium wp-image-920" title="skimlinks-logo" src="http://www.web2ireland.org/wp-content/uploads/2008/12/skimlinks-logo-300x79.png" alt="skimlinks-logo" width="300" height="79" /></p>
+<p>The idea is that Publishers sign up for Skimlinks, and once approved, have access to thousands of merchants across 11 affiliate networks internationally. They just have to add one line of code to their site and then the entire site, including existing content, is enabled.</p>
+<p>The Publishers continue to create content and add links to merchants&#8217; products and services as normal. When a user clicks on these links, Skimlinks turns it into its affiliate link equivalent on-the-fly. If the user then buys something from the merchantâ€™s site, the publisher earns a commission.</p>
+<p>Skimlinks also offers the publisher a reporting interface that consolidates all their affiliate activity and earnings across all networks, and gives them visibility into to the traffic they are sending to each merchant. The service is currently free to use, and Skimlinks only takes a small cut of the commissions earned by the publisher.</p>
+<p>It&#8217;s fantastic to see something new in the Affiliate space and even better to see a a solid business model from day 1 with customers like Shiny Media at launch.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/skimlinks-makes-the-life-of-an-affiliate-hassle-free/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

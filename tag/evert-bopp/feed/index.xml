@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Evert Bopp</title>
+	<atom:link href="/tag/evert-bopp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Greenhouse Incubator in Limerick</title>
+		<link>/2009/06/greenhouse-incubator-in-limerick/</link>
+		<comments>/2009/06/greenhouse-incubator-in-limerick/#comments</comments>
+		<pubDate>Fri, 12 Jun 2009 08:39:50 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Evert Bopp]]></category>
+		<category><![CDATA[Greenhouse]]></category>
+		<category><![CDATA[Limerick]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1253</guid>
+		<description><![CDATA[Evert Bopp, has launched &#8220;The Greenhouse&#8221; &#8211; a startup incubator based in Limerick. The story so far: 1) Secured 2300 sq.ft. office premises at prime location on Oâ€™Connell street in Limerick (free of charge for 1 year) 2) Secured high speed broadband connections and 2 phone-lines free of charge (Eircom) 3) Built up a substantial [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://greenhouselimerick.com/about/founder/">Evert Bopp</a>, has launched &#8220;<a href="http://greenhouselimerick.com/">The Greenhouse</a>&#8221; &#8211; a startup incubator based in Limerick.</p>
+<p><em>The story so far:</em></p>
+<p>1) Secured 2300 sq.ft. office premises at prime location on Oâ€™Connell street in Limerick (free of charge for 1 year)</p>
+<p>2) Secured high speed broadband connections and 2 phone-lines free of charge (Eircom)</p>
+<p>3) Built up a substantial panel of advisors &#038; mentors that will assist the start-ups in their development.</p>
+<p>4) Received significant coverage in national &#038; regional media</p>
+<p>5) Opened discussions with Dell regarding financial &#038; material support</p>
+<p>6) Entered into discussions with University of Limerick regarding possible cooperation</p>
+<p>Evert is also running events &#8211; next one is on <a href="http://greenhouselimerick.com/events/â€œblogging-social-media-for-businessâ€-seminar-absolute-hotel-limerick-june-13th/">Blogging &#038; Social Media for biz</a> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/greenhouse-incubator-in-limerick/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

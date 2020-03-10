@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Profitero</title>
+	<atom:link href="/tag/profitero/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Seedcamp winner from Ireland &#8211; Profitero</title>
+		<link>/2010/10/seedcamp-winner-from-ireland-profitero/</link>
+		<comments>/2010/10/seedcamp-winner-from-ireland-profitero/#comments</comments>
+		<pubDate>Fri, 08 Oct 2010 10:21:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Profitero]]></category>
+		<category><![CDATA[seedcamp]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1840</guid>
+		<description><![CDATA[Profitero, a Dublin HQ startup, was one of the recent winners of SeedCamp Profitero is an easy-to-use solution that monitors competitor prices for online retailers, benchmarks their prices against competition and suggests activities to make their price competitive. The founders, Kanstantsin Chernysh &#038; Alex Usikov are both originally from Minsk, Belarus. Profitero founders are serial [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.crunchbase.com/assets/images/resized/0010/1483/101483v2-max-250x250.png" class="alignnone" width="250" height="121" /></p>
+<p><a href="http://www.profitero.com/">Profitero</a>, a Dublin HQ startup, was one of the recent winners of <a href="http://seedcamp.com/">SeedCamp</a></p>
+<p>Profitero is an easy-to-use solution that monitors competitor prices for online retailers, benchmarks their prices against competition and suggests activities to make their price competitive.</p>
+<p><object width="640" height="390"><param name="movie" value="http://www.youtube.com/v/fKxgiE3-YrU&#038;hl=en_US&#038;feature=player_embedded&#038;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><embed src="http://www.youtube.com/v/fKxgiE3-YrU&#038;hl=en_US&#038;feature=player_embedded&#038;version=3" type="application/x-shockwave-flash" allowfullscreen="true" allowScriptAccess="always" width="640" height="390"></embed></object></p>
+<p>The founders, Kanstantsin Chernysh &#038; Alex Usikov are both originally from Minsk, Belarus. Profitero founders are serial entrepreneursin online retail and SEO with strong mathematical backgrounds and expertise in high-performance algorithms, product classification and data mining. </p>
+<p>The team had the following thoughts on Seedcamp:</p>
+<blockquote><p>We have worked a lot with Seedcamp mentors in July &#8211; September. On one hand, we experienced excitement from investors and mentors about our ideas and technology. On the other hand, we found some good advice on retail problems and product areas to focus on.</p></blockquote>
+<p>The team are working with a variety of UK retailers that have already signed up for the service, like Debenhams, Warehouse Express, The Hut Group, House of Fraser, CleverBox and others. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/seedcamp-winner-from-ireland-profitero/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

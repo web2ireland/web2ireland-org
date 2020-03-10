@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; getthefocal</title>
+	<atom:link href="/tag/getthefocal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Cool English / Irish translation iPhone app</title>
+		<link>/2009/10/cool-english-irish-translation-iphone-app/</link>
+		<comments>/2009/10/cool-english-irish-translation-iphone-app/#comments</comments>
+		<pubDate>Mon, 12 Oct 2009 13:38:47 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[getthefocal]]></category>
+		<category><![CDATA[maithu]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1486</guid>
+		<description><![CDATA[What&#8217;s the Irish for &#8220;football&#8221;? Find out in seconds with Get the Focal, now available on your iPhone or iPod Touch. &#8216;Get The Focal&#8217; is a 12,000 word Irish language translator which can be installed on modern mobile phones. A new version of the application has just been released with extra translations and the ability [...]]]></description>
+				<content:encoded><![CDATA[<p>What&#8217;s the Irish for &#8220;football&#8221;?  Find out in seconds with <a href="http://www.getthefocal.com/">Get the Focal</a>, now available on <a href="itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=330012450&#038;mt=8&#038;s=143441">your iPhone or iPod Touch</a>.  </p>
+<p><a href="http://www.getthefocal.com/">&#8216;Get The Focal&#8217;</a> is a 12,000 word Irish language translator which can be installed on modern mobile phones. A new version of the application has just been released with extra translations and the ability to translate words from Irish-English as well as from English-Irish. </p>
+<p><img alt="" src="http://www.getthefocal.com/site_media/photologue/photos/cache/IPhone_img2_thumbnail.png" class="alignnone" width="200" height="300" /></p>
+<p>The company behind, Get The Focal, <a href="http://www.maithu.com/">Maithu</a> are releasing a mobile Irish translator for the iPhone in April and Samsung are also including a version of the application under the name the Gael FÃ³n Dictionary on new handsets.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/cool-english-irish-translation-iphone-app/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

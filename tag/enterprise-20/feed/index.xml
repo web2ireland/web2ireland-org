@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; enterprise 2.0</title>
+	<atom:link href="/tag/enterprise-20/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Two Free Tickets to Enterprise 2.0 Conference</title>
+		<link>/2008/05/two-free-tickets-to-enterprise-20-conference/</link>
+		<comments>/2008/05/two-free-tickets-to-enterprise-20-conference/#comments</comments>
+		<pubDate>Tue, 13 May 2008 20:36:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[enterprise 2.0]]></category>
+		<category><![CDATA[enterprise 2.0 conference]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=609</guid>
+		<description><![CDATA[Those fab people at TechWeb Networks have come up trumps for us again and have given us two free tickets for the Enterprise 2.0 Conference in Boston from June 9th to 12th. Let&#8217;s keep this one simple. Either post your Enterprise 2.0 elevator pitch as a comment here or mail it to web2ireland DOT editor [...]]]></description>
+				<content:encoded><![CDATA[<p>Those fab people at TechWeb Networks have come up trumps for us again and have given us two free tickets for the <a href="http://www.enterprise2conf.com/">Enterprise 2.0 Conference</a> in Boston from June 9th to 12th.</p>
+<p>Let&#8217;s keep this one simple. Either post your Enterprise 2.0 elevator pitch as a comment here or mail it to web2ireland DOT editor AT gmail DOT com. The pitch can beÂ  anything from the germ of an idea to an existing revenue generating business. The two best ones get the tickets. The deadline is midnight BST on Friday 16th. We also have a discount code for anyone who still wants to attend but misses out on the free tickets. Feel free to mail us for that code from now on.</p>
+<p>Given EI&#8217;s love of all things Enterprisey, you should definitely request market research assistance from your DA if you are thinking of going.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/05/e2-08_125x125_im-attending.gif"><img class="aligncenter size-medium wp-image-610" title="Enterprise 2.0 Conference" src="http://www.web2ireland.org/wp-content/uploads/2008/05/e2-08_125x125_im-attending.gif" alt="" width="125" height="125" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/two-free-tickets-to-enterprise-20-conference/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Quick, grab your webcam!</title>
+		<link>/2008/05/quick-grab-your-webcam/</link>
+		<comments>/2008/05/quick-grab-your-webcam/#comments</comments>
+		<pubDate>Wed, 07 May 2008 09:09:34 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[enterprise 2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=608</guid>
+		<description><![CDATA[OK, I know this is a bit last minute but the lovely Liliana who provided us with all those free Web2Expo tickets just contacted me to tell me about Enterprise 2.0 in Boston in June. They have something called the Launch Pad program which is designed to give start ups a platform to launch new [...]]]></description>
+				<content:encoded><![CDATA[<p>OK, I know this is a bit last minute but the lovely Liliana who provided us with all those free Web2Expo tickets just contacted me to tell me about <a href="http://www.enterprise2conf.com/">Enterprise 2.0</a> in Boston in June. </p>
+<p>They have something called the <a href="http://launchpad.enterprise2conf.com/">Launch Pad</a> program which is designed to give start ups a platform to launch new products and services. </p>
+<p>Interested companies are being asked to submit a one minute video pitch. These video pitches are posted to the Launch Pad forum where readers will choose who they want to see live at the event. After a few rounds of voting, the final four get to present in front of a live audience in Boston in June, where the winner will be chosen by the audience. The winner of the Launch Pad gets a free booth on the show floor of the 2009 Enterprise 2.0 Conference.</p>
+<p>The catch? <strong>The deadline for submissions is today!</strong> So get pitching now. All that UStream, Qik and Seesmic practice can now be put to good use <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+<p>Like Web2Expo, we&#8217;ll probably have some freebies and discounts for those who just wish to attend. My guess is that Enterprise Ireland may also lend a hand to those who are going.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/quick-grab-your-webcam/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

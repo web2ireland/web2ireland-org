@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; mxsweep</title>
+	<atom:link href="/tag/mxsweep/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Aiden Callely of MXSweep on the Enterprise Ireland Stand at #leweb</title>
+		<link>/2010/12/aiden-callely-of-mxsweep-on-the-enterprise-ireland-stand-at-leweb/</link>
+		<comments>/2010/12/aiden-callely-of-mxsweep-on-the-enterprise-ireland-stand-at-leweb/#comments</comments>
+		<pubDate>Wed, 08 Dec 2010 21:07:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[le web]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb10]]></category>
+		<category><![CDATA[mxsweep]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1939</guid>
+		<description><![CDATA[Aiden Callely of MXSweep on the Enterprise Ireland Stand at #leweb httpv://www.youtube.com/watch?v=CQaau9_usOM]]></description>
+				<content:encoded><![CDATA[<p>Aiden Callely of <a href="http://www.mxsweep.com/">MXSweep</a> on the Enterprise Ireland Stand at #leweb</p>
+<p>httpv://www.youtube.com/watch?v=CQaau9_usOM</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/aiden-callely-of-mxsweep-on-the-enterprise-ireland-stand-at-leweb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

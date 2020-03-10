@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; soho solo</title>
+	<atom:link href="/tag/soho-solo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>SOHO Solo Conference</title>
+		<link>/2009/02/soho-solo-conference/</link>
+		<comments>/2009/02/soho-solo-conference/#comments</comments>
+		<pubDate>Fri, 13 Feb 2009 08:35:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[cork]]></category>
+		<category><![CDATA[david puttnam]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[soho solo]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1026</guid>
+		<description><![CDATA[Film producer and entrepreneur LordÂ PuttnamÂ will deliver the keynote address at the SOHO Solo conference called â€œReinventing Oneself in these Challenging Timesâ€ inÂ KinsaleÂ next Friday, 20th February 2009. The half-day conference is aimed primarily at small business owners, entrepreneurs and those with a budding business idea.Â It takes places at the Kinsale Yacht Club between 10am and 2pm [...]]]></description>
+				<content:encoded><![CDATA[<p>Film producer and entrepreneur LordÂ PuttnamÂ will deliver the keynote address at the <a href="http://sohosoloireland.wordpress.com/2009/02/12/lord-puttnam-encourages-cork-entrepreneurs-to-think-outside-the-box/">SOHO Solo conference</a> called â€œReinventing Oneself in these Challenging Timesâ€ inÂ KinsaleÂ next Friday, 20th February 2009.</p>
+<p>The half-day conference is aimed primarily at small business owners, entrepreneurs and those with a budding business idea.Â It takes places at the Kinsale Yacht Club between 10am and 2pm and is an absolute bargain to attend at only â‚¬25 including lunch.</p>
+<p>Lord Puttnam will be joined by a wide range of speakers covering topics like transitioning one business into another, the importance of making and retaining connections and identifying your businesses strengths.</p>
+<p>Other speakers include:</p>
+<ul>
+<li>Shemas Eivers, <a href="http://www.clients.ie/">Client Solutions</a><a href="http://www.reinventinglife.org/"></a></li>
+<li><a href="http://www.reinventinglife.org/">Dr E Alana James</a></li>
+<li>Bob McCarthy, <a href="http://www.lmi.ie/">Leadership Management Ireland</a></li>
+<li>John Prendergast, <a href="http://www.aonach.com/">Aonach Consulting</a></li>
+<li>Pat Burke, <a href="http://www.officialirishdirt.com/">The Auld Sod</a></li>
+<li>Kieran Murphy, <a href="http://www.murphysicecream.ie/">Murphyâ€™s Ice Cream</a></li>
+</ul>
+<p>More details including how to register <a href="http://sohosoloireland.wordpress.com/2009/02/12/lord-puttnam-encourages-cork-entrepreneurs-to-think-outside-the-box/">over on the blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/soho-solo-conference/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

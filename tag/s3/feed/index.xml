@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; s3</title>
+	<atom:link href="/tag/s3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Building your webapp in the cloud</title>
+		<link>/2008/07/building-your-webapp-in-the-cloud/</link>
+		<comments>/2008/07/building-your-webapp-in-the-cloud/#comments</comments>
+		<pubDate>Mon, 21 Jul 2008 07:46:13 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[force.com]]></category>
+		<category><![CDATA[s3]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=656</guid>
+		<description><![CDATA[Whilst today is possibly not the best day ever to discuss cloud computing/storage, given the S3 problems last night, we&#8217;re doing another call on interest in attending a session on this in the near future. Both the Amazon sessions in Dublin and Cork were very strongly attended so the interest seems to be there in [...]]]></description>
+				<content:encoded><![CDATA[<p>Whilst today is possibly not the best day ever to discuss cloud computing/storage, given the S3 problems last night, we&#8217;re doing another call on interest in attending a session on this in the near future.</p>
+<p>Both the Amazon sessions in Dublin and Cork were very strongly attended so the interest seems to be there in general. However there are also a wide range of offerings out there from IBM, Salesforce and of course Google. Salesforce had their recent conference here which covered the <a href="http://www.salesforce.com/platform/">Force.com</a> Platform as a service and I&#8217;ve been talking to the <a href="http://www.finfacts.ie/irishfinancenews/article_1012935.shtml">IBM guys in Ireland</a> who have their cloud computing centre in Mulhuddart.</p>
+<p>I know many people were excited when the Google App Engine was announced. For some reason there seems to be a very strong Python dev community here with lots of startups using Django too, so the fit is quite strong.</p>
+<p>So two questions for you this morning. First, if there was a full day session covering the cloud by one of these vendors, would you be interested in attending and what would you like to hear about (biz, tech, mix, heavy API drilldown)? Secondly, let us know in the comments what you are up to in this area.</p>
+<p><script type="text/javascript" language="javascript" src="http://s3.polldaddy.com/p/802781.js"></script><br />
+<noscript> <a href ="http://answers.polldaddy.com/poll/802781/" >Would you attend a vendor seminar on cloud computing?</a>  <br/> <span style="font-size:9px;"> (<a href ="http://www.polldaddy.com/">  polls</a>)</span></noscript>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/building-your-webapp-in-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

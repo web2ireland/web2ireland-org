@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; gordon murray</title>
+	<atom:link href="/tag/gordon-murray/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Grab em by the Shorts</title>
+		<link>/2008/11/grab-em-by-the-shorts/</link>
+		<comments>/2008/11/grab-em-by-the-shorts/#comments</comments>
+		<pubDate>Fri, 28 Nov 2008 16:48:16 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+		<category><![CDATA[david coallier]]></category>
+		<category><![CDATA[gordon murray]]></category>
+		<category><![CDATA[iarfhlaith kelly]]></category>
+		<category><![CDATA[short]]></category>
+		<category><![CDATA[short.ie]]></category>
+		<category><![CDATA[url shortening]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=888</guid>
+		<description><![CDATA[Short.ie is a free URL shortening service allowing you to truncate long unfriendly web addresses into a short and easy to use URLs, perfect for email, IM, Twitter and Texts. This isnâ€™t the first URL shortening service but itâ€™s definitely my favourite for one main reason, the data it provides about the URLs I have [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://short.ie/">Short.ie</a> is a free URL shortening service allowing you to truncate long unfriendly web addresses into a short and easy to use URLs, perfect for email, IM, Twitter and Texts.</p>
+<p>This isnâ€™t the first URL shortening service but itâ€™s definitely my favourite for one main reason, the data it provides about the URLs I have shortened. When I shorten a URL, I can see how many people have clicked on the links.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/shortie_links.gif"><img class="aligncenter size-full wp-image-891" src="http://www.web2ireland.org/wp-content/uploads/2008/11/shortie_links.gif" alt="" width="263" height="210" /></a></p>
+<p>Of the many URL shortening services that exist, the majority provide super short URLs but I haven&#8217;t seen any that provide numbers on how many people clicked on my links. This can be very handy. You could send out a text or a mail shot and see how many people are clicking on your links.</p>
+<p>Or how about shortening your email address? Your email address is probably short enough already but it could be a great way to fool those email harvesting bots trawling your site for your email address.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/short.png"><img class="aligncenter size-full wp-image-889" src="http://www.web2ireland.org/wp-content/uploads/2008/11/short.png" alt="" width="500" height="109" /></a></p>
+<p>Short.ie is an open collaboration between <a href="http://www.iarfhlaith.com/">Iarfhlaith Kelly</a>, <a href="http://www.echolibre.com/">David Coallier</a> and <a href="http://www.ewritecork.com/">myself</a>. We have been adding new services to it, building out on the original idea. So far, hereâ€™s what weâ€™ve got:</p>
+<ul>
+<li>Regular URL Shortening</li>
+<li>Custom URL Shortening</li>
+<li>Click Tracking</li>
+<li>View All Shortened Links (per user)</li>
+<li>Content Recommendations</li>
+<li>An API</li>
+<li>A Firefox Plugin</li>
+<li>A bookmarklet for IE and FF.</li>
+</ul>
+<p>Weâ€™re also working on:</p>
+<ul>
+<li>Connecting people who link to the same things</li>
+<li>RSS feeds per registered user</li>
+<li>Displaying popular links on the homepage</li>
+<li>Displaying most influential users on the homepage (once we get avatars setup)</li>
+<li>Improving the content recommendation engine</li>
+<li>Promoting short.ie any way we can</li>
+</ul>
+<p>So far there are over 50 registered users ( Shorties? ) with over 700 URLs shortened and over 5,000 clicks of those URLs! See the chart below for this weeks usage.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/short_usage_graph.gif"><img class="aligncenter size-medium wp-image-890" src="http://www.web2ireland.org/wp-content/uploads/2008/11/short_usage_graph-300x239.gif" alt="" width="300" height="239" /></a><br />
+Weâ€™d love it if you could help spread the word. Weâ€™ve got a lot of plans for Short.ie, so if you havenâ€™t already seen it, <a href="http://short.ie/">start shortening some URLs</a> orÂ  <a href="http://twitter.com/shortdotie">follow Short.ie on Twitter</a>.</p>
+<h6 class="zemanta-related-title">Related articles by Zemanta</h6>
+<ul class="zemanta-article-ul">
+<li class="zemanta-article-ul-li"><a href="http://www.ewritecork.com/blog/2008/11/shortie-and-sweet/">Short.ie and sweet</a></li>
+<li class="zemanta-article-ul-li"><a href="http://www.iarfhlaith.com/2008/11/22/url-shortening-service-shortie">URL Shortening Service &#8211; Short.ie</a></li>
+</ul>
+<div class="zemanta-pixie" style="15px;"><a class="zemanta-pixie-a" title="Zemified by Zemanta" href="http://reblog.zemanta.com/zemified/c51d2fcf-c933-4bec-9a22-4320417c7402/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=c51d2fcf-c933-4bec-9a22-4320417c7402" alt="Reblog this post [with Zemanta]" /></a></div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/grab-em-by-the-shorts/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>The Tuesday Push is eWrite Lite</title>
+		<link>/2008/09/the-tuesday-push-is-ewrite-lite/</link>
+		<comments>/2008/09/the-tuesday-push-is-ewrite-lite/#comments</comments>
+		<pubDate>Tue, 09 Sep 2008 17:51:30 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[ewrite]]></category>
+		<category><![CDATA[ewrite lite]]></category>
+		<category><![CDATA[gordon murray]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=711</guid>
+		<description><![CDATA[This week&#8217;s Push is Cork-based eWrite Lite, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite [...]]]></description>
+				<content:encoded><![CDATA[<p>This <a href="http://www.mulley.net/2008/09/09/tuesday-push-9th-september-2008-ewrite-lite/">week&#8217;s Push</a> is Cork-based <a href="http://www.ewritecork.com/">eWrite Lite</a>, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite is perfect for those many small companies out there who are paying through the nose to get simple sites developed and maintained.</p>
+<p><img class="alignnone" title="eWrite Lite" src="http://www.ewritecork.com/media/ewrite_lite_and_messenger.jpg" alt="" width="600" height="420" /></p>
+<p>Check it out and blog about your impressions of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/the-tuesday-push-is-ewrite-lite/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

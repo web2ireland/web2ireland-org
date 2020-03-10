@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; liam casey</title>
+	<atom:link href="/tag/liam-casey/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>From Cork to China</title>
+		<link>/2008/09/from-cork-to-china/</link>
+		<comments>/2008/09/from-cork-to-china/#comments</comments>
+		<pubDate>Tue, 30 Sep 2008 08:40:04 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[china]]></category>
+		<category><![CDATA[liam casey]]></category>
+		<category><![CDATA[pch]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=749</guid>
+		<description><![CDATA[Nice write-up on Liam Casey on TechCrunch today. This Corkman has built an amazing supply chain manufacturing business in China over the past few years. It looks like he is the go-to guy if you need anything electronic built in serious volumes at low cost. He recently raised $21m in VC and it&#8217;ll be interesting [...]]]></description>
+				<content:encoded><![CDATA[<p>Nice write-up on Liam Casey on <a href="http://www.techcrunch.com/2008/09/29/21-million-for-mr-china/">TechCrunch</a> today. This Corkman has built an amazing supply chain manufacturing <a href="http://pchchinasolutions.com/">business</a> in China over the past few years. It looks like he is the go-to guy if you need anything electronic built in serious volumes at low cost. He recently raised $21m in VC and it&#8217;ll be interesting to see how he makes use of that.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/from-cork-to-china/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; seesmic</title>
+	<atom:link href="/tag/seesmic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>PollDaddy gets Seesmic&#8217;ed</title>
+		<link>/2008/04/polldaddy-gets-seesmiced/</link>
+		<comments>/2008/04/polldaddy-gets-seesmiced/#comments</comments>
+		<pubDate>Tue, 29 Apr 2008 11:20:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[loiclemeur]]></category>
+		<category><![CDATA[loictv]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[seesmic]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=588</guid>
+		<description><![CDATA[Loic Le Meur &#8211; founder and ceo of Seesmic &#8211; hangs out with Lenny from Polldaddy on Loic TV]]></description>
+				<content:encoded><![CDATA[<p><a href="http://loiclemeur.com/">Loic Le Meur</a> &#8211; founder and ceo of <a href="http://www.seesmic.com/">Seesmic</a> &#8211;  hangs out with Lenny from <a href="http://www.polldaddy.com/">Polldaddy</a> on <a href="http://www.youtube.com/watch?v=kE68kEP1CLE">Loic TV</a></p>
+<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/kE68kEP1CLE&#038;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/kE68kEP1CLE&#038;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/polldaddy-gets-seesmiced/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

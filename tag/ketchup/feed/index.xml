@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ketchup</title>
+	<atom:link href="/tag/ketchup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Ketchup a webapp to keep track of meeting notes</title>
+		<link>/2010/01/ketchup-a-webapp-to-keep-track-of-meeting-notes/</link>
+		<comments>/2010/01/ketchup-a-webapp-to-keep-track-of-meeting-notes/#comments</comments>
+		<pubDate>Thu, 14 Jan 2010 12:26:40 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ketchup]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1631</guid>
+		<description><![CDATA[Well known developer, Paul Campbell, working with Brian Flanagan have launched Ketchup As per release notes from Paul Ketchup is a web app for storing meeting notes. It&#8217;s designed to be easy to use. We&#8217;ve purposely only designed the simplest features, from the outset. Over the next couple of months, the plan is to listen [...]]]></description>
+				<content:encoded><![CDATA[<p>Well known developer, <a href="http://pabcas.com/">Paul Campbell</a>, working with Brian<a href="http://brianflanagan.org/"> Flanagan</a> have launched <a href="http://useketchup.com/">Ketchup</a><br />
+<img alt="" src="http://tomatoes2.useketchup.com/images/home/screen-1.png?1263405654" title="Ketchup" class="alignnone" width="490" height="402" /></p>
+<p>As per <a href="http://pabcas.com/feeling/presenting-ketchup-a-simple-meeting-notes-app">release notes from Paul<br />
+</a></p>
+<blockquote><p>Ketchup is a web app for storing meeting notes.</p>
+<p>It&#8217;s designed to be easy to use. We&#8217;ve purposely only designed the simplest features, from the outset. Over the next couple of months, the plan is to listen closely to feedback and shape the product into a powerful, useful and valuable tool.</p>
+<p>In terms of philosophy, the app is designed around three principles:</p>
+<p>&#8220;Do little, insanely well.&#8221;<br />
+Pay close attention to visual design and details.<br />
+&#8220;Not Saving Changes&#8221; &#8230; every detail is saved once it&#8217;s created or changed.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/ketchup-a-webapp-to-keep-track-of-meeting-notes/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

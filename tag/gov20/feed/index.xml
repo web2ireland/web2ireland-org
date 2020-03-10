@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; gov20</title>
+	<atom:link href="/tag/gov20/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Government 2.0 in Ireland?</title>
+		<link>/2009/09/government-2-0-in-ireland/</link>
+		<comments>/2009/09/government-2-0-in-ireland/#comments</comments>
+		<pubDate>Sun, 06 Sep 2009 08:03:25 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[empowerment]]></category>
+		<category><![CDATA[gov20]]></category>
+		<category><![CDATA[government 2.0]]></category>
+		<category><![CDATA[government apis]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1389</guid>
+		<description><![CDATA[Way back in October 2007, I asked if it was time for api.gov.ie. We were unfortunately too busy building the tenements and ghettos of the future at that time to be concerned with such things. However in the U.S. some real momentum began around the idea of Government 2.0 and their CIO is really buying [...]]]></description>
+				<content:encoded><![CDATA[<p>Way back in October 2007, I asked if it was <a href="http://www.web2ireland.org/2007/10/16/time-for-apigovie/">time for api.gov.ie</a>. We were unfortunately too busy building the tenements and ghettos of the future at that time to be concerned with such things. However in the U.S. some real momentum began around the idea of Government 2.0 and their CIO is really buying into it.</p>
+<p>Tim O&#8217;Reilly, the Irishman who coined Web 2.0, has <a href="http://www.techcrunch.com/2009/09/04/gov-20-its-all-about-the-platform/">a superb piece in Techcrunch</a> on this topic and has announced  the <a href="http://gov2expo.com/">Gov 2.0 Expo</a> Showcase and <a href="http://www.gov2summit.com/">Gov 2.0 Summit</a>.</p>
+<p>Anyone in senior positions in Government, Civil Service or Public Sector interested in engaging with us on this in Ireland? All the skills are here. web2ireland.editor AT gmail DOT com if you have the ability to make something happen here.</p>
+<p>Here are some simple examples of what has already been done without any public sector or semi-state support, imagine what we could do _with_ official support. Dammit, forget support, this should be a Government mandate.</p>
+<ul>
+<li>Tracking your Public Representatives&#8217; activity on <a href="http://www.kildarestreet.com/">KildareStreet.com</a></li>
+<li>Bus Route Planner on <a href="http://justroutes.com/">Just Routes</a></li>
+<li>Scraping the CRO Database <a href="http://joedrumgoole.com/blog/2009/09/01/python-program-to-scrape-the-cro-database/">by Joe Drumgoole</a></li>
+<li>Planning Permission Search by <a href="http://www.planningbuddy.com/">Planning Buddy</a></li>
+</ul>
+<p>If you have built anything which uses public sector data, via APIs, scraping or whatever, let us know and we&#8217;ll update this post.</p>
+<p>UPDATE: Just look at <a href="http://www.readwriteweb.com/archives/datamasher_get_freakonomics_on_government_data.php">this fabulous tool</a>. </p>
+<blockquote><p> DataMasher is a map-based mash up site just took the Sunlight Foundation&#8217;s $10,000 grand prize in theApps for America 2: The Data.gov Challenge. This site offers an easy-to-use interface that allows regular citizens to combine and mix data sets without any programming knowledge. From here, data is displayed on a State-by-State basis in map format. Compare cancer hot spots to CO2 emissions, SAT scores to crime rates and even political contributions to State spending.</p></blockquote>
+<p> Could you imagine what we could do with that here? Starting with FAS budgets.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/government-2-0-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

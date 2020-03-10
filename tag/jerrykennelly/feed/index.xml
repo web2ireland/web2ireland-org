@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; JerryKennelly</title>
+	<atom:link href="/tag/jerrykennelly/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Jerry Kennelly&#8217;s new startup Tweak.com</title>
+		<link>/2010/06/jerry-kennellys-new-startup-tweak-com/</link>
+		<comments>/2010/06/jerry-kennellys-new-startup-tweak-com/#comments</comments>
+		<pubDate>Wed, 30 Jun 2010 17:00:11 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[JerryKennelly]]></category>
+		<category><![CDATA[Kerry]]></category>
+		<category><![CDATA[Stockbyte]]></category>
+		<category><![CDATA[Tweak.com]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1809</guid>
+		<description><![CDATA[Stockbyte founder, Jerry Kennelly has just announced his new startup &#8211; Tweak.com Tweak is an online self-service design library which makes tweakable press advertising and marketing collateral available to users at the touch of a button. Simply change colour, copy, photos, logos and Calls to Action, to create a compelling piece of advertising and marketing. [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.tweak.com/img/logo.png" title="Tweak" class="alignnone" width="247" height="158" /></p>
+<p><a href="http://www.web2ireland.org/2006/07/31/exits-activity-this-year/">Stockbyte</a> founder, Jerry Kennelly has just announced his new startup &#8211; <a href="http://www.tweak.com/">Tweak.com</a></p>
+<p><em>Tweak is an online self-service design library which makes tweakable press advertising and marketing collateral available to users at the touch of a button. Simply change colour, copy, photos, logos and Calls to Action, to create a compelling piece of advertising and marketing.</em></p>
+<p>Check this video out (25 mins in)</p>
+<p><object width="400" height="225"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=12462082&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=12462082&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="225"></embed></object>
+<p><a href="http://vimeo.com/12462082">CEPIC: Jerry Kennelly: Secrets of His Dramatic Exit</a> from <a href="http://vimeo.com/reeldeal">REELDEALHD</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p>tip: <a href="http://twitter.com/eirepreneur/status/17121790900">James Corbett</a> and <a href="http://www.learnpipe.ie/blog_ie/2010/06/11/jerry_kennelly_on_his_new_start_up_tweak_com.html">Learnpipe</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/jerry-kennellys-new-startup-tweak-com/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

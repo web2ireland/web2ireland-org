@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; digital mines</title>
+	<atom:link href="/tag/digital-mines/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Digital Mines lands a â‚¬750,000 Diamond</title>
+		<link>/2011/03/digital-mines-lands-a-e750000-diamond/</link>
+		<comments>/2011/03/digital-mines-lands-a-e750000-diamond/#comments</comments>
+		<pubDate>Fri, 25 Mar 2011 09:46:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[delta partners]]></category>
+		<category><![CDATA[digital mines]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2063</guid>
+		<description><![CDATA[Digital Mines, a new Irish Cloud Computing provider, has just announced a funding round of â‚¬750,000. This includes Delta Partners first investment from their Bank of Ireland start-up and Emerging Sectors equity fund. Enterprise Ireland and existing investors were also part of the round. The company is run by Ed Byrne is who well known [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.digitalmines.com/">Digital Mines</a>, a new Irish Cloud Computing provider, <a href="http://blog.digitalmines.com/2011/03/digital-mines-receives-e750000-investment/">has just announced</a> a funding round of â‚¬750,000. This includes <a href="http://www.delta.ie/">Delta Partners</a> first investment from their Bank of Ireland start-up and Emerging Sectors equity fund. Enterprise Ireland and existing investors were also part of the round.</p>
+<p><a href="http://www.digitalmines.com/"><img class="aligncenter" title="Digital Mines" src="http://blog.digitalmines.com/wp-content/uploads/2011/01/dm_blog.png" alt="" width="253" height="56" /></a></p>
+<p>The company is run by Ed Byrne is who well known to everyone in the web space in Ireland. Ed was General Manager of Hosting 365, which was sold last year to SunGard AS.</p>
+<p>The whole idea behind Digital Mines is to take the power and usefulness of cloud services such as Amazon AWS and make them accessible to business users. Currently most cloud offerings required far too much technical knowledge. Digital Mines takes all of that and turns it into a set of one-click operations.</p>
+<p>The Delta investment is not just important for Digital Mines, it is also sends a strong message that the Seed Funds in Ireland are out there investing in new and exciting companies despite all the doom and gloom. You can expect to see many more announcements from Shay and the team in Delta in the coming months.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/digital-mines-lands-a-e750000-diamond/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Web2Ireland now running on Digital Mines</title>
+		<link>/2011/01/web2ireland-now-running-on-digital-mines/</link>
+		<comments>/2011/01/web2ireland-now-running-on-digital-mines/#comments</comments>
+		<pubDate>Sat, 22 Jan 2011 15:38:56 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[digital mines]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1997</guid>
+		<description><![CDATA[We have moved this blog over to Digital Mines and it is now running beautifully (and quickly!) on an Irish AWS instance. Getting setup on Digital Mines was a doddle. The process to get WordPress going was extremely straightforward and I&#8217;d recommend it to anyone looking for more welly than a shared host can provide. [...]]]></description>
+				<content:encoded><![CDATA[<p>We have moved this blog over to <a href="http://www.digitalmines.com/">Digital Mines</a> and it is now running beautifully (and quickly!) on an Irish AWS instance. Getting setup on Digital Mines was a doddle.</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://digitalmines.com/images/logo.png" alt="Digital Mines" /></p>
+<p>The process to get WordPress going was extremely straightforward and I&#8217;d recommend it to anyone looking for more welly than a shared host can provide.</p>
+<p>Full deployment instructions over <a href="http://conoroneill.net/from-zero-to-web2ireland-using-wordpress-on-d">on my geek blog</a>. When I get a chance I&#8217;ll do it as a script so it becomes a single-ish click install.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/web2ireland-now-running-on-digital-mines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; martingeddes</title>
+	<atom:link href="/tag/martingeddes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Telco 2.0 Roadtrip Dublin</title>
+		<link>/2008/05/telco-20-roadtrip-dublin/</link>
+		<comments>/2008/05/telco-20-roadtrip-dublin/#comments</comments>
+		<pubDate>Mon, 19 May 2008 10:18:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Telco 2.0]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[martingeddes]]></category>
+		<category><![CDATA[normanlewis]]></category>
+		<category><![CDATA[roadtrip]]></category>
+		<category><![CDATA[telco2]]></category>
+		<category><![CDATA[telco2.0]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=612</guid>
+		<description><![CDATA[We have a couple of invites left for the experimental Telco 2.0 roadtrip to Dublin, happening on Friday 30th May (yes, Friday-week). Mail me at sos &#8220;at&#8221; dial2do &#8220;dot&#8221; com for an invite. Outline details are here.]]></description>
+				<content:encoded><![CDATA[<p>We have a couple of invites left for the experimental Telco 2.0 roadtrip to Dublin, happening on Friday 30th May (yes, Friday-week).</p>
+<p>Mail me at sos &#8220;at&#8221; dial2do &#8220;dot&#8221; com for an invite. Outline details are <a href="http://blog.dial2do.com/2008/05/15/telco-20-roadtrip-telco-20-comes-to-dublin/">here</a>. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/telco-20-roadtrip-dublin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

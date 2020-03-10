@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; amdocs</title>
+	<atom:link href="/tag/amdocs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>ChangingWorlds acquired for US$60m by Amdocs</title>
+		<link>/2008/11/changingworlds-acquired-for-us60m-by-amdocs/</link>
+		<comments>/2008/11/changingworlds-acquired-for-us60m-by-amdocs/#comments</comments>
+		<pubDate>Thu, 06 Nov 2008 12:17:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[amdocs]]></category>
+		<category><![CDATA[changingworlds]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=844</guid>
+		<description><![CDATA[Marie has the details on ChangingWorlds acquired for US$60m by Amdocs ChangingWorlds is the global expert in the personalization of Mobile Internet data and the company has championed the need for the intelligent delivery of personalized content. Changingworlds was a spin-out from University College Dublin back in 1999. CrunchBase Information Changingworlds Information provided by CrunchBase]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.changingworlds.com/images/logo.jpg" alt="changingworlds" /></p>
+<p>Marie has the details on <a href="http://www.changingworlds.com/">ChangingWorlds</a> <a href="http://siliconrepublic.com/news/article/11740/business/ucd-spin-out-firm-changingworlds-acquired-for-us-60m">acquired for US$60m</a> by <a href="http://www.amdocs.com/ ">Amdocs</a></p>
+<p>ChangingWorlds is the global expert in the personalization of Mobile Internet data and the company has championed  the need for the intelligent delivery of <a href="http://www.changingworlds.com/">personalized content</a>. Changingworlds was a spin-out from University College Dublin back in 1999.</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/changingworlds">Changingworlds</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/company/changingworlds.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/changingworlds-acquired-for-us60m-by-amdocs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

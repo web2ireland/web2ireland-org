@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; bes</title>
+	<atom:link href="/tag/bes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Technology start-ups face funding hurdles</title>
+		<link>/2008/10/irish-technology-start-ups-face-funding-hurdles/</link>
+		<comments>/2008/10/irish-technology-start-ups-face-funding-hurdles/#comments</comments>
+		<pubDate>Fri, 24 Oct 2008 09:30:40 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[bes]]></category>
+		<category><![CDATA[crunchbase]]></category>
+		<category><![CDATA[irish times]]></category>
+		<category><![CDATA[johncollins]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[saul klein]]></category>
+		<category><![CDATA[vc]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=825</guid>
+		<description><![CDATA[John Collins has an excellent piece on the Technology funding landscape in today&#8217;s Irish Times. Still don&#8217;t know where all the Irish VC monies goes to &#8211; please help us by updating your company profile on Crunchbase. The Irish Times also has an article on Business Expansion Schemes &#8211; and gives a mention to Loudervoice [...]]]></description>
+				<content:encoded><![CDATA[<p>John Collins has an excellent piece on the <a href="http://www.irishtimes.com/newspaper/finance/2008/1024/1224715113089.html">Technology funding landscape</a> in today&#8217;s <a href="http://www.irishtimes.com/">Irish Times</a>.</p>
+<p>Still don&#8217;t know where all the Irish VC monies goes to &#8211; please help us by updating your company profile on <a href="http://www.crunchbase.com/tag/web2ireland">Crunchbase</a>.</p>
+<p>The Irish Times also has an <a href="http://www.irishtimes.com/newspaper/finance/2008/1024/1224715113196.html">article on Business Expansion Schemes</a> &#8211; and gives a mention to <a href="http://blog.loudervoice.com/2008/10/23/investment-opportunities-in-loudervoice/">Loudervoice</a> &#8211; we should see quite a few Irish technology companies availing of BES schemes this year.</p>
+<p>Related to funding matter &#8211; <a href="http://localglobe.blogspot.com/">Saul Klein</a> presented at web2europe this week &#8211; an <a href="http://www.slideshare.net/cape/thoughts-on-european-start-ups-presentation-678957?src=embed">excellent presentation which you should check out</a>.</p>
+<div style="width:425px;text-align:left" id="__ss_678957"><a style="font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;" href="http://www.slideshare.net/cape/thoughts-on-european-start-ups-presentation-678957?type=powerpoint" title="Thoughts on European Start Ups">Thoughts on European Start Ups</a><object style="margin:0px" width="425" height="355"><param name="movie" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=web2berlin-211008-1224639939550362-8&#038;stripped_title=thoughts-on-european-start-ups-presentation-678957" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed src="http://static.slideshare.net/swf/ssplayer2.swf?doc=web2berlin-211008-1224639939550362-8&#038;stripped_title=thoughts-on-european-start-ups-presentation-678957" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+<div style="font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;">View SlideShare <a style="text-decoration:underline;" href="http://www.slideshare.net/cape/thoughts-on-european-start-ups-presentation-678957?type=powerpoint" title="View Thoughts on European Start Ups on SlideShare">presentation</a> or <a style="text-decoration:underline;" href="http://www.slideshare.net/upload?type=powerpoint">Upload</a> your own. (tags: <a style="text-decoration:underline;" href="http://slideshare.net/tag/startups">startups</a> <a style="text-decoration:underline;" href="http://slideshare.net/tag/vc">vc</a>)</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/irish-technology-start-ups-face-funding-hurdles/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

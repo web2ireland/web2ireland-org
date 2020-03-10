@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Contast</title>
+	<atom:link href="/tag/contast/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Q1 Acquisitions</title>
+		<link>/2010/04/web2ireland-q1-acquisitions/</link>
+		<comments>/2010/04/web2ireland-q1-acquisitions/#comments</comments>
+		<pubDate>Tue, 06 Apr 2010 07:40:15 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Agora]]></category>
+		<category><![CDATA[Contast]]></category>
+		<category><![CDATA[hosting365]]></category>
+		<category><![CDATA[Iontas]]></category>
+		<category><![CDATA[qwitter]]></category>
+		<category><![CDATA[Sungard]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1691</guid>
+		<description><![CDATA[Some positive news for Web2Ireland community from Q1 Donegal based Iontas acquired by Verint Systems for $14.8m Contrast production, Qwitter acquired by Agora Technology Long time Web2Ireland sponsor, Hosting365 was acquired by SunGard Congratulations to all the entrepreneurs and no doubt we will continue to see healthy M&#038;A activity in the Web2Ireland community over the [...]]]></description>
+				<content:encoded><![CDATA[<p>Some positive news for Web2Ireland community from Q1</p>
+<p>Donegal based <a href="http://www.iontas.com/pages/news/pr100205.php">Iontas acquired</a> by <a href="http://verint.com/contact_center/releases_view.cfm?article_level1_category_id=7&#038;article_level1_id=1054&#038;pageno=1&#038;year=2010">Verint Systems for $14.8m</a></p>
+<p><a href="http://www.contrast.ie/">Contrast</a> production, <a href="http://www.contrast.ie/blog/so-basically-qwitter-was-acquired/">Qwitter acquired </a> by <a href="http://www.agoratechnology.com/">Agora Technology</a></p>
+<p>Long time Web2Ireland sponsor, <a href="http://hosting365.com/">Hosting365</a> was a<a href="http://news.hosting365.com/2010/03/12/sungard-acquires-hosting365/">cquired by SunGard</a></p>
+<p>Congratulations to all the entrepreneurs and no doubt we will continue to see healthy M&#038;A activity in the Web2Ireland community over the rest of the year.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/04/web2ireland-q1-acquisitions/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

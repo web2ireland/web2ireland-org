@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; hearstinteractive</title>
+	<atom:link href="/tag/hearstinteractive/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Due Dilligence &#8211; from an investor/acquirer perspective</title>
+		<link>/2008/06/due-dilligence-from-an-investoracquirer-perspective/</link>
+		<comments>/2008/06/due-dilligence-from-an-investoracquirer-perspective/#comments</comments>
+		<pubDate>Tue, 10 Jun 2008 11:50:38 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[glemak]]></category>
+		<category><![CDATA[hearstinteractive]]></category>
+		<category><![CDATA[mikedunn]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=621</guid>
+		<description><![CDATA[Mike Dunn &#8211; Vice President, Hearst Interactive Media [former CTO of Time Warner and Dell] &#8211; has a great series of posts on due dilligence. Check out the summary post &#8230; some great pointers on what&#8217;s required for companies who have to go through this process. Had the pleasure of meeting Mike a few years [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://glemak.com/">Mike Dunn</a> &#8211; Vice President, <a href="http://www.hearst.com/interactive_media/">Hearst Interactive Media</a> [former CTO of Time Warner and Dell] &#8211; has a great series of posts on due dilligence.</p>
+<p>Check out the <a href="http://weblog.glemak.com/nomadic_audio/2008/06/tech-dd-summary.html">summary</a> post &#8230; some great pointers on what&#8217;s required for companies who have to go through this process.</p>
+<p>Had the pleasure of meeting Mike a few years ago &#8211; hopefully we can get him over to Ireland sometime soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/due-dilligence-from-an-investoracquirer-perspective/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; innovation fund</title>
+	<atom:link href="/tag/innovation-fund/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Eircom Web Innovation Fund</title>
+		<link>/2008/06/eircom-web-innovation-fund/</link>
+		<comments>/2008/06/eircom-web-innovation-fund/#comments</comments>
+		<pubDate>Mon, 30 Jun 2008 16:19:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eircom]]></category>
+		<category><![CDATA[innovation fund]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=634</guid>
+		<description><![CDATA[Great initiative from Eircom on their Web Innovation Fund No sign of white smoke from Eircom HQ on official winners.. but Web2Ireland community feel free to let us know who&#8217;s the bookies favourites. [leave comments]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://home.eircom.net/Images//minisite/WebInnovation/web_innov_hdr01.gif" alt="eircome" /></p>
+<p>Great initiative from <a href="http://home.eircom.net/">Eircom</a> on their <a href="http://home.eircom.net/minisite/WebInnovationFund/">Web Innovation Fund</a></p>
+<p>No sign of white smoke from Eircom HQ on official winners.. but Web2Ireland community feel free to let us know who&#8217;s the bookies favourites. [leave comments]</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/eircom-web-innovation-fund/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

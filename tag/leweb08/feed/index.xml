@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; leweb08</title>
+	<atom:link href="/tag/leweb08/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>LeWeb &#8211; 10 great takeaways</title>
+		<link>/2008/12/leweb-10-great-takeaways/</link>
+		<comments>/2008/12/leweb-10-great-takeaways/#comments</comments>
+		<pubDate>Tue, 16 Dec 2008 17:21:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[avc]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[ida]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[maxroam]]></category>
+		<category><![CDATA[nooked]]></category>
+		<category><![CDATA[softechvc]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=924</guid>
+		<description><![CDATA[I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways Meeting Irish in attendance Very low Irish presence &#8211; Pat Phelan from Maxroam, Conor O&#8217;Neill from Loudervoice [who also covered event for ReadwriteWeb] - Brian Bastible and colleagues from IDA Connecting with People Lots of great folks attending [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08-300x69.jpg" alt="leweb" /></p>
+<p>I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways</p>
+<p><strong>Meeting Irish in attendance</strong><br />
+Very low Irish presence &#8211; <a href="http://www.maxroam.com/">Pat Phelan from Maxroam</a>, Conor O&#8217;Neill  from Loudervoice [who also <a href="http://www.web2ireland.org/2008/12/11/lovin-le-web/">covered event</a> for <a href="http://www.readwriteweb.com/archives/le_web_2008.php">ReadwriteWeb</a>]<br />
+- <a href="http://www.linkedin.com/pub/5/40b/aa8">Brian Bastible</a> and colleagues from <a href="http://www.idaireland.com/">IDA</a></p>
+<p><strong>Connecting with People</strong><br />
+Lots of great folks attending from the US, UK, Germany, France and Spain.</p>
+<p><strong>Old School is best school</strong><br />
+Got to meet and chat with <a href="http://www.accmanpro.com/2008/12/11/leweb-le-wrap/">Dennis</a>, <a href="http://blogs.law.harvard.edu/doc/">Doc</a> and <a href="http://twitter.com/jobsworth">JP</a>. </p>
+<p><strong>Glimpse of future</strong><br />
+<a href="http://developers.facebook.com/news.php?blog=1&#038;story=176">Dave Morin</a> &#8211; <a href="http://developers.facebook.com/connect.php">facebook connect</a>, <a href="http://www.ustream.tv/recorded/962491">Marissa Mayer &#8211; Google</a>, and <a href="http://twitter.com/susanwu">Susan Wu</a> &#8211; <a href="http://www.ustream.tv/recorded/930724">Virtual Goods</a></p>
+<p><strong>Startups &#8211; no Irish&#8230; come on !!</strong><br />
+<a href="http://www.lewebparis.com/startup.html">Startup Competition </a> &#8211; some interesting startups &#8211; and very <a href="http://www.lewebparis.com/2008/12/leweb08-startup-winners.html">worthy  winner</a> &#8211; some Web2Ireland companies would have done well at this event&#8230;.</p>
+<p><strong>Failure &#8211; true stories</strong><br />
+<a href="http://lundxy.com/">Morten Lund</a> was <a href="http://patphelan.net/morten-lund-the-best-of-le-web/">one highlight of the event &#8211; off the cuff</a> &#8211; very honest in his story.</p>
+<p><strong>Funding is hard in Europe</strong><br />
+Lots of VCs in attendance [none from Ireland] &#8211; and the VC panel was interesting &#8211; <a href="http://www.ustream.tv/recorded/933026">see video</a>. Key themes &#8211; build products that VCs will use [Fred Wilson, Martin Varsasky, Jeff Clavier] &#8211; and they don&#8217;t really believe <a href="http://ouriel.typepad.com/myblog/2008/12/can-governments.html">Govt intervention @ funding</a> is key [more on that later] &#8211; and <a href="http://www.unionsquareventures.com/2008/11/boxee.html">NO doesnt mean NO</a>.</p>
+<p><strong>Go Big or Go Home</strong><br />
+Lots of usual talk @ <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">valley versus Europe</a> and can we build a big European web company. </p>
+<p><strong>Annual LeWeb bitch fight</strong><br />
+<a href="http://www.loiclemeur.com/english/2008/12/should-michael.html">Great fun</a> from <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">the sideline</a></p>
+<p><strong>Next Year</strong><br />
+Rumour has it that the <a href="http://kara.allthingsd.com/20070726/kara-and-walt-visit-the-irish-countryside-and-pretend-were-lords-of-the-manor/">International D Conference</a> will happen in Dublin next year</p>
+<p>And no doubt LeWeb 09 will be another enjoyable event.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/leweb-10-great-takeaways/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Lovin&#8217; Le Web</title>
+		<link>/2008/12/lovin-le-web/</link>
+		<comments>/2008/12/lovin-le-web/#comments</comments>
+		<pubDate>Thu, 11 Dec 2008 12:02:11 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[le web]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[rating=4]]></category>
+		<category><![CDATA[review]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=910</guid>
+		<description><![CDATA[Le Web 2008 was less a technology conference and more a business one. After 4 years of excitement, energy and desire to build new things, the focus moved to excitement, energy and desire to build new sustainable businesses. The conference was merely a reflection of the global mood. 2008 was a year of consolidation needed [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.lewebparis.com/">Le Web 2008</a> was less a technology conference and more a business one. After 4 years of excitement, energy and desire to build new things, the focus moved to excitement, energy and desire to build new sustainable businesses.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08.jpg"><img class="alignnone size-medium wp-image-911" title="lewebbanner_dec08" src="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08-300x69.jpg" alt="" width="300" height="69" /></a></p>
+<p>The conference was merely a reflection of the global mood. 2008 was a year of consolidation needed after years of ideas. The year when open standards stopped being something Marc Canter talked about and were actually implemented by the big guys to help build their businesses.</p>
+<p>There is fear and trepidation everywhere but also hope and a will to knuckle-down, get customers, get revenue and then maybe, only maybe, raise funding if needed. My conversations with some VCs were no different than any other year. If you provide a great opportunity to them, they are still interested in investing.</p>
+<p>Problems with Wi-Fi, heat and food made people grumpy on day one but the second day was much better. A lot of the doom and gloom seemed to dissipate overnight. Highlights included <a href="http://en.wikipedia.org/wiki/Marissa_Mayer">Marissa Meyer</a> from Google, French Minister for Finance <a href="http://en.wikipedia.org/wiki/Christine_Lagarde">Christine Lagarde</a> and my absolute favourite, <a href="http://tv.winelibrary.com/">Gary Vaynerchuk</a>. A lot of the Euro-mumblers and Euro-wafflers should spend time learning how these people communicate.</p>
+<p>We had few game changing apps, market disruptors or &#8220;wowsa&#8221; moments. The final three in the start-up competition reinforced the view that innovation in tech is possibly being put to one side whilst people focus on business and revenue. Two of the three start-up competition finalists (<a href="http://www.zoover.com/">Zoover</a>, <a href="http://www.webnode.com/">Webnode</a>) were me-too apps but highly successful ones. Having said that, the winner <a href="http://www.viewdle.com/">Viewdle</a>, is a pure technology play and is ripe for acquisition due to their amazing video parsing IP.</p>
+<p>The theme of lurve at Le Web was groan-worthy but actually worked. It provided the hook for everyone, a way of relating heavy technical topics to the more philosophical ones. That flow from hardcore OAuth to lightweight discussions of brand meant that everyone got something out of the two days.</p>
+<p>That mix at Le Web is what makes it very special. The mid-Atlantic, slightly French, slightly American melange works beautifully. It&#8217;s an internal tension that causes it to drift from San Francisco to Paris and back. Also, compared to any other tech conference I have attended, the high percentage of women attendees was refreshing.</p>
+<p>Like many Irish people working in Tech, I look simultaneously to mainland Europe and the US for inspiration and vision. That is why Le Web, despite all its problems, remains a cannot-miss event. As <a href="http://gapingvoid.com/">Hugh MacLeod</a> said in the last few minutes of yesterday, &#8220;I come to Le Web to be inspired&#8221;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/lovin-le-web/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Le Web Discounts</title>
+		<link>/2008/11/le-web-discounts/</link>
+		<comments>/2008/11/le-web-discounts/#comments</comments>
+		<pubDate>Sat, 22 Nov 2008 14:24:01 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[le web. le web paris]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[networking]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=875</guid>
+		<description><![CDATA[I still rate Le Web 2007 as my conference highlight last year. A fantastic mix of people in a superb venue, I headed home full of excitement and ideas. It&#8217;s looking like 2008 will be just as good and the lovely organisers have given us a discount for Web2Ireland readers. Just enter the code &#8220;BLOGDISCOUNT&#8221; [...]]]></description>
+				<content:encoded><![CDATA[<p>I still rate Le Web 2007 as my conference highlight last year. A fantastic mix of people in a superb venue, I headed home full of excitement and ideas.</p>
+<p>It&#8217;s looking like <a href="http://www.lewebparis.com/">2008</a> will be just as good and the lovely organisers have given us a discount for Web2Ireland readers. Just enter the code &#8220;BLOGDISCOUNT&#8221; on <a href="http://www.amiando.com/leweb08.html?discountCode=BLOGDISCOUNT">the registration page</a> to get 20% off the list price.</p>
+<p><a href="http://www.amiando.com/leweb08.html?discountCode=BLOGDISCOUNT"><img title="Registerleweb20disc" src="http://www.leweb3.com/photos/uncategorized/2008/10/27/registerleweb20disc.jpg" border="0" alt="Registerleweb20disc" /></a></p>
+<p>If you are trying to figure out your conference-attending budget for the next 12 months, I genuinely think Le Web should be a priority for you. Every major player in tech, media and finance across Europe and a lot of the US will be there.</p>
+<p>It&#8217;s the type of conference where you can walk up to anyone, famous or not, and they&#8217;ll be happy to talk to you. You don&#8217;t have to send them your biz plan a month in advance and hope you are short-listed to get an audience with them. The networking opportunities are superb and the talks of very high quality.</p>
+<p>I only wish there were more flights from Cork.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/le-web-discounts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LeWeb&#8217;08 StartUp Competition &#8211; Web2Ireland participation</title>
+		<link>/2008/10/leweb08-startup-competition-web2ireland-participation/</link>
+		<comments>/2008/10/leweb08-startup-competition-web2ireland-participation/#comments</comments>
+		<pubDate>Sat, 11 Oct 2008 19:53:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[lewebparis]]></category>
+		<category><![CDATA[seedcamp]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=788</guid>
+		<description><![CDATA[A call out to Web2Ireland community &#8211; the LeWeb&#8217;08: StartUp Competition is a great opportunity for folks to connect with the web community in Europe [Le Web is one of the top events globally - so here is your chance]. SeedCamp is helping to select the companies &#8211; and facilitating the competition during the conference [...]]]></description>
+				<content:encoded><![CDATA[<p>A call out to Web2Ireland community &#8211; the <a href="http://www.lewebparis.com/startup.html">LeWeb&#8217;08: StartUp Competition</a> is a great opportunity for folks to connect with the web community in Europe [Le Web is one of the top events globally - so here is your chance].</p>
+<p><img src="http://application.seedcamp.com/images/bannerstartupLeWeb08.jpg?1221236129" alt="leweb08" /></p>
+<p><a href="http://seedcamp.com/">SeedCamp</a> is helping to select the companies &#8211; and facilitating the competition during the conference &#8211; 30 companies will be selected from the applications submitted and will demonstrate in front of a panel of expert judges. The winners of this competition will then have a chance to present their companies on the LeWeb main stage during a special session on December 10.</p>
+<p><a href="http://application.seedcamp.com/">Applying for the competition</a> is free of charge &#8211; and the deadline is October 20, 2008.</p>
+<p>Check out video from Loic</p>
+<p><span style="display:none;"><span>Present your startup at LeWeb 1500+ people expected</span><span>details http://www.lewebparis.com/2008/09/startup-competi.html</span></span><span style="padding:0px; margin:0px; display:block"><object width="435" height="355"><param name="movie" value="http://seesmic.com/embeds/wrapper.swf"/><param name="bgcolor" value="#666666"/><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><param name="flashVars" value="video=Myp7c7IQEB&amp;version=threadedplayer"/><embed src="http://seesmic.com/embeds/wrapper.swf" type="application/x-shockwave-flash" flashVars="video=Myp7c7IQEB&amp;version=threadedplayer" allowFullScreen="true" bgcolor="#666666" allowScriptAccess="always" width="435" height="355"></embed></object></span><span style="display:block; width:435px; margin:0px; padding:0px;background:url(http://seesmic.com/images/seesmichtml.gif) left top repeat-x"><a href="http://seesmic.com/" target="_blank"><img width="100%" height="29" style="border:none" src="http://seesmic.com/images/spacer.gif" border="0" /></a></span></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/leweb08-startup-competition-web2ireland-participation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

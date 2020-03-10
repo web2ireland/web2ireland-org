@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Pix.ie Push Round-Up</title>
+	<atom:link href="/2008/08/pixie-push-round-up/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/08/pixie-push-round-up/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2008/08/pixie-push-round-up/#comment-743</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Thu, 14 Aug 2008 08:23:37 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=681#comment-743</guid>
+		<description><![CDATA[Awesome!]]></description>
+		<content:encoded><![CDATA[<p>Awesome!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Marcus Mac Innes</title>
+		<link>/2008/08/pixie-push-round-up/#comment-742</link>
+		<dc:creator>Marcus Mac Innes</dc:creator>
+		<pubDate>Thu, 14 Aug 2008 08:06:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=681#comment-742</guid>
+		<description><![CDATA[Hi Conor, I had tracked a futher 11 posts (total 24) see http://delicious.com/macinnesm/tuesdaypush]]></description>
+		<content:encoded><![CDATA[<p>Hi Conor, I had tracked a futher 11 posts (total 24) see <a href="http://delicious.com/macinnesm/tuesdaypush" rel="nofollow">http://delicious.com/macinnesm/tuesdaypush</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

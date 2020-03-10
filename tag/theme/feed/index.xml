@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; theme</title>
+	<atom:link href="/tag/theme/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>New Design for Web2Ireland</title>
+		<link>/2008/04/new-design-for-web2ireland/</link>
+		<comments>/2008/04/new-design-for-web2ireland/#comments</comments>
+		<pubDate>Wed, 16 Apr 2008 12:20:17 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=578</guid>
+		<description><![CDATA[We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to James Gallagher who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days. James is hiimjames on Twitter, you should add him. Now if only there was someone [...]]]></description>
+				<content:encoded><![CDATA[<p>We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to <a href="http://hiimjames.com/">James Gallagher</a> who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days.</p>
+<p>James is hiimjames on <a href="http://twitter.com/hiimjames">Twitter</a>, you should add him.</p>
+<p>Now if only there was someone out there who would do us a logo <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/new-design-for-web2ireland/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

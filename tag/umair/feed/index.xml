@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; umair</title>
+	<atom:link href="/tag/umair/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web 2.0 Summit Launchpad &#8211; Call for Web2Ireland startups&#8230;</title>
+		<link>/2008/07/web-20-summit-launchpad-call-for-web2ireland-startups/</link>
+		<comments>/2008/07/web-20-summit-launchpad-call-for-web2ireland-startups/#comments</comments>
+		<pubDate>Wed, 09 Jul 2008 00:12:27 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[timoreilly]]></category>
+		<category><![CDATA[umair]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[web2summit]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=640</guid>
+		<description><![CDATA[Tim O&#8217;Reilly has outlined the call in a piece What good is collective intelligence if it doesn&#8217;t make us smarter? The article leans heavily on a previous post from Umair Haque &#8211; which is super smart and thought provoking. The Web2.0 Summit is one of the premium events in the year &#8211; and this is [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://radar.oreilly.com/tim">Tim O&#8217;Reilly</a> has outlined the call in a piece <a href="http://radar.oreilly.com/archives/2008/07/what-good-is-collective-intelligence.html">What good is collective intelligence if it doesn&#8217;t make us smarter? </a></p>
+<p>The article leans heavily on a <a href="http://discussionleader.hbsp.com/haque/2008/06/a_manifesto_for_the_next_indus_1.html">previous post from Umair Haque</a> &#8211; which is super smart and thought provoking.</p>
+<p>The <a href="http://en.oreilly.com/web2008/public/content/launchpad">Web2.0 Summit</a> is one of the premium events in the year &#8211; and this is a great opportunity for any Web2Ireland company.</p>
+<p>2 Irish companies come to mind straight away based on the criteria</p>
+<p><a href="http://www.decisionsforheroes.com/">Decisions for Heros</a><br />
+<a href="http://www.edenbee.com/">edenbee</a></p>
+<p>No doubt I&#8217;ve missed a few &#8211; please let us know who you think fits the bill&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/web-20-summit-launchpad-call-for-web2ireland-startups/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; sean mcgrath</title>
+	<atom:link href="/tag/sean-mcgrath/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Fancy a Web2 Start-up?</title>
+		<link>/2008/05/fancy-a-web2-start-up/</link>
+		<comments>/2008/05/fancy-a-web2-start-up/#comments</comments>
+		<pubDate>Fri, 02 May 2008 15:58:25 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[propylon]]></category>
+		<category><![CDATA[sean mcgrath]]></category>
+		<category><![CDATA[web2]]></category>
+		<category><![CDATA[xml]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=592</guid>
+		<description><![CDATA[Very interesting post from Sean McGrath on his blog. If you don&#8217;t know who Sean is, go right to the back of the class and read this XTech Press Release. He has five web 2.0 ideas at the moment looking for a home. If you are a business or tech-oriented person looking for a Web [...]]]></description>
+				<content:encoded><![CDATA[<p>Very interesting <a href="http://seanmcgrath.blogspot.com/2008/04/fancy-web-20-startup.html">post from Sean McGrath</a> on his blog. If you don&#8217;t know who Sean is, go right to the back of the class and read this <a href="http://www.propylon.com/about/press-releases/pr_20080428">XTech Press Release</a>.</p>
+<p>He has five web 2.0 ideas at the moment looking for a home. If you are a business or tech-oriented person looking for a Web 2.0 idea to pursue, he&#8217;d like to talk. Or if you have your own Web 2.0  idea but need early stage funding, he&#8217;d also like to talk.</p>
+<p>Hook up with him at <a href="http://2008.xtech.org/">XTech</a> or contact him over on the blog.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/05/fancy-a-web2-start-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

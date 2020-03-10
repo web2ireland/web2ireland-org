@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; aws</title>
+	<atom:link href="/tag/aws/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland now running on Digital Mines</title>
+		<link>/2011/01/web2ireland-now-running-on-digital-mines/</link>
+		<comments>/2011/01/web2ireland-now-running-on-digital-mines/#comments</comments>
+		<pubDate>Sat, 22 Jan 2011 15:38:56 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[digital mines]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1997</guid>
+		<description><![CDATA[We have moved this blog over to Digital Mines and it is now running beautifully (and quickly!) on an Irish AWS instance. Getting setup on Digital Mines was a doddle. The process to get WordPress going was extremely straightforward and I&#8217;d recommend it to anyone looking for more welly than a shared host can provide. [...]]]></description>
+				<content:encoded><![CDATA[<p>We have moved this blog over to <a href="http://www.digitalmines.com/">Digital Mines</a> and it is now running beautifully (and quickly!) on an Irish AWS instance. Getting setup on Digital Mines was a doddle.</p>
+<p style="text-align: center;"><img class="aligncenter" src="http://digitalmines.com/images/logo.png" alt="Digital Mines" /></p>
+<p>The process to get WordPress going was extremely straightforward and I&#8217;d recommend it to anyone looking for more welly than a shared host can provide.</p>
+<p>Full deployment instructions over <a href="http://conoroneill.net/from-zero-to-web2ireland-using-wordpress-on-d">on my geek blog</a>. When I get a chance I&#8217;ll do it as a script so it becomes a single-ish click install.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/web2ireland-now-running-on-digital-mines/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>API Wars and Opportunities</title>
+		<link>/2009/02/api-wars-and-opportunities/</link>
+		<comments>/2009/02/api-wars-and-opportunities/#comments</comments>
+		<pubDate>Tue, 24 Feb 2009 20:42:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[api wars]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[google app engine]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1037</guid>
+		<description><![CDATA[As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th. This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is [...]]]></description>
+				<content:encoded><![CDATA[<p>As a primer for our Facebook Garage, we are also running a session on APIs right before it in the Digital Exchange on March 5th.</p>
+<p>This is the first Web2Ireland API Wars and Opportunities event.Â Many entrepreneurs and startups are building their business on the &#8220;shoulder of giants&#8221; by using their APIs and this mini-event/workshop is an opportunity for the Web2Ireland community to meet and discuss</p>
+<ul>
+<li>using APIs for business development</li>
+<li>building mashups/widgets/etc</li>
+<li>apps on mobile platforms &#8211; iPhone, Android, nokia, etc</li>
+<li>using enterprise 2.0 platforms &#8211; force.com, IBM, etc</li>
+<li>developer infrastructure &#8211; Amazon, Google App Engine</li>
+</ul>
+<p>If you are attending in any capacity,Â <a href="http://web2irelandapiwars.eventbrite.com/">please sign-up here</a>.</p>
+<div><strong>If you are interested inÂ </strong><strong>speaking or demoing, Â just email web2ireland.editor @ gmail.com</strong></div>
+<p>By signing up for Web2Ireland API Wars you are automatically included in attendee list for Developer Garage &#8211; check here forÂ <a href="http://www.facebook.com/event.php?eid=53311687551">more information on Facebook Garage</a></p>
+<p>And then some social drinks for all involved&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/api-wars-and-opportunities/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Building your webapp in the cloud</title>
+		<link>/2008/07/building-your-webapp-in-the-cloud/</link>
+		<comments>/2008/07/building-your-webapp-in-the-cloud/#comments</comments>
+		<pubDate>Mon, 21 Jul 2008 07:46:13 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[aws]]></category>
+		<category><![CDATA[cloud]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[force.com]]></category>
+		<category><![CDATA[s3]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=656</guid>
+		<description><![CDATA[Whilst today is possibly not the best day ever to discuss cloud computing/storage, given the S3 problems last night, we&#8217;re doing another call on interest in attending a session on this in the near future. Both the Amazon sessions in Dublin and Cork were very strongly attended so the interest seems to be there in [...]]]></description>
+				<content:encoded><![CDATA[<p>Whilst today is possibly not the best day ever to discuss cloud computing/storage, given the S3 problems last night, we&#8217;re doing another call on interest in attending a session on this in the near future.</p>
+<p>Both the Amazon sessions in Dublin and Cork were very strongly attended so the interest seems to be there in general. However there are also a wide range of offerings out there from IBM, Salesforce and of course Google. Salesforce had their recent conference here which covered the <a href="http://www.salesforce.com/platform/">Force.com</a> Platform as a service and I&#8217;ve been talking to the <a href="http://www.finfacts.ie/irishfinancenews/article_1012935.shtml">IBM guys in Ireland</a> who have their cloud computing centre in Mulhuddart.</p>
+<p>I know many people were excited when the Google App Engine was announced. For some reason there seems to be a very strong Python dev community here with lots of startups using Django too, so the fit is quite strong.</p>
+<p>So two questions for you this morning. First, if there was a full day session covering the cloud by one of these vendors, would you be interested in attending and what would you like to hear about (biz, tech, mix, heavy API drilldown)? Secondly, let us know in the comments what you are up to in this area.</p>
+<p><script type="text/javascript" language="javascript" src="http://s3.polldaddy.com/p/802781.js"></script><br />
+<noscript> <a href ="http://answers.polldaddy.com/poll/802781/" >Would you attend a vendor seminar on cloud computing?</a>  <br/> <span style="font-size:9px;"> (<a href ="http://www.polldaddy.com/">  polls</a>)</span></noscript>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/building-your-webapp-in-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

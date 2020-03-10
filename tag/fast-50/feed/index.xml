@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; fast 50</title>
+	<atom:link href="/tag/fast-50/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Roomex and IQContent get Fast 50 Awards</title>
+		<link>/2008/10/roomex-and-iqcontent-get-fast-50-awards/</link>
+		<comments>/2008/10/roomex-and-iqcontent-get-fast-50-awards/#comments</comments>
+		<pubDate>Fri, 17 Oct 2008 09:42:15 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[deloitte]]></category>
+		<category><![CDATA[fast 50]]></category>
+		<category><![CDATA[iqcontent]]></category>
+		<category><![CDATA[roomex]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=815</guid>
+		<description><![CDATA[The Deloitte Fast 50 Awards were held last night in Dublin. Two friends of Web2Ireland did very well. First Roomex.com won the Deloitte Technology Rising Star Award for 2008. With growth of over 3,100% over the last 3 years, Roomex.com is fast becoming one of the most widely used booking hotel portals in Ireland and [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.fast50.ie/">Deloitte Fast 50</a> Awards were held last night in Dublin.</p>
+<p><img class="alignnone" title="Deloitte Fast 50" src="http://www.roomex.com/client/images/hotels_homepage/deloitte2008.jpg" alt="" width="427" height="226" /></p>
+<p>Two friends of Web2Ireland did very well.</p>
+<p>First <a href="http://www.roomex.com/">Roomex.com</a> won the Deloitte Technology Rising Star Award for 2008. With growth of over 3,100% over the last 3 years, Roomex.com is fast becoming one of the most widely used booking hotel portals in Ireland and Europe.</p>
+<p><a href="http://www.iqcontent.com/">IQContent</a> came in at Number 8 in the top 50. The team there have built a fantastic business with a focus on usability and accessibility in building great websites for an impressive range of clients.</p>
+<p>I&#8217;ll update this post when Deloitte actually publishes the full list!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/roomex-and-iqcontent-get-fast-50-awards/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; grant</title>
+	<atom:link href="/tag/grant/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Can you get a Capital Grant for a Web Back-End?</title>
+		<link>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/</link>
+		<comments>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/#comments</comments>
+		<pubDate>Fri, 15 Aug 2008 14:22:03 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[ceb]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[grant]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=693</guid>
+		<description><![CDATA[Keith Bohanna of dbTwang has a very interesting question &#8211; is it possible to get a Capital Grant from a County Enterprise Board for something intangible like the backend of a webapp? Answers on a postcard to his blog.]]></description>
+				<content:encoded><![CDATA[<p>Keith Bohanna of dbTwang has <a href="http://bohanna.typepad.com/pureplay/2008/08/anyone-get-a-ca.html">a very interesting question</a> &#8211; is it possible to get a Capital Grant from a County Enterprise Board for something intangible like the backend of a webapp?</p>
+<p>Answers on a postcard <a href="http://bohanna.typepad.com/pureplay/">to his blog</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/can-you-get-a-capital-grant-for-a-web-back-end/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

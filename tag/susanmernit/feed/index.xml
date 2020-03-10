@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; susanmernit</title>
+	<atom:link href="/tag/susanmernit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>$5 million grants in digital, open-source innovation</title>
+		<link>/2008/10/5-million-grants-in-digital-open-source-innovation/</link>
+		<comments>/2008/10/5-million-grants-in-digital-open-source-innovation/#comments</comments>
+		<pubDate>Wed, 08 Oct 2008 22:10:58 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[newschallenge]]></category>
+		<category><![CDATA[susanmernit]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=783</guid>
+		<description><![CDATA[My good friend, Susan Mernit, co-founder Peoples Software and ex-Yahoo Director/VP Netscape/AOL, sent a note in relation to the Knight News Challenge. Its a US-based foundation giving away $5 million a year for grants in digital, open-source innovation Some notes The last day to submit applications for funding is November 1st. Site is at www.newschallenge.org, [...]]]></description>
+				<content:encoded><![CDATA[<p>My good friend, <a href="http://www.susanmernit.com/">Susan Mernit</a>, co-founder <a href="http://peoplessoftware.com/">Peoples Software</a> and ex-Yahoo Director/VP Netscape/AOL,  sent a note in relation to the <a href="http://www.newschallenge.org/">Knight News Challenge</a>.</p>
+<p><img src="http://www.newschallenge.org/files/newschallenge_logo.jpg" alt="newschallenge" /></p>
+<p>Its a US-based foundation giving away $5 million a year for grants in digital, open-source innovation </p>
+<p>Some notes </p>
+<p>The last day to submit applications for funding is November 1st.<br />
+Site is at <a href="http://www.newschallenge.org/">www.newschallenge.org</a>, with a peer mentoring site at <a href="http://garage.newschallenge.org/">garage.newschallenge.org.</a></p>
+<p>Applications for the 2008-09 Knight News Challenge must follow three simple rules:<br />
+   1. Use or create digital, open-source technology as the code base.<br />
+   2. Serve the public interest.<br />
+   3. Benefit one or more specific geographic communities</p>
+<p>Surely we have some Irish startups which should apply&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/5-million-grants-in-digital-open-source-innovation/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

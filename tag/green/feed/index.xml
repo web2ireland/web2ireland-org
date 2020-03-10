@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; green</title>
+	<atom:link href="/tag/green/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>it@cork Annual Conference Announced</title>
+		<link>/2008/10/itcork-annual-conference-announced/</link>
+		<comments>/2008/10/itcork-annual-conference-announced/#comments</comments>
+		<pubDate>Tue, 07 Oct 2008 13:57:11 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[conference]]></category>
+		<category><![CDATA[energy]]></category>
+		<category><![CDATA[green]]></category>
+		<category><![CDATA[it@cork]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=779</guid>
+		<description><![CDATA[The it@cork annual conference has just been announced. Its title is &#8220;GREEN IT: Reduce CO2, Raise Profits&#8221; and it&#8217;s on November 26 in the lovely Radisson SAS Hotel in Cork. The line-up looks like an excellent mix with the focus being clearly on Green as it relates to IT and Business. I particularly like the [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.itcork.ie/index.cfm/page/conference">it@cork annual conference</a> has just been announced. Its title is<strong> &#8220;GREEN IT: Reduce CO2, Raise Profits&#8221;</strong><em></em> and it&#8217;s on November 26 in the lovely Radisson SAS Hotel in Cork.</p>
+<p>The line-up looks like an excellent mix with the focus being clearly on Green as it relates to IT and Business. I particularly like the profit angle given the turmoil the world is going through right now</p>
+<p>The is an Early Bird Discount available â€“ Book on or before October 31  and it&#8217;s â‚¬250 for members, â‚¬350 for non members.</p>
+<p>The agenda is as follows:</p>
+<p>07.30 â€“ Heads of IT breakfast sponsored by Certification Europe</p>
+<p>08.00 â€“ Arrival coffee &amp; registration</p>
+<p>08.45 â€“ Welcome from Donal Manning, Chairman, it@cork</p>
+<p>08.55 â€“ SETTING THE SCENE â€“ George Lee, Economics Editor, RTE</p>
+<p>09.35 &#8211; Green IT: Moving Beyond the 2% Solution, Douglas Neal, Research Fellow, Leading Edge Programme</p>
+<p>10.05 &#8211; SMART2020: ICT and climate change. Opportunities or Threat? Chris Tuppen, Director Sustainable Development, BT</p>
+<p>10.35 â€“ Q&amp;A Moderated by Tom Raftery. Lead analyst, energy and sustainability practice, Redmonk</p>
+<p>10.50 â€“ Coffee sponsored by Complete Telecom</p>
+<p>11 20 &#8211; Virtual Worlds: making organizations greener, Pierre-Olivier Carles, Co-Chief Stonfield InWorld</p>
+<p>11.40 &#8211; Measuring the energy footprint of everything on Earth, Gavin Starks, Director, AMEE</p>
+<p>12.00 &#8211; The Electric Grid 2.0, Fergus Wheatly, General Manager, Allied Solar Ltd</p>
+<p>12.20 &#8211; Q&amp;A Moderated by Damien Mulley, Mulley Communications</p>
+<p>12.35 â€“ LUNCH sponsored by Lenovo</p>
+<p>13.45 &#8211; Situation normal, everything must change, Simon Wardley, Independent Consultant</p>
+<p>14.35 â€“ The Business Challenges of the Future Low Carbon Economy, Niall Brady, Green Sigma Technical Development Manager, IBM</p>
+<p>14. 55 â€“ Green IT @ STRATO, Rene Weinholtz, Executive Director for IT &amp; Innovation, STRATO</p>
+<p>15.15 â€“ Q&amp;A Moderated by Dan Barry, Enterprise Ireland</p>
+<p>15.30 â€“ Coffee Sponsored by Premiere Global Services</p>
+<p>16.00 â€“ Green Computing &#8211; A leadership role, Tom Moriarty, EMEA Regulatory and Environmental Manager, DELL</p>
+<p>16.30 â€“ Green ICT &#8211; How ICT will help deliver ESBâ€™s Sustainability Strategy, Padraig McManus, CEO, ESB</p>
+<p>17.00 â€“ Q&amp;A Moderated by Tom Raftery followed by drinks reception sponsored by Smart Telecom</p>
+<p>After October 31st, the rate is â‚¬300 for members and â‚¬400 for non members.</p>
+<p>See you there!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/itcork-annual-conference-announced/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Community</title>
+	<atom:link href="/tag/community/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The Tuesday Push &#8211; Showing real community spirit</title>
+		<link>/2008/07/the-tuesday-push-showing-real-community-spirit/</link>
+		<comments>/2008/07/the-tuesday-push-showing-real-community-spirit/#comments</comments>
+		<pubDate>Tue, 01 Jul 2008 15:52:42 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[damien mulley]]></category>
+		<category><![CDATA[putplace]]></category>
+		<category><![CDATA[the tuesday push]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=635</guid>
+		<description><![CDATA[Damien Mulley gets community like very few other people in the industry. His ideas are always worth listening to and, more importantly, worth acting on. He has just kicked off a real corker called The Tuesday Push. Every second Tuesday, a startup is selected from those who put themselves forward and lots of us blog [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://mulley.net/">Damien Mulley</a> gets <em>community</em> like very few other people in the industry. His ideas are always worth listening to and, more importantly, worth acting on. He has just kicked off a real corker called <a href="http://www.mulley.net/2008/07/01/the-tuesday-push-getting-word-out-in-a-co-ordinated-way/">The Tuesday Push</a>. Every second Tuesday, a startup is selected from those who put themselves forward and lots of us blog about them on the same day.</p>
+<p>It&#8217;s one of those simple but potentially incredibly powerful ways of getting us all noticed. There is nothing nefarious about it, no PPP in the background or Google gaming. Just write in an honest way about a new start-up every two weeks. The posts will be even more useful to everyone if they contain constructive criticism and ideas rather than puff-pieces.</p>
+<p>We would encourage those who read but don&#8217;t write to Digg/Stumble/Delicious the posts they really like. And obviously if you are a startup, register your interest in being covered.</p>
+<p>The first start-up to be covered is the brilliant <a href="http://www.putplace.com/">PutPlace</a>. I&#8217;ll be doing my review of it later over on <a href="http://www.argolon.com/">Argolon</a>. Damien <a href="http://www.mulley.net/2008/07/01/that-putplace-feeling/">has already done his</a>. We&#8217;ll also do aggregated posts here on Web2Ireland with links to all the coverage.</p>
+<p>If you don&#8217;t mind me pimping <a href="http://www.loudervoice.com/">LouderVoice</a> too much, you can also make use of us to help spread the word. Just add the tag &#8220;review&#8221; and the tag &#8220;rating=N&#8221; (where N is from 1-5) to your posts. If you then register your blog&#8217;s RSS feed as a &#8220;FlagTag&#8221; feed on LouderVoice, we&#8217;ll pick those posts up and they&#8217;ll get indexed very quickly as reviews on Google. If you don&#8217;t have/want a blog, just write the review directly on LV and we&#8217;ll link it to all the others.</p>
+<p>This initiative will only work if the community gets behind it. So instead of thinking &#8220;what a good idea&#8221;, go review <a href="http://www.putplace.com/">PutPlace</a>, now!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/the-tuesday-push-showing-real-community-spirit/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

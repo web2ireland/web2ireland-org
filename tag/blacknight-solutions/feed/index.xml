@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; blacknight solutions</title>
+	<atom:link href="/tag/blacknight-solutions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Logo Competition</title>
+		<link>/2008/04/web2ireland-logo-competition/</link>
+		<comments>/2008/04/web2ireland-logo-competition/#comments</comments>
+		<pubDate>Sun, 20 Apr 2008 10:27:39 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[blacknight solutions]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[microsoft ireland]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=585</guid>
+		<description><![CDATA[To complement our lovely new design we thought it might be cool to get a logo to go with it too. This wouldn&#8217;t just be for the site but also for events etc. David Lenehan from PollDaddy came up with the very smart idea on Twitter of running a competition with prizes. Within minutes we [...]]]></description>
+				<content:encoded><![CDATA[<p>To complement our lovely new design we thought it might be cool to get a logo to go with it too. This wouldn&#8217;t just be for the site but also for events etc.</p>
+<p>David Lenehan from <a href="http://www.polldaddy.com/">PollDaddy</a> came up with the very smart idea on Twitter of running a competition with prizes. Within minutes we had several offers for those prizes. So we&#8217;d like to announce the competition now.</p>
+<p>The  rules are simple, just send us a sample of your logo(s) in one of the standard bitmap formats by Friday May 2nd to web2ireland DOT editor AT gmail DOT com. We will then publish a post showing them all and a poll allowing you to vote on them. The design with the most votes after one week wins!</p>
+<p>The winner will not just get lots of publicity here and a permanent credit on the site but they will also win the following:</p>
+<ul>
+<li>One year of PollDaddy Pro sponsored by <a href="http://www.polldaddy.com/">PollDaddy</a></li>
+<li>A copy of Microsoft Expression Studio sponsored by <a href="http://www.microsoft.ie/">Microsoft Ireland</a></li>
+<li>A year of Blacknight VPS hosting sponsored by <a href="http://www.blacknight.ie/">Blacknight Solutions</a></li>
+</ul>
+<p>Many thanks to David, Martha, Clare and Michele for the brilliant prizes!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/web2ireland-logo-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; london</title>
+	<atom:link href="/tag/london/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Three Weeks left to apply to SeedCamp</title>
+		<link>/2008/07/three-weeks-left-to-apply-to-seedcamp/</link>
+		<comments>/2008/07/three-weeks-left-to-apply-to-seedcamp/#comments</comments>
+		<pubDate>Fri, 18 Jul 2008 08:28:37 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[entrepreneur]]></category>
+		<category><![CDATA[london]]></category>
+		<category><![CDATA[opportunity]]></category>
+		<category><![CDATA[saul klein]]></category>
+		<category><![CDATA[seedcamp]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=647</guid>
+		<description><![CDATA[Are you in a small startup? Thinking of doing one? No access to capital? Possibly lacking some business experience? But dammit you want to build something! Or maybe your employer, the bank, hedge fund or insurance company is going through meltdown and you think &#8211; time to move. Then have a look a SeedCamp: As [...]]]></description>
+				<content:encoded><![CDATA[<p>Are you in a small startup? Thinking of doing one? No access to capital? Possibly lacking some business experience? But dammit you want to build something! </p>
+<p>Or maybe your employer, the bank, hedge fund or insurance company is going through meltdown and you think &#8211; time to move.</p>
+<p>Then have a look a <a href="http://www.seedcamp.com/">SeedCamp</a>:</p>
+<p>As their site says:</p>
+<blockquote><p>
+Seedcamp is where Europe&#8217;s top young founders can come together in one place. From securing funding to developing the right network, young entrepreneurs in Europe face challenges in building globally competitive technology businesses. Through the provision of seed capital and a world class network of mentors, we want to provide a catalyst for Europe&#8217;s next generation of entrepreneurs.</p></blockquote>
+<p>The process is simple; <a href="http://application.seedcamp.com/">you apply here</a>, those shortlisted go to London for Seedcamp Week and then the best of the best are then picked to be part of Seedcamp.</p>
+<p>I don&#8217;t know how many Irish companies applied last year but your continental European peers are jumping all over this. At the very least it is worth a look. Some <a href="http://localglobe.blogspot.com/2008/07/from-first-timer-to-funded-valuing.html">great thoughts on the topic</a> from Saul Klein.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/three-weeks-left-to-apply-to-seedcamp/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

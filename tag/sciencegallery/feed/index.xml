@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ScienceGallery</title>
+	<atom:link href="/tag/sciencegallery/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Facebook Developer Garage Ireland &#8211; Feb 18th &#8211; Science Gallery</title>
+		<link>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/</link>
+		<comments>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/#comments</comments>
+		<pubDate>Tue, 09 Feb 2010 15:29:04 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[betapond]]></category>
+		<category><![CDATA[crowdstar]]></category>
+		<category><![CDATA[enterpriseireland]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[Garage]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[ScienceGallery]]></category>
+		<category><![CDATA[tickettruck]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1657</guid>
+		<description><![CDATA[We&#8217;re delighted to announce the First Facebook Developer Garage Ireland of 2010 Speakers include: Gavin Barrett, Crowdstar Charles Dowd, tickettruck Declan Kennedy, Betapond David Lenehan, Polldaddy Sonia Flynn, Facebook Thanks to The Science Gallery for hosting the event and Enterprise Ireland for providing support. Date: Thursday, February 18, 2010 Time: 4:00pm &#8211; 6:00pm Location: Science [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.web2ireland.org/wp-content/uploads/2009/02/n53311687551_803.jpg" title="Facebook Developer Garage Ireland" class="alignnone" width="200" height="302" /><br />
+We&#8217;re delighted to announce the <a href="http://www.facebook.com/event.php?eid=310379491688">First Facebook Developer Garage Ireland</a> of 2010</p>
+<p>Speakers include:</p>
+<p>Gavin Barrett, <a href="http://www.crowdstar.com/">Crowdstar</a><br />
+Charles Dowd, <a href="http://www.tickettruck.com/">tickettruck</a><br />
+Declan Kennedy, <a href="http://betapond.com/">Betapond</a><br />
+David Lenehan, <a href="http://apps.facebook.com/polldaddy-polls/">Polldaddy</a><br />
+Sonia Flynn, <a href="http://www.facebook.com/">Facebook</a></p>
+<p>Thanks to <a href="http://www.sciencegallery.com/">The Science Gallery</a> for hosting the event and Enterprise Ireland for providing support.</p>
+<p>Date:	Thursday, February 18, 2010<br />
+Time:	4:00pm &#8211; 6:00pm<br />
+Location:	<a href="http://www.sciencegallery.com/">Science Gallery, Pearse Street, Dublin 2</a></p>
+<p><a href="http://www.facebook.com/event.php?eid=310379491688">Sign up on Facebook for event</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

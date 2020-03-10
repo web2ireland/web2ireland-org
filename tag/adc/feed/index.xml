@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ADC</title>
+	<atom:link href="/tag/adc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Plink wins Android Developer Challenge</title>
+		<link>/2009/12/plink-wins-android-developer-challenge/</link>
+		<comments>/2009/12/plink-wins-android-developer-challenge/#comments</comments>
+		<pubDate>Thu, 10 Dec 2009 10:26:35 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ADC]]></category>
+		<category><![CDATA[android]]></category>
+		<category><![CDATA[Plink]]></category>
+		<category><![CDATA[PlinkART]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1615</guid>
+		<description><![CDATA[Congratulations to Plink, who recently won the best reference app in the Android Developer Challenge for their PlinkArt application, and a prize of $100,000! The Plink Art app is a visual search engine for art â€“ take a picture of a painting and the system recognises it and returns the history of the painting, info [...]]]></description>
+				<content:encoded><![CDATA[<p>Congratulations to <a href="http://www.plinkart.com/blog/?p=39">Plink, who recently won</a> the <a href="http://android-developers.blogspot.com/2009/11/announcing-winners-of-adc-2.html">best reference app in the Android Developer Challenge</a> for their <a href="http://www.plinkart.com/apps.html">PlinkArt application</a>, and a prize of $100,000!</p>
+<p>The Plink Art app is a visual search engine for art â€“ take a picture of a painting and the system recognises it and returns the history of the painting, info about the artist, etc. Right now it recognises tens of thousands of famous paintings.<br />
+<img alt="" src="http://www.plinkart.com/images/plink_blog_image.png" title="plinkart" class="alignnone" width="311" height="382" /></p>
+<p><a href="http://www.web2ireland.org/2009/11/10/irish-startup-plink-an-android-developer-challenge-finalist/">We recently profiled PlinkArt on Web2Ireland.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/12/plink-wins-android-developer-challenge/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

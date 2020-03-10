@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; supply.ie</title>
+	<atom:link href="/tag/supply-ie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Supply.ie sorts out printing &#8211; cheaper, faster, easier</title>
+		<link>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/</link>
+		<comments>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 12:41:16 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[bid]]></category>
+		<category><![CDATA[printing]]></category>
+		<category><![CDATA[printing supplies]]></category>
+		<category><![CDATA[supply]]></category>
+		<category><![CDATA[supply.ie]]></category>
+		<category><![CDATA[tender]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2020</guid>
+		<description><![CDATA[I met Mike from supply.ie yesterday and was hugely impressed by this new business which only launched in December. The premise is simple: put up a spec for a printing job on the site, it automatically sends it to all the relevant suppliers they have in the system and a percentage of those quote for [...]]]></description>
+				<content:encoded><![CDATA[<p>I met Mike from <a href="http://supply.ie/">supply.ie</a> yesterday and was hugely impressed by this new business which only launched in December. The premise is simple: put up a spec for a printing job on the site, it automatically sends it to all the relevant suppliers they have in the system and a percentage of those quote for the business. You then pick the quote which makes most sense to you.</p>
+<p>Easy Peasy.</p>
+<p style="text-align: center;"><a href="http://supply.ie/"><img class="aligncenter" title="Supply.ie" src="https://supply.ie/Tenant/Buyub/Img/supplyie-logo.gif" alt="" width="177" height="61" /></a></p>
+<p>When Mike told me about some of the cost savings he has seen, I was pretty shocked. But it&#8217;s about more than that, it&#8217;s a massive time saver. We got a big print job done last year and it took huge effort ringing around, waiting for callbacks, sending the job spec etc etc. Supply.ie deals with all of that for you.</p>
+<p>The service is free during the pilot period and well worth a look.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/supply-ie-sorts-out-printing-cheaper-faster-easier/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

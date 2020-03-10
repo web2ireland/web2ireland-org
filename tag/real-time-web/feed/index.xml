@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; real-time web</title>
+	<atom:link href="/tag/real-time-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Le Web 2009,  Real-Time Web</title>
+		<link>/2009/10/le-web-2009-real-time-web/</link>
+		<comments>/2009/10/le-web-2009-real-time-web/#comments</comments>
+		<pubDate>Mon, 19 Oct 2009 09:50:45 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb09]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[real-time web]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1505</guid>
+		<description><![CDATA[It&#8217;s been a quiet year for many people on the conference front but there is one event that many of us just can&#8217;t miss, and that&#8217;s Le Web. It&#8217;s not just the brilliant speakers that Loic and Geraldine manage to get, it&#8217;s the battery recharge we need to prepare us for the new year. Despite [...]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s been a quiet year for many people on the conference front but there is one event that many of us just can&#8217;t miss, and that&#8217;s <a href="http://www.leweb.net/">Le Web</a>. It&#8217;s not just the brilliant speakers that Loic and Geraldine manage to get, it&#8217;s the battery recharge we need to prepare us for the new year.</p>
+<p><a href="http://www.leweb.net/"><img alt="" src="http://www.leweb.net/sites/default/files/userfiles/image/banner-300x250(1).jpg" title="Le Web 2009" class="aligncenter" width="300" height="250" /></a></p>
+<p>Despite the venue hiccups last year, I still find myself referring to Le Web 2008 regularly. Marissa on the importance of local to Google, Dave Morin on Facebook Connect and Christine Lagarde on startups in France. </p>
+<p>Just check out <a href="http://www.leweb.net/program/speakers">this year&#8217;s speakers</a> and tell me you&#8217;re not excited by that line-up. It&#8217;s the style of event where you can easily chat to many of these people and meet them year after year. Apart from the learning and general networking, Le Web is a place where deals are done.</p>
+<p>We&#8217;ll be covering the full two days on Web2Ireland and let&#8217;s hope we don&#8217;t take down Twitter with the volume of updates!</p>
+<p>If you are interested in going, make sure to use the discount code BLOG09 to get 10% off.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/le-web-2009-real-time-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

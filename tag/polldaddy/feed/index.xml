@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; polldaddy</title>
+	<atom:link href="/tag/polldaddy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dogpatch Labs coming to Ireland</title>
+		<link>/2010/12/dogpatch-labs-coming-to-ireland/</link>
+		<comments>/2010/12/dogpatch-labs-coming-to-ireland/#comments</comments>
+		<pubDate>Thu, 16 Dec 2010 21:00:05 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Dogpatch]]></category>
+		<category><![CDATA[Polaris]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1963</guid>
+		<description><![CDATA[With the news that the Innovation Fund Ireland, the Government initiative managed by the National Pension Reserve Fund (NPRF) and Enterprise Ireland to attract leading venture capital fund managers to Ireland, have invested $50m in Polaris Ventures. Polaris Ventures are probably best known as an investor in Automattic (who are behind WordPress, and also the [...]]]></description>
+				<content:encoded><![CDATA[<p>With the news that the <a href="http://americas.enterprise-ireland.com/blog/dogpatch-labs-to-dublin/">Innovation Fund Ireland, the Government initiative</a> managed by the National Pension Reserve Fund (NPRF) and Enterprise Ireland to attract leading venture capital fund managers to Ireland, have invested $50m in <a href="http://www.polarisventures.com/">Polaris Ventures</a>.  </p>
+<p>Polaris Ventures are probably best known as an investor in Automattic (who are behind WordPress, and also the company which acquired <a href="http://www.polldaddy.com/">Polldaddy</a>).</p>
+<p>Polaris Ventures are also behind the <a href="http://dogpatchlabs.com/">Dogpatch Labs</a> initiative. Its goal is connect entrepreneurs and help founders conceive and launch startups. Check out this video from Robert Scoble</p>
+<p><object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/ou37TrIpv9E?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/ou37TrIpv9E?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/dogpatch-labs-coming-to-ireland/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Developer Garage Ireland &#8211; Feb 18th &#8211; Science Gallery</title>
+		<link>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/</link>
+		<comments>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/#comments</comments>
+		<pubDate>Tue, 09 Feb 2010 15:29:04 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[betapond]]></category>
+		<category><![CDATA[crowdstar]]></category>
+		<category><![CDATA[enterpriseireland]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[Garage]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[ScienceGallery]]></category>
+		<category><![CDATA[tickettruck]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1657</guid>
+		<description><![CDATA[We&#8217;re delighted to announce the First Facebook Developer Garage Ireland of 2010 Speakers include: Gavin Barrett, Crowdstar Charles Dowd, tickettruck Declan Kennedy, Betapond David Lenehan, Polldaddy Sonia Flynn, Facebook Thanks to The Science Gallery for hosting the event and Enterprise Ireland for providing support. Date: Thursday, February 18, 2010 Time: 4:00pm &#8211; 6:00pm Location: Science [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.web2ireland.org/wp-content/uploads/2009/02/n53311687551_803.jpg" title="Facebook Developer Garage Ireland" class="alignnone" width="200" height="302" /><br />
+We&#8217;re delighted to announce the <a href="http://www.facebook.com/event.php?eid=310379491688">First Facebook Developer Garage Ireland</a> of 2010</p>
+<p>Speakers include:</p>
+<p>Gavin Barrett, <a href="http://www.crowdstar.com/">Crowdstar</a><br />
+Charles Dowd, <a href="http://www.tickettruck.com/">tickettruck</a><br />
+Declan Kennedy, <a href="http://betapond.com/">Betapond</a><br />
+David Lenehan, <a href="http://apps.facebook.com/polldaddy-polls/">Polldaddy</a><br />
+Sonia Flynn, <a href="http://www.facebook.com/">Facebook</a></p>
+<p>Thanks to <a href="http://www.sciencegallery.com/">The Science Gallery</a> for hosting the event and Enterprise Ireland for providing support.</p>
+<p>Date:	Thursday, February 18, 2010<br />
+Time:	4:00pm &#8211; 6:00pm<br />
+Location:	<a href="http://www.sciencegallery.com/">Science Gallery, Pearse Street, Dublin 2</a></p>
+<p><a href="http://www.facebook.com/event.php?eid=310379491688">Sign up on Facebook for event</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Tech Start-Up Evening in Sligo</title>
+		<link>/2009/09/tech-start-up-evening-in-sligo/</link>
+		<comments>/2009/09/tech-start-up-evening-in-sligo/#comments</comments>
+		<pubDate>Sun, 06 Sep 2009 19:50:12 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[sligo]]></category>
+		<category><![CDATA[startups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1393</guid>
+		<description><![CDATA[Sligo is home to many up-and-coming tech startups along with the awesome PollDaddy. If you are interested in becoming part of that cluster then you should attend the free Information Evening being held at the Business Innovation Centre in IT Sligo. It&#8217;s on Monday 21st September 2009 from 6.30 p.m. â€“ 8.30 p.m. and will [...]]]></description>
+				<content:encoded><![CDATA[<p>Sligo is home to many up-and-coming tech startups along with the awesome <a href="http://www.polldaddy.com/">PollDaddy</a>. </p>
+<p>If you are interested in becoming part of that cluster then you should attend the free Information Evening being held at the Business Innovation Centre in IT Sligo. It&#8217;s on Monday 21st September 2009 from 6.30 p.m. â€“ 8.30 p.m. and will hopefully answer some of the questions you might have about forming a tech startup. </p>
+<p>Contact mary.boyle AT enterprise-ireland DOT com or + 353 (0) 71 9159700 if you wish to attend.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/tech-start-up-evening-in-sligo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Add Polls to Your Applications with PollDaddyâ€™s API</title>
+		<link>/2009/03/add-polls-to-your-applications-with-polldaddys-api/</link>
+		<comments>/2009/03/add-polls-to-your-applications-with-polldaddys-api/#comments</comments>
+		<pubDate>Tue, 10 Mar 2009 19:41:08 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1058</guid>
+		<description><![CDATA[Polldaddy have launched their API &#8211; 68% of Polldaddy activity is via API &#8211; pretty impressive. Mashable has more details on Adding Polls to Your Applications with PollDaddyâ€™s API.]]></description>
+				<content:encoded><![CDATA[<p>Polldaddy have <a href='http://blog.polldaddy.com/2009/03/10/get-developing-on-our-api/'>launched their API </a> &#8211; 68% of Polldaddy activity is via API &#8211; pretty impressive.</p>
+<p>Mashable has more details on
+<p><a href='http://mashable.com/2009/03/10/polldaddy-api/'>Adding Polls to Your Applications with PollDaddyâ€™s API</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/add-polls-to-your-applications-with-polldaddys-api/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automattic Moving to Sligo</title>
+		<link>/2008/10/automattic-moving-to-sligo/</link>
+		<comments>/2008/10/automattic-moving-to-sligo/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 23:36:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[automattic]]></category>
+		<category><![CDATA[david lenehan]]></category>
+		<category><![CDATA[infacta]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=811</guid>
+		<description><![CDATA[OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the PollDaddy acquisition has been amazing in a few short hours. Here&#8217;s just a sample: Â  Matt&#8217;s Blog Â  PollDaddy Blog Â  WordPress Blog Â  Toni Schneider&#8217;s Blog (with nice mention of Fergus) Â  Donncha from [...]]]></description>
+				<content:encoded><![CDATA[<p>OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the <a href="http://www.polldaddy.com/">PollDaddy</a> acquisition has been amazing in a few short hours. Here&#8217;s just a sample:</p>
+<p>Â </p>
+<ul>
+<li><a href="http://ma.tt/2008/10/polldaddy-goes-automattic/">Matt&#8217;s Blog</a><br />
+Â </li>
+<li><a href="http://polldaddyblog.wordpress.com/2008/10/15/automattic-acquires-polldaddy/">PollDaddy Blog</a><br />
+Â </li>
+<li><a href="http://en.blog.wordpress.com/2008/10/15/polldaddy/">WordPress Blog</a><br />
+Â </li>
+<li><a href="http://toni.org/2008/10/15/welcome-polldaddy/">Toni Schneider&#8217;s Blog</a> (with nice mention of Fergus)<br />
+Â </li>
+<li><a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha from the People&#8217;s Republic branch of Automattic</a><br />
+Â </li>
+<li><a href="http://mashable.com/2008/10/15/breaking-automattic-acquires-polldaddy/">Mashable</a><br />
+Â </li>
+<li><a href="http://www.techcrunch.com/2008/10/15/wordpress-acquires-irish-startup-polldaddy/">Techcrunch USA</a><br />
+Â </li>
+<li><a href="http://www.readwriteweb.com/archives/automattic_acquires_polldaddy.php">ReadWriteWeb</a></li>
+</ul>
+<p>Â </p>
+<p>It&#8217;s currently top story on <a href="http://www.techmeme.com/">Techmeme</a>.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg"><img class="alignnone size-full wp-image-812" title="techmeme" src="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg" alt="" width="500" height="367" /></a></p>
+<p>Lovely picture of the crew on <a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha&#8217;s blog</a>:</p>
+<p><img class="alignnone" title="Automattic Crew" src="http://en.blog.files.wordpress.com/2008/10/mcm_2583.jpg?w=600" alt="" width="600" height="477" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/automattic-moving-to-sligo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Polldaddy acquired by WordPress</title>
+		<link>/2008/10/polldaddy-acquired-by-wordpress/</link>
+		<comments>/2008/10/polldaddy-acquired-by-wordpress/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 19:55:44 +0000</pubDate>
+		<dc:creator>fergus</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[jonathanhill]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[scottrafer]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=790</guid>
+		<description><![CDATA[Congratulation to Lenny aka David Lenehan and Eoin Gallagher on Polldaddy team &#8211; and Toni, Matt and Automattic team. Polldaddy is the default online poll service for leading blogs, social networks and websites &#8211; and the acquisition by WordPress parent &#8211; Automattic &#8211; makes total sense &#8211; and the team dynamics is brilliant. Only 2 [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://polldaddy.com/Images/Common/logo.gif" alt="polldaddy" /></p>
+<p>Congratulation to Lenny aka David Lenehan and Eoin Gallagher on <a href="http://polldaddy.com/">Polldaddy</a> team &#8211; and <a href="http://toni.org/">Toni</a>, <a href="http://ma.tt/">Matt</a> and <a href="http://automattic.com/">Automattic team</a>.</p>
+<p>Polldaddy is the default <a href="http://polldaddy.com/">online poll service</a> for leading blogs, social networks and websites &#8211; and the acquisition by WordPress parent &#8211; <a href="http://automattic.com/">Automattic</a> &#8211; makes total sense &#8211; and the team dynamics is brilliant.</p>
+<p>Only 2 developers [Lenny and Eoin] on polldaddy &#8211; which was initially incubated within <a href="http://infacta.com/">Infacta</a>.</p>
+<p>It was spun out as a seperate entity late in 2007 &#8211; with angel investment provided by Infacta and Polldaddy founder, <a href="http://www.jonathanhill.ie/">Jonathan Hill</a>.</p>
+<p>Polldaddy also recruited <a href="http://rafer.tumblr.com/">Scott Rafer</a> as an advisor in 2007 &#8211; and Scott played no small part in assisting the project in getting to its current scale.</p>
+<p>The Polldaddy is great validation for Web2Ireland &#8211; especially given the level of investment, the operations, and the acquisition result.</p>
+<p>Given the recent news on <a href="http://www.web2ireland.org/2008/10/02/facebook-setup-their-international-headquarters-in-ireland/">Facebook setting up in Ireland</a> &#8211; it perhaps set a new model for the <a href="http://www.idaireland.com/">IDA</a>/EI &#8211; International operations get setup via acquisition [which is what Israel have done for years].</p>
+<p>To add more context in terms of WordPress scale &#8211; see <a href="http://www.avc.com/a_vc/2008/04/the-difference.html">this post from Fred Wilson on Facebook vs WordPress</a> &#8211; and the Polldaddy numbers will drive this further forward.</p>
+<p><img src="http://avc.blogs.com/a_vc/images/2008/04/18/fb_vs_wp.jpg" alt="facebook vs wordpress" /></p>
+<p>Disclosure: I&#8217;m a personal friend of Lenny, Jonathan and Scott</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script type="text/javascript" src="http://www.crunchbase.com/javascripts/widget.js"></script></p>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/polldaddy">PollDaddy</a></div>
+<div class="cbw_subcontent"></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script type="text/javascript" src="http://www.crunchbase.com/javascripts/widget.js"></script></p>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/automattic">Automattic</a></div>
+<div class="cbw_subcontent"></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/polldaddy-acquired-by-wordpress/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Web2Ireland &#8211; whatâ€™s going on &#8211; week ending June 6th</title>
+		<link>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/</link>
+		<comments>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/#comments</comments>
+		<pubDate>Fri, 06 Jun 2008 10:55:23 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[curry2.0]]></category>
+		<category><![CDATA[downloadmusic]]></category>
+		<category><![CDATA[edenbee]]></category>
+		<category><![CDATA[exceptional]]></category>
+		<category><![CDATA[firefox]]></category>
+		<category><![CDATA[pixenate]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[putplace]]></category>
+		<category><![CDATA[seanmcgrath]]></category>
+		<category><![CDATA[segala]]></category>
+		<category><![CDATA[ubcam]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=620</guid>
+		<description><![CDATA[Some bits and bobs from around the Web2Ireland scene&#8230; Joe survives at UTR &#8211; and gets great coveage for PutPlace in webware Exceptional launches &#8211; Error tracking and managing for Rails folks and their apps edenbee gets coverage on Mashable &#8211; &#8220;Edenbee or Not to Be? Climate Change Social Network Steps In To Help&#8221; Firefox [...]]]></description>
+				<content:encoded><![CDATA[<p>Some bits and bobs from around the Web2Ireland scene&#8230;</p>
+<p><a href="http://joedrumgoole.com/blog/">Joe</a> survives at <a href="http://undertheradarblog.com/">UTR</a> &#8211; and gets <a href="http://www.webware.com/8301-1_109-9961008-2.html?part=rss&#038;tag=feed&#038;subj=Webware">great coveage</a> for <a href="http://www.putplace.com/">PutPlace</a> in <a href="http://www.webware.com/">webware</a></p>
+<p><a href="http://getexceptional.com/beta">Exceptional launches &#8211; Error tracking and managing for Rails folks and their apps</a></p>
+<p><a href="http://mashable.com/2008/06/05/edenbee-climate-change-social-network/">edenbee gets coverage on Mashable</a> &#8211; &#8220;Edenbee or Not to Be? Climate Change Social Network Steps In To Help&#8221;</p>
+<p><a href="http://mozillaparty.com/en-US/events/view/106">Firefox Party &#8211; Dublin &#8211; June 19th</a>. All over the world, Mozilla will be celebrating the launch of Firefox 3 in late June. Mozilla is sending over lots of prizes/swag for us to give away on the night. The Irish need to live up to the great name we have for partying. Contact Paul Walsh for sponsorship opportunity &#8211; paul AT segala.com SPONSORS BY: <a href="http://www.bt.com/">BT</a>, <a href="http://www.putplace.com/">putplace</a> (http://putplace.com)/ and <a href="http://blacknight.com/">Blacknight</a></p>
+<p><a href="http://segala.com/blog/curry-20-pitch-to-a-waiter/">Curry 2.0 dinner</a> coming up in Dublin &#8211; more details to follow.</p>
+<p>Wexford based <a href="http://www.ubcam.com/">ubcam</a> launches &#8211; looks cool&#8230;</p>
+<p><a href="http://www.polldaddy.com/">Polldaddy</a> at <a href="http://answers.polldaddy.com/">116 million +</a> votes and counting &#8211; Lenny is building quite the <a href="http://vcinme.typepad.com/vc/2008/03/its-all-about-t.html">database of value<br />
+</a></p>
+<p><a href="http://venturebeat.com/2008/06/02/survey-of-vcs-shows-which-regions-have-the-best-technology/">Investment scene/activity @ web</a> &#8211; no mention of Ireland&#8230;</p>
+<p><a href="http://seanmcgrath.blogspot.com/">Sean McGrath</a> &#8211; XML and python expert &#8211; <a href="http://seanmcgrath.blogspot.com/2008/04/fancy-web-20-startup.html">looking for some folks in Web2.0 space to work together.</a>.</p>
+<p><a href="http://www.pixenate.com/">Pixenate</a> &#8211; <a href="http://sxoop.wordpress.com/2008/05/29/photo-editor-plugin-for-movable-type/">plugins for wordpress and MT</a> &#8211; Walter is building a great business in the <a href="http://www.pixenate.com/">photo editing</a> space.</p>
+<p><a href="http://www.downloadmusic.ie/">Downloadmusic</a> &#8211; selling lots of songs via SMS &#8211; clever service with some great International plans</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/web2ireland-whats-going-on-week-ending-june-6th/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>PollDaddy gets Seesmic&#8217;ed</title>
+		<link>/2008/04/polldaddy-gets-seesmiced/</link>
+		<comments>/2008/04/polldaddy-gets-seesmiced/#comments</comments>
+		<pubDate>Tue, 29 Apr 2008 11:20:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[loiclemeur]]></category>
+		<category><![CDATA[loictv]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[seesmic]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=588</guid>
+		<description><![CDATA[Loic Le Meur &#8211; founder and ceo of Seesmic &#8211; hangs out with Lenny from Polldaddy on Loic TV]]></description>
+				<content:encoded><![CDATA[<p><a href="http://loiclemeur.com/">Loic Le Meur</a> &#8211; founder and ceo of <a href="http://www.seesmic.com/">Seesmic</a> &#8211;  hangs out with Lenny from <a href="http://www.polldaddy.com/">Polldaddy</a> on <a href="http://www.youtube.com/watch?v=kE68kEP1CLE">Loic TV</a></p>
+<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/kE68kEP1CLE&#038;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/kE68kEP1CLE&#038;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/polldaddy-gets-seesmiced/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Web2Ireland Logo Competition</title>
+		<link>/2008/04/web2ireland-logo-competition/</link>
+		<comments>/2008/04/web2ireland-logo-competition/#comments</comments>
+		<pubDate>Sun, 20 Apr 2008 10:27:39 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[blacknight solutions]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[logo]]></category>
+		<category><![CDATA[microsoft ireland]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=585</guid>
+		<description><![CDATA[To complement our lovely new design we thought it might be cool to get a logo to go with it too. This wouldn&#8217;t just be for the site but also for events etc. David Lenehan from PollDaddy came up with the very smart idea on Twitter of running a competition with prizes. Within minutes we [...]]]></description>
+				<content:encoded><![CDATA[<p>To complement our lovely new design we thought it might be cool to get a logo to go with it too. This wouldn&#8217;t just be for the site but also for events etc.</p>
+<p>David Lenehan from <a href="http://www.polldaddy.com/">PollDaddy</a> came up with the very smart idea on Twitter of running a competition with prizes. Within minutes we had several offers for those prizes. So we&#8217;d like to announce the competition now.</p>
+<p>The  rules are simple, just send us a sample of your logo(s) in one of the standard bitmap formats by Friday May 2nd to web2ireland DOT editor AT gmail DOT com. We will then publish a post showing them all and a poll allowing you to vote on them. The design with the most votes after one week wins!</p>
+<p>The winner will not just get lots of publicity here and a permanent credit on the site but they will also win the following:</p>
+<ul>
+<li>One year of PollDaddy Pro sponsored by <a href="http://www.polldaddy.com/">PollDaddy</a></li>
+<li>A copy of Microsoft Expression Studio sponsored by <a href="http://www.microsoft.ie/">Microsoft Ireland</a></li>
+<li>A year of Blacknight VPS hosting sponsored by <a href="http://www.blacknight.ie/">Blacknight Solutions</a></li>
+</ul>
+<p>Many thanks to David, Martha, Clare and Michele for the brilliant prizes!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/web2ireland-logo-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; greendiamond</title>
+	<atom:link href="/tag/greendiamond/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Smartcamp &#8211; The Winners</title>
+		<link>/2009/10/smartcamp-the-winners/</link>
+		<comments>/2009/10/smartcamp-the-winners/#comments</comments>
+		<pubDate>Tue, 20 Oct 2009 11:15:13 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[greendiamond]]></category>
+		<category><![CDATA[heystaks]]></category>
+		<category><![CDATA[IBMIreland]]></category>
+		<category><![CDATA[resourcekraft]]></category>
+		<category><![CDATA[Smartcamp]]></category>
+		<category><![CDATA[treemetrics]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1507</guid>
+		<description><![CDATA[The winners at the recent Smartcamp Final in Dublin were Treemetrics &#8211; A Forestry Management Company are the overall SmartCamp winner. They will receive a three month mentorship program with IBM to help them build an â€˜investor readyâ€™ proposition. They also receive entry into the NDRC program with also includes funding of up to â‚¬25,000. [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://smartcamp.seedcamp.com/assets/smartplanetlogosm.png" title="Smartcamp" class="alignnone" width="160" height="50" /></p>
+<p>The <a href="https://www-951.ibm.com/blogs/smartcampireland/entry/and_the_winners5">winners at the recent Smartcamp</a> <a href="http://www.web2ireland.org/2009/10/14/smartcamp-final-5-companies/">Final in Dublin</a> were</p>
+<p><a href="http://www.treemetrics.com/ ">Treemetrics</a> &#8211; A Forestry Management Company are the overall SmartCamp winner.  They will receive a three month mentorship program with IBM to help them build an â€˜investor readyâ€™ proposition.   They also receive entry into the <a href="http://www.ndrc.ie/">NDRC</a> program with also includes funding of up to â‚¬25,000.  </p>
+<p><a href=" http://www.heystaks.com/">HeyStacks</a> &#8211; a social search company also received entry into the NDRC program</p>
+<p><a href="http://www.green-diamond-technologies.com/">Green Diamond</a> &#8211; An Energy Efficiency Management Company won the Vodafone mentorship and and investment offer from <a href="http://www.aibseedcapitalfund.ie/">AIB Seed Capital</a> Fund will â‚¬50,000 . </p>
+<p><a href="http://www.resourcekraft.com/"><br />
+ResourceKraft</a> also received an investment offer from <a href="http://www.aibseedcapitalfund.ie/">AIB Seed Capital</a> for the same amount &#8211; both of these are subject to normal diligence. </p>
+<p>Congratulations to all the winners, and also to <a href="http://www.linkedin.com/pub/martin-kelly/3/b3/514">Martin Kelly</a> and <a href="http://www-05.ibm.com/ie/smarterplanet/smartcamp/index2.html">his colleagues at IBM Ireland</a> for a great event.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/smartcamp-the-winners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

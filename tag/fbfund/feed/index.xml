@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; fbfund</title>
+	<atom:link href="/tag/fbfund/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Facebook &#8211; new fbFund launches &#8211; Web2Ireland companies opportunity</title>
+		<link>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/</link>
+		<comments>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/#comments</comments>
+		<pubDate>Thu, 19 Mar 2009 17:53:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[fbfund]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1067</guid>
+		<description><![CDATA[Facebook recently announced their new FBFund. The fbFund is a $10 million seed fund managed by Founders Fund, Accel Partners, and Facebook. After the recent Facebook Developer Garage Ireland we should see plenty of entries from Ireland.]]></description>
+				<content:encoded><![CDATA[<p><a href='http://www.facebook.com/fbFund'>Facebook </a> recently announced their new
+<p><a href='http://www.facebook.com/note.php?note_id=56663429573&#038;ref=mf'>FBFund</a>.</p>
+<p>The fbFund is a $10 million seed fund managed by Founders Fund, Accel Partners, and Facebook.			</p>
+<p>After the recent <a href='http://www.web2ireland.org/2009/02/24/facebook-garage-comes-to-dublin/'>Facebook Developer Garage Ireland</a> we should see plenty of entries from Ireland.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

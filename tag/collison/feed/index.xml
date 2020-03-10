@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; collison</title>
+	<atom:link href="/tag/collison/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The grand plan by Patrick Collison</title>
+		<link>/2009/06/the-grand-plan-by-patrick-collison/</link>
+		<comments>/2009/06/the-grand-plan-by-patrick-collison/#comments</comments>
+		<pubDate>Mon, 08 Jun 2009 14:26:46 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[auctomatic]]></category>
+		<category><![CDATA[collison]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1225</guid>
+		<description><![CDATA[Patrick Collison, founder of Auctomatic, which was acquired last year [and alumni from Y Combinator] has a piece in today&#8217;s Irish Times &#8211; titled &#8220;The Grand Plan&#8221; Patrick hits the nail on the head in his observations about seed funding in Ireland ================= Some extracts from article &#8220;Ireland has an abysmal record of encouraging technology [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.irishtimes.com/newspaper/images/boundedtile/2009/0608/1224248139138_1.jpg" alt="Patrick Collison (c) Irish Times" /></p>
+<p><a href="http://collison.ie/blog/">Patrick Collison</a>, founder of <a href="http://www.techcrunch.com/2008/03/26/communicate-acquires-y-combinator-startup-auctomatic-unveils-new-business-strategy/">Auctomatic, which was acquired last year</a> [and alumni from Y Combinator] has a piece in <a href="http://www.irishtimes.com/newspaper/innovation/2009/0608/1224248139138.html">today&#8217;s Irish Times</a> &#8211; titled &#8220;The Grand Plan&#8221;</p>
+<p>Patrick hits the nail on the head in his observations about <a href="http://www.web2ireland.org/2009/04/01/announcing-web2ireland-e10m-seed-fund/">seed funding in Ireland</a></p>
+<p>=================</p>
+<p>Some extracts from article</p>
+<p><em>&#8220;Ireland has an abysmal record of encouraging technology companies, especially start-ups. This is masked by our stellar ability to attract companies for financial reasons. Though we have a few truly great companies, we have mostly failed to create a start-up community w</em>orthy of the name. (Quick â€“ try to think of an Irish technology company with revenues of more than, say, â‚¬50 million.)</p>
+<p><em>And we might wonder: How could we possibly create a multitude of companies on the scale of Google, Yahoo, Sun, Facebook, Twitter and Cisco?</em></p>
+<p><em>Paul Graham, a well-known Valley investor, suggested a would-be start-up hub should give $1 million to each of 50 start-ups, just to get them to relocate. $50 million is a tiny amount of money when weighed against the benefits it would bring (itâ€™s less than a quarter of the cost of the regeneration of Croke Park). And yet, such a move would, overnight, turn Ireland into one of the biggest start-up hubs in the world.<br />
+</em></p>
+<p><em>Assuming we got start-ups to relocate, many would need funding. Silicon Valley has a huge number of angel and venture capital investors. Though Ireland could probably eventually grow something comparable given enough time, some sort of bootstrapping is likely to be required.<br />
+</em></p>
+<p><em>Two final ideas. Though full of good people, Enterprise Ireland still take several months to make most investment decisions. This is crazy â€“ it encourages good companies to get their money elsewhere.<br />
+</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/the-grand-plan-by-patrick-collison/feed/</wfw:commentRss>
+		<slash:comments>26</slash:comments>
+		</item>
+	</channel>
+</rss>

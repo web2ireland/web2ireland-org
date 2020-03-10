@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; kkopencoffee</title>
+	<atom:link href="/tag/kkopencoffee/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Kilkenny to have their first OpenCoffee this morning</title>
+		<link>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/</link>
+		<comments>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/#comments</comments>
+		<pubDate>Wed, 07 Jan 2009 08:03:20 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[kilkenny]]></category>
+		<category><![CDATA[kkopencoffee]]></category>
+		<category><![CDATA[occ]]></category>
+		<category><![CDATA[opencoffee]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=966</guid>
+		<description><![CDATA[Delighted to hear that the KK crew are finally having an OpenCoffee at 11.30 this morning inÂ the Kilkenny Cafe located downstairs in Market Cross Shopping Centre. They join Cork, Limerick, Dublin, Waterford, Belfast and Galway as an OCC location.Â  If you are based anywhere in the South-East, it&#8217;ll be worth checking out. We have people [...]]]></description>
+				<content:encoded><![CDATA[<p>Delighted to hear that the KK crew are finally having an <a href="http://www.kenmc.com/2009/01/06/kilkenny-open-coffee-its-a-possibility-its-this-week/">OpenCoffee at 11.30 this morning</a> inÂ the Kilkenny Cafe located downstairs in Market Cross Shopping Centre.</p>
+<p><img class="alignnone" title="OpenCoffee" src="http://api.ning.com/files/XDDuBQP6C2baO3IKaWDOHa8TLZjsb9HNdef87*4xam4=?width=458&amp;height=65&amp;xn_auth=no&amp;type=png" alt="" width="458" height="65" /></p>
+<p>They join Cork, Limerick, Dublin, Waterford, Belfast and Galway as an <a href="http://opencoffee.ning.com/">OCC</a> location.Â </p>
+<p>If you are based anywhere in the South-East, it&#8217;ll be worth checking out. We have people driving 30+ miles to Cork OCC on a regular basis, so hopefully they&#8217;ll have attendees from Wexford, Waterford, Carlow, Tipperary, Offaly etc.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; techovate2012</title>
+	<atom:link href="/tag/techovate2012/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Techovate Biz-Tech Conference in Wexford looks good</title>
+		<link>/2012/03/techovate-biz-tech-conference-in-wexford-looks-good/</link>
+		<comments>/2012/03/techovate-biz-tech-conference-in-wexford-looks-good/#comments</comments>
+		<pubDate>Fri, 16 Mar 2012 10:23:55 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[techovate]]></category>
+		<category><![CDATA[techovate12]]></category>
+		<category><![CDATA[techovate2012]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2195</guid>
+		<description><![CDATA[I just found out the details of the Techovate conference that is on in Wexford Opera House next Wed/Thu. It&#8217;s about the intersection of technology and business, a subject dear to my heart. You&#8217;ll hear from execs in Microsoft, Google, IBM, Facebook, CISCO, LinkedIn and others. More importantly, unlike some other conferences, you&#8217;ll actually get [...]]]></description>
+				<content:encoded><![CDATA[<p>I just found out the details of the <a href="http://www.eventelephant.com/techovate2012">Techovate conference</a> that is on in Wexford Opera House next Wed/Thu. It&#8217;s about the intersection of technology and business, a subject dear to my heart.</p>
+<p style="text-align: center;"><a href="http://www.eventelephant.com/techovate2012"><img class="size-full wp-image-2196 aligncenter" title="techovate" src="http://www.web2ireland.org/wp-content/uploads/2012/03/techovate.png" alt="" width="374" height="138" /></a></p>
+<p>You&#8217;ll hear from execs in Microsoft, Google, IBM, Facebook, CISCO, LinkedIn and others. More importantly, unlike some other conferences, you&#8217;ll actually get to talk and network with them.</p>
+<p>The <a href="http://www.eventelephant.com/techovate2012/pages/ProgrammeMarch22.htm">programme</a> is jam packed and covers a wide range of topics. Plenty of learning and sharing to be had. A one day ticket is only €175, which is a bargain compared to a lot of the event gouging that is going on at the moment.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/03/techovate-biz-tech-conference-in-wexford-looks-good/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; mediacube</title>
+	<atom:link href="/tag/mediacube/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Innovate Media event in Dublin on 17th Dec, 2008</title>
+		<link>/2008/12/innovate-media-event-in-dublin-on-17th-dec-2008/</link>
+		<comments>/2008/12/innovate-media-event-in-dublin-on-17th-dec-2008/#comments</comments>
+		<pubDate>Tue, 16 Dec 2008 15:50:44 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[digitalmediaisland]]></category>
+		<category><![CDATA[IADT]]></category>
+		<category><![CDATA[mediacube]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=927</guid>
+		<description><![CDATA[Anton has the details on the Innovate Media event tomorrow In partnership with the Media Cube at IADT, its a Mini-conference, networking event and breakfast for digital media companies focusing on those who have come through the many incubation centres around the country. When: Wednesday the 17th of December commencing at 8.30 a.m. There is [...]]]></description>
+				<content:encoded><![CDATA[<p>Anton has the details on the <a href="http://digitalmediaisland.com/on-tour/innovate-media/">Innovate Media </a> event tomorrow</p>
+<p>In partnership with the Media Cube at IADT, its a Mini-conference, networking event and breakfast for digital media companies focusing on those who have come through the many incubation centres around the country.</p>
+<p>When: Wednesday the 17th of December commencing at 8.30 a.m. There is no attendance fee and breakfast will be provided.</p>
+<p>Where: The Media Cube, IADT, Dun Laoghaire.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/innovate-media-event-in-dublin-on-17th-dec-2008/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

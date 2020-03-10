@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; automattic</title>
+	<atom:link href="/tag/automattic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Automattic Moving to Sligo</title>
+		<link>/2008/10/automattic-moving-to-sligo/</link>
+		<comments>/2008/10/automattic-moving-to-sligo/#comments</comments>
+		<pubDate>Wed, 15 Oct 2008 23:36:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[automattic]]></category>
+		<category><![CDATA[david lenehan]]></category>
+		<category><![CDATA[infacta]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=811</guid>
+		<description><![CDATA[OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the PollDaddy acquisition has been amazing in a few short hours. Here&#8217;s just a sample: Â  Matt&#8217;s Blog Â  PollDaddy Blog Â  WordPress Blog Â  Toni Schneider&#8217;s Blog (with nice mention of Fergus) Â  Donncha from [...]]]></description>
+				<content:encoded><![CDATA[<p>OK, they aren&#8217;t really but Sligo is actually their first commercial office outside of the US. The coverage of the <a href="http://www.polldaddy.com/">PollDaddy</a> acquisition has been amazing in a few short hours. Here&#8217;s just a sample:</p>
+<p>Â </p>
+<ul>
+<li><a href="http://ma.tt/2008/10/polldaddy-goes-automattic/">Matt&#8217;s Blog</a><br />
+Â </li>
+<li><a href="http://polldaddyblog.wordpress.com/2008/10/15/automattic-acquires-polldaddy/">PollDaddy Blog</a><br />
+Â </li>
+<li><a href="http://en.blog.wordpress.com/2008/10/15/polldaddy/">WordPress Blog</a><br />
+Â </li>
+<li><a href="http://toni.org/2008/10/15/welcome-polldaddy/">Toni Schneider&#8217;s Blog</a> (with nice mention of Fergus)<br />
+Â </li>
+<li><a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha from the People&#8217;s Republic branch of Automattic</a><br />
+Â </li>
+<li><a href="http://mashable.com/2008/10/15/breaking-automattic-acquires-polldaddy/">Mashable</a><br />
+Â </li>
+<li><a href="http://www.techcrunch.com/2008/10/15/wordpress-acquires-irish-startup-polldaddy/">Techcrunch USA</a><br />
+Â </li>
+<li><a href="http://www.readwriteweb.com/archives/automattic_acquires_polldaddy.php">ReadWriteWeb</a></li>
+</ul>
+<p>Â </p>
+<p>It&#8217;s currently top story on <a href="http://www.techmeme.com/">Techmeme</a>.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg"><img class="alignnone size-full wp-image-812" title="techmeme" src="http://www.web2ireland.org/wp-content/uploads/2008/10/techmeme.jpg" alt="" width="500" height="367" /></a></p>
+<p>Lovely picture of the crew on <a href="http://ocaoimh.ie/2008/10/15/polldaddy-join-the-automattic-family/">Donncha&#8217;s blog</a>:</p>
+<p><img class="alignnone" title="Automattic Crew" src="http://en.blog.files.wordpress.com/2008/10/mcm_2583.jpg?w=600" alt="" width="600" height="477" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/10/automattic-moving-to-sligo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

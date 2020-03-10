@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; bigfish</title>
+	<atom:link href="/tag/bigfish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Big Fish Games is opening a European Headquarters in Cork, Ireland</title>
+		<link>/2009/04/big-fish-games-is-opening-a-european-headquarters-in-cork-ireland/</link>
+		<comments>/2009/04/big-fish-games-is-opening-a-european-headquarters-in-cork-ireland/#comments</comments>
+		<pubDate>Thu, 09 Apr 2009 21:31:15 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[bigfish]]></category>
+		<category><![CDATA[idaireland]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1113</guid>
+		<description><![CDATA[According to IDA Ireland &#8211; &#8220;Big Fish Games, Inc., that the company is opening a European Headquarters at City Gate Business Park at Mahon in Cork City. Big Fish Games is the worldâ€™s leading online destination for interactive entertainment, including downloadable, community and massively multi-player online games. The new office will focus on multilingual European [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.crunchbase.com/assets/images/resized/0002/5010/25010v4-max-250x250.jpg" alt="BigFish" /></p>
+<p>According to <a href='http://www.idaireland.com/home/news.aspx?id=9&#038;content_id=1040'>IDA Ireland</a> &#8211; &#8220;<a href='http://www.bigfishgames.com/company/'>Big Fish Games, Inc.</a>, that the company is opening a European Headquarters at City Gate Business Park at Mahon in Cork City. Big Fish Games is the worldâ€™s leading online destination for interactive entertainment, including downloadable, community and massively multi-player online games. The new office will focus on multilingual European customer support, games testing and localisation, and is expected to create up to 100 new jobs over the next three years. Recruitment is already underway for people with localisation skills and the capability to communicate effectively with its customers, particularly in French, German and Spanish.&#8221;		</p>
+<p>Positive news for Ireland &#8211; and for the community.</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/company/big-fish-games">Big Fish Games</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/company/big-fish-games.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/big-fish-games-is-opening-a-european-headquarters-in-cork-ireland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

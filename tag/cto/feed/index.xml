@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cto</title>
+	<atom:link href="/tag/cto/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>iFoods.tv looking for CTO</title>
+		<link>/2008/09/ifoodstv-looking-for-cto/</link>
+		<comments>/2008/09/ifoodstv-looking-for-cto/#comments</comments>
+		<pubDate>Tue, 09 Sep 2008 10:20:51 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Jobs]]></category>
+		<category><![CDATA[cto]]></category>
+		<category><![CDATA[ifoods]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[webdev]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=709</guid>
+		<description><![CDATA[The iFoods guys, who were recently on Dragon&#8217;s Den, are looking for a CTO. Job spec below. Seeking a talented and experience Web Developer (Chief Technical Officer). If you are creative, experience and eager to generate and communicate your ideas &#8211; this might be the job for you. You will play an important role and [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href=" http://ifoods.tv/web/about-us.jsp">iFoods</a> guys, who were recently on Dragon&#8217;s Den, are looking for a CTO. Job spec below.</p>
+<p><img class="alignnone" title="iFoods" src="http://ifoods.tv/web/images/logo-letscook.jpg" alt="" width="306" height="154" /></p>
+<blockquote><p>Seeking a talented and experience Web Developer (Chief Technical Officer). If you are creative, experience and eager to generate and communicate your ideas &#8211; this might be the job for you. You will play an important role and will be responsible for the website development, design clustering Tomcat/Apahe/MySQL, technical issues resolution.</p>
+<p>You would need to be proficient in computer science (BA in IT) with a minimum of 5 years experience, have a capability to generate ideas and communicate them to the company management. You would have strong analytical skills, desire to work as a team member and a potential to lead a team.</p>
+<p>Some of job tasks will include:<br />
+1. Deliver and manage each stage of the project lifecycle of web applications<br />
+2. Develop solutions using JavaScript, D/HTML, JSP, Hibernate, MySQL, AJAX, CSS (running on Redhat.Apache, Tomcat)<br />
+3. Identify and apply the newest technologies<br />
+4. Lead and supervise the team of web developers</p>
+<p>We will offer:</p>
+<p>* Challenging technical projects in a dynamic environment<br />
+* Strong compensation depending on your experience<br />
+* Central office location (Thomas street)<br />
+* Rapid career progression</p></blockquote>
+<p>Apply via <a href="https://www.irishjobs.ie/JobDesc.asp?ID=5733801&amp;MID=1875">Irishjobs.ie here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/ifoodstv-looking-for-cto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

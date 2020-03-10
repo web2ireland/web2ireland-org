@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; directski</title>
+	<atom:link href="/tag/directski/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Companies in Deloitte Technology Fast 50 2009 winners</title>
+		<link>/2009/10/web2ireland-companies-in-deloitte-technology-fast-50-2009-winners/</link>
+		<comments>/2009/10/web2ireland-companies-in-deloitte-technology-fast-50-2009-winners/#comments</comments>
+		<pubDate>Wed, 28 Oct 2009 07:44:08 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cartrawler]]></category>
+		<category><![CDATA[Daft]]></category>
+		<category><![CDATA[deloitte]]></category>
+		<category><![CDATA[directski]]></category>
+		<category><![CDATA[exoftware]]></category>
+		<category><![CDATA[Fast50]]></category>
+		<category><![CDATA[hosting365]]></category>
+		<category><![CDATA[iqqontent]]></category>
+		<category><![CDATA[lincor]]></category>
+		<category><![CDATA[newbay]]></category>
+		<category><![CDATA[newsweaver]]></category>
+		<category><![CDATA[saadian]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1538</guid>
+		<description><![CDATA[At the recent Deloitte Technology Fast 50 Awards, quite a few Web2Ireland companies were represented. Daft Media achieved the top ranking in this yearâ€™s Deloitte Technology Fast 50 Awards. Others included Lincor Solutions, Newbay, Car Trawler, IQ Content, Exoftware, DirectSki, Newsweaver, Saadian, Hosting365, etc. Check out the Top 50 here]]></description>
+				<content:encoded><![CDATA[<p>At the recent <a href="http://www.deloitte.com/view/en_IE/ie/news/ie-pressreleases-en/press-release/10a18d6007c54210VgnVCM100000ba42f00aRCRD.htm">Deloitte Technology Fast 50 Awards</a>, quite a few Web2Ireland companies were represented.</p>
+<p><a href="http://www.daft.ie/content/about.daft">Daft Media</a> achieved the top ranking in this yearâ€™s Deloitte Technology Fast 50 Awards.</p>
+<p>Others included Lincor Solutions, Newbay, Car Trawler, IQ Content, Exoftware, DirectSki, Newsweaver, Saadian, Hosting365, etc.</p>
+<p><a href="http://www.deloitte.com/view/en_IE/ie/industries/tmt/technology-fast50-awards/winners/index.htm">Check out the Top 50 here</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/web2ireland-companies-in-deloitte-technology-fast-50-2009-winners/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

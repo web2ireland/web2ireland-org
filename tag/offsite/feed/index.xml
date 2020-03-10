@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; offsite</title>
+	<atom:link href="/tag/offsite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>West Cork&#8217;s First Major Tech Conference &#8211; OFFSITE</title>
+		<link>/2012/09/west-corks-first-major-tech-conference-offsite/</link>
+		<comments>/2012/09/west-corks-first-major-tech-conference-offsite/#comments</comments>
+		<pubDate>Mon, 03 Sep 2012 09:24:37 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[offsite]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2209</guid>
+		<description><![CDATA[The lovely people down at WCDP (West Cork Development Partnership) in Clonakilty, have just announced an all-new Tech Conference called OFFSITE. I&#8217;m really pleased they are doing this, and not just because I&#8217;m one of the speakers. There is a huge amount of tech activity happening in Munster but all of those companies rarely get [...]]]></description>
+				<content:encoded><![CDATA[<p>The lovely people down at <a href="http://www.wcdp.ie/">WCDP </a>(West Cork Development Partnership) in Clonakilty, have just announced an all-new Tech Conference called <a href="http://offsite.ie/">OFFSITE</a>.</p>
+<p style="text-align: center;"><a href="http://offsite.ie/event-agenda/"><img class="aligncenter  wp-image-2210" title="header-bg" src="http://www.web2ireland.org/wp-content/uploads/2012/09/header-bg.png" alt="" width="500" height="101" /></a></p>
+<p>I&#8217;m really pleased they are doing this, and not just because I&#8217;m one of the speakers. There is a huge amount of tech activity happening in Munster but all of those companies rarely get a chance to meet and share ideas, knowledge or problems.</p>
+<p>OFFSITE aims to get us all in the one place for a day and do exactly that. In addition to great speakers like Jerry Kennelly, John Dennehy, Donal Cahalane and Ger Keohane, they are also experimenting with a BarCamp session where anyone can offer to speak on anything in the tech sphere. Like all BarCamps, no self-pimpage will be allowed.</p>
+<p>The other great aspect of the event is cost. Not €1900, not €900, it&#8217;s just €40 to cover those bits that WCDP isn&#8217;t allowed to sponsor. That includes lunch and coffee breaks.</p>
+<p>Head on over and <a href="http://offsite2012.eventbrite.ie/">register</a>. It&#8217;s on Thursday 27 September in the Celtic Ross Hotel, Rosscarbery, just a few miles from Clonakilty.</p>
+<p>I hope we see people from across the country attending. This could be the start of something special.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/09/west-corks-first-major-tech-conference-offsite/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

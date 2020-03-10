@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ewrite</title>
+	<atom:link href="/tag/ewrite/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>The Tuesday Push is eWrite Lite</title>
+		<link>/2008/09/the-tuesday-push-is-ewrite-lite/</link>
+		<comments>/2008/09/the-tuesday-push-is-ewrite-lite/#comments</comments>
+		<pubDate>Tue, 09 Sep 2008 17:51:30 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[ewrite]]></category>
+		<category><![CDATA[ewrite lite]]></category>
+		<category><![CDATA[gordon murray]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=711</guid>
+		<description><![CDATA[This week&#8217;s Push is Cork-based eWrite Lite, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite [...]]]></description>
+				<content:encoded><![CDATA[<p>This <a href="http://www.mulley.net/2008/09/09/tuesday-push-9th-september-2008-ewrite-lite/">week&#8217;s Push</a> is Cork-based <a href="http://www.ewritecork.com/">eWrite Lite</a>, a suite of tools built around a CMS to enable SMEs to get online cheaply and easily. If I hear of one more SME having to pay a web-designer every time they want the content on their site updated, I&#8217;m going to start naming and shaming. eWrite Lite is perfect for those many small companies out there who are paying through the nose to get simple sites developed and maintained.</p>
+<p><img class="alignnone" title="eWrite Lite" src="http://www.ewritecork.com/media/ewrite_lite_and_messenger.jpg" alt="" width="600" height="420" /></p>
+<p>Check it out and blog about your impressions of it.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/the-tuesday-push-is-ewrite-lite/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Want to help (or need help) applying to Seedcamp</title>
+		<link>/2008/07/want-to-help-or-need-help-applying-to-seedcamp/</link>
+		<comments>/2008/07/want-to-help-or-need-help-applying-to-seedcamp/#comments</comments>
+		<pubDate>Wed, 23 Jul 2008 08:18:10 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[ewrite]]></category>
+		<category><![CDATA[seedcamp]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=660</guid>
+		<description><![CDATA[Gordon Murray of eWrite has come up with a brilliant suggestion for SeedCamp. He thinks we should crowdsource some of the applications. Of course, this exercise will also help those who want to apply for SeedCorn and other similar competitions. There are plenty of people who have experience in filling out application forms for the [...]]]></description>
+				<content:encoded><![CDATA[<p>Gordon Murray of <a href="http://ewritelite.com/">eWrite</a> has come up with a brilliant suggestion for <a href="http://seedcamp.com/">SeedCamp</a>. He thinks we should crowdsource some of the applications. Of course, this exercise will also help those who want to apply for <a href="http://www.seedcorncompetition.com/home.htm">SeedCorn</a> and other similar competitions.</p>
+<p>There are plenty of people who have experience in filling out application forms for the likes of Incubation Programmes, EI Grants, the SeedCorn competition etc. Why not use that expertise to help those applying to SeedCamp who may never have dealt with this sort of thing before?</p>
+<p>So yet another call for interest. If there are sufficient numbers in Cork then Gordon will arrange a meeting room in the Oriel House Hotel in Ballincollig for a morning. Those who want to apply and those who want to help can come together, figure out a strong message for each applicant and hopefully help them do better in the process.</p>
+<p>If it works well, there is no reason this can&#8217;t be repeated in Dublin and elsewhere.</p>
+<p>Usual story, fill out the poll (this one is for Cork only!) and ideally leave a comment or mail Gordon (gordon AT ewrite DOT ie) with some info about yourself. This is a very short term thing so the poll will close on Friday.</p>
+<p><script type="text/javascript" language="javascript" src="http://s3.polldaddy.com/p/808123.js"></script><br />
+<noscript> <a href ="http://answers.polldaddy.com/poll/808123/" >Would you attend a session on applying for Seedcamp?</a>  <br/> <span style="font-size:9px;"> (<a href ="http://www.polldaddy.com/">  surveys</a>)</span></noscript>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/want-to-help-or-need-help-applying-to-seedcamp/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

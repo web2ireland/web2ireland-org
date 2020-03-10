@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; linkedin</title>
+	<atom:link href="/tag/linkedin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>LoopThing Business Social Network Launches</title>
+		<link>/2009/04/loopthing-business-social-network-launches/</link>
+		<comments>/2009/04/loopthing-business-social-network-launches/#comments</comments>
+		<pubDate>Thu, 16 Apr 2009 18:59:28 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[linkedin]]></category>
+		<category><![CDATA[loopthing]]></category>
+		<category><![CDATA[social networks]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1125</guid>
+		<description><![CDATA[Joseph Kelly let us know that LoopThing went live this week. It&#8217;s a business social network that starts with a simple directory and builds from there. You can register your company and enter all the relevant details about the business. Others can then be friends/fans and interact with you on the site. They also have [...]]]></description>
+				<content:encoded><![CDATA[<p>Joseph Kelly let us know that <a href="http://www.loopthing.com/">LoopThing</a> went live this week. It&#8217;s a business social network that starts with a simple directory and builds from there. You can register your company and enter all the relevant details about the business. Others can then be friends/fans and interact with you on the site. They also have a ratings system and the ability to share files and media.</p>
+<p style="text-align: center;"><a href="http://www.loopthing.com/"><img class="size-medium wp-image-1126 aligncenter" title="loopthing" src="http://www.web2ireland.org/wp-content/uploads/2009/04/loopthing-300x196.jpg" alt="loopthing" width="300" height="196" /></a></p>
+<p>One particular aspect of the site which works very well is its openness. All of the information and interactions are there for all to see rather than requiring logins and rights management.</p>
+<p>Whilst LinkedIn has become a huge site, I always feel it misses the mark. I go in to add or reply to connections and immediately leave. The groups feature has also become a quagmire of marketeers/spammers/recruiters. There is still lots of opportunity for other business social networks to grow and it&#8217;ll be interesting to see how LoopThing gets on.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/loopthing-business-social-network-launches/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

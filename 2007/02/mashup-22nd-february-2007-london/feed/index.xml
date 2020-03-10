@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: mashup* &#8211; 22nd February 2007 &#8211; London</title>
+	<atom:link href="/2007/02/mashup-22nd-february-2007-london/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/02/mashup-22nd-february-2007-london/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Paul Walsh</title>
+		<link>/2007/02/mashup-22nd-february-2007-london/#comment-282</link>
+		<dc:creator>Paul Walsh</dc:creator>
+		<pubDate>Thu, 15 Feb 2007 01:25:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=262#comment-282</guid>
+		<description><![CDATA[Look forward to seeing you there Robin!]]></description>
+		<content:encoded><![CDATA[<p>Look forward to seeing you there Robin!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robin Blandford</title>
+		<link>/2007/02/mashup-22nd-february-2007-london/#comment-281</link>
+		<dc:creator>Robin Blandford</dc:creator>
+		<pubDate>Wed, 14 Feb 2007 13:56:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=262#comment-281</guid>
+		<description><![CDATA[Yeh - I&#039;m booked in for this one already.
+http://www.bytesurgery.com/blog/2007/02/02/ill-be-at-mashup-london-will-you/
+
+see you there.]]></description>
+		<content:encoded><![CDATA[<p>Yeh &#8211; I&#8217;m booked in for this one already.<br />
+<a href="http://www.bytesurgery.com/blog/2007/02/02/ill-be-at-mashup-london-will-you/" rel="nofollow">http://www.bytesurgery.com/blog/2007/02/02/ill-be-at-mashup-london-will-you/</a></p>
+<p>see you there.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

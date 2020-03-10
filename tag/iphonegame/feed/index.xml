@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; iphonegame</title>
+	<atom:link href="/tag/iphonegame/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Galway based TribalCity launch first iPhone game Into the Twilight which reaches number 1 in its category in 15 countries</title>
+		<link>/2010/07/galway-based-tribalcity-launch-first-iphone-game-into-the-twilight-which-reaches-number-1-in-its-category-in-15-countries/</link>
+		<comments>/2010/07/galway-based-tribalcity-launch-first-iphone-game-into-the-twilight-which-reaches-number-1-in-its-category-in-15-countries/#comments</comments>
+		<pubDate>Wed, 14 Jul 2010 16:47:09 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[AlanDuggan]]></category>
+		<category><![CDATA[FacebookGames]]></category>
+		<category><![CDATA[Galway]]></category>
+		<category><![CDATA[iphonegame]]></category>
+		<category><![CDATA[tribalcity]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1817</guid>
+		<description><![CDATA[TribalCity launched iphone game Into the Twilight which has reached number 1 in its category in 15 countries in its first three weeks on the App Store. You can grab the game here They have a series of games coming out for smartphones and Facebook over the next few months, according to co-founder Alan Duggan.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://tribalcity.com/"><img src="http://www.web2ireland.org/wp-content/uploads/2010/07/TCI_Logo.png" alt="" title="TCI_Logo" width="364" height="181" class="alignleft size-full wp-image-1823" /></a></p>
+<p><a href="http://www.tribalcity.com/">TribalCity</a> launched iphone game <a href="http://www.tribalcity.com/portfolio/twilight/">Into the Twilight</a> which has <a href="http://www.tribalcity.com/blog/into-the-twilight-for-iphone-update/">reached number 1 in its category in 15 countries in its first three weeks on the App Store. </a></p>
+<p><img alt="" src="http://www.tribalcity.com/wp-content/uploads/2010/07/TCITW-SS11-e1278430844625.png" title="Into the Twilight" class="alignnone" width="480" height="320" /></p>
+<p><a href="http://itunes.apple.com/us/app/into-the-twilight/id376030490?mt=8">You can grab the game here</a></p>
+<p>They have a series of games coming out for smartphones and Facebook over the next few months, according to co-founder <a href="http://www.tribalcity.com/team/our-team/">Alan Duggan</a>. </p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/07/galway-based-tribalcity-launch-first-iphone-game-into-the-twilight-which-reaches-number-1-in-its-category-in-15-countries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

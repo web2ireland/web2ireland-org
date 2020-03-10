@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Community</title>
+	<atom:link href="/category/community/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>First Cork Coder Dojo Session</title>
+		<link>/2011/07/first-cork-coder-dojo-session/</link>
+		<comments>/2011/07/first-cork-coder-dojo-session/#comments</comments>
+		<pubDate>Sun, 17 Jul 2011 12:37:28 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[cork dojo]]></category>
+		<category><![CDATA[dojo]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2092</guid>
+		<description><![CDATA[The first Coder Dojo is opening on theÂ Saturday 23rd of July at the National Software Centre, Mahon, Cork. Registration is fromÂ 11am to 12pm and the session will run from 1pm to 5pm. They will be looking at the basics of coding in HTML and CSS and then having an open coding session. It&#8217;s open to [...]]]></description>
+				<content:encoded><![CDATA[<p>The first Coder Dojo is opening on theÂ Saturday 23rd of July at the<a href="http://codrcamp.com/?page_id=20"> National Software Centre</a>, Mahon, Cork. Registration is fromÂ 11am to 12pm and the session will run from 1pm to 5pm.</p>
+<p>They will be looking at the basics of coding in HTML and CSS and then having an open coding session.</p>
+<p>It&#8217;s open to all ages and all levels of experience, justÂ <a href="http://codrcamp.com/?page_id=13">register here online</a> .</p>
+<p>Head on over <a href="http://codrcamp.com/?p=26">to their blog</a> for more info.</p>
+<p>Note that they are also looking for volunteers and spaces in Galway and Limerick as well.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/first-cork-coder-dojo-session/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The Ireland API</title>
+		<link>/2011/01/the-ireland-api/</link>
+		<comments>/2011/01/the-ireland-api/#comments</comments>
+		<pubDate>Mon, 17 Jan 2011 18:43:01 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[govapi]]></category>
+		<category><![CDATA[open api]]></category>
+		<category><![CDATA[open data]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1990</guid>
+		<description><![CDATA[As anyone who has followed my writing over the years on various blogs knows, I have a particular bee in my bonnet about Government APIs and freeing all public sector data. Unless there is some absolute secrecy requirement on that data, it should be made available to the Irish people, to do with what they [...]]]></description>
+				<content:encoded><![CDATA[<p>As anyone who has followed my writing over the years on various blogs knows, I have a particular bee in my bonnet about <a href="http://www.web2ireland.org/2009/09/06/government-2-0-in-ireland/">Government APIs</a> and freeing all public sector data. Unless there is some absolute secrecy requirement on that data, it should be made available to the Irish people, to do with what they will.</p>
+<p>But I have lost lots of hair and gained lots of pounds waiting for it to happen here. I watch in despair as the UK and US race ahead and we sit here without even a bloody working postcode system. Just look at <a href="http://data.gov.uk/">data.gov.uk</a> in the UK or <a href="http://codeforamerica.org/">CodeForAmerica</a> in the US.</p>
+<p>So do we just sit and wait or do private sector companies and tech communities take the lead and show the Public Sector how it&#8217;s done? Do we lead by example rather than just brow-beating?</p>
+<p>We&#8217;ve already seen it happen, most notably with <a href="http://www.kildarestreet.com/">KildareStreet</a> but also with <a href="http://www.myloc8ion.com/">Loc8 postcodes</a>. People and businesses sick of waiting, solve the problems themselves by taking whatever poor public data there is already and doing something useful with it and on top of it.</p>
+<p>There has also been a recent community initiative with <a href="http://opendata.ie/">opendata.ie</a> to collect together available datasets but it doesn&#8217;t seem to have gained much momentum.</p>
+<p>So where else can we leverage exisiting datasets and groupings to benefit the country and those elsewhere who care deeply about Ireland?</p>
+<p>I think we should look again at the idea <a href="http://www.web2ireland.org/2010/03/02/gateway-ireland/#comment-243103">I mentioned way back</a> around the diaspora and genealogy. At the moment we have:</p>
+<ul>
+<li>Irish/UK/US historical census data</li>
+<li>National Library records</li>
+<li>Church records</li>
+<li>Geni data</li>
+<li>Ellis Island data</li>
+<li>Mormon Data</li>
+<li>Family Tree DNA Testing</li>
+<li>Facebook</li>
+<li> Twitter</li>
+<li> The living Irish Diaspora and their knowledge of their families</li>
+<li>Ordnance Survey Map data</li>
+<li>OpenStreetMap Data</li>
+<li>Phonebook data</li>
+<li>Irish emigrant groups around the world</li>
+<li>Irish-Americans working in thousands of tech companies</li>
+</ul>
+<p>Would it be possible to build an API around this data, starting simply and iterating out? Enabling people to search and mashup by names, dates, locations and Y chromosome? Think of the platforms that such a thing would enable? Now wire that into the social graph!</p>
+<p>If there was one co-ordinating organisation concerned with building the relationships needed to get this data and providing the APIs but letting people build any app they want, wouldn&#8217;t that be incredibly powerful?</p>
+<p>Such an org could co-ordinate with churches to have parishioners transcribe all of records that are still in paper form. They would have the clout to get access to currently-non-public government data. They could then help Government departments and state/semi-state bodies build good APIs on their data.</p>
+<p>They could also co-ordinate with all the emigrant groupings in UK, USA and elsewhere to fill in missing holes in records. Colleges could get involved. What about all the Alumni data?</p>
+<p>One or two simple but powerful example apps could be built to show what&#8217;s possible.</p>
+<p>Thoughts?</p>
+<p>Quick Poll:</p>
+<p>[polldaddy poll="4403590"]</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/the-ireland-api/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Free Conversion Rate Optimization worth â‚¬15k from Red Cardinal</title>
+		<link>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/</link>
+		<comments>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/#comments</comments>
+		<pubDate>Wed, 08 Apr 2009 15:32:54 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[conversion rate optimization]]></category>
+		<category><![CDATA[cro]]></category>
+		<category><![CDATA[red cardinal]]></category>
+		<category><![CDATA[seo]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1111</guid>
+		<description><![CDATA[Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer. Quite simply: 5 websites will each receive a free Conversion Rate Optimisation campaign worth â‚¬3,000; Red Cardinal will cover the costs of design and development, and pay all fees for a professional MVT software suite; Each campaign will be used as [...]]]></description>
+				<content:encoded><![CDATA[<p>Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer.</p>
+<p style="text-align: center;"><a href="http://www.redcardinal.ie/"><img class="aligncenter" title="Red Cardinal SEO" src="http://www.redcardinal.ie/images/SEO-Ireland-Logo.png" alt="" width="371" height="163" /></a></p>
+<p>Quite simply:</p>
+<ul>
+<li>5 websites will each receive a free Conversion Rate Optimisation campaign worth â‚¬3,000;</li>
+<li>Red Cardinal will cover the costs of design and development, and pay all fees for a professional MVT software suite;</li>
+<li>Each campaign will be used as a case-study for a new venture Red Cardinal is launching;</li>
+<li>The offer is open to all Irish websites.</li>
+</ul>
+<p>All details<a href="http://www.redcardinal.ie/conversion-optimisation/06-04-2009/e15k-conversion-rate-optimisation-free-no-questions-asked/"> over on his blog</a>.</p>
+<p>He also has <a href="http://www.redcardinal.ie/conversion-optimisation/07-04-2009/conversion-rate-optimisation-testing-introduction/">a follow-up post here</a> if you want to know more about Conversion Rate Optimization.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/free-conversion-rate-optimization-worth-e15k-from-red-cardinal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Facebook &#8211; new fbFund launches &#8211; Web2Ireland companies opportunity</title>
+		<link>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/</link>
+		<comments>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/#comments</comments>
+		<pubDate>Thu, 19 Mar 2009 17:53:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[fbfund]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1067</guid>
+		<description><![CDATA[Facebook recently announced their new FBFund. The fbFund is a $10 million seed fund managed by Founders Fund, Accel Partners, and Facebook. After the recent Facebook Developer Garage Ireland we should see plenty of entries from Ireland.]]></description>
+				<content:encoded><![CDATA[<p><a href='http://www.facebook.com/fbFund'>Facebook </a> recently announced their new
+<p><a href='http://www.facebook.com/note.php?note_id=56663429573&#038;ref=mf'>FBFund</a>.</p>
+<p>The fbFund is a $10 million seed fund managed by Founders Fund, Accel Partners, and Facebook.			</p>
+<p>After the recent <a href='http://www.web2ireland.org/2009/02/24/facebook-garage-comes-to-dublin/'>Facebook Developer Garage Ireland</a> we should see plenty of entries from Ireland.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/facebook-new-fbfund-launches-web2ireland-companies-opportunity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Kilkenny to have their first OpenCoffee this morning</title>
+		<link>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/</link>
+		<comments>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/#comments</comments>
+		<pubDate>Wed, 07 Jan 2009 08:03:20 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[kilkenny]]></category>
+		<category><![CDATA[kkopencoffee]]></category>
+		<category><![CDATA[occ]]></category>
+		<category><![CDATA[opencoffee]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=966</guid>
+		<description><![CDATA[Delighted to hear that the KK crew are finally having an OpenCoffee at 11.30 this morning inÂ the Kilkenny Cafe located downstairs in Market Cross Shopping Centre. They join Cork, Limerick, Dublin, Waterford, Belfast and Galway as an OCC location.Â  If you are based anywhere in the South-East, it&#8217;ll be worth checking out. We have people [...]]]></description>
+				<content:encoded><![CDATA[<p>Delighted to hear that the KK crew are finally having an <a href="http://www.kenmc.com/2009/01/06/kilkenny-open-coffee-its-a-possibility-its-this-week/">OpenCoffee at 11.30 this morning</a> inÂ the Kilkenny Cafe located downstairs in Market Cross Shopping Centre.</p>
+<p><img class="alignnone" title="OpenCoffee" src="http://api.ning.com/files/XDDuBQP6C2baO3IKaWDOHa8TLZjsb9HNdef87*4xam4=?width=458&amp;height=65&amp;xn_auth=no&amp;type=png" alt="" width="458" height="65" /></p>
+<p>They join Cork, Limerick, Dublin, Waterford, Belfast and Galway as an <a href="http://opencoffee.ning.com/">OCC</a> location.Â </p>
+<p>If you are based anywhere in the South-East, it&#8217;ll be worth checking out. We have people driving 30+ miles to Cork OCC on a regular basis, so hopefully they&#8217;ll have attendees from Wexford, Waterford, Carlow, Tipperary, Offaly etc.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/kilkenny-to-have-their-first-opencoffee-this-morning/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>LeWeb &#8211; 10 great takeaways</title>
+		<link>/2008/12/leweb-10-great-takeaways/</link>
+		<comments>/2008/12/leweb-10-great-takeaways/#comments</comments>
+		<pubDate>Tue, 16 Dec 2008 17:21:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[avc]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[ida]]></category>
+		<category><![CDATA[leweb]]></category>
+		<category><![CDATA[leweb08]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[maxroam]]></category>
+		<category><![CDATA[nooked]]></category>
+		<category><![CDATA[softechvc]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=924</guid>
+		<description><![CDATA[I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways Meeting Irish in attendance Very low Irish presence &#8211; Pat Phelan from Maxroam, Conor O&#8217;Neill from Loudervoice [who also covered event for ReadwriteWeb] - Brian Bastible and colleagues from IDA Connecting with People Lots of great folks attending [...]]]></description>
+				<content:encoded><![CDATA[<p><img src="http://www.web2ireland.org/wp-content/uploads/2008/12/lewebbanner_dec08-300x69.jpg" alt="leweb" /></p>
+<p>I had a pleasure of attending LeWeb last week &#8211; and here are the top 10 takeaways</p>
+<p><strong>Meeting Irish in attendance</strong><br />
+Very low Irish presence &#8211; <a href="http://www.maxroam.com/">Pat Phelan from Maxroam</a>, Conor O&#8217;Neill  from Loudervoice [who also <a href="http://www.web2ireland.org/2008/12/11/lovin-le-web/">covered event</a> for <a href="http://www.readwriteweb.com/archives/le_web_2008.php">ReadwriteWeb</a>]<br />
+- <a href="http://www.linkedin.com/pub/5/40b/aa8">Brian Bastible</a> and colleagues from <a href="http://www.idaireland.com/">IDA</a></p>
+<p><strong>Connecting with People</strong><br />
+Lots of great folks attending from the US, UK, Germany, France and Spain.</p>
+<p><strong>Old School is best school</strong><br />
+Got to meet and chat with <a href="http://www.accmanpro.com/2008/12/11/leweb-le-wrap/">Dennis</a>, <a href="http://blogs.law.harvard.edu/doc/">Doc</a> and <a href="http://twitter.com/jobsworth">JP</a>. </p>
+<p><strong>Glimpse of future</strong><br />
+<a href="http://developers.facebook.com/news.php?blog=1&#038;story=176">Dave Morin</a> &#8211; <a href="http://developers.facebook.com/connect.php">facebook connect</a>, <a href="http://www.ustream.tv/recorded/962491">Marissa Mayer &#8211; Google</a>, and <a href="http://twitter.com/susanwu">Susan Wu</a> &#8211; <a href="http://www.ustream.tv/recorded/930724">Virtual Goods</a></p>
+<p><strong>Startups &#8211; no Irish&#8230; come on !!</strong><br />
+<a href="http://www.lewebparis.com/startup.html">Startup Competition </a> &#8211; some interesting startups &#8211; and very <a href="http://www.lewebparis.com/2008/12/leweb08-startup-winners.html">worthy  winner</a> &#8211; some Web2Ireland companies would have done well at this event&#8230;.</p>
+<p><strong>Failure &#8211; true stories</strong><br />
+<a href="http://lundxy.com/">Morten Lund</a> was <a href="http://patphelan.net/morten-lund-the-best-of-le-web/">one highlight of the event &#8211; off the cuff</a> &#8211; very honest in his story.</p>
+<p><strong>Funding is hard in Europe</strong><br />
+Lots of VCs in attendance [none from Ireland] &#8211; and the VC panel was interesting &#8211; <a href="http://www.ustream.tv/recorded/933026">see video</a>. Key themes &#8211; build products that VCs will use [Fred Wilson, Martin Varsasky, Jeff Clavier] &#8211; and they don&#8217;t really believe <a href="http://ouriel.typepad.com/myblog/2008/12/can-governments.html">Govt intervention @ funding</a> is key [more on that later] &#8211; and <a href="http://www.unionsquareventures.com/2008/11/boxee.html">NO doesnt mean NO</a>.</p>
+<p><strong>Go Big or Go Home</strong><br />
+Lots of usual talk @ <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">valley versus Europe</a> and can we build a big European web company. </p>
+<p><strong>Annual LeWeb bitch fight</strong><br />
+<a href="http://www.loiclemeur.com/english/2008/12/should-michael.html">Great fun</a> from <a href="http://www.techcrunch.com/2008/12/13/joie-de-vivre-the-europeans-are-out-to-lunch/">the sideline</a></p>
+<p><strong>Next Year</strong><br />
+Rumour has it that the <a href="http://kara.allthingsd.com/20070726/kara-and-walt-visit-the-irish-countryside-and-pretend-were-lords-of-the-manor/">International D Conference</a> will happen in Dublin next year</p>
+<p>And no doubt LeWeb 09 will be another enjoyable event.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/leweb-10-great-takeaways/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>A Cork Open Coffee on Friday the 19th of December</title>
+		<link>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/</link>
+		<comments>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/#comments</comments>
+		<pubDate>Sun, 07 Dec 2008 16:56:55 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[cork]]></category>
+		<category><![CDATA[december]]></category>
+		<category><![CDATA[open coffee]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=903</guid>
+		<description><![CDATA[Last week was the last Open Coffee for Cork for the year. It was assumed that people wouldn&#8217;t be free to attend a last Open Coffee on the 19th. This is a poll to see if anyone would be interested in attending. It could be a demo slot for someone if they would like to [...]]]></description>
+				<content:encoded><![CDATA[<p>Last week was the last Open Coffee for Cork for the year. It was assumed that people wouldn&#8217;t be free to attend a last Open Coffee on the 19th. This is a poll to see if anyone would be interested in attending. It could be a demo slot for someone if they would like to show off a new or existing app or it could be a social one in Luigi malones.</p>
+<p> <a href="http://answers.polldaddy.com/poll/1175210/">Will you attend an Open Coffee in Cork on Friday morning, the 19th of December?</a>  <br /> <span style="9px;"> (<a href="http://www.polldaddy.com/">  polls</a>)</span></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/an-cork-open-coffee-on-friday-the-19th-of-december/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>European Blogging/Journalism Competition</title>
+		<link>/2008/12/european-bloggingjournalism-competition/</link>
+		<comments>/2008/12/european-bloggingjournalism-competition/#comments</comments>
+		<pubDate>Wed, 03 Dec 2008 13:08:14 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[ejc]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[funding]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[thinkaboutit]]></category>
+		<category><![CDATA[trade]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=901</guid>
+		<description><![CDATA[Ruth Spencer from The European Journalism Centre (EJC) contacted me to let us know about The European Blogging Competition they are launching in Brussels from 25th to 27th of January coming. The theme is TH!NK ABOUT IT and the focus of the competition is the European Parliament Elections 2009. EJC wants to offer a platform [...]]]></description>
+				<content:encoded><![CDATA[<p>Ruth Spencer from The <a href="http://www.ejc.net/">European Journalism Centre (EJC)</a> contacted me to let us know about The European Blogging Competition they are launching in Brussels from 25th to 27th of January coming.</p>
+<p><img class="alignnone" title="ThinkAboutIt" src="http://thinkaboutit.eu/press/banner_468x60.png" alt="" width="468" height="60" /></p>
+<p>The theme is TH!NK ABOUT IT and the focus of the competition is the European Parliament Elections 2009. EJC wants to offer a platform for journalism students, aspiring journalists and bloggers to express their views on European topics as well as to report and cover the elections.</p>
+<p>They want to have three bloggers from each country attending the launch event and will cover the travel costs. The timeline is:</p>
+<p>Â </p>
+<ul>
+<li>Launch event: 25 January, 2009 &#8211; 27 January, 2009</li>
+<li>Blogging: 1 February, 2009 &#8211; 9 June, 2009</li>
+<li>Competition results: 12 June, 2009</li>
+</ul>
+<p>Â </p>
+<p>If this is of interest to you, read all the details and apply at <a href="http://www.thinkaboutit.eu/">www.thinkaboutit.eu</a></p>
+<p>If you are wondering what this has to do with Web2Ireland, I&#8217;d simply say that the direction the EU takes over the next few years, particularly in how it deals with a global recession, will have direct impact on start-ups here.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/european-bloggingjournalism-competition/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Grab em by the Shorts</title>
+		<link>/2008/11/grab-em-by-the-shorts/</link>
+		<comments>/2008/11/grab-em-by-the-shorts/#comments</comments>
+		<pubDate>Fri, 28 Nov 2008 16:48:16 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Web2.0 News]]></category>
+		<category><![CDATA[david coallier]]></category>
+		<category><![CDATA[gordon murray]]></category>
+		<category><![CDATA[iarfhlaith kelly]]></category>
+		<category><![CDATA[short]]></category>
+		<category><![CDATA[short.ie]]></category>
+		<category><![CDATA[url shortening]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=888</guid>
+		<description><![CDATA[Short.ie is a free URL shortening service allowing you to truncate long unfriendly web addresses into a short and easy to use URLs, perfect for email, IM, Twitter and Texts. This isnâ€™t the first URL shortening service but itâ€™s definitely my favourite for one main reason, the data it provides about the URLs I have [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://short.ie/">Short.ie</a> is a free URL shortening service allowing you to truncate long unfriendly web addresses into a short and easy to use URLs, perfect for email, IM, Twitter and Texts.</p>
+<p>This isnâ€™t the first URL shortening service but itâ€™s definitely my favourite for one main reason, the data it provides about the URLs I have shortened. When I shorten a URL, I can see how many people have clicked on the links.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/shortie_links.gif"><img class="aligncenter size-full wp-image-891" src="http://www.web2ireland.org/wp-content/uploads/2008/11/shortie_links.gif" alt="" width="263" height="210" /></a></p>
+<p>Of the many URL shortening services that exist, the majority provide super short URLs but I haven&#8217;t seen any that provide numbers on how many people clicked on my links. This can be very handy. You could send out a text or a mail shot and see how many people are clicking on your links.</p>
+<p>Or how about shortening your email address? Your email address is probably short enough already but it could be a great way to fool those email harvesting bots trawling your site for your email address.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/short.png"><img class="aligncenter size-full wp-image-889" src="http://www.web2ireland.org/wp-content/uploads/2008/11/short.png" alt="" width="500" height="109" /></a></p>
+<p>Short.ie is an open collaboration between <a href="http://www.iarfhlaith.com/">Iarfhlaith Kelly</a>, <a href="http://www.echolibre.com/">David Coallier</a> and <a href="http://www.ewritecork.com/">myself</a>. We have been adding new services to it, building out on the original idea. So far, hereâ€™s what weâ€™ve got:</p>
+<ul>
+<li>Regular URL Shortening</li>
+<li>Custom URL Shortening</li>
+<li>Click Tracking</li>
+<li>View All Shortened Links (per user)</li>
+<li>Content Recommendations</li>
+<li>An API</li>
+<li>A Firefox Plugin</li>
+<li>A bookmarklet for IE and FF.</li>
+</ul>
+<p>Weâ€™re also working on:</p>
+<ul>
+<li>Connecting people who link to the same things</li>
+<li>RSS feeds per registered user</li>
+<li>Displaying popular links on the homepage</li>
+<li>Displaying most influential users on the homepage (once we get avatars setup)</li>
+<li>Improving the content recommendation engine</li>
+<li>Promoting short.ie any way we can</li>
+</ul>
+<p>So far there are over 50 registered users ( Shorties? ) with over 700 URLs shortened and over 5,000 clicks of those URLs! See the chart below for this weeks usage.</p>
+<p><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/short_usage_graph.gif"><img class="aligncenter size-medium wp-image-890" src="http://www.web2ireland.org/wp-content/uploads/2008/11/short_usage_graph-300x239.gif" alt="" width="300" height="239" /></a><br />
+Weâ€™d love it if you could help spread the word. Weâ€™ve got a lot of plans for Short.ie, so if you havenâ€™t already seen it, <a href="http://short.ie/">start shortening some URLs</a> orÂ  <a href="http://twitter.com/shortdotie">follow Short.ie on Twitter</a>.</p>
+<h6 class="zemanta-related-title">Related articles by Zemanta</h6>
+<ul class="zemanta-article-ul">
+<li class="zemanta-article-ul-li"><a href="http://www.ewritecork.com/blog/2008/11/shortie-and-sweet/">Short.ie and sweet</a></li>
+<li class="zemanta-article-ul-li"><a href="http://www.iarfhlaith.com/2008/11/22/url-shortening-service-shortie">URL Shortening Service &#8211; Short.ie</a></li>
+</ul>
+<div class="zemanta-pixie" style="15px;"><a class="zemanta-pixie-a" title="Zemified by Zemanta" href="http://reblog.zemanta.com/zemified/c51d2fcf-c933-4bec-9a22-4320417c7402/"><img class="zemanta-pixie-img" src="http://img.zemanta.com/reblog_e.png?x-id=c51d2fcf-c933-4bec-9a22-4320417c7402" alt="Reblog this post [with Zemanta]" /></a></div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/grab-em-by-the-shorts/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Wahhhhh, no-one knows my company exists</title>
+		<link>/2008/11/wahhhhh-no-one-knows-my-company-exists/</link>
+		<comments>/2008/11/wahhhhh-no-one-knows-my-company-exists/#comments</comments>
+		<pubDate>Fri, 28 Nov 2008 14:45:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[crunchbase]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[techcrunch usa]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=884</guid>
+		<description><![CDATA[A never-ending conversation I have with other start-ups is how get their name visible, build profile and eventually get covered by one of the main Tech News sites. One way of kicking that off is to make sure your company is profiled on CrunchBase. We&#8217;ve recently started using the plug-in here on Web2Ireland to give [...]]]></description>
+				<content:encoded><![CDATA[<p>A never-ending conversation I have with other start-ups is how get their name visible, build profile and eventually get covered by one of the main Tech News sites.</p>
+<p>One way of kicking that off is to make sure your company is profiled on <a href="http://www.crunchbase.com/">CrunchBase</a>. We&#8217;ve recently started using the plug-in here on Web2Ireland to give extra context to stories. And ye know what? <a href="http://www.techcrunch.com/2008/11/28/crunchbase-are-you-in-it/">The TechCrunch guys love that we are</a>.</p>
+<p><img class="alignnone" title="CrunchBase" src="http://www.techcrunch.com/wp-content/uploads/2008/06/cb-logo.png" alt="" width="216" height="37" /></p>
+<p>It really is gratifying to know that the efforts made by the start-up community in Ireland are recognised by the guys in Silicon Valley.Â So what you waiting for, <a href="http://www.crunchbase.com/">sign up now</a>!</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/product/crunchbase">CrunchBase</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/product/crunchbase.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/wahhhhh-no-one-knows-my-company-exists/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

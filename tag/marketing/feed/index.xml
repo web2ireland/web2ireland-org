@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; Marketing</title>
+	<atom:link href="/tag/marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Wahhhhh, no-one knows my company exists</title>
+		<link>/2008/11/wahhhhh-no-one-knows-my-company-exists/</link>
+		<comments>/2008/11/wahhhhh-no-one-knows-my-company-exists/#comments</comments>
+		<pubDate>Fri, 28 Nov 2008 14:45:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[crunchbase]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[techcrunch]]></category>
+		<category><![CDATA[techcrunch usa]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=884</guid>
+		<description><![CDATA[A never-ending conversation I have with other start-ups is how get their name visible, build profile and eventually get covered by one of the main Tech News sites. One way of kicking that off is to make sure your company is profiled on CrunchBase. We&#8217;ve recently started using the plug-in here on Web2Ireland to give [...]]]></description>
+				<content:encoded><![CDATA[<p>A never-ending conversation I have with other start-ups is how get their name visible, build profile and eventually get covered by one of the main Tech News sites.</p>
+<p>One way of kicking that off is to make sure your company is profiled on <a href="http://www.crunchbase.com/">CrunchBase</a>. We&#8217;ve recently started using the plug-in here on Web2Ireland to give extra context to stories. And ye know what? <a href="http://www.techcrunch.com/2008/11/28/crunchbase-are-you-in-it/">The TechCrunch guys love that we are</a>.</p>
+<p><img class="alignnone" title="CrunchBase" src="http://www.techcrunch.com/wp-content/uploads/2008/06/cb-logo.png" alt="" width="216" height="37" /></p>
+<p>It really is gratifying to know that the efforts made by the start-up community in Ireland are recognised by the guys in Silicon Valley.Â So what you waiting for, <a href="http://www.crunchbase.com/">sign up now</a>!</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/product/crunchbase">CrunchBase</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/product/crunchbase.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/wahhhhh-no-one-knows-my-company-exists/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>In case you were in any doubt about the Tuesday Push</title>
+		<link>/2008/07/in-case-you-were-in-any-doubt-about-the-tuesday-push/</link>
+		<comments>/2008/07/in-case-you-were-in-any-doubt-about-the-tuesday-push/#comments</comments>
+		<pubDate>Fri, 18 Jul 2008 09:27:16 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Community]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<category><![CDATA[joe drumgoole]]></category>
+		<category><![CDATA[putplace]]></category>
+		<category><![CDATA[tuesday push]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=649</guid>
+		<description><![CDATA[Joe Drumgoole let us know that the outcome of the Tuesday Push on PutPlace far exceeded expectation: For us it increased our number of visitors on average four fold for the week in which we were pushed. This converted to double the previous weeks registrations. We weren&#8217;t running any other campaigns so I attribute that [...]]]></description>
+				<content:encoded><![CDATA[<p>Joe Drumgoole let us know that the outcome of the Tuesday Push on <a href="http://www.putplace.com/">PutPlace</a> far exceeded expectation:</p>
+<blockquote><p>For us it increased our number of visitors on average four fold for the week in which we were pushed. This converted to double the previous weeks registrations. We weren&#8217;t running any other campaigns so I attribute that all to the Tuesday push&#8230;.Basically one of the most cost effective marketing exercises we have done this year. </p></blockquote>
+<p>And <em>your</em> reason for not signing up for <a href="http://www.mulley.net/2008/07/15/the-tuesday-push-july-15th-2008-1time/">the push</a> is?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/07/in-case-you-were-in-any-doubt-about-the-tuesday-push/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

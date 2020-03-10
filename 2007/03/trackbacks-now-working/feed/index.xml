@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Trackbacks now working</title>
+	<atom:link href="/2007/03/trackbacks-now-working/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/03/trackbacks-now-working/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: conor</title>
+		<link>/2007/03/trackbacks-now-working/#comment-318</link>
+		<dc:creator>conor</dc:creator>
+		<pubDate>Fri, 16 Mar 2007 16:21:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=292#comment-318</guid>
+		<description><![CDATA[Paul, new URLs now in place and the old ones will redirect to them correctly.]]></description>
+		<content:encoded><![CDATA[<p>Paul, new URLs now in place and the old ones will redirect to them correctly.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kamil</title>
+		<link>/2007/03/trackbacks-now-working/#comment-317</link>
+		<dc:creator>Kamil</dc:creator>
+		<pubDate>Fri, 16 Mar 2007 08:19:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=292#comment-317</guid>
+		<description><![CDATA[Monika rocks!]]></description>
+		<content:encoded><![CDATA[<p>Monika rocks!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Conor O'Neill</title>
+		<link>/2007/03/trackbacks-now-working/#comment-316</link>
+		<dc:creator>Conor O'Neill</dc:creator>
+		<pubDate>Thu, 15 Mar 2007 21:21:01 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=292#comment-316</guid>
+		<description><![CDATA[Paul, it won&#039;t break existing posts but it will break any links on other blogs to existing posts, which is a concern.
+
+I prefer the date/name permalink approach too. I&#039;ll see what the consensus from the admins is.]]></description>
+		<content:encoded><![CDATA[<p>Paul, it won&#8217;t break existing posts but it will break any links on other blogs to existing posts, which is a concern.</p>
+<p>I prefer the date/name permalink approach too. I&#8217;ll see what the consensus from the admins is.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Walsh</title>
+		<link>/2007/03/trackbacks-now-working/#comment-315</link>
+		<dc:creator>Paul Walsh</dc:creator>
+		<pubDate>Thu, 15 Mar 2007 15:03:50 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=292#comment-315</guid>
+		<description><![CDATA[... sorry I should have added that I&#039;m an author (as you know) but don&#039;t have access to the .htaccess file.]]></description>
+		<content:encoded><![CDATA[<p>&#8230; sorry I should have added that I&#8217;m an author (as you know) but don&#8217;t have access to the .htaccess file.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Walsh</title>
+		<link>/2007/03/trackbacks-now-working/#comment-314</link>
+		<dc:creator>Paul Walsh</dc:creator>
+		<pubDate>Thu, 15 Mar 2007 15:02:59 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=292#comment-314</guid>
+		<description><![CDATA[Conor, can setup meaningful permalinks? Fergus said this would break previous posts but I&#039;m not sure it will. You can do this by adding /blog/%postname%/ to the custom field.]]></description>
+		<content:encoded><![CDATA[<p>Conor, can setup meaningful permalinks? Fergus said this would break previous posts but I&#8217;m not sure it will. You can do this by adding /blog/%postname%/ to the custom field.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

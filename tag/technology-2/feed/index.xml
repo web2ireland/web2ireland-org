@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; technology</title>
+	<atom:link href="/tag/technology-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Next #DWS Dublin Web Summit on March 8th</title>
+		<link>/2011/02/next-dws-dublin-web-summit-on-march-8th/</link>
+		<comments>/2011/02/next-dws-dublin-web-summit-on-march-8th/#comments</comments>
+		<pubDate>Mon, 21 Feb 2011 19:30:07 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[ireland]]></category>
+		<category><![CDATA[technology]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2048</guid>
+		<description><![CDATA[The Dublin Web Summit events just go from strength to strength. The next one is coming soon on March 8th in Trinity College. Some of the seriously impressive speakers they have lined up include: Stefan Glaenzer, Founder of Last.fm Ben Parr, Editor of Mashable Dan Cobley, Google&#8217;s Director of European Marketing Terry Clune, Founder of [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.dublinwebsummit.com/">Dublin Web Summit events</a> just go from strength to strength. The next one is coming soon on March 8th in Trinity College.</p>
+<p style="text-align: center;"><a href="http://www.dublinwebsummit.com/"><img class="aligncenter" title="Dublin Web Summit" src="http://www.dublinwebsummit.com/images/logo.gif" alt="" width="425" height="60" /></a></p>
+<p>Some of the seriously impressive speakers they have lined up include:</p>
+<ul>
+<li>Stefan Glaenzer, Founder of Last.fm</li>
+<li>Ben Parr, Editor of Mashable</li>
+<li>Dan Cobley, Google&#8217;s Director of European Marketing</li>
+<li>Terry Clune, Founder of Taxback.com</li>
+<li>Jerry Kennelly, Founder of Stockbyte</li>
+<li>John Hearne, Founder of Curam Software</li>
+<li>James Whelton, Hacker of iPod Nano</li>
+</ul>
+<p>In addition to the main event there is also a <a href="http://www.dublinwebsummit.com/pages/new-streams">Startup Bootcamp</a> during the day and networking drinks afterwards.</p>
+<p>Discounted tickets are available to DWS for startups / students and developers. Contact Alex@dublinwebsummit.com for details</p>
+<p>Don&#8217;t forget there is a Pub Summit this Thursday night in The Odeon. Sign-up is on <a href="http://www.eventbrite.com/event/1291503923/efblike">Eventbrite</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/next-dws-dublin-web-summit-on-march-8th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

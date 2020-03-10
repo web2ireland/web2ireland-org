@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; EamonnFallon</title>
+	<atom:link href="/tag/eamonnfallon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Property webservice Daft going Global</title>
+		<link>/2010/01/property-webservice-daft-going-global/</link>
+		<comments>/2010/01/property-webservice-daft-going-global/#comments</comments>
+		<pubDate>Wed, 20 Jan 2010 15:44:15 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[Daft]]></category>
+		<category><![CDATA[daft.pl]]></category>
+		<category><![CDATA[EamonnFallon]]></category>
+		<category><![CDATA[ec2]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1651</guid>
+		<description><![CDATA[Daft announced recently their Polish Property web service &#8211; Daft.pl The site is going live with about 60,000 properties across every major city and town in Poland. Approximately ten times larger than the Irish market, Poland has a population of 38 million. This is also the first Daft site to run entirely on Amazon EC2 [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.daft.pl/images/logo_main.png" title="Daft Poland" class="alignnone" width="194" height="60" /></p>
+<p><a href="http://blog.daft.ie/2010/01/daft_pl/">Daft announced</a> recently their <a href="http://www.daft.pl/">Polish Property</a> web service &#8211; <a href="http://www.daft.pl/">Daft.pl</a></p>
+<blockquote><p>The site is going live with about 60,000 properties across every major city and town in Poland.  Approximately ten times larger than the Irish market, Poland has a population of 38 million.</p></blockquote>
+<p>This is also the first Daft site to run entirely on <a href="http://aws.amazon.com/ec2/">Amazon EC2 Cloud platform</a>. </p>
+<p><a href="http://twitter.com/eamonnfallon">Eamonn Fallon</a>, founder of Daft, over IM informed us that &#8220;The site auto-scales which is a pretty cool technology. Yesterday we went from 3 servers to 18 at the peak and we didn&#8217;t have to really worry about it.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/property-webservice-daft-going-global/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

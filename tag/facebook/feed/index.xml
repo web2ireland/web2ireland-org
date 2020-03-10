@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; facebook</title>
+	<atom:link href="/tag/facebook/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>NewsWhip is what Digg V3 should always have been</title>
+		<link>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/</link>
+		<comments>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/#comments</comments>
+		<pubDate>Mon, 03 Oct 2011 14:24:46 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Companies]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[newswhip]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2110</guid>
+		<description><![CDATA[We all know what unmitigated disasters Digg V3 and later were. In a world of Twitter and Facebook they kept thinking it was still 2007. When V3 launched I said that it should have been built around the popular stories on Twitter since that&#8217;s what people are really interested in, rather than the closed coven [...]]]></description>
+				<content:encoded><![CDATA[<p>We all know what unmitigated disasters Digg V3 and later were. In a world of Twitter and Facebook they kept thinking it was still 2007. When V3 launched <a href="http://conoroneill.net/quick-thoughts-on-the-new-digg">I said</a> that it should have been built around the popular stories on Twitter since that&#8217;s what people are really interested in, rather than the closed coven of Digg power-users. So I was thrilled to see the recent launch of <a href="http://www.newswhip.com/">NewsWhip</a> which does exactly that.</p>
+<p>The site is an aggregation of popular news based on sharing and RTs across Twitter and Facebook. So there is no gaming, no moderation, just a smart algorithm bubbling up the hot news right now. They give a score to a news story by measuring how many Tweets, Likes, Shares, and other interactions it gets.You can filter by the location you are interested in and various categories and sub-categories.</p>
+<p><a href="http://www.newswhip.com/"><img class="size-full wp-image-2111 aligncenter" title="NewsWhip" src="http://www.web2ireland.org/wp-content/uploads/2011/10/newswhip.png" alt="" width="500" height="367" /></a></p>
+<p>At the moment the front page is showing some stories on the possible return of Arrested Development. That makes me very happy indeed.</p>
+<p>For a great snapshot of interesting news across the realtime web during the day, I think the guys have nailed it.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/newswhip-is-what-digg-v3-should-always-have-been/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Two Decks from Facebook Garage</title>
+		<link>/2011/03/two-decks-from-facebook-garage/</link>
+		<comments>/2011/03/two-decks-from-facebook-garage/#comments</comments>
+		<pubDate>Sat, 05 Mar 2011 15:32:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[facebook garage]]></category>
+		<category><![CDATA[facebook garage ireland]]></category>
+		<category><![CDATA[local social]]></category>
+		<category><![CDATA[right rental]]></category>
+		<category><![CDATA[rightrental]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2059</guid>
+		<description><![CDATA[Here are two of the Decks that were presented at the recent Facebook Garage in Gateway Ireland. RightRental: The Facebook Experience. View more presentations from Ben Arent Local Social: Local Social Overview Q1 2011 View more presentations from Web2 Ireland]]></description>
+				<content:encoded><![CDATA[<p>Here are two of the Decks that were presented at the recent Facebook Garage in Gateway Ireland.</p>
+<p><strong>RightRental:<br />
+</strong></p>
+<div style="width:425px" id="__ss_6880050"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/rightrental/the-facebook-experience" title="The Facebook Experience.">The Facebook Experience.</a></strong> <object id="__sse6880050" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=thefacebookexperience-fbgarage-110210093515-phpapp02&#038;stripped_title=the-facebook-experience&#038;userName=rightrental" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse6880050" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=thefacebookexperience-fbgarage-110210093515-phpapp02&#038;stripped_title=the-facebook-experience&#038;userName=rightrental" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+<div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/rightrental">Ben Arent</a> </div>
+</p></div>
+<p><strong>Local Social:<br />
+</strong></p>
+<div style="width:425px" id="__ss_7159597"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/web2ireland/local-social-overview-q1-2011" title="Local Social Overview Q1 2011">Local Social Overview Q1 2011</a></strong> <object id="__sse7159597" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=localsocialoverviewq12011-110305091552-phpapp02&#038;stripped_title=local-social-overview-q1-2011&#038;userName=web2ireland" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse7159597" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=localsocialoverviewq12011-110305091552-phpapp02&#038;stripped_title=local-social-overview-q1-2011&#038;userName=web2ireland" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object>
+<div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/">presentations</a> from <a href="http://www.slideshare.net/web2ireland">Web2 Ireland</a> </div>
+</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/two-decks-from-facebook-garage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Garage Ireland &#8211; Feb 9th &#8211; Gateway House</title>
+		<link>/2011/01/facebook-garage-ireland-feb-9th-gateway-house/</link>
+		<comments>/2011/01/facebook-garage-ireland-feb-9th-gateway-house/#comments</comments>
+		<pubDate>Tue, 25 Jan 2011 11:06:53 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[facebook developer garage]]></category>
+		<category><![CDATA[facebook garage]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2003</guid>
+		<description><![CDATA[The next Facebook Developer Garage is on Wednesday February 9th in Gateway House, Dublin from 5pm-7pm. If you are interested in speaking, please contact web2ireland.editor@gmail.com Some of the hot topics which we can expect to hear about include: Facebook Places Facebook Credits Gaming fCommerce If you have interest in any aspect of where Facebook is [...]]]></description>
+				<content:encoded><![CDATA[<p>The next Facebook Developer Garage is on Wednesday February 9th in Gateway House, Dublin from 5pm-7pm. If you are interested in speaking, please contact web2ireland.editor@gmail.com</p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2011/01/369488149.jpg"><img class="size-full wp-image-2004  aligncenter" title="369488149" src="http://www.web2ireland.org/wp-content/uploads/2011/01/369488149.jpg" alt="" width="132" height="200" /></a></p>
+<p>Some of the hot topics which we can expect to hear about include:</p>
+<ul>
+<li>Facebook Places</li>
+<li>Facebook Credits</li>
+<li>Gaming</li>
+<li>fCommerce</li>
+</ul>
+<p>If you have interest in any aspect of where Facebook is going, you should attend. It is free but <strong>you must <a href="http://fbgarageirlq111.eventbrite.com/">register over on Eventbrite</a></strong>.</p>
+<p>The Gateway House venue at 133 Capel Street (top of Mary Street and just left) is very interesting too. It is the former tram station:</p>
+<blockquote>
+<div id="_mcePaste">The aim of Gateway House is to provide a dynamic environment for establishedÂ companies in the area of online activities. We will build clusters of like-minded peopleÂ and initiatives who will build synergies with Gateway Ireland. Together we aim to beÂ part of a movement to innovate and reinvigorate Ireland.Â A number of relevant companies have already committed to joining us in GatewayÂ House.</div>
+</blockquote>
+<p>Hope to see you there. If there is anything specific you&#8217;d like to hear about on the day, leave a comment below.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/facebook-garage-ireland-feb-9th-gateway-house/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Hacker Cup</title>
+		<link>/2010/12/facebook-hacker-cup/</link>
+		<comments>/2010/12/facebook-hacker-cup/#comments</comments>
+		<pubDate>Mon, 20 Dec 2010 11:55:59 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[hacker cup]]></category>
+		<category><![CDATA[programming]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1966</guid>
+		<description><![CDATA[It&#8217;s a Worldwide Programming Competition kicking-off today. $5,000 cash and all the glory to the winner. Do it.]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s a Worldwide Programming Competition kicking-off today. $5,000 cash and all the glory to the winner. <a href="http://www.facebook.com/note.php?note_id=467531498919&amp;id=9445547199">Do it</a>.</p>
+<p style="text-align: center;"><a href="http://www.facebook.com/hackercup?v=app_10442206389"><img class="size-medium wp-image-1967  aligncenter" title="148221_170540262978170_133954286636768_393849_6585705_n" src="http://www.web2ireland.org/wp-content/uploads/2010/12/148221_170540262978170_133954286636768_393849_6585705_n-225x300.jpg" alt="" width="225" height="300" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/facebook-hacker-cup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>IDA Ireland Strategy &#8211; &#8216;Horizon 2020&#8242; strategy</title>
+		<link>/2010/03/ida-ireland-strategy-horizon-2020-strategy/</link>
+		<comments>/2010/03/ida-ireland-strategy-horizon-2020-strategy/#comments</comments>
+		<pubDate>Tue, 09 Mar 2010 18:01:32 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[idaireland]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1684</guid>
+		<description><![CDATA[Interesting to see references to local Web2Ireland community in IDA Ireland Horizon 2020 strategy document The ICT sector in Ireland is already playing a leading role in showing this model in operation, with Facebook connecting with local application developers through its Developer Garage programme and Googleâ€™s Code Jam engaging in a similar way. One of [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://idaireland.com/_internal/cimg!0/mbb80796vs9olfuhffmrh7k49eua1xd" class="alignnone" width="227" height="353" /></p>
+<p>Interesting to see references to local Web2Ireland community in <a href="http://idaireland.com/news-media/press-releases/tanaiste-launches-ida-ire/index.xml">IDA Ireland Horizon 2020 strategy document</a></p>
+<blockquote><p>The ICT sector in Ireland is already playing a leading role in showing this model in operation, with Facebook connecting with local application developers through its<br />
+Developer Garage programme and Googleâ€™s Code Jam engaging in a similar way.</p></blockquote>
+<p>One of the sections is very interesting &#8211; titled &#8211; Connect with Tomorrowâ€™s Twitter </p>
+<blockquote><p>High growth technology companies have impact hugely disproportional to their size. They are often first to market with new ideas and new business models in digital media, life sciences, mobile technology and financial services. These young companies are the seeds of tomorrowâ€™s multinationals â€“ whether through organic growth or in mergers or acquisitions, often with more established firms. IDA will increase its emphasis and focus on these high potential companies in support of the development of<br />
+Ireland as a global innovation hub. IDA has established a dedicated team focused on the needs of these companies. Working with sister agencies and other stakeholders, we will assist these emerging companies with financial support and in making connections in Ireland. These high-growth firms<br />
+will become an increasingly important part of Irelandâ€™s innovation ecosystem, linking up with established multinationals in ICT and globally traded businesses; third level institutions and their talented graduates; and indigenous companies of similar scale and potential.</p></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/ida-ireland-strategy-horizon-2020-strategy/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Crowdstar, Newbay &amp; Facebook hiring</title>
+		<link>/2010/03/crowdstar-newbay-facebook-hiring/</link>
+		<comments>/2010/03/crowdstar-newbay-facebook-hiring/#comments</comments>
+		<pubDate>Fri, 05 Mar 2010 12:22:03 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[crowdstar]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[newbay]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1682</guid>
+		<description><![CDATA[Newbay are hiring, Facebook are hiring in Dublin and Crowdstar are looking for a biz analyst (see below) &#8212;&#8212;&#8211; Job Specification â€“ Business Analyst Crowdstar International is seeking a Business Analyst to join its fast-growing HQ located in Dublin, Ireland. This role involves providing ongoing market, competitor and product analysis within the Business Development team, [...]]]></description>
+				<content:encoded><![CDATA[<p>Newbay are <a href="http://newbay.com/careers.php">hiring</a>, Facebook are <a href="http://www.facebook.com/careers/department.php?dept=dublin">hiring in Dublin</a> and <a href="http://www.crowdstar.com/">Crowdstar</a> are looking for a biz analyst (see below)</p>
+<p>&#8212;&#8212;&#8211;</p>
+<p>Job Specification â€“ Business Analyst<br />
+Crowdstar International is seeking a Business Analyst to join its fast-growing HQ located in Dublin, Ireland. This role involves providing ongoing market, competitor and product analysis within the Business Development team, to assist the company in successfully identifying and evaluating new business opportunities.<br />
+Responsibilities Include:<br />
+Â·         Performing competitor and market analysis to facilitate ongoing strategy development.<br />
+Â·         Recommending and assisting in the development of strategies for growth.<br />
+Â·         Analysing product performance, trends and activity to provide business insights.<br />
+Â·         Identifying emerging market trends and patterns in customer behaviour.</p>
+<p>Â·         Developing intelligence on the social gaming industry by playing current games, gathering and analysing relevant industry news and reports.</p>
+<p>Â·         Building and using strategic and analytic tools to evaluate current and emerging business opportunities.</p>
+<p>Â·         Creating clear and concise dashboards, presentations and reports as required.</p>
+<p>The requirements for this position are:<br />
+Â·                     Strong passion for social media and gaming<br />
+Â·                     Strong analytic skills and experience with metrics driven strategic decision making<br />
+Â·                     Experience in online games, social media or consumer internet<br />
+Â·                     Understanding of virtual economies, viral channels, and online monetization<br />
+Â·                     Strong verbal and written communication skills<br />
+Â·                     Enjoy working in a fast paced start-up environment<br />
+Â·                     Apply a collaborative and consensus driven approach<br />
+Â·                     BA/BS degree</p>
+<p>Applications may be submitted by email to Business Development Manager Gavin Barrett &#8211; gavin@crowdstar.com</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/crowdstar-newbay-facebook-hiring/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Developer Garage &#8211; Feb 18th</title>
+		<link>/2010/02/facebook-developer-garage-feb-18th/</link>
+		<comments>/2010/02/facebook-developer-garage-feb-18th/#comments</comments>
+		<pubDate>Tue, 23 Feb 2010 10:35:28 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[DeveloperGarage]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[touristr]]></category>
+		<category><![CDATA[touristrepublic]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1662</guid>
+		<description><![CDATA[A video from recent Facebook Developer Garage in Dublin Thanks to Jan at TouristRepubic for organizing video and pictures from event]]></description>
+				<content:encoded><![CDATA[<p>A video from <a href="http://www.facebook.com/event.php?eid=310379491688">recent Facebook</a> <a href="http://www.web2ireland.org/2010/02/09/facebook-developer-garage-ireland-feb-18th-science-gallery/">Developer Garage in Dublin</a></p>
+<p><object width="500" height="315"><param name="movie" value="http://www.youtube.com/v/qsv2Mrnij9s&#038;hl=en_US&#038;fs=1&#038;rel=0&#038;border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qsv2Mrnij9s&#038;hl=en_US&#038;fs=1&#038;rel=0&#038;border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="315"></embed></object></p>
+<p><a href="http://www.touristrepublic.com/blog/2010/2/22/facebook-garage-2010-dublin.html">Thanks to Jan at TouristRepubic for organizing video and pictures from event</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/facebook-developer-garage-feb-18th/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Facebook Developer Garage Ireland &#8211; Feb 18th &#8211; Science Gallery</title>
+		<link>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/</link>
+		<comments>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/#comments</comments>
+		<pubDate>Tue, 09 Feb 2010 15:29:04 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[betapond]]></category>
+		<category><![CDATA[crowdstar]]></category>
+		<category><![CDATA[enterpriseireland]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[Garage]]></category>
+		<category><![CDATA[polldaddy]]></category>
+		<category><![CDATA[ScienceGallery]]></category>
+		<category><![CDATA[tickettruck]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1657</guid>
+		<description><![CDATA[We&#8217;re delighted to announce the First Facebook Developer Garage Ireland of 2010 Speakers include: Gavin Barrett, Crowdstar Charles Dowd, tickettruck Declan Kennedy, Betapond David Lenehan, Polldaddy Sonia Flynn, Facebook Thanks to The Science Gallery for hosting the event and Enterprise Ireland for providing support. Date: Thursday, February 18, 2010 Time: 4:00pm &#8211; 6:00pm Location: Science [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://www.web2ireland.org/wp-content/uploads/2009/02/n53311687551_803.jpg" title="Facebook Developer Garage Ireland" class="alignnone" width="200" height="302" /><br />
+We&#8217;re delighted to announce the <a href="http://www.facebook.com/event.php?eid=310379491688">First Facebook Developer Garage Ireland</a> of 2010</p>
+<p>Speakers include:</p>
+<p>Gavin Barrett, <a href="http://www.crowdstar.com/">Crowdstar</a><br />
+Charles Dowd, <a href="http://www.tickettruck.com/">tickettruck</a><br />
+Declan Kennedy, <a href="http://betapond.com/">Betapond</a><br />
+David Lenehan, <a href="http://apps.facebook.com/polldaddy-polls/">Polldaddy</a><br />
+Sonia Flynn, <a href="http://www.facebook.com/">Facebook</a></p>
+<p>Thanks to <a href="http://www.sciencegallery.com/">The Science Gallery</a> for hosting the event and Enterprise Ireland for providing support.</p>
+<p>Date:	Thursday, February 18, 2010<br />
+Time:	4:00pm &#8211; 6:00pm<br />
+Location:	<a href="http://www.sciencegallery.com/">Science Gallery, Pearse Street, Dublin 2</a></p>
+<p><a href="http://www.facebook.com/event.php?eid=310379491688">Sign up on Facebook for event</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/facebook-developer-garage-ireland-feb-18th-science-gallery/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Facebook connects with Ireland</title>
+		<link>/2009/10/facebook-connects-with-ireland/</link>
+		<comments>/2009/10/facebook-connects-with-ireland/#comments</comments>
+		<pubDate>Tue, 27 Oct 2009 15:59:01 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[idaireland]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1545</guid>
+		<description><![CDATA[Facebook officially opened their EMEA HQ in Dublin today. Currently Facebook employ 70 people, and they intend to double the workforce over the coming year (see vacancies), under the leadership of Colm Long, who has provided great support for the Facebook Garage Ireland initiatives Facebook also has over 1m users in Ireland &#8211; which is [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.facebook.com/">Facebook</a> officially opened their <a href="http://www.idaireland.com/news-media/press-releases/facebook-opens-new-emea-h/index.xml">EMEA HQ in Dublin today</a>.</p>
+<p>Currently Facebook employ 70 people, and they intend to double the workforce over the coming year (see <a href="http://www.facebook.com/home.php/#/careers/department.php?dept=dublin">vacancies</a>), under the leadership of Colm Long, who has provided great support for the Facebook Garage Ireland initiatives</p>
+<p>Facebook also <a href="http://mulley.ie/blog/2009/09/kaboom-facebook-passes-the-million-mark-in-ireland/">has over 1m users in Ireland</a> &#8211; which is pretty impressive.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/facebook-connects-with-ireland/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Job Opportunities in Ireland</title>
+		<link>/2009/10/job-opportunities-in-ireland/</link>
+		<comments>/2009/10/job-opportunities-in-ireland/#comments</comments>
+		<pubDate>Sat, 10 Oct 2009 14:59:51 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Daft]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[newbay]]></category>
+		<category><![CDATA[patphelan]]></category>
+		<category><![CDATA[realex]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1472</guid>
+		<description><![CDATA[Some Job Opportunities within Web2Ireland Community Realex Payments are hiring &#8211; reference Colm Lyon, CEO&#8217;s tweet Leading Irish property site, Daft.ie are hiring &#8211; PHP Developers Pat Phelan is hiring in Cork &#8211; .net developer with XML, SQL Facebook are hiring in Dublin &#8211; loads of open positions Newbay are hiring &#8211; Engineers, etc Do [...]]]></description>
+				<content:encoded><![CDATA[<p>Some Job Opportunities within Web2Ireland Community</p>
+<p><a href="http://www.realexpayments.com/careers-at-realex">Realex Payments are hiring</a> &#8211; reference Colm Lyon, CEO&#8217;s <a href="http://twitter.com/colmlyon/status/4736675536">tweet </a></p>
+<p>Leading <a href="http://www.daft.ie/">Irish property site, Daft.ie</a> are <a href="http://www.daft.ie/content/jobs/">hiring &#8211; PHP Developers<br />
+</a><br />
+Pat Phelan is hiring in Cork &#8211; <a href="http://twitter.com/patphelan/status/4737154186">.net developer with XML, SQL</a></p>
+<p><a href="http://www.facebook.com/careers/department.php?dept=dublin">Facebook are hiring in Dublin</a> &#8211; loads of open positions</p>
+<p><a href="http://newbay.com/">Newbay</a> are hiring &#8211; <a href="http://newbay.com/careers.php">Engineers, etc</a></p>
+<p>Do drop us a line if you&#8217;re hiring</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/job-opportunities-in-ireland/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

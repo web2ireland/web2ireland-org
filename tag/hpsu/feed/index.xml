@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; hpsu</title>
+	<atom:link href="/tag/hpsu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Looking for a Mentor or Potential Investor?</title>
+		<link>/2009/01/looking-for-a-mentor-or-potential-investor/</link>
+		<comments>/2009/01/looking-for-a-mentor-or-potential-investor/#comments</comments>
+		<pubDate>Wed, 28 Jan 2009 10:01:39 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+		<category><![CDATA[hpsu]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[mentor]]></category>
+		<category><![CDATA[start-ups]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1007</guid>
+		<description><![CDATA[Mary Boyle in Enterprise Ireland in Sligo has contacted us to let everyone know that a very experienced person from the Irish tech sector is looking to mentor and potentially invest in high potential startups. If this is of interest to you, then put together a one-page overview of your biz and send it toÂ Mary [...]]]></description>
+				<content:encoded><![CDATA[<p>Mary Boyle in Enterprise Ireland in Sligo has contacted us to let everyone know that a very experienced person from the Irish tech sector is looking to mentor and potentially invest in high potential startups.</p>
+<p>If this is of interest to you, then put together a one-page overview of your biz and send it toÂ Mary DOT Boyle AT enterprise-ireland DOT com along with all your contact details.</p>
+<p>UPDATE: The person in questionÂ is going through all the proposals he has been sent. He is delighted with the level of interest &amp; the potential in the companies. He doesnâ€™t want any more submssions until he evaluates the ones he has. Â He will get back directly to companies he is interested in talking to.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/looking-for-a-mentor-or-potential-investor/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

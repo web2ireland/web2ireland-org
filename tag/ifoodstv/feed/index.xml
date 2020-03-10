@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; ifoods.tv</title>
+	<atom:link href="/tag/ifoodstv/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>iFoods re-brands and launches Beta</title>
+		<link>/2009/01/ifoods-re-brands-and-launches-beta/</link>
+		<comments>/2009/01/ifoods-re-brands-and-launches-beta/#comments</comments>
+		<pubDate>Sun, 25 Jan 2009 09:02:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[ifoods]]></category>
+		<category><![CDATA[ifoods.tv]]></category>
+		<category><![CDATA[look and taste]]></category>
+		<category><![CDATA[lookandtaste]]></category>
+		<category><![CDATA[niall harbison]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1000</guid>
+		<description><![CDATA[Niall and the crew at iFoods.tv have been working flat out for months to get the new site launched. Yesterday he announced that they are rebranding to Look and Taste and that they are going into private Beta next week. As a total foodie, I love what they are doing and I&#8217;m looking forward to [...]]]></description>
+				<content:encoded><![CDATA[<p>Niall and the crew at iFoods.tv have been working flat out for months to get the new site launched. Yesterday he announced that they are rebranding to <em><a href="http://lookandtaste.com/">Look and Taste</a></em> and that they are going into <a href="http://www.niallh.com/ifoods-revealed/">private Beta next week</a>.</p>
+<p>As a total foodie, I love what they are doing and I&#8217;m looking forward to checking out the beta.</p>
+<p><embed src="http://blip.tv/play/AeiDV43wHA" type="application/x-shockwave-flash" width="640" height="510" allowscriptaccess="always" allowfullscreen="true"></embed> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/ifoods-re-brands-and-launches-beta/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

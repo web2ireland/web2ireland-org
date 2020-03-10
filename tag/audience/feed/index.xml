@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; audience</title>
+	<atom:link href="/tag/audience/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Audience Conference &#8211; Special offer for Web2Ireland folks</title>
+		<link>/2009/10/audience-conference-special-offer-for-web2ireland-folks/</link>
+		<comments>/2009/10/audience-conference-special-offer-for-web2ireland-folks/#comments</comments>
+		<pubDate>Thu, 01 Oct 2009 08:35:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[Anton]]></category>
+		<category><![CDATA[audience]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1436</guid>
+		<description><![CDATA[Our own Anton Mannering (from Hat Media), has kindly provided us with some discount tickets for the upcoming Audience Conference in New York Audience is a conference aimed at those who recognise the need to reach engage and influence audiences of all kinds, an investigation into how this is changing, and a look at how [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="http://audienceconf.com/img/audience_logo.png" title="Audience" class="alignnone" width="394" height="168" /></p>
+<p>Our own <a href="http://hatmedia.net/">Anton Mannering (from Hat Media)</a>, has kindly provided us with some discount tickets for the upcoming <a href="http://audienceconf.com/">Audience Conference in New York</a></p>
+<p><em>Audience is a conference aimed at those who recognise the need to reach engage and influence audiences of all kinds, an investigation into how this is changing, and a look at how technology has in the past and is now, through new media tools and the social web, changing audience participation and interaction.</p>
+<p>The  speakers range from large traditional media organisations with Dan Farber of CBS, though the recording industry with Warner Bros. Music CTO Ethan Kaplan, advertising with Crayonâ€™s Joe Jaffe, HR and internal audiences with Frank Roche of iFractal and new media players like Mike Arrington of TechCrunch and Jason Calacanis of Mahalo, not to mention Musicians like Mike Watt and the inimitable Andrew Keen of â€œCult of the Amateurâ€ fame with more being added all the time.</p>
+<p>Engaging on November 6th in the Hudson Theatre, one of New Yorkâ€™s oldest playhouses with a capacity of only 500, this will be an intimate gathering of fine minds in Manhattan. We felt it was appropriate to hold a conference that was about Audience in a place that was specifically designed for it and recently restored to itâ€™s original beauty</em></p>
+<p>The discount code for web2ireland readers is â€œweb2ireâ€.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/audience-conference-special-offer-for-web2ireland-folks/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

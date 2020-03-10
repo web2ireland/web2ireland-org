@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; cloud computing</title>
+	<atom:link href="/tag/cloud-computing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Digital Mines lands a â‚¬750,000 Diamond</title>
+		<link>/2011/03/digital-mines-lands-a-e750000-diamond/</link>
+		<comments>/2011/03/digital-mines-lands-a-e750000-diamond/#comments</comments>
+		<pubDate>Fri, 25 Mar 2011 09:46:43 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[delta partners]]></category>
+		<category><![CDATA[digital mines]]></category>
+		<category><![CDATA[enterprise ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2063</guid>
+		<description><![CDATA[Digital Mines, a new Irish Cloud Computing provider, has just announced a funding round of â‚¬750,000. This includes Delta Partners first investment from their Bank of Ireland start-up and Emerging Sectors equity fund. Enterprise Ireland and existing investors were also part of the round. The company is run by Ed Byrne is who well known [...]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.digitalmines.com/">Digital Mines</a>, a new Irish Cloud Computing provider, <a href="http://blog.digitalmines.com/2011/03/digital-mines-receives-e750000-investment/">has just announced</a> a funding round of â‚¬750,000. This includes <a href="http://www.delta.ie/">Delta Partners</a> first investment from their Bank of Ireland start-up and Emerging Sectors equity fund. Enterprise Ireland and existing investors were also part of the round.</p>
+<p><a href="http://www.digitalmines.com/"><img class="aligncenter" title="Digital Mines" src="http://blog.digitalmines.com/wp-content/uploads/2011/01/dm_blog.png" alt="" width="253" height="56" /></a></p>
+<p>The company is run by Ed Byrne is who well known to everyone in the web space in Ireland. Ed was General Manager of Hosting 365, which was sold last year to SunGard AS.</p>
+<p>The whole idea behind Digital Mines is to take the power and usefulness of cloud services such as Amazon AWS and make them accessible to business users. Currently most cloud offerings required far too much technical knowledge. Digital Mines takes all of that and turns it into a set of one-click operations.</p>
+<p>The Delta investment is not just important for Digital Mines, it is also sends a strong message that the Seed Funds in Ireland are out there investing in new and exciting companies despite all the doom and gloom. You can expect to see many more announcements from Shay and the team in Delta in the coming months.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/digital-mines-lands-a-e750000-diamond/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>it@cork Cloud Computing Event</title>
+		<link>/2009/03/itcork-cloud-computing-event/</link>
+		<comments>/2009/03/itcork-cloud-computing-event/#comments</comments>
+		<pubDate>Sat, 21 Mar 2009 11:48:33 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[it@cork]]></category>
+		<category><![CDATA[web services]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1077</guid>
+		<description><![CDATA[The details of the it@cork event have been announced. It is on April 20th in The Cork International Airport Hotel from 2-5pm and is titled &#8220;Moving to the Cloud &#8211; How businesses are scaling IT and saving money simultaneously&#8221;. There is a superb speaker line-up as follows: Pol Mac Aonghusa, CTO Emerging Technology Incubation Center, [...]]]></description>
+				<content:encoded><![CDATA[<p>The details of the it@cork event have been announced. It is on April 20th in The Cork International Airport Hotel from 2-5pm and is titled &#8220;Moving to the Cloud &#8211; How businesses are scaling IT and saving money simultaneously&#8221;.</p>
+<p><img class="aligncenter" title="it@cork" src="http://www.itcork.ie/contentfiles/pressreleases/60x60/at%20picture2.jpg" alt="" width="60" height="60" /></p>
+<p>There is a superb speaker line-up as follows:</p>
+<ul>
+<li>Pol Mac Aonghusa, CTO Emerging Technology Incubation Center, IBM on &#8220;Emerging Technology in the Cloud! Real Life Examples&#8221;</li>
+<li>Kevin Noonan, Independent Developer on &#8220;Castles in the Cloud: Developing with Google App Engine&#8221;</li>
+<li>Jon Mountjoy, Salesforce.com on &#8220;Cloud Computing in Practice: Fast Application Development and Delivery on Force.com&#8221;</li>
+<li>AJ McKee, Rush Hour Analytics on &#8220;Knocking on Heavens Door &#8211; The Business Reality of Doing Business in the Cloud&#8221;</li>
+<li>Simone Brunozzi, AWS Evangelist on &#8220;Amazon Web Services&#8221;</li>
+</ul>
+<p>The cost is â‚¬60 for non-members and free for members.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/itcork-cloud-computing-event/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cloud Events are just like the 46A Bus</title>
+		<link>/2009/03/cloud-events-are-just-like-the-46a-bus/</link>
+		<comments>/2009/03/cloud-events-are-just-like-the-46a-bus/#comments</comments>
+		<pubDate>Mon, 09 Mar 2009 13:56:30 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cloud computing]]></category>
+		<category><![CDATA[python ireland]]></category>
+		<category><![CDATA[ruby ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1050</guid>
+		<description><![CDATA[You don&#8217;t have one for ages and then three come along together We&#8217;ve just had API Wars and Facebook Garage. it@cork will soon be announcing a Cloud Event for April 20th and in between the two, the combined forces of Python Ireland and Ruby Ireland are having their event. It will take place on Wednesday, [...]]]></description>
+				<content:encoded><![CDATA[<p>You don&#8217;t have one for ages and then three come along together <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' />  We&#8217;ve just had API Wars and Facebook Garage. it@cork will soon be announcing a Cloud Event for April 20th and in between the two, the combined forces of Python Ireland and Ruby Ireland are having their event.</p>
+<p>It will take place on Wednesday, March 11th, in /The Vaults/ in Dublin at 7pm. Event <a href="http://wiki.python.ie/moin.cgi/PythonMeetup/March2009">details here</a>.</p>
+<p>The lineup is:</p>
+<ul>
+<li>Cloudware for Python and Ruby (This talk will focus on the offerings from Google and Amazon.) &#8211; Kevin Noonan</li>
+<li>Developing LongURLPlease.com on Google App Engine &#8211; Darragh Curran</li>
+<li>Converting a Python library (XLWT) to Ruby (Surpass) &#8211; Ana Nelson</li>
+<li>Lightning Talks (If they have time)</li>
+</ul>
+<p>They don&#8217;t have sponsorship yet and would appreciate it for the food.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/cloud-events-are-just-like-the-46a-bus/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; lean ecosystem</title>
+	<atom:link href="/tag/lean-ecosystem/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Web2Ireland Lean Startups</title>
+		<link>/2009/05/web2ireland-lean-startups/</link>
+		<comments>/2009/05/web2ireland-lean-startups/#comments</comments>
+		<pubDate>Fri, 15 May 2009 13:05:43 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[eric ries]]></category>
+		<category><![CDATA[lean ecosystem]]></category>
+		<category><![CDATA[lean startups]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1194</guid>
+		<description><![CDATA[Most Web2Ireland companies operate as &#8220;lean startups&#8221; Eric Ries has a great blog on Lean Startups &#8211; and operates workshops as part of an O&#8217;Reilly Master Class Do check out this video We do need to share resource in our lean &#8216;ecosystem&#8217; &#8211; who is best to serve lean startups &#8211; Angels, VCs, Legal, PR [...]]]></description>
+				<content:encoded><![CDATA[<p>Most Web2Ireland companies operate as &#8220;lean startups&#8221;</p>
+<p><a href="http://startuplessonslearned.blogspot.com/">Eric Ries has a great blog on Lean Startups</a> &#8211; and operates workshops as part of an <a href="http://training.oreilly.com/theleanstartup/">O&#8217;Reilly Master Class</a></p>
+<p>Do check out this video</p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/EnaLQiQL9ec&#038;hl=en&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/EnaLQiQL9ec&#038;hl=en&#038;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p>We do need to share resource in our lean &#8216;ecosystem&#8217; &#8211; who is best to serve lean startups &#8211; Angels, VCs, Legal, PR firms, Accountants, Bankers, etc &#8211; please share your thoughts in the comments</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/05/web2ireland-lean-startups/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

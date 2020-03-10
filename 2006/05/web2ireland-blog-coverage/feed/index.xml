@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Web2Ireland Blog coverage</title>
+	<atom:link href="/2006/05/web2ireland-blog-coverage/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/05/web2ireland-blog-coverage/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Bernie Goldbach</title>
+		<link>/2006/05/web2ireland-blog-coverage/#comment-61</link>
+		<dc:creator>Bernie Goldbach</dc:creator>
+		<pubDate>Mon, 08 May 2006 04:39:58 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=72#comment-61</guid>
+		<description><![CDATA[I think that that a live blog of the event would have been well-read.]]></description>
+		<content:encoded><![CDATA[<p>I think that that a live blog of the event would have been well-read.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Watson</title>
+		<link>/2006/05/web2ireland-blog-coverage/#comment-60</link>
+		<dc:creator>Paul Watson</dc:creator>
+		<pubDate>Tue, 02 May 2006 15:50:47 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=72#comment-60</guid>
+		<description><![CDATA[Thanks for the links. Any idea when the presentations will be available for download? Quite a few here in TSSG who couldn&#039;t make the event who want to see them.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for the links. Any idea when the presentations will be available for download? Quite a few here in TSSG who couldn&#8217;t make the event who want to see them.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

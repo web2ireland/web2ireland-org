@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; billdehora</title>
+	<atom:link href="/tag/billdehora/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Enterprise2.0 &#8211; Force.com opportunity</title>
+		<link>/2008/06/enterprise20-forcecom-opportunity/</link>
+		<comments>/2008/06/enterprise20-forcecom-opportunity/#comments</comments>
+		<pubDate>Thu, 26 Jun 2008 16:19:58 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[atompub]]></category>
+		<category><![CDATA[billdehora]]></category>
+		<category><![CDATA[force.com]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[mulley.net]]></category>
+		<category><![CDATA[salesforce]]></category>
+		<category><![CDATA[venturebeat]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=632</guid>
+		<description><![CDATA[Damien has a great post on Platforms: Interested in building apps on the Force.com platform? &#8211; which relates to the Salesforce.com event &#8211; Tour De Force Also check out Bill de hÃ“ra&#8217;s post on some of the technical smarts that Salesforce.com and Google used in their recent hookup.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.mulley.net/">Damien</a> has a great post on <a href="http://www.mulley.net/2008/06/25/platforms-interested-in-building-apps-on-the-forcecom-platform/">Platforms: Interested in building apps on the Force.com platform?</a> &#8211; which relates to the Salesforce.com event &#8211; Tour De Force</p>
+<p><img src="http://tour.force.com/themes/salesforce/images/tourlogo.png" alt="force" /></p>
+<p>Also check out Bill de hÃ“ra&#8217;s <a href="http://www.dehora.net/journal/2008/06/24/salesforcecom-and-google-integration-atompub/">post</a> on some of the technical smarts that <a href="http://venturebeat.com/2008/06/23/salesforce-and-google-take-their-partnership-a-step-further-with-new-apis/">Salesforce.com and Google used in their recent hookup.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/enterprise20-forcecom-opportunity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

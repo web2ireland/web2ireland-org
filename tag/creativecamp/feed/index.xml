@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; creativecamp</title>
+	<atom:link href="/tag/creativecamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>CreativeCamp Belfast &#8211; Saturday 6th Sept</title>
+		<link>/2008/09/creativecamp-belfast-saturday-6th-sept/</link>
+		<comments>/2008/09/creativecamp-belfast-saturday-6th-sept/#comments</comments>
+		<pubDate>Thu, 04 Sep 2008 22:33:52 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[belfast]]></category>
+		<category><![CDATA[creativecamp]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=705</guid>
+		<description><![CDATA[On this weekend &#8211; check it out &#8211; looks like a great event CreativeCamp Belfast]]></description>
+				<content:encoded><![CDATA[<p>On this weekend &#8211; check it out &#8211; looks like a great event <a href="http://creativecampbelfast.com/">CreativeCamp Belfast</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/creativecamp-belfast-saturday-6th-sept/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

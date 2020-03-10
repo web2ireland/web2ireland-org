@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; design</title>
+	<atom:link href="/tag/design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>FineTuna is the Tuesday Push</title>
+		<link>/2009/06/finetuna-is-the-tuesday-push/</link>
+		<comments>/2009/06/finetuna-is-the-tuesday-push/#comments</comments>
+		<pubDate>Wed, 10 Jun 2009 08:56:29 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[tuesday push]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[finetuna]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1234</guid>
+		<description><![CDATA[It&#8217;s not just Dolphin-friendly, it&#8217;s the perfect app for a specific problem. FineTuna lets you upload pics, annotate them with comments etc and then forward on to someone. I&#8217;ve attempted to do similar using paint packages like Paint.net but all their features just get in the way. FineTuna is ideal when you are either going [...]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s not just Dolphin-friendly, it&#8217;s the perfect app for a specific problem. <a href="http://finetuna.com/">FineTuna</a> lets you upload pics, annotate them with comments etc and then forward on to someone.</p>
+<p style="text-align: center;"><img class="size-medium wp-image-1235 aligncenter" title="finetuna" src="http://www.web2ireland.org/wp-content/uploads/2009/06/finetuna-300x175.jpg" alt="finetuna" width="300" height="175" /></p>
+<p>I&#8217;ve attempted to do similar using paint packages like Paint.net but all their features just get in the way.</p>
+<p>FineTuna is ideal when you are either going through design revisions for a site or trying to highlight bugs or things you don&#8217;t like on a live site.</p>
+<p>The lack of any requirement to sign-up is another bonus and the Firefox Extension makes it a no-brainer to use.</p>
+<p>This isn&#8217;t just a tool for desingers and web-devs and their customers, it is also a superb customer-support tool. I know I&#8217;ll be using it a lot from now on.</p>
+<p>If you like FineTuna, why not do your own (Wednesday) <a href="http://www.tuesdaypush.com/">Push</a> of it?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/06/finetuna-is-the-tuesday-push/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Design for Web2Ireland</title>
+		<link>/2008/04/new-design-for-web2ireland/</link>
+		<comments>/2008/04/new-design-for-web2ireland/#comments</comments>
+		<pubDate>Wed, 16 Apr 2008 12:20:17 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[theme]]></category>
+		<category><![CDATA[web2ireland]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=578</guid>
+		<description><![CDATA[We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to James Gallagher who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days. James is hiimjames on Twitter, you should add him. Now if only there was someone [...]]]></description>
+				<content:encoded><![CDATA[<p>We pleased as punch to unveil our new design for the Web2Ireland site. A major thank you to <a href="http://hiimjames.com/">James Gallagher</a> who did all the work for us. We&#8217;ll be adding a few tweaks here and there in the coming days.</p>
+<p>James is hiimjames on <a href="http://twitter.com/hiimjames">Twitter</a>, you should add him.</p>
+<p>Now if only there was someone out there who would do us a logo <img src='/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /> </p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/new-design-for-web2ireland/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

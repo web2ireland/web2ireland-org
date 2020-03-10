@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; bizcamp</title>
+	<atom:link href="/tag/bizcamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>BizCamp(s)</title>
+		<link>/2009/01/bizcamps/</link>
+		<comments>/2009/01/bizcamps/#comments</comments>
+		<pubDate>Sun, 25 Jan 2009 08:34:57 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[barcamp]]></category>
+		<category><![CDATA[bizcamp]]></category>
+		<category><![CDATA[unconference]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=998</guid>
+		<description><![CDATA[It looks like we&#8217;ll have the first two BizCamps in Ireland in very quick succession in March. These are unconferences in the style of BarCamp but focussed on business rather than tech. Kicking off the day after FOWA, the first BizCamp is in the Digital Hub in Dublin on March 7th. All details over on [...]]]></description>
+				<content:encoded><![CDATA[<p>It looks like we&#8217;ll have the first two BizCamps in Ireland in very quick succession in March. These are unconferences in the style of BarCamp but focussed on business rather than tech.</p>
+<p>Kicking off the day after FOWA, the first <a href="http://www.bizcamp.ie/">BizCamp</a> is in the Digital Hub in Dublin on March 7th. All details over on the site. Now if only I could decipher their tagline!</p>
+<p>The <a href="http://www.stephenkinsella.net/2009/01/23/bizcamp-coming-to-limerick/">second one</a> is in the University of Limerick on March 21st. It is being held in the new Kemmy Business school, from 9.30am to 4pm.</p>
+<p>In both cases, as with all *Camps, they only work if YOU make them work. So get on over and offer to help out.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/01/bizcamps/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; startup competition</title>
+	<atom:link href="/tag/startup-competition/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Dublin Web Summit Start-up Competition &#8211; â‚¬40k &#8211; Nice.</title>
+		<link>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/</link>
+		<comments>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/#comments</comments>
+		<pubDate>Thu, 02 Jun 2011 12:08:19 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[dublin web summit]]></category>
+		<category><![CDATA[dws]]></category>
+		<category><![CDATA[dws11]]></category>
+		<category><![CDATA[esb]]></category>
+		<category><![CDATA[prize]]></category>
+		<category><![CDATA[spark of genius]]></category>
+		<category><![CDATA[startup competition]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2076</guid>
+		<description><![CDATA[Who doesn&#8217;t remember last year&#8217;s Spark of Genius Competition won by Data Hug which resulted in major publicity for the guys. We&#8217;re all looking forward to it coming out of private beta. Well DWS is at it again, this time with ESB Electric Ireland, and they have a â‚¬40k prize fund of cash and services. [...]]]></description>
+				<content:encoded><![CDATA[<p>Who doesn&#8217;t remember last year&#8217;s Spark of Genius Competition won by <a href="http://datahug.com/">Data Hug</a> which resulted in major publicity for the guys. We&#8217;re all looking forward to it coming out of private beta.</p>
+<p>Well <a href="http://www.dublinwebsummit.com/">DWS</a> is at it again, this time with ESB Electric Ireland, and they have a â‚¬40k prize fund of cash and services.</p>
+<p><img class="aligncenter" title="Spark of Genius" src="http://farm4.static.flickr.com/3489/5789929548_da1795735f_d.jpg" alt="" width="500" height="369" /></p>
+<p>2011 judges include Brian Caulfield of DFJ, Shay Garvey of Delta and Mark Roden of Ezetop. Shortlisted companies will pitch at the Dublin Web Summit on October 27th.</p>
+<p>Applications will open from June 10th and we&#8217;ll let you know here when they do.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/dublin-web-summit-start-up-competition-e40k-nice/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Grab em by the Shorts</title>
+	<atom:link href="/2008/11/grab-em-by-the-shorts/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/11/grab-em-by-the-shorts/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Gordon Murray</title>
+		<link>/2008/11/grab-em-by-the-shorts/#comment-838</link>
+		<dc:creator>Gordon Murray</dc:creator>
+		<pubDate>Mon, 01 Dec 2008 12:35:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=888#comment-838</guid>
+		<description><![CDATA[Hi David,
+
+Cool! I didn&#039;t even know about that! 
+
+Fixed the typo, Oops.]]></description>
+		<content:encoded><![CDATA[<p>Hi David,</p>
+<p>Cool! I didn&#8217;t even know about that! </p>
+<p>Fixed the typo, Oops.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David Coallier</title>
+		<link>/2008/11/grab-em-by-the-shorts/#comment-837</link>
+		<dc:creator>David Coallier</dc:creator>
+		<pubDate>Fri, 28 Nov 2008 17:41:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=888#comment-837</guid>
+		<description><![CDATA[Oh yeah and my name is spelt wrong :D It&#039;s CoAllier]]></description>
+		<content:encoded><![CDATA[<p>Oh yeah and my name is spelt wrong <img src='/wp-includes/images/smilies/icon_biggrin.gif' alt=':D' class='wp-smiley' />  It&#8217;s CoAllier</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David Coallier</title>
+		<link>/2008/11/grab-em-by-the-shorts/#comment-836</link>
+		<dc:creator>David Coallier</dc:creator>
+		<pubDate>Fri, 28 Nov 2008 17:36:42 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=888#comment-836</guid>
+		<description><![CDATA[You can also sort your public links if you click either on the &quot;Clicks&quot; or &quot;URL&quot; (IE: http://short.ie/links/davidcoallier - click on the &quot;Clicks&quot; column)]]></description>
+		<content:encoded><![CDATA[<p>You can also sort your public links if you click either on the &#8220;Clicks&#8221; or &#8220;URL&#8221; (IE: <a href="http://short.ie/links/davidcoallier" rel="nofollow">http://short.ie/links/davidcoallier</a> &#8211; click on the &#8220;Clicks&#8221; column)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

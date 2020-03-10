@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: BYOB Dublin</title>
+	<atom:link href="/2009/01/byob-dublin/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/01/byob-dublin/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Lar Veale</title>
+		<link>/2009/01/byob-dublin/#comment-876</link>
+		<dc:creator>Lar Veale</dc:creator>
+		<pubDate>Fri, 23 Jan 2009 14:20:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=992#comment-876</guid>
+		<description><![CDATA[I&#039;ll be there with a bottle of claret.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;ll be there with a bottle of claret.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Romans Malinovskis</title>
+		<link>/2009/01/byob-dublin/#comment-875</link>
+		<dc:creator>Romans Malinovskis</dc:creator>
+		<pubDate>Thu, 22 Jan 2009 17:52:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=992#comment-875</guid>
+		<description><![CDATA[Short notice, but will be there.]]></description>
+		<content:encoded><![CDATA[<p>Short notice, but will be there.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

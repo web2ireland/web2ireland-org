@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; nonick</title>
+	<atom:link href="/tag/nonick/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Submit your Mobile App to the European Startup 2.0 Competition</title>
+		<link>/2011/05/submit-your-mobile-app-to-the-european-startup-2-0-competition/</link>
+		<comments>/2011/05/submit-your-mobile-app-to-the-european-startup-2-0-competition/#comments</comments>
+		<pubDate>Mon, 23 May 2011 08:33:25 +0000</pubDate>
+		<dc:creator>conor</dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[Mobile2.0]]></category>
+		<category><![CDATA[nonick]]></category>
+		<category><![CDATA[startup 2.0]]></category>
+		<category><![CDATA[startup2.eu]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=2071</guid>
+		<description><![CDATA[The Startup 2.0 Competition has been around for a few years now and has always bubbled up some interesting companies that are not on the usual tech blog circuit. This year is all about Mobile and they are looking for the best Mobile Startups and Apps across Europe. The process is very simple: Submit your [...]]]></description>
+				<content:encoded><![CDATA[<p>The <a href="http://www.startup2.eu/">Startup 2.0 Competition</a> has been around for a few years now and has always bubbled up some interesting companies that are not on the usual tech blog circuit. This year is all about Mobile and they are looking for the best Mobile Startups and Apps across Europe.</p>
+<p><a href="http://www.startup2.eu/"><img class="aligncenter" title="Startup 2.0" src="http://www.startup2.eu/wp-content/themes/startup2/images_content/logo_startup.png" alt="" width="175" height="75" /></a></p>
+<p>The process is very simple:</p>
+<ol>
+<li>Submit <a href="http://www.startup2.eu/submit-project/">your entry here</a></li>
+<li>An international jury and Internet users will vote for the best 5 mobile apps</li>
+<li>On June, 17th the 5 best startups will present their projects at the <a href="http://www.nonickconference.com/nonick/">Nonick Conference</a> in Bilbao and people will vote to select the winner.</li>
+</ol>
+<p>Disclosure: I&#8217;m one of the jury members.</p>
+<p>There is so much happening in mobile in Ireland right now, it would be fantastic for those apps to get a wider audience.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/submit-your-mobile-app-to-the-european-startup-2-0-competition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

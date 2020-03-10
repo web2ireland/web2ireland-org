@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Web2Ireland upgraded to WordPress 2.1.1</title>
+	<atom:link href="/2007/02/web2ireland-upgraded-to-wordpress-211/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/02/web2ireland-upgraded-to-wordpress-211/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: conor</title>
+		<link>/2007/02/web2ireland-upgraded-to-wordpress-211/#comment-299</link>
+		<dc:creator>conor</dc:creator>
+		<pubDate>Thu, 15 Mar 2007 21:22:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=272#comment-299</guid>
+		<description><![CDATA[http://www.web2ireland.org/wp-admin/post-new.php
+
+should still work. 
+
+Was there a link somewhere else?]]></description>
+		<content:encoded><![CDATA[<p><a href="http://www.web2ireland.org/wp-admin/post-new.php" rel="nofollow">http://www.web2ireland.org/wp-admin/post-new.php</a></p>
+<p>should still work. </p>
+<p>Was there a link somewhere else?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Brendan Lally</title>
+		<link>/2007/02/web2ireland-upgraded-to-wordpress-211/#comment-298</link>
+		<dc:creator>Brendan Lally</dc:creator>
+		<pubDate>Thu, 15 Mar 2007 15:21:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=272#comment-298</guid>
+		<description><![CDATA[Hmmm, where do I create a new post?
+
+Lal]]></description>
+		<content:encoded><![CDATA[<p>Hmmm, where do I create a new post?</p>
+<p>Lal</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

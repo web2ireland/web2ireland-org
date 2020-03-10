@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: One Web Day</title>
+	<atom:link href="/2006/08/one-web-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/08/one-web-day/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: OneWebDay &#187; More places</title>
+		<link>/2006/08/one-web-day/#comment-101</link>
+		<dc:creator>OneWebDay &#187; More places</dc:creator>
+		<pubDate>Tue, 22 Aug 2006 01:33:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=132#comment-101</guid>
+		<description><![CDATA[[...] Ireland seems like the perfect place to celebrate OneWebDay &#8212; let us know what you&#8217;re planning. [...]]]></description>
+		<content:encoded><![CDATA[<p>[...] Ireland seems like the perfect place to celebrate OneWebDay &#8212; let us know what you&#8217;re planning. [...]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Susan Crawford</title>
+		<link>/2006/08/one-web-day/#comment-100</link>
+		<dc:creator>Susan Crawford</dc:creator>
+		<pubDate>Tue, 22 Aug 2006 01:31:18 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=132#comment-100</guid>
+		<description><![CDATA[Hello -- Ireland is the perfect place to celebrate OneWebDay.  We&#039;d love to know what you&#039;re thinking about so that we can link to your plans.  Something outdoors, involving wireless, and good deeds -- something that celebrates the web -- something Irish and Web 2.0.
+
+Hope to hear more.  susan]]></description>
+		<content:encoded><![CDATA[<p>Hello &#8212; Ireland is the perfect place to celebrate OneWebDay.  We&#8217;d love to know what you&#8217;re thinking about so that we can link to your plans.  Something outdoors, involving wireless, and good deeds &#8212; something that celebrates the web &#8212; something Irish and Web 2.0.</p>
+<p>Hope to hear more.  susan</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

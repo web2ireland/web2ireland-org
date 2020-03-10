@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Last.fm release source code for osmotic communications</title>
+	<atom:link href="/2007/02/lastfm-release-source-code-for-osmotic-communications/feed/" rel="self" type="application/rss+xml" />
+	<link>/2007/02/lastfm-release-source-code-for-osmotic-communications/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 17 Sep 2012 15:37:47 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+	<item>
+		<title>By: Monika Online</title>
+		<link>/2007/02/lastfm-release-source-code-for-osmotic-communications/#comment-301</link>
+		<dc:creator>Monika Online</dc:creator>
+		<pubDate>Tue, 27 Feb 2007 15:29:12 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=274#comment-301</guid>
+		<description><![CDATA[&lt;strong&gt;trackbacks 2...&lt;/strong&gt;
+
+do my trackbacks work?
+
+......]]></description>
+		<content:encoded><![CDATA[<p><strong>trackbacks 2&#8230;</strong></p>
+<p>do my trackbacks work?</p>
+<p>&#8230;&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Monika Online</title>
+		<link>/2007/02/lastfm-release-source-code-for-osmotic-communications/#comment-300</link>
+		<dc:creator>Monika Online</dc:creator>
+		<pubDate>Tue, 27 Feb 2007 15:26:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=274#comment-300</guid>
+		<description><![CDATA[&lt;strong&gt;let&#8217;s see what&#8217;s happening...&lt;/strong&gt;
+
+hello trackback
+
+......]]></description>
+		<content:encoded><![CDATA[<p><strong>let&#8217;s see what&#8217;s happening&#8230;</strong></p>
+<p>hello trackback</p>
+<p>&#8230;&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; localsocial</title>
+	<atom:link href="/tag/localsocial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Irish Software Association Awards</title>
+		<link>/2009/11/irish-software-association-awards/</link>
+		<comments>/2009/11/irish-software-association-awards/#comments</comments>
+		<pubDate>Tue, 24 Nov 2009 09:24:58 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[avego]]></category>
+		<category><![CDATA[ISA]]></category>
+		<category><![CDATA[itab]]></category>
+		<category><![CDATA[localsocial]]></category>
+		<category><![CDATA[openet]]></category>
+		<category><![CDATA[percana]]></category>
+		<category><![CDATA[sofware]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1583</guid>
+		<description><![CDATA[Congratulations to the winners at the recent Irish Software Association (ISA) Awards Company of the Year 2009: Openet Emerging Software Business Award: Avego Sales Achievement Award: Percana The Technical Innovation Award: iTab Corporate Social Responsibility Award: Norkom Technologies Collaboration of the Year Award: Local Social Software Person of the Year: Paul Kerley, CEO of Norkom, [...]]]></description>
+				<content:encoded><![CDATA[<p><img alt="" src="https://www.ibec.ie/Sectors/ISA/ISA.nsf/e3124752f3e585e0802574420058f1ae/21b7f1f27789d9058025762b0056c6fe/pageContent/0.20A?OpenElement&#038;FieldElemFormat=gif" title="ISA Awards" class="alignnone" width="325" height="280" /><br />
+Congratulations to the <a href="https://www.ibec.ie/Sectors/ISA/ISA.nsf/vPages/Events~isa-awards-2009?OpenDocument">winners at the recent</a> <a href="http://www.software.ie/">Irish Software Association (ISA)</a> Awards</p>
+<p>Company of the Year 2009: <a href="http://www.openet-telecom.com/">Openet</a><br />
+Emerging Software Business Award: <a href="http://avego.com/">Avego</a><br />
+Sales Achievement Award: <a href="http://www.percana.com/">Percana</a><br />
+The Technical Innovation Award: <a href="http://www.i-tab.com/">iTab</a><br />
+Corporate Social Responsibility Award: <a href="http://www.norkom.com/">Norkom Technologies </a><br />
+Collaboration of the Year Award: <a href="http://www.ndrc.ie/projects/project-localsocial/">Local Social</a><br />
+Software Person of the Year: <a href="http://www.linkedin.com/in/paulkerley">Paul Kerley, CEO of Norkom,</a><br />
+Student Medal: Yuandong Zhu of UCD</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/irish-software-association-awards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

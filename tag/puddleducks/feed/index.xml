@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web 2 Ireland &#187; puddleducks</title>
+	<atom:link href="/tag/puddleducks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 11 Jun 2013 18:20:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>PuddleDucks Customers Given a Louder Voice</title>
+		<link>/2009/04/puddleducks-customers-given-a-louder-voice/</link>
+		<comments>/2009/04/puddleducks-customers-given-a-louder-voice/#comments</comments>
+		<pubDate>Wed, 15 Apr 2009 10:20:16 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Irish Web2.0 News]]></category>
+		<category><![CDATA[loudervoice]]></category>
+		<category><![CDATA[puddleducks]]></category>
+		<category><![CDATA[web2ireland]]></category>
+
+		<guid isPermaLink="false">http://www.web2ireland.org/?p=1123</guid>
+		<description><![CDATA[LouderVoice for Business has added PuddleDucks, Irelandâ€™s leading online retailer of childrenâ€™s and adults outdoor clothing, to its list of customers. Customers can now read product reviews by previous purchasers and can also submit their own. These reviews appear on each product page along with highlights on the home page of the PuddleDucks website. Reviews [...]]]></description>
+				<content:encoded><![CDATA[<p><a href='http://business.loudervoice.com/login/'>LouderVoice for Business</a> has added <a href='http://www.puddleducks.ie/'>PuddleDucks</a>, Irelandâ€™s leading online retailer of childrenâ€™s and adults outdoor clothing, to its list of customers.</p>
+<p>Customers can now read product reviews by previous purchasers and can also submit their own. These reviews appear on each product page along with highlights on the home page of the PuddleDucks website. Reviews empower customers to help each other find the right product for their needs. Recent surveys have shown that over a third of respondents rated peer opinions such as recommendations and reviews as the most useful aspect of an Internet-shopping site.</p>
+<p>In addition to appearing on the PuddleDucks shopping site, the reviews are aggregated to the LouderVoice reviews website and its mobile phone applications. This doesn&#8217;t just make PuddleDucks more visible to search engines, it also enables a widely distributed conversation about its products.</p>
+<div class="cbw snap_nopreview">
+<div class="cbw_header"><script src="http://www.crunchbase.com/javascripts/widget.js" type="text/javascript"></script>
+<div class="cbw_header_text"><a href="http://www.crunchbase.com/">CrunchBase Information</a></div>
+</div>
+<div class="cbw_content">
+<div class="cbw_subheader"><a href="http://www.crunchbase.com/product/loudervoice">LouderVoice</a></div>
+<div class="cbw_subcontent"><script src="http://www.crunchbase.com/cbw/product/loudervoice.js" type="text/javascript"></script></div>
+<div class="cbw_footer">Information provided by <a href="http://www.crunchbase.com/">CrunchBase</a></div>
+</div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/puddleducks-customers-given-a-louder-voice/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>
