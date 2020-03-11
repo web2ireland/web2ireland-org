@@ -34,7 +34,7 @@
 
 		<guid isPermaLink="false">http://www.web2ireland.org/?p=1651</guid>
 		<description><![CDATA[Daft announced recently their Polish Property web service &#8211; Daft.pl The site is going live with about 60,000 properties across every major city and town in Poland. Approximately ten times larger than the Irish market, Poland has a population of 38 million. This is also the first Daft site to run entirely on Amazon EC2 [...]]]></description>
-				<content:encoded><![CDATA[<p><img alt="" src="http://www.daft.pl/images/logo_main.png" title="Daft Poland" class="alignnone" width="194" height="60" /></p>
+				<content:encoded><![CDATA[<p><img alt="" src="//www.daft.pl/images/logo_main.png" title="Daft Poland" class="alignnone" width="194" height="60" /></p>
 <p><a href="http://blog.daft.ie/2010/01/daft_pl/">Daft announced</a> recently their <a href="http://www.daft.pl/">Polish Property</a> web service &#8211; <a href="http://www.daft.pl/">Daft.pl</a></p>
 <blockquote><p>The site is going live with about 60,000 properties across every major city and town in Poland.  Approximately ten times larger than the Irish market, Poland has a population of 38 million.</p></blockquote>
 <p>This is also the first Daft site to run entirely on <a href="http://aws.amazon.com/ec2/">Amazon EC2 Cloud platform</a>. </p>
@@ -62,7 +62,7 @@
 <p>Both the Amazon sessions in Dublin and Cork were very strongly attended so the interest seems to be there in general. However there are also a wide range of offerings out there from IBM, Salesforce and of course Google. Salesforce had their recent conference here which covered the <a href="http://www.salesforce.com/platform/">Force.com</a> Platform as a service and I&#8217;ve been talking to the <a href="http://www.finfacts.ie/irishfinancenews/article_1012935.shtml">IBM guys in Ireland</a> who have their cloud computing centre in Mulhuddart.</p>
 <p>I know many people were excited when the Google App Engine was announced. For some reason there seems to be a very strong Python dev community here with lots of startups using Django too, so the fit is quite strong.</p>
 <p>So two questions for you this morning. First, if there was a full day session covering the cloud by one of these vendors, would you be interested in attending and what would you like to hear about (biz, tech, mix, heavy API drilldown)? Secondly, let us know in the comments what you are up to in this area.</p>
-<p><script type="text/javascript" language="javascript" src="http://s3.polldaddy.com/p/802781.js"></script><br />
+<p><script type="text/javascript" language="javascript" src="//s3.polldaddy.com/p/802781.js"></script><br />
 <noscript> <a href ="http://answers.polldaddy.com/poll/802781/" >Would you attend a vendor seminar on cloud computing?</a>  <br/> <span style="font-size:9px;"> (<a href ="http://www.polldaddy.com/">  polls</a>)</span></noscript>
 ]]></content:encoded>
 			<wfw:commentRss>/2008/07/building-your-webapp-in-the-cloud/feed/</wfw:commentRss>

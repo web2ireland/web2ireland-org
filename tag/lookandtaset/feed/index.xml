@@ -34,7 +34,7 @@
 				<content:encoded><![CDATA[<p><img src="//media.lookandtaste.com/images/logo.gif" alt="look and taste" /></p>
 <p><a href="http://www.lookandtaste.com/">Look and Taste</a> have launched a cool iPhone application [<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311468548&#038;mt=8">Full version</a> at Â£5.99 and a <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=311471004&#038;mt=8">Free Lite version</a>]</p>
 <p>Check the video here</p>
-<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lEk2XgmzKrU&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/lEk2XgmzKrU&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lEk2XgmzKrU&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="//www.youtube.com/v/lEk2XgmzKrU&#038;color1=0xb1b1b1&#038;color2=0xcfcfcf&#038;hl=en&#038;feature=player_embedded&#038;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
 ]]></content:encoded>
 			<wfw:commentRss>/2009/05/look-and-taste-launches-iphone-application/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>

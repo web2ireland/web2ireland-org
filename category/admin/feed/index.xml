@@ -33,7 +33,7 @@
 		<guid isPermaLink="false">http://www.web2ireland.org/?p=960</guid>
 		<description><![CDATA[We&#8217;ve just turned-on support for Facebook Connect on this blog. It enables you to comment here using your Facebook credentials and also to optionally send your comments from here to your Facebook profile. To make use of it, simply login to Facebook using the Widget in the right-hand sidebar. Then when you comment on a [...]]]></description>
 				<content:encoded><![CDATA[<p>We&#8217;ve just turned-on support for <a href="http://developers.facebook.com/connect.php">Facebook Connect</a> on this blog. It enables you to comment here using your Facebook credentials and also to optionally send your comments from here to your Facebook profile.</p>
-<p><img class="alignnone size-full wp-image-961" title="Facebook Connect" src="http://www.web2ireland.org/wp-content/uploads/2009/01/connect.jpg" alt="Facebook Connect" width="264" height="409" /></p>
+<p><img class="alignnone size-full wp-image-961" title="Facebook Connect" src="//www.web2ireland.org/wp-content/uploads/2009/01/connect.jpg" alt="Facebook Connect" width="264" height="409" /></p>
 <p>To make use of it, simply login to Facebook using the Widget in the right-hand sidebar. Then when you comment on a post, you&#8217;ll be doing so as your Facebook identity.</p>
 <p>Whilst we remain big fans of standards like OpenID, the simple fact remains that the implementations are non-intuitive, the plugins are flakey and the uptake has been tiny. Connect is instant portable identity for a much bigger demographic.Â </p>
 <p>We were hugely impressed with <a href="http://davemorin.com/blog/">Dave Morin&#8217;s</a> presentation of Connect at <a href="http://www.lewebparis.com/">Le Web</a>. I hope we can get him over to Ireland at some stage to tell us more. Any chance Ryan will get him over for <a href="http://events.carsonified.com/fowa/2009/dublin/speakers">FOWA Dublin</a>?</p>
@@ -55,7 +55,7 @@
 		<guid isPermaLink="false">http://www.web2ireland.org/?p=894</guid>
 		<description><![CDATA[We&#8217;ve just switched over to using Gravatar everywhere for author images (commenters were already supported). So if you write posts on Web2Ireland or leave comments, sign-up on Gravatar and then we can all see your ugly mug on everything you do here.]]></description>
 				<content:encoded><![CDATA[<p>We&#8217;ve just switched over to using <a href="http://en.gravatar.com/">Gravatar</a> everywhere for author images (commenters were already supported). So if you write posts on Web2Ireland or leave comments, sign-up on Gravatar and then we can all see your ugly mug on everything you do here.</p>
-<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/vmature.jpg"><img class="size-full wp-image-895 aligncenter" title="vmature" src="http://www.web2ireland.org/wp-content/uploads/2008/11/vmature.jpg" alt="" width="100" height="148" /></a></p>
+<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2008/11/vmature.jpg"><img class="size-full wp-image-895 aligncenter" title="vmature" src="//www.web2ireland.org/wp-content/uploads/2008/11/vmature.jpg" alt="" width="100" height="148" /></a></p>
 ]]></content:encoded>
 			<wfw:commentRss>/2008/11/gravatar-support/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>

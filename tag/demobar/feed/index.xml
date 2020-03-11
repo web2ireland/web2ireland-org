@@ -33,7 +33,7 @@
 		<guid isPermaLink="false">http://www.web2ireland.org/?p=1905</guid>
 		<description><![CDATA[Make sure to use the hashtag #demobar]]></description>
 				<content:encoded><![CDATA[<p>Make sure to use the hashtag <a href="http://twitter.com/#!/search/%23demobar">#demobar</a></p>
-<p><script src="http://widgets.twimg.com/j/2/widget.js"></script><br />
+<p><script src="//widgets.twimg.com/j/2/widget.js"></script><br />
 <script>
 new TWTR.Widget({
   version: 2,
@@ -98,7 +98,7 @@ new TWTR.Widget({
 <li><a href="http://www.plendihq.com/">Plendi</a></li>
 <li><a href="http://www.hauntedplanet.com/">Haunted Planet</a></li>
 </ul>
-<p style="text-align: center;"><img class="aligncenter" src="http://static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" alt="" width="344" height="52" /></p>
+<p style="text-align: center;"><img class="aligncenter" src="//static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" alt="" width="344" height="52" /></p>
 <p>See you all on Tuesday from 6:30 PM â€“ 9:30 PM at the Ely Gastro Pub, Dublin. Don&#8217;t forget thatÂ theÂ <a href="http://www.guardian.co.uk/technology">Guardian Tech Weekly team</a> will be there too.</p>
 <p>Thanks again toÂ <a href="http://www.enterprise-ireland.com/en/">Enterprise Ireland</a> who will be sponsoring the evening.</p>
 ]]></content:encoded>
@@ -121,7 +121,7 @@ new TWTR.Widget({
 		<description><![CDATA[We are hosting the second Web2Ireland Startup DemoBar, which brings together entrepreneurs, techies &#038; investors dedicated to showcasing, educating and helping the next generation of internet startups. Signup Here for event on Tuesday, November 23, 2010 from 6:30 PM &#8211; 9:30 PM (GMT) at the Ely Gastro Pub, Dublin. For the November event, we&#8217;re also [...]]]></description>
 				<content:encoded><![CDATA[<p>We are hosting the second <a href="http://web2irelandstartupdemo2.eventbrite.com/">Web2Ireland Startup DemoBar</a>, which brings together entrepreneurs, techies &#038; investors dedicated to showcasing, educating and helping the next generation of internet startups. <a href="http://web2irelandstartupdemo2.eventbrite.com/">Signup Here</a> for event on Tuesday, November 23, 2010 from 6:30 PM &#8211; 9:30 PM (GMT) at the Ely Gastro Pub, Dublin.</p>
 <p>For the November event, we&#8217;re also delighted to have the <a href="http://www.guardian.co.uk/technology">Guardian Tech Weekly team</a> in Dublin. </p>
-<p><img alt="" src="http://static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" class="alignnone" width="344" height="52" /></p>
+<p><img alt="" src="//static.guim.co.uk/static/95756/networkfront/images/guardian_logo.png" class="alignnone" width="344" height="52" /></p>
 <p>They have been to Edinburgh, Manchester, Newcastle and Bristol &#8211; and now they are bringing the <a href="http://www.guardian.co.uk/technology">Guardian&#8217;s Tech Weekly</a> podcast to glorious Dublin. </p>
 <p>They want to meet techies, gamers, developers and entrepreneurs of all shapes and sizes. They want to hear all your ideas and your thoughts about the local scene &#8211; the rising stars and ones to watch, as well as the problems holding the tech community back. </p>
 <p><a href="http://twitter.com/#!/jemimakiss">Jemima Kiss</a>, <a href="http://twitter.com/#!/charlesarthur">Charles Arthur</a> and <a href="http://twitter.com/#!/scott_cawley">Scott Cawley</a> from <a href="http://twitter.com/#!/@guardiantech">Guardian Tech Weekly podcast</a> will be attending.</p>
