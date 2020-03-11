@@ -93,7 +93,7 @@
 		<guid isPermaLink="false">http://www.web2ireland.org/?p=732</guid>
 		<description><![CDATA[Based on numerous requests for information on Web2Ireland companies [in a structured format] &#8211; we&#8217;re going to add support for Crunchbase on web2ireland.org To get this done we need 1. Companies to submit information to Crunchbase 2. make sure you enter in location details 3. tag as web2ireland 4. update all sections &#8211; including funding [...]]]></description>
 				<content:encoded><![CDATA[<p>Based on numerous requests for information on Web2Ireland companies [in a structured format] &#8211; we&#8217;re going to add support for <a href="http://www.crunchbase.com/">Crunchbase </a>on web2ireland.org</p>
-<p><img src="http://www.crunchbase.com/images/logo.png" alt="crunchbase" /></p>
+<p><img src="//www.crunchbase.com/images/logo.png" alt="crunchbase" /></p>
 <p>To get this done we need</p>
 <p>1. Companies to submit information to Crunchbase<br />
 2. make sure you enter in location details<br />
