@@ -28,7 +28,7 @@
 		<category><![CDATA[irishdev]]></category>
 		<category><![CDATA[testing]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=2184</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=2184</guid>
 		<description><![CDATA[The Irish Software Developer Network (ISDN &#8211; love it!) is running an event this Thursday all about automated web testing. In this talk, John Ferguson Smart will look at the advantages of using Selenium 2/WebDriver for your web tests, and see what Thucydides brings to the party. It kicks off at 6.30pm at the TCube, [...]]]></description>
 				<content:encoded><![CDATA[<p>The <a href="http://irishdev.com/">Irish Software Developer Network</a> (ISDN &#8211; love it!) is running an event this Thursday all about automated web testing.</p>
 <p>In this talk, John Ferguson Smart will look at the advantages of using <a href="http://seleniumhq.org/">Selenium 2</a>/WebDriver for your web tests, and see what <a href="http://www.wakaleo.com/resources/thucydides-automated-testing-library">Thucydides</a> brings to the party.</p>

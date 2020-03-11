@@ -32,12 +32,12 @@
 		<category><![CDATA[public sector]]></category>
 		<category><![CDATA[resful]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=2174</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=2174</guid>
 		<description><![CDATA[I was thrilled to get an email from Colm Ahern in Enterprise Registry Solutions telling me that the CRO now has an API which was just launched last week. This is the first time the CRO has done anything like this and I&#8217;m hugely impressed on many different levels. I&#8217;ve been banging on about the lack of [...]]]></description>
 				<content:encoded><![CDATA[<p>I was thrilled to get an email from Colm Ahern in Enterprise Registry Solutions telling me that the <a href="http://www.cro.ie/">CRO</a> now has an API which was just launched last week. This is the first time the CRO has done anything like this and I&#8217;m hugely impressed on many different levels.</p>
 <p>I&#8217;ve been banging on about the lack of Government Open Data for years and built a few small things but nothing needle-shifting. Whilst we&#8217;ve had lots of bandwagon jumpers in the past 12 months yakking about it, the CRO has gone and done the hard work. The team in there deserves both publicity and congratulations for their efforts.</p>
 <p>The API itself is a straightforward familiar RESTful one and currently provides all of the free data that the normal CRO site gives you. Pay-for data is not there yet. You need an API key to access the API and they provide some good examples in PHP, Python etc so that even the most inexperienced programmer can make use of it. Data is returned in XML or JSON.</p>
-<p style="text-align: center;"><a href="http://www.web2ireland.org/wp-content/uploads/2012/02/ryanair2.png"><img class="aligncenter size-full wp-image-2175" title="ryanair2" src="//www.web2ireland.org/wp-content/uploads/2012/02/ryanair2.png" alt="" width="578" height="240" /></a></p>
+<p style="text-align: center;"><a href="http://web2ireland.org/wp-content/uploads/2012/02/ryanair2.png"><img class="aligncenter size-full wp-image-2175" title="ryanair2" src="//web2ireland.org/wp-content/uploads/2012/02/ryanair2.png" alt="" width="578" height="240" /></a></p>
 <p>You do <a href="https://services.cro.ie/">have to register</a> and there is a postal component to that. Yeah yeah, I know, but I also totally understand where they are coming from on this. Remember, they have never done anything like this as an organisation. Technically there is nothing stopping them giving out keys to anyone who registers online but they have to provide confidence at every management level that the system will scale, won&#8217;t be abused or won&#8217;t have bots slurping down the entire DB 24&#215;7 etc.  I am sure that once they see how it is being used, the sign-up process will be relaxed.</p>
 <p>I&#8217;ve played a tiny bit with it this afternoon and it was a doddle to use. The sample PHP code has everything you need. I&#8217;m already thinking about the kinds of mashups that might be possible with the data, particularly around location and general data mining. Some ETL into Google Fusion Tables might be fun. Hmm, I wonder what type of useful Twitter feeds you could create?</p>
 <p>They are looking for feedback from developers on the API. Please <a href="https://services.cro.ie/">sign up</a>, kick the tyres, build some code and let them know what you think.</p>
@@ -59,7 +59,7 @@
 		<category><![CDATA[red cardinal]]></category>
 		<category><![CDATA[seo]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=1111</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=1111</guid>
 		<description><![CDATA[Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer. Quite simply: 5 websites will each receive a free Conversion Rate Optimisation campaign worth â‚¬3,000; Red Cardinal will cover the costs of design and development, and pay all fees for a professional MVT software suite; Each campaign will be used as [...]]]></description>
 				<content:encoded><![CDATA[<p>Ireland&#8217;s top SEO guy, Richard Hearne of Red Cardinal, recently announced an amazing offer.</p>
 <p style="text-align: center;"><a href="http://www.redcardinal.ie/"><img class="aligncenter" title="Red Cardinal SEO" src="//www.redcardinal.ie/images/SEO-Ireland-Logo.png" alt="" width="371" height="163" /></a></p>

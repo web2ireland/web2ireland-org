@@ -32,13 +32,13 @@
 		<category><![CDATA[Mobile2.0]]></category>
 		<category><![CDATA[vmware]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=2190</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=2190</guid>
 		<description><![CDATA[FeedHenry has just announced a new platform in partnership with VMware&#8217;s Cloud Foundry and it&#8217;s pretty awesome. If you aren&#8217;t familiar with FeedHenry, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a [...]]]></description>
 				<content:encoded><![CDATA[<p>FeedHenry has <a href="https://mobilecf.feedhenry.com/">just announced a new platform</a> in partnership with VMware&#8217;s <a href="http://cloudfoundry.com/">Cloud Foundry</a> and it&#8217;s pretty awesome.</p>
 <p>If you aren&#8217;t familiar with <a href="http://feedhenry.com/">FeedHenry</a>, they provide a powerful hybrid cross-platform mobile application solution. You can build mobile Apps simultaneously for 5 different platforms using HTML5, CSS and JavaScript. But just as importantly, it comes with a Server-Side API which allows you to move complex integrations and code onto their sever infrastructure which delivers just the data the App needs. You end up with faster more responsive Apps which can wire into anything on the web, no matter how complex or legacy.</p>
 <p>Up until now that Server bit was FeedHenry&#8217;s own. Originally based on Rhino, they now offer Node.js. So you can build all of the server side in JavaScript.</p>
 <p>The addition of Cloud Foundry is a huge win for the Waterford-based company. Now you build your Apps as usual but deploy the server part to the extremely impressive Cloud Foundry infrastructure. It makes use of Cloud Foundry&#8217;s Node.js support and you can deploy with the FHC command line or in the browser-based Studio GUI.</p>
-<p style="text-align: center;"><a href="https://mobilecf.feedhenry.com/"><img class="aligncenter  wp-image-2191" title="fh" src="//www.web2ireland.org/wp-content/uploads/2012/03/fh.png" alt="" width="619" height="357" /></a></p>
+<p style="text-align: center;"><a href="https://mobilecf.feedhenry.com/"><img class="aligncenter  wp-image-2191" title="fh" src="//web2ireland.org/wp-content/uploads/2012/03/fh.png" alt="" width="619" height="357" /></a></p>
 <p>I&#8217;ve been a big fan of FeedHenry for a long time and also a fan of Cloud Foundry since it launched. It&#8217;s like your two favourite people getting engaged. Now to find the time to build something using both!</p>
 ]]></content:encoded>
 			<wfw:commentRss>/2012/03/feedhenry-cloud-foundry-mobile-apps-with-vmware-cloud-power/feed/</wfw:commentRss>
@@ -60,7 +60,7 @@
 		<category><![CDATA[tssg]]></category>
 		<category><![CDATA[wit]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=2083</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=2083</guid>
 		<description><![CDATA[Kernel Capital has just announced that they have invested â‚¬500k in Waterford-based FeedHenry, a spin-out from the TSSG group in Waterford Institute of Technology. FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are: the fact that you don&#8217;t need N SDKs to build [...]]]></description>
 				<content:encoded><![CDATA[<p><a href="http://www.kernelcapital.ie/">Kernel Capital</a> has just announced that they have invested â‚¬500k in Waterford-based <a href="http://www.feedhenry.com/">FeedHenry</a>, a spin-out from the TSSG group in Waterford Institute of Technology.</p>
 <p>FeedHenry enables you to build cross-platform mobile applications using just HTML5, CSS3 and JavaScript. Two of their really cool features are:</p>
@@ -87,7 +87,7 @@
 		<category><![CDATA[startup 2.0]]></category>
 		<category><![CDATA[startup2.eu]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=2071</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=2071</guid>
 		<description><![CDATA[The Startup 2.0 Competition has been around for a few years now and has always bubbled up some interesting companies that are not on the usual tech blog circuit. This year is all about Mobile and they are looking for the best Mobile Startups and Apps across Europe. The process is very simple: Submit your [...]]]></description>
 				<content:encoded><![CDATA[<p>The <a href="http://www.startup2.eu/">Startup 2.0 Competition</a> has been around for a few years now and has always bubbled up some interesting companies that are not on the usual tech blog circuit. This year is all about Mobile and they are looking for the best Mobile Startups and Apps across Europe.</p>
 <p><a href="http://www.startup2.eu/"><img class="aligncenter" title="Startup 2.0" src="//www.startup2.eu/wp-content/themes/startup2/images_content/logo_startup.png" alt="" width="175" height="75" /></a></p>
@@ -113,7 +113,7 @@
 		<category><![CDATA[Mobile2.0]]></category>
 		<category><![CDATA[web2ireland]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=1534</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=1534</guid>
 		<description><![CDATA[As part of a project we&#8217;re evaluating with some mobile companies, we&#8217;d like to get some feedback/insight around Mobile Application Development in Ireland &#8211; appreciate if folks would take our very short survey Mary Meeker, from Morgan Stanley, presented recently at Web2Summit &#8211; in summary Mobile is exploding]]></description>
 				<content:encoded><![CDATA[<p>As part of a project we&#8217;re evaluating with some mobile companies, we&#8217;d like to get some feedback/insight around Mobile Application Development in Ireland &#8211; appreciate if folks would take <a href="http://surveys.polldaddy.com/s/E4257FD2A17C5808/">our very short survey</a></p>
 <p>Mary Meeker, from Morgan Stanley, presented recently at <a href="http://www.techcrunch.com/2009/10/20/mary-meeker-economy-is-recovering-mobile-is-exploding-and-the-iphone-is-awesome/">Web2Summit &#8211; in summary Mobile is exploding</a></p>
@@ -134,10 +134,10 @@
 		<category><![CDATA[NFC]]></category>
 		<category><![CDATA[zapa]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=1324</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=1324</guid>
 		<description><![CDATA[SiliconRepublic reports on the latest startup to come from the Payzone Alumni, Zapa Technology. Zapa has also raised â‚¬2.5m from Delta Partners, which follows on from Delta&#8217;s investment in the MBO of Payzone, Branded Payment Solutions. The founder of Zapa, John Nagle, has experience of rolling out mobile payment services in stores around Ireland and [...]]]></description>
 				<content:encoded><![CDATA[<p><a href="http://siliconrepublic.com/news/article/13349/comms/delta-invests-2-5m-in-near-field-communication-venture/">SiliconRepublic reports</a> on the latest startup to come from the <a href="http://www.payzone.co.uk/">Payzone</a> Alumni, <a href="http://www.zapatechnology.com/">Zapa Technology</a>.</p>
-<p>Zapa has also raised â‚¬2.5m from <a href="http://delta.ie/">Delta Partners</a>, which follows on from Delta&#8217;s investment in the <a href="http://www.web2ireland.org/2009/04/30/irish-vc-backs-early-stage-technology-company/">MBO of Payzone, Branded Payment Solutions.</a></p>
+<p>Zapa has also raised â‚¬2.5m from <a href="http://delta.ie/">Delta Partners</a>, which follows on from Delta&#8217;s investment in the <a href="http://web2ireland.org/2009/04/30/irish-vc-backs-early-stage-technology-company/">MBO of Payzone, Branded Payment Solutions.</a></p>
 <p>The founder of Zapa, <a href="http://www.irishtimes.com/newspaper/finance/2009/0710/1224250386216.html">John Nagle,</a> has experience of rolling out mobile payment services in stores around Ireland and the UK with Payzone, so it will be interesting to see if the NFC based approach will replace existing in-store payment options.</p>
 <p>The article describes this new service as</p>
 <p><em>Near Field Communication is a technology that will feature on every mobile handset in the world within a few years, and will transform these devices into virtual credit and debit cards. One enterprising start-up is ready to pounce on the opportunity.</p>
@@ -172,7 +172,7 @@
 		<category><![CDATA[Mobile2.0]]></category>
 		<category><![CDATA[web2ireland]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=840</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=840</guid>
 		<description><![CDATA[Anton has details on tomorrow nights event Digital MoMo &#8211; and Microsoft Startup support Its on Thursday 6th November from 6:30PM at The Four Seasons Hotel, Ballsbridge â€¢ Dublin Register here for event Also check out blog post from Don Dodge at Microsoft @ Startup support]]></description>
 				<content:encoded><![CDATA[<p>Anton has details on tomorrow nights event <a href="http://digitalmediaisland.com/2008/11/05/update-digital-momo-ms-launchy-thing-heres-what-the-evening-will-look-like/">Digital MoMo &#8211; and Microsoft Startup support</a></p>
 <p>Its on Thursday 6th November from 6:30PM at The Four Seasons Hotel, Ballsbridge â€¢ Dublin</p>
@@ -195,7 +195,7 @@
 		<category><![CDATA[web2]]></category>
 		<category><![CDATA[xml]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=592</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=592</guid>
 		<description><![CDATA[Very interesting post from Sean McGrath on his blog. If you don&#8217;t know who Sean is, go right to the back of the class and read this XTech Press Release. He has five web 2.0 ideas at the moment looking for a home. If you are a business or tech-oriented person looking for a Web [...]]]></description>
 				<content:encoded><![CDATA[<p>Very interesting <a href="http://seanmcgrath.blogspot.com/2008/04/fancy-web-20-startup.html">post from Sean McGrath</a> on his blog. If you don&#8217;t know who Sean is, go right to the back of the class and read this <a href="http://www.propylon.com/about/press-releases/pr_20080428">XTech Press Release</a>.</p>
 <p>He has five web 2.0 ideas at the moment looking for a home. If you are a business or tech-oriented person looking for a Web 2.0 idea to pursue, he&#8217;d like to talk. Or if you have your own Web 2.0  idea but need early stage funding, he&#8217;d also like to talk.</p>
@@ -215,7 +215,7 @@
 		<category><![CDATA[Mobile2.0]]></category>
 		<category><![CDATA[social]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=575</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=575</guid>
 		<description><![CDATA[I predicted that 2008 would be the year of mobile and it seems to be coming true in a big way. I&#8217;ve been hearing some very exciting things about not just one but two mobile apps in the social space being cooked up in Ireland! Both are still under tight wraps but I believe they [...]]]></description>
 				<content:encoded><![CDATA[<p>I predicted that 2008 would be the year of mobile and it seems to be coming true in a big way. I&#8217;ve been hearing some very exciting things about not just one but two mobile apps in the social space being cooked up in Ireland!</p>
 <p>Both are still under tight wraps but I believe they are getting lots of attention from the investment community. Could we finally be seeing some of that â‚¬170m being put to good use?</p>

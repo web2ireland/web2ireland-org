@@ -30,7 +30,7 @@
 		<category><![CDATA[Phones]]></category>
 		<category><![CDATA[Web2.0 News]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=244</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=244</guid>
 		<description><![CDATA[â€œUpdate 29/1/07 The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, will have a section dedicated to open source. Nothing has changed since I wrote my original post [...]]]></description>
 				<content:encoded><![CDATA[<p>â€œUpdate 29/1/07</p>
 <p>The title of my post shouldnâ€™t say â€˜open sourceâ€™. â€˜The Betavine Portalâ€™ is not an open source portal. All application owners will continue to own the Intellectual Property Rights (IPR) for their applications. The Portal however, <strong>will </strong>have a section dedicated to open source. Nothing has changed since I wrote my original post and its entire contents remain true.</p>
@@ -75,7 +75,7 @@ Vodafone is looking to stimulate the development of new applications in the mobi
 		<category><![CDATA[Phones]]></category>
 		<category><![CDATA[Web2.0 News]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=213</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=213</guid>
 		<description><![CDATA[TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly. In a WORLD EXCLUSIVE, I can reveal that TechCrunch UKIRL has been fired for using its right to speak. Sam Sethi was fired by Mike Arrington after he refused to remove the article about how Loic LeMeurâ€™s screwed up Le Web 3 with [...]]]></description>
 				<content:encoded><![CDATA[<p>TechCrunch UKIRL is FIRED by Mike Arrington! Yes you&#8217;ve read it properly.</p>
 <p><strong>In a WORLD EXCLUSIVE, I can reveal that <a href="http://uk.techcrunch.com/">TechCrunch UKIRL</a> has been fired for using its right to speak. </strong></p>
@@ -96,7 +96,7 @@ Vodafone is looking to stimulate the development of new applications in the mobi
 		<category><![CDATA[Mobile2.0]]></category>
 		<category><![CDATA[Phones]]></category>
 
-		<guid isPermaLink="false">http://www.web2ireland.org/?p=120</guid>
+		<guid isPermaLink="false">http://web2ireland.org/?p=120</guid>
 		<description><![CDATA[Paul Browne gives some excellent advice regarding the various options for mobile development and what considerations to make in terms of supporting Web 2.0 (AJAX) on mobile devices - &#8230; the Opera Browser supports Ajax on phones , but not all phones use Opera. The best way of approaching this is to build your application [...]]]></description>
 				<content:encoded><![CDATA[<p><a href="http://www.firstpartners.net/blog/technology/java/2006/07/27/what-is-java-me-and-do-i-need-it/">Paul Browne</a> gives some excellent advice regarding the various options for mobile development and what considerations to make in terms of supporting Web 2.0 (AJAX) on mobile devices -</p>
 <blockquote><p>&#8230; the Opera Browser supports Ajax on phones , but not all phones use Opera. The best way of approaching this is to build your application using one of the Ajax frameworks. The framework handles the differences between Ajax / non-Ajax enabled browsers and renders the web page accordingly. Non-Ajax users donâ€™t get as slick an application , but they do get an application that they can use. Iâ€™ve a  good summary of Ajax Frameworks here not forgetting the Google Web Toolkit. The other advantage is that as Google and others upgrade their frameworks , you get the benefit of the new features. This Article is a fairly good introduction to the area of Ajax on mobile phones.</p></blockquote>
