@@ -36,7 +36,7 @@
 				<content:encoded><![CDATA[<p>Martin Perez contacted us this week about a new site called <a href="http://www.jobsket.ie/">Jobsket.ie</a> in which he is involved. It&#8217;s an online service to host and value CVs/resumes.</p>
 <p style="text-align: center;"><img class="aligncenter" title="JobSket" src="https://www.jobsket.ie/images/logo.gif" alt="" width="281" height="74" /></p>
 <p>The first half of it is that you upload a CV and they render it with a Flash viewer so you can send the URL to anyone without requring any desktop tool. You can also embed a widget with a thumbnail of your CV on your blog or website.</p>
-<p>The twist is that they also value the CVs. Their application connects to several job sources and extracts information about salaries on the jobs market. They combine that information with the information available in people&#8217;s CVs so that they can give an estimate of the market-value of any given CV. This also enables them to extract trends on the jobs market such as &#8220;does a Java programmerÂ earn more than a Python programmer?&#8221;.</p>
+<p>The twist is that they also value the CVs. Their application connects to several job sources and extracts information about salaries on the jobs market. They combine that information with the information available in people&#8217;s CVs so that they can give an estimate of the market-value of any given CV. This also enables them to extract trends on the jobs market such as &#8220;does a Java programmer earn more than a Python programmer?&#8221;.</p>
 <p>They are in Beta invite-mode at the moment and you can add your email address over on the site if you&#8217;d like to try it out.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/2009/03/jobsket-launches/feed/</wfw:commentRss>
